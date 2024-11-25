@@ -1,4 +1,4 @@
-# Python basics - All good and standard
+# Python basics
 __pycache__/
 *.py[cod]
 *$py.class
@@ -20,40 +20,40 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environments - Good but needs organization
+# Virtual Environments
 venv/
 ENV/
 env/
 .env/
 .venv/
-CloudVectorDB/  # Correct for your specific virtual environment
+CloudVectorDB/
 
-# IDE - Good standard setup
+# IDE
 .idea/
 .vscode/
 *.swp
 *.swo
 
-# OS - Good standard setup
+# OS
 .DS_Store
 Thumbs.db
 
-# MongoDB - Good but could be more specific
+# MongoDB
 data/
 *.mongodb
 
-# Logs - Good but could add more patterns
+# Logs
 logs/
 *.log
 
-# Large files - Good but missing some common data files
+# Large files
 *.csv
 *.pkl
 *.h5
 *.model
 *.bin
 
-# Size-based exclusions (files > 2MB / 2097152 bytes)
+# Size-based exclusions (files > 2MB)
 *.[!.]*
 !*.py
 !*.md
@@ -69,5 +69,6 @@ logs/
 !*.cmd
 !*.ps1
 !*.svg
+!*.html
 !*.gitignore
 !LICENSE
