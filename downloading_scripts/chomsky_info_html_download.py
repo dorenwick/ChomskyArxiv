@@ -100,7 +100,7 @@ class ChomskyWebDownloader:
 
 def main():
     # Set up base directory
-    base_dir = r"C:\Users\doren\PycharmProjects\ChomskyArchive\web_data"
+    base_dir = r"/web_data"
 
     # Create directory if it doesn't exist
     os.makedirs(base_dir, exist_ok=True)

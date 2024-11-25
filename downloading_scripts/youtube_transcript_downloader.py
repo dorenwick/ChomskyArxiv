@@ -182,7 +182,7 @@ class YouTubeTranscriptDownloader:
 
 def main():
     # Set up paths
-    base_dir = r"C:\Users\doren\PycharmProjects\ChomskyArchive\web_data"
+    base_dir = r"/web_data"
     json_path = os.path.join(base_dir, "youtube_urls.json")
     output_dir = os.path.join(base_dir, "transcripts")
 

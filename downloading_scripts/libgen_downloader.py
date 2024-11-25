@@ -14,7 +14,7 @@ from typing import List, Dict, Set
 class LibGenChomskyDownloader:
     def __init__(self,
                  output_dir: str = r"C:\Users\doren\PycharmProjects\ChomskyArchive\papers",
-                 openalex_file: str = r"C:\Users\doren\PycharmProjects\ChomskyArchive\openalex\chomsky_works_simplified_20241124_230519.json"):
+                 openalex_file: str = r"C:\Users\doren\PycharmProjects\ChomskyArchive\openalex\chomsky_works_metadata.json"):
         """Initialize the LibGen downloader with n-gram matching capabilities."""
         self.output_dir = output_dir
         self.openalex_file = openalex_file
@@ -125,16 +125,27 @@ class LibGenChomskyDownloader:
         return search_terms
 
     def search_work(self, work: Dict) -> List[Dict]:
-        """Search for a specific work using multiple search strategies."""
+        """Search for a specific work using DOI first, then fall back to title search."""
         try:
             title = work['display_name']
-            year = work.get('publication_year', '')
+            doi = work.get('download_url', '').replace('https://doi.org/', '')
 
             self.logger.info(f"\nProcessing: {title}")
-
-            # Get search terms
-            search_terms = self.get_search_terms(title)
             all_results = []
+
+            # Try DOI search first if available
+            if doi.startswith('10.'):
+                self.logger.info(f"Trying DOI search: {doi}")
+                doi_results = self.libgen.search_title(doi)
+                if doi_results:
+                    filtered_doi_results = [r for r in doi_results if self.is_chomsky_author(r.get('Author', ''))]
+                    if filtered_doi_results:
+                        self.logger.info(f"Found {len(filtered_doi_results)} DOI matches")
+                        return filtered_doi_results
+
+            # Fall back to existing title search if DOI search fails
+            search_terms = self.get_search_terms(title)
+
 
             # Try exact title match first
             self.logger.info(f"Trying exact match: {title}")
@@ -146,7 +157,7 @@ class LibGenChomskyDownloader:
             # Search using all generated terms
             self.logger.info(f"Searching with terms: {search_terms}")
             for term in search_terms:
-                if len(term) >= 4:  # LibGen requires minimum 3 characters
+                if len(term) >= 5:  # LibGen requires minimum 3 characters
                     try:
                         results = self.libgen.search_title(term)
                         all_results.extend(results)

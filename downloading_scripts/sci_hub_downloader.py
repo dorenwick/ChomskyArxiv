@@ -8,18 +8,25 @@ from urllib.parse import urlparse
 import re
 from datetime import datetime
 
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 
 class SciHubDownloader:
     def __init__(self,
-                 input_file: str = r"C:\Users\doren\PycharmProjects\ChomskyArchive\openalex\chomsky_works_simplified_20241124_230519.json",
+                 input_file: str = r"C:\Users\doren\PycharmProjects\ChomskyArchive\openalex\chomsky_works_metadata.json",
                  output_dir: str = r"C:\Users\doren\PycharmProjects\ChomskyArchive\papers"):
         """Initialize the downloader with input and output paths."""
         self.input_file = input_file
         self.output_dir = output_dir
         self.sh = SciHub()
+        self.sh.verify = False  # Disable SSL verification
+        self.sh.timeout = 30
+        self.sh.retry_count = 5
 
         # Setup logging
         self.setup_logger()
+
 
         # Create output directory structure
         self.setup_directories()
@@ -71,30 +78,18 @@ class SciHubDownloader:
         return safe_title
 
     def download_paper(self, doi: str, filepath: str) -> dict:
-        """Download a single paper using SciHub."""
-        try:
-            # Make sure the directory exists
-            os.makedirs(os.path.dirname(filepath), exist_ok=True)
-
-            # First fetch the paper
-            result = self.sh.fetch(doi)
-
-            if 'err' in result:
-                raise Exception(result['err'])
-
-            # If fetch was successful, save the PDF
-            if 'pdf' in result:
-                with open(filepath, 'wb') as f:
-                    f.write(result['pdf'])
-                return {'success': True}
-            else:
-                raise Exception("No PDF data in response")
-
-        except Exception as e:
-            return {
-                'success': False,
-                'error': str(e)
-            }
+        for attempt in range(3):  # Try 3 times
+            try:
+                result = self.sh.fetch(doi)
+                if 'pdf' in result:
+                    with open(filepath, 'wb') as f:
+                        f.write(result['pdf'])
+                    return {'success': True}
+                time.sleep(5 * (attempt + 1))  # Increasing delay between attempts
+            except Exception as e:
+                if attempt == 2:  # Last attempt
+                    return {'success': False, 'error': str(e)}
+                time.sleep(5 * (attempt + 1))
 
     def download_papers(self):
         """Download papers using SciHub."""

@@ -254,8 +254,8 @@ class LibGenDownloadManager:
 
 def main():
     # Example usage
-    matches_file = r"C:\Users\doren\PycharmProjects\ChomskyArchive\papers\libgen_matches_20241125_093438.json"
-    download_dir = r"C:\Users\doren\PycharmProjects\ChomskyArchive\downloads"
+    matches_file = r"/papers/libgen_matches_20241125_093438.json"
+    download_dir = r"/downloads"
 
     downloader = LibGenDownloadManager(
         matches_file=matches_file,
