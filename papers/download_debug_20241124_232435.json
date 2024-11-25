@@ -1,0 +1,107 @@
+[
+  {
+    "original_mirrors": {
+      "Mirror_1": "http://library.lol/main/99B5B9D0DAB2CEE5E8079F2A67B38FFA",
+      "Mirror_2": "http://libgen.li/ads.php?md5=99B5B9D0DAB2CEE5E8079F2A67B38FFA",
+      "Mirror_3": "https://library.bz/main/edit/99B5B9D0DAB2CEE5E8079F2A67B38FFA",
+      "Mirror_4": "",
+      "Mirror_5": ""
+    },
+    "resolved_links": {
+      "GET": "https://download.library.lol/main/2000/99b5b9d0dab2cee5e8079f2a67b38ffa/Noam%20Chomsky%20-%20Language%20and%20mind-Cambridge%20University%20Press%20%282006%29.pdf",
+      "Cloudflare": "https://cloudflare-ipfs.com/ipfs/bafykbzacebz5uolulsvx76sssci2nnbhpoxi2kijmnlwlfujpf7j2dhpbrqou?filename=Noam%20Chomsky%20-%20Language%20and%20mind-Cambridge%20University%20Press%20%282006%29.pdf",
+      "IPFS.io": "https://gateway.ipfs.io/ipfs/bafykbzacebz5uolulsvx76sssci2nnbhpoxi2kijmnlwlfujpf7j2dhpbrqou?filename=Noam%20Chomsky%20-%20Language%20and%20mind-Cambridge%20University%20Press%20%282006%29.pdf"
+    },
+    "intended_filepath": "C:\\Users\\doren\\PycharmProjects\\ChomskyArchive\\papers\\2006\\Language and mind_2006.pdf",
+    "file_info": {
+      "title": "Language and mind",
+      "year": "2006",
+      "extension": "pdf",
+      "size": "710 Kb"
+    }
+  },
+  {
+    "original_mirrors": {
+      "Mirror_1": "http://library.lol/main/126384603742D4D7131C67A0895C9ED3",
+      "Mirror_2": "http://libgen.li/ads.php?md5=126384603742D4D7131C67A0895C9ED3",
+      "Mirror_3": "https://library.bz/main/edit/126384603742D4D7131C67A0895C9ED3",
+      "Mirror_4": "",
+      "Mirror_5": ""
+    },
+    "resolved_links": {
+      "GET": "https://download.library.lol/main/2000/126384603742d4d7131c67a0895c9ed3/Noam%20Chomsky%2C%20Adriana%20Belletti%2C%20Luigi%20Rizzi%20-%20On%20nature%20and%20language-Cambridge%20University%20Press%20%282002%29.pdf",
+      "Cloudflare": "https://cloudflare-ipfs.com/ipfs/bafykbzacecwkhloxkbkf2asswds4jarquqbcaprung2al3ybsxxa64cyitopy?filename=Noam%20Chomsky%2C%20Adriana%20Belletti%2C%20Luigi%20Rizzi%20-%20On%20nature%20and%20language-Cambridge%20University%20Press%20%282002%29.pdf",
+      "IPFS.io": "https://gateway.ipfs.io/ipfs/bafykbzacecwkhloxkbkf2asswds4jarquqbcaprung2al3ybsxxa64cyitopy?filename=Noam%20Chomsky%2C%20Adriana%20Belletti%2C%20Luigi%20Rizzi%20-%20On%20nature%20and%20language-Cambridge%20University%20Press%20%282002%29.pdf"
+    },
+    "intended_filepath": "C:\\Users\\doren\\PycharmProjects\\ChomskyArchive\\papers\\2002\\On nature and language_2002.pdf",
+    "file_info": {
+      "title": "On nature and language",
+      "year": "2002",
+      "extension": "pdf",
+      "size": "2 Mb"
+    }
+  },
+  {
+    "original_mirrors": {
+      "Mirror_1": "http://library.lol/main/C429AA348543836F203D450EDFE2BE1B",
+      "Mirror_2": "http://libgen.li/ads.php?md5=C429AA348543836F203D450EDFE2BE1B",
+      "Mirror_3": "https://library.bz/main/edit/C429AA348543836F203D450EDFE2BE1B",
+      "Mirror_4": "",
+      "Mirror_5": ""
+    },
+    "resolved_links": {
+      "GET": "https://download.library.lol/main/79000/c429aa348543836f203d450edfe2be1b/Noam%20Chomsky%20-%20Syntactic%20Structures-Mouton%20de%20Gruyter%20%282002%29.djvu",
+      "Cloudflare": "https://cloudflare-ipfs.com/ipfs/bafykbzaced3rgwpqhro3dsekuooujcabw2hbsnsivd27t2662kn56qb6glawu?filename=Noam%20Chomsky%20-%20Syntactic%20Structures-Mouton%20de%20Gruyter%20%282002%29.djvu",
+      "IPFS.io": "https://gateway.ipfs.io/ipfs/bafykbzaced3rgwpqhro3dsekuooujcabw2hbsnsivd27t2662kn56qb6glawu?filename=Noam%20Chomsky%20-%20Syntactic%20Structures-Mouton%20de%20Gruyter%20%282002%29.djvu"
+    },
+    "intended_filepath": "C:\\Users\\doren\\PycharmProjects\\ChomskyArchive\\papers\\2002\\Syntactic Structures_2002.djvu",
+    "file_info": {
+      "title": "Syntactic Structures",
+      "year": "2002",
+      "extension": "djvu",
+      "size": "4 Mb"
+    }
+  },
+  {
+    "original_mirrors": {
+      "Mirror_1": "http://library.lol/main/52EC17D7D14B10F10AAA58CE1A395F2D",
+      "Mirror_2": "http://libgen.li/ads.php?md5=52EC17D7D14B10F10AAA58CE1A395F2D",
+      "Mirror_3": "https://library.bz/main/edit/52EC17D7D14B10F10AAA58CE1A395F2D",
+      "Mirror_4": "",
+      "Mirror_5": ""
+    },
+    "resolved_links": {
+      "GET": "https://download.library.lol/main/80000/52ec17d7d14b10f10aaa58ce1a395f2d/%28anarchist%20pamphlets%29%20Daniel%20Gu%C3%A9rin%2C%20Mary%20Klopper%2C%20Noam%20Chomsky%20-%20Anarchism_%20From%20Theory%20to%20Practice%20-Monthly%20Review%20Press%20%281970%29.pdf",
+      "Cloudflare": "https://cloudflare-ipfs.com/ipfs/bafykbzacecpcxitd4kgv3shdv74ebyfitaibtoe2gytb4ejscemecdqkmgk6a?filename=%28anarchist%20pamphlets%29%20Daniel%20Gu%C3%A9rin%2C%20Mary%20Klopper%2C%20Noam%20Chomsky%20-%20Anarchism_%20From%20Theory%20to%20Practice%20-Monthly%20Review%20Press%20%281970%29.pdf",
+      "IPFS.io": "https://gateway.ipfs.io/ipfs/bafykbzacecpcxitd4kgv3shdv74ebyfitaibtoe2gytb4ejscemecdqkmgk6a?filename=%28anarchist%20pamphlets%29%20Daniel%20Gu%C3%A9rin%2C%20Mary%20Klopper%2C%20Noam%20Chomsky%20-%20Anarchism_%20From%20Theory%20to%20Practice%20-Monthly%20Review%20Press%20%281970%29.pdf"
+    },
+    "intended_filepath": "C:\\Users\\doren\\PycharmProjects\\ChomskyArchive\\papers\\1970\\Anarchism_ From Theory to Practice_1970.pdf",
+    "file_info": {
+      "title": "Anarchism: From Theory to Practice",
+      "year": "1970",
+      "extension": "pdf",
+      "size": "387 Kb"
+    }
+  },
+  {
+    "original_mirrors": {
+      "Mirror_1": "http://library.lol/main/5B3DA1AA72907C8A1F9736255582F792",
+      "Mirror_2": "http://libgen.li/ads.php?md5=5B3DA1AA72907C8A1F9736255582F792",
+      "Mirror_3": "https://library.bz/main/edit/5B3DA1AA72907C8A1F9736255582F792",
+      "Mirror_4": "",
+      "Mirror_5": ""
+    },
+    "resolved_links": {
+      "GET": "https://download.library.lol/main/882000/5b3da1aa72907c8a1f9736255582f792/Noam%20Chomsky%2C%20Jean%20Piaget%20-%20Teorii%20ale%20limbajului.%20Teorii%20ale%20invatarii-Editura%20Politic%C4%83%20%281988%29.pdf",
+      "Cloudflare": "https://cloudflare-ipfs.com/ipfs/bafykbzacea53suhbkrr5xykpwyzcz7tnr2klz4ixefu3uydbrb4izzehpx66o?filename=Noam%20Chomsky%2C%20Jean%20Piaget%20-%20Teorii%20ale%20limbajului.%20Teorii%20ale%20invatarii-Editura%20Politic%C4%83%20%281988%29.pdf",
+      "IPFS.io": "https://gateway.ipfs.io/ipfs/bafykbzacea53suhbkrr5xykpwyzcz7tnr2klz4ixefu3uydbrb4izzehpx66o?filename=Noam%20Chomsky%2C%20Jean%20Piaget%20-%20Teorii%20ale%20limbajului.%20Teorii%20ale%20invatarii-Editura%20Politic%C4%83%20%281988%29.pdf"
+    },
+    "intended_filepath": "C:\\Users\\doren\\PycharmProjects\\ChomskyArchive\\papers\\1988\\Teorii ale limbajului. Teorii ale invatarii_1988.pdf",
+    "file_info": {
+      "title": "Teorii ale limbajului. Teorii ale invatarii",
+      "year": "1988",
+      "extension": "pdf",
+      "size": "28 Mb"
+    }
+  }
+]

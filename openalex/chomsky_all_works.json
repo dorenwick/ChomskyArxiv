@@ -1,0 +1,2268 @@
+{
+  "_id": {
+    "$oid": "66e86f662aecfabacfad2ce9"
+  },
+  "id": "https://openalex.org/A5072532913",
+  "orcid": "https://orcid.org/0000-0002-3632-2461",
+  "display_name": "Noam Chomsky",
+  "display_name_alternatives": [
+    "N. Chomsky",
+    "Noam Abraham Chomsky",
+    "Noam Chomsky"
+  ],
+  "works_count": 1260,
+  "cited_by_count": 134276,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.5,
+    "h_index": 108,
+    "i10_index": 386,
+    "works_count": 1260,
+    "cited_by_count": 134276,
+    "2yr_works_count": 17,
+    "2yr_cited_by_count": 7829,
+    "2yr_i10_index": 0,
+    "2yr_h_index": 3
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I63966007",
+        "ror": "https://ror.org/042nb2s44",
+        "display_name": "Massachusetts Institute of Technology",
+        "country_code": "US",
+        "country_id": "https://openalex.org/countries/US",
+        "type": "education",
+        "type_id": "https://openalex.org/institution-types/education",
+        "lineage": [
+          "https://openalex.org/I63966007"
+        ]
+      },
+      "years": [
+        2023,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I138006243",
+        "ror": "https://ror.org/03m2x1q45",
+        "display_name": "University of Arizona",
+        "country_code": "US",
+        "country_id": "https://openalex.org/countries/US",
+        "type": "education",
+        "type_id": "https://openalex.org/institution-types/education",
+        "lineage": [
+          "https://openalex.org/I138006243"
+        ]
+      },
+      "years": [
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I178851606",
+        "ror": "https://ror.org/02hf7bd34",
+        "display_name": "American Evaluation Association",
+        "country_code": "US",
+        "country_id": "https://openalex.org/countries/US",
+        "type": "nonprofit",
+        "type_id": "https://openalex.org/institution-types/nonprofit",
+        "lineage": [
+          "https://openalex.org/I178851606"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I17900154",
+        "ror": "https://ror.org/015t7hs32",
+        "display_name": "Association of American Colleges and Universities",
+        "country_code": "US",
+        "country_id": "https://openalex.org/countries/US",
+        "type": "other",
+        "type_id": "https://openalex.org/institution-types/other",
+        "lineage": [
+          "https://openalex.org/I17900154"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210137216",
+        "ror": "https://ror.org/042sg7s37",
+        "display_name": "Association of Colleges",
+        "country_code": "GB",
+        "country_id": "https://openalex.org/countries/GB",
+        "type": "nonprofit",
+        "type_id": "https://openalex.org/institution-types/nonprofit",
+        "lineage": [
+          "https://openalex.org/I4210137216"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I127339247",
+        "ror": "https://ror.org/020qm1538",
+        "display_name": "California State University System",
+        "country_code": "US",
+        "country_id": "https://openalex.org/countries/US",
+        "type": "education",
+        "type_id": "https://openalex.org/institution-types/education",
+        "lineage": [
+          "https://openalex.org/I127339247"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210110987",
+        "ror": "https://ror.org/01wp8zh54",
+        "display_name": "IIT@MIT",
+        "country_code": "US",
+        "country_id": "https://openalex.org/countries/US",
+        "type": "facility",
+        "type_id": "https://openalex.org/institution-types/facility",
+        "lineage": [
+          "https://openalex.org/I30771326",
+          "https://openalex.org/I4210110987"
+        ]
+      },
+      "years": [
+        2021,
+        2017,
+        2015,
+        2014,
+        2013,
+        2007,
+        2005,
+        1975
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210096386",
+        "ror": "https://ror.org/00cbm0437",
+        "display_name": "Bridge University",
+        "country_code": "SS",
+        "country_id": "https://openalex.org/countries/SS",
+        "type": "education",
+        "type_id": "https://openalex.org/institution-types/education",
+        "lineage": [
+          "https://openalex.org/I4210096386"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I241749",
+        "ror": "https://ror.org/013meh722",
+        "display_name": "University of Cambridge",
+        "country_code": "GB",
+        "country_id": "https://openalex.org/countries/GB",
+        "type": "education",
+        "type_id": "https://openalex.org/institution-types/education",
+        "lineage": [
+          "https://openalex.org/I241749"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I32971472",
+        "ror": "https://ror.org/03v76x132",
+        "display_name": "Yale University",
+        "country_code": "US",
+        "country_id": "https://openalex.org/countries/US",
+        "type": "education",
+        "type_id": "https://openalex.org/institution-types/education",
+        "lineage": [
+          "https://openalex.org/I32971472"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    }
+  ],
+  "ids": {
+    "openalex": "https://openalex.org/A5072532913",
+    "orcid": "https://orcid.org/0000-0002-3632-2461"
+  },
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I138006243",
+      "ror": "https://ror.org/03m2x1q45",
+      "display_name": "University of Arizona",
+      "country_code": "US",
+      "country_id": "https://openalex.org/countries/US",
+      "type": "education",
+      "type_id": "https://openalex.org/institution-types/education",
+      "lineage": [
+        "https://openalex.org/I138006243"
+      ]
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "works_count": 19,
+      "oa_works_count": 0,
+      "cited_by_count": 2175
+    },
+    {
+      "year": 2023,
+      "works_count": 11,
+      "oa_works_count": 4,
+      "cited_by_count": 3693
+    },
+    {
+      "year": 2022,
+      "works_count": 6,
+      "oa_works_count": 1,
+      "cited_by_count": 4233
+    },
+    {
+      "year": 2021,
+      "works_count": 8,
+      "oa_works_count": 3,
+      "cited_by_count": 5037
+    },
+    {
+      "year": 2020,
+      "works_count": 40,
+      "oa_works_count": 7,
+      "cited_by_count": 6155
+    },
+    {
+      "year": 2019,
+      "works_count": 29,
+      "oa_works_count": 5,
+      "cited_by_count": 6775
+    },
+    {
+      "year": 2018,
+      "works_count": 27,
+      "oa_works_count": 5,
+      "cited_by_count": 4544
+    },
+    {
+      "year": 2017,
+      "works_count": 49,
+      "oa_works_count": 4,
+      "cited_by_count": 5137
+    },
+    {
+      "year": 2016,
+      "works_count": 29,
+      "oa_works_count": 2,
+      "cited_by_count": 4779
+    },
+    {
+      "year": 2015,
+      "works_count": 48,
+      "oa_works_count": 4,
+      "cited_by_count": 6004
+    },
+    {
+      "year": 2014,
+      "works_count": 42,
+      "oa_works_count": 11,
+      "cited_by_count": 6293
+    },
+    {
+      "year": 2013,
+      "works_count": 28,
+      "oa_works_count": 4,
+      "cited_by_count": 6101
+    },
+    {
+      "year": 2012,
+      "works_count": 54,
+      "oa_works_count": 0,
+      "cited_by_count": 5240
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 61.2
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 44.4
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 39.7
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 32.5
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 28.2
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 25.4
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 22.6
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 22.2
+    },
+    {
+      "id": "https://openalex.org/C95457728",
+      "wikidata": "https://www.wikidata.org/wiki/Q309",
+      "display_name": "History",
+      "level": 0,
+      "score": 21.8
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T13156",
+      "display_name": "History and Development of Linguistics and Language Teaching",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 103
+    },
+    {
+      "id": "https://openalex.org/T12752",
+      "display_name": "The Responsibility to Protect in International Relations",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 84
+    },
+    {
+      "id": "https://openalex.org/T10034",
+      "display_name": "Theoretical Foundations of Linguistic Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 74
+    },
+    {
+      "id": "https://openalex.org/T12090",
+      "display_name": "Cultural Evolution and Language Development",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3316",
+        "display_name": "Cultural Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 56
+    },
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Metaphorical Representation of Time in Language and Cognition",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 37
+    },
+    {
+      "id": "https://openalex.org/T11203",
+      "display_name": "Israeli-Palestinian Conflict and Ethnic Identity in Israel",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 34
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Statistical Machine Translation and Natural Language Processing",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      },
+      "count": 34
+    },
+    {
+      "id": "https://openalex.org/T12119",
+      "display_name": "Discourse Analysis and Argumentation Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 29
+    },
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism and Radicalization Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 28
+    },
+    {
+      "id": "https://openalex.org/T10265",
+      "display_name": "Translanguaging Pedagogy in Multilingual Education",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 26
+    },
+    {
+      "id": "https://openalex.org/T13624",
+      "display_name": "Social Work in Spanish-Speaking Countries",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3300",
+        "display_name": "General Social Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 26
+    },
+    {
+      "id": "https://openalex.org/T12341",
+      "display_name": "Hispanic Linguistics and Language Variation Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 25
+    },
+    {
+      "id": "https://openalex.org/T12373",
+      "display_name": "Language Discourse and Communication Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 25
+    },
+    {
+      "id": "https://openalex.org/T12969",
+      "display_name": "Development, Justice, and Social Equity",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 21
+    },
+    {
+      "id": "https://openalex.org/T13352",
+      "display_name": "Regional Integration in Latin America",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 20
+    },
+    {
+      "id": "https://openalex.org/T12881",
+      "display_name": "Theoretical and Applied Studies in Terminology and Specialized Language",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 18
+    },
+    {
+      "id": "https://openalex.org/T13623",
+      "display_name": "Compilation and Analysis of Spoken Language Corpora",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      },
+      "count": 18
+    },
+    {
+      "id": "https://openalex.org/T10730",
+      "display_name": "Language Development and Acquisition in Children",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 17
+    },
+    {
+      "id": "https://openalex.org/T12550",
+      "display_name": "Conflict Reconstruction and State-Building in Central Asia",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 17
+    },
+    {
+      "id": "https://openalex.org/T13802",
+      "display_name": "Social and Cultural Development in Vietnam",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 17
+    },
+    {
+      "id": "https://openalex.org/T13173",
+      "display_name": "Gender Representation in Educational Materials",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3318",
+        "display_name": "Gender Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 16
+    },
+    {
+      "id": "https://openalex.org/T13634",
+      "display_name": "Media Influence on Middle Eastern Politics",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 16
+    },
+    {
+      "id": "https://openalex.org/T14429",
+      "display_name": "Italian Foreign Policy and Global Relations",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 15
+    },
+    {
+      "id": "https://openalex.org/T12936",
+      "display_name": "Armed Conflict in Colombia",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 15
+    },
+    {
+      "id": "https://openalex.org/T13814",
+      "display_name": "Multidisciplinary Approach to Discourse Analysis",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "count": 15
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12090",
+      "display_name": "Cultural Evolution and Language Development",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3316",
+        "display_name": "Cultural Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0012298
+    },
+    {
+      "id": "https://openalex.org/T14077",
+      "display_name": "Global Challenges and Inequalities in the Modern World",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0011587
+    },
+    {
+      "id": "https://openalex.org/T14032",
+      "display_name": "Impact of World War I in Latin America",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0005743
+    },
+    {
+      "id": "https://openalex.org/T10034",
+      "display_name": "Theoretical Foundations of Linguistic Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0005291
+    },
+    {
+      "id": "https://openalex.org/T14429",
+      "display_name": "Italian Foreign Policy and Global Relations",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0004191
+    },
+    {
+      "id": "https://openalex.org/T13156",
+      "display_name": "History and Development of Linguistics and Language Teaching",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0004019
+    },
+    {
+      "id": "https://openalex.org/T14016",
+      "display_name": "Challenges and Approaches in Urban Environments",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0003407
+    },
+    {
+      "id": "https://openalex.org/T14289",
+      "display_name": "The Intersection of Anthropology and Military Operations",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.000332
+    },
+    {
+      "id": "https://openalex.org/T12936",
+      "display_name": "Armed Conflict in Colombia",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0002762
+    },
+    {
+      "id": "https://openalex.org/T13687",
+      "display_name": "Social Inequities and Global Capitalism",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.00026
+    },
+    {
+      "id": "https://openalex.org/T12752",
+      "display_name": "The Responsibility to Protect in International Relations",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0002422
+    },
+    {
+      "id": "https://openalex.org/T12969",
+      "display_name": "Development, Justice, and Social Equity",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.000228
+    },
+    {
+      "id": "https://openalex.org/T13428",
+      "display_name": "Anarchist Movements and Ideologies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0002231
+    },
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism and Radicalization Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0002062
+    },
+    {
+      "id": "https://openalex.org/T13814",
+      "display_name": "Multidisciplinary Approach to Discourse Analysis",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3310",
+        "display_name": "Linguistics and Language"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0002028
+    },
+    {
+      "id": "https://openalex.org/T13291",
+      "display_name": "The Future of Democracy and Democratic Theory",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0002021
+    },
+    {
+      "id": "https://openalex.org/T13173",
+      "display_name": "Gender Representation in Educational Materials",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3318",
+        "display_name": "Gender Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0001987
+    },
+    {
+      "id": "https://openalex.org/T11883",
+      "display_name": "Predictive Brain Theory and Embodied Cognition",
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      },
+      "value": 0.0001928
+    },
+    {
+      "id": "https://openalex.org/T12694",
+      "display_name": "Language Influence on Cognition and Perception",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.000192
+    },
+    {
+      "id": "https://openalex.org/T12498",
+      "display_name": "Coloniality of Power and Knowledge in Latin America",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0001901
+    },
+    {
+      "id": "https://openalex.org/T12558",
+      "display_name": "Philosophy of Ludwig Wittgenstein and his Influence",
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0001681
+    },
+    {
+      "id": "https://openalex.org/T13352",
+      "display_name": "Regional Integration in Latin America",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0001628
+    },
+    {
+      "id": "https://openalex.org/T10730",
+      "display_name": "Language Development and Acquisition in Children",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.000162
+    },
+    {
+      "id": "https://openalex.org/T13317",
+      "display_name": "Media Ecology and Communication Studies",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0001611
+    },
+    {
+      "id": "https://openalex.org/T13995",
+      "display_name": "Global Governance and Legitimacy in International Relations",
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      },
+      "value": 0.0001607
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5072532913",
+  "updated_date": "2024-08-19T19:05:42.567078",
+  "created_date": "2023-07-21",
+  "updated": "2024-08-19T19:05:42.567078",
+  "works_published": {
+    "47983": "https://openalex.org/W3111132205",
+    "57835": "https://openalex.org/W4400796869",
+    "763225": "https://openalex.org/W2579103533",
+    "780449": "https://openalex.org/W4251572863",
+    "786818": "https://openalex.org/W3124497300",
+    "812365": "https://openalex.org/W4236243339",
+    "1080213": "https://openalex.org/W4253310282",
+    "1939825": "https://openalex.org/W4399130423",
+    "1942550": "https://openalex.org/W4399139271",
+    "1971495": "https://openalex.org/W4292230172",
+    "2127676": "https://openalex.org/W1939480856",
+    "2188728": "https://openalex.org/W4386720538",
+    "2311621": "https://openalex.org/W3204425443",
+    "3128838": "https://openalex.org/W4233212145",
+    "3969488": "https://openalex.org/W2008253273",
+    "4076217": "https://openalex.org/W2069420890",
+    "4107450": "https://openalex.org/W1972887786",
+    "4545798": "https://openalex.org/W2021632333",
+    "4678143": "https://openalex.org/W3083589771",
+    "4918333": "https://openalex.org/W624072874",
+    "4982847": "https://openalex.org/W35432380",
+    "5163096": "https://openalex.org/W1413978061",
+    "5671202": "https://openalex.org/W4230186133",
+    "7321322": "https://openalex.org/W70254687",
+    "7575195": "https://openalex.org/W4243181156",
+    "7872870": "https://openalex.org/W1564265452",
+    "9591287": "https://openalex.org/W2026009719",
+    "9922684": "https://openalex.org/W2050594096",
+    "10217135": "https://openalex.org/W2020604730",
+    "10487387": "https://openalex.org/W4253519476",
+    "10503328": "https://openalex.org/W629915311",
+    "10966963": "https://openalex.org/W1996164494",
+    "15481230": "https://openalex.org/W2754216717",
+    "17171591": "https://openalex.org/W4240663343",
+    "19016051": "https://openalex.org/W2170716495",
+    "19016343": "https://openalex.org/W1993467165",
+    "19016502": "https://openalex.org/W2607317773",
+    "19017138": "https://openalex.org/W2978143537",
+    "19019836": "https://openalex.org/W588200010",
+    "19020752": "https://openalex.org/W370001395",
+    "19027188": "https://openalex.org/W168776331",
+    "19080744": "https://openalex.org/W1548355340",
+    "19080745": "https://openalex.org/W1550174389",
+    "19088329": "https://openalex.org/W1517497415",
+    "19152631": "https://openalex.org/W562515329",
+    "19154528": "https://openalex.org/W4205873013",
+    "19154536": "https://openalex.org/W4237428069",
+    "19160883": "https://openalex.org/W1974450168",
+    "19166842": "https://openalex.org/W2798774889",
+    "19188779": "https://openalex.org/W1484568787",
+    "19223887": "https://openalex.org/W127955823",
+    "19284081": "https://openalex.org/W1539161629",
+    "19298907": "https://openalex.org/W1494578716",
+    "19309564": "https://openalex.org/W1493024141",
+    "19331486": "https://openalex.org/W293246045",
+    "19332097": "https://openalex.org/W1560108075",
+    "19356697": "https://openalex.org/W4250697395",
+    "19400307": "https://openalex.org/W652121491",
+    "19407653": "https://openalex.org/W300599314",
+    "19470534": "https://openalex.org/W1496735320",
+    "19470967": "https://openalex.org/W1681903231",
+    "19480895": "https://openalex.org/W1530225844",
+    "19523553": "https://openalex.org/W50768967",
+    "19524147": "https://openalex.org/W1553909005",
+    "19534070": "https://openalex.org/W264639710",
+    "19534227": "https://openalex.org/W2798411782",
+    "19571307": "https://openalex.org/W3127559858",
+    "19572531": "https://openalex.org/W1589138227",
+    "19585049": "https://openalex.org/W654461013",
+    "19691182": "https://openalex.org/W1581956803",
+    "19725811": "https://openalex.org/W1525406324",
+    "19781876": "https://openalex.org/W640881361",
+    "19802889": "https://openalex.org/W612757976",
+    "19846924": "https://openalex.org/W569410208",
+    "19938514": "https://openalex.org/W2186371457",
+    "19965565": "https://openalex.org/W2312747799",
+    "19970086": "https://openalex.org/W3199049399",
+    "19971135": "https://openalex.org/W616287837",
+    "19971354": "https://openalex.org/W78052392",
+    "19971780": "https://openalex.org/W1486154029",
+    "20000191": "https://openalex.org/W111384402",
+    "20025943": "https://openalex.org/W2943866513",
+    "20058562": "https://openalex.org/W395922844",
+    "20060865": "https://openalex.org/W1522162705",
+    "20069274": "https://openalex.org/W2013606862",
+    "20104065": "https://openalex.org/W2028009767",
+    "20124987": "https://openalex.org/W584081530",
+    "20126338": "https://openalex.org/W1523873585",
+    "20169721": "https://openalex.org/W2009089196",
+    "20190252": "https://openalex.org/W2507876988",
+    "20195866": "https://openalex.org/W586198064",
+    "20195918": "https://openalex.org/W595393144",
+    "20196143": "https://openalex.org/W642322860",
+    "20199328": "https://openalex.org/W1904212461",
+    "20233979": "https://openalex.org/W400419387",
+    "20237036": "https://openalex.org/W1540323645",
+    "20276098": "https://openalex.org/W1586549963",
+    "20310800": "https://openalex.org/W2798273037",
+    "20315187": "https://openalex.org/W612177002",
+    "20351975": "https://openalex.org/W2798599995",
+    "20379670": "https://openalex.org/W2073676173",
+    "20394010": "https://openalex.org/W2494519512",
+    "20402253": "https://openalex.org/W608435791",
+    "20447309": "https://openalex.org/W3024196145",
+    "20453054": "https://openalex.org/W1546703508",
+    "20506137": "https://openalex.org/W1591714681",
+    "20556922": "https://openalex.org/W584624305",
+    "20616796": "https://openalex.org/W612279058",
+    "20619066": "https://openalex.org/W1518787779",
+    "20619811": "https://openalex.org/W1557386659",
+    "20628105": "https://openalex.org/W1985981736",
+    "20641892": "https://openalex.org/W2046415321",
+    "20676104": "https://openalex.org/W3186495813",
+    "20788493": "https://openalex.org/W2417846175",
+    "20801126": "https://openalex.org/W383430591",
+    "20950045": "https://openalex.org/W393663772",
+    "21037291": "https://openalex.org/W628204710",
+    "21117741": "https://openalex.org/W317974909",
+    "21122091": "https://openalex.org/W622100361",
+    "21122915": "https://openalex.org/W86428534",
+    "21127144": "https://openalex.org/W1575413473",
+    "21199801": "https://openalex.org/W2789580423",
+    "21202193": "https://openalex.org/W2901372800",
+    "21272447": "https://openalex.org/W2125115146",
+    "21312131": "https://openalex.org/W74969904",
+    "21317673": "https://openalex.org/W1581962787",
+    "21318270": "https://openalex.org/W1598490543",
+    "21347766": "https://openalex.org/W2035275023",
+    "21409775": "https://openalex.org/W3039028842",
+    "21422379": "https://openalex.org/W115627580",
+    "21497117": "https://openalex.org/W2322212689",
+    "21521461": "https://openalex.org/W3107377148",
+    "21529917": "https://openalex.org/W583938907",
+    "21537404": "https://openalex.org/W1574382479",
+    "21614679": "https://openalex.org/W2321856581",
+    "21652134": "https://openalex.org/W562371854",
+    "21652565": "https://openalex.org/W589265352",
+    "21664780": "https://openalex.org/W1888492796",
+    "21687156": "https://openalex.org/W2013137265",
+    "21743500": "https://openalex.org/W2324030546",
+    "21772871": "https://openalex.org/W3202841273",
+    "21781567": "https://openalex.org/W617803210",
+    "21782084": "https://openalex.org/W644994032",
+    "21791797": "https://openalex.org/W1606529067",
+    "21793117": "https://openalex.org/W171869181",
+    "21794845": "https://openalex.org/W187229328",
+    "21931990": "https://openalex.org/W615657988",
+    "21935523": "https://openalex.org/W1264024096",
+    "22076741": "https://openalex.org/W3046080588",
+    "22094583": "https://openalex.org/W574046789",
+    "22095294": "https://openalex.org/W605380221",
+    "22098680": "https://openalex.org/W109458168",
+    "22247075": "https://openalex.org/W2941266012",
+    "22270151": "https://openalex.org/W4243918666",
+    "22274810": "https://openalex.org/W569213382",
+    "22275548": "https://openalex.org/W597311535",
+    "22276585": "https://openalex.org/W637322439",
+    "22276856": "https://openalex.org/W647870834",
+    "22293103": "https://openalex.org/W180924970",
+    "22293133": "https://openalex.org/W1811090976",
+    "22324447": "https://openalex.org/W2012293235",
+    "22418683": "https://openalex.org/W2514314065",
+    "22429487": "https://openalex.org/W2892063811",
+    "22436533": "https://openalex.org/W2979243763",
+    "22468097": "https://openalex.org/W612927766",
+    "22471493": "https://openalex.org/W96914257",
+    "22476227": "https://openalex.org/W1499719260",
+    "22685357": "https://openalex.org/W574156919",
+    "22686220": "https://openalex.org/W599932651",
+    "22688561": "https://openalex.org/W75897088",
+    "22701107": "https://openalex.org/W157569000",
+    "22709024": "https://openalex.org/W191362771",
+    "22711043": "https://openalex.org/W1964669132",
+    "22888534": "https://openalex.org/W3027970929",
+    "22905833": "https://openalex.org/W4206614846",
+    "22922777": "https://openalex.org/W901997221",
+    "22934022": "https://openalex.org/W1558578068",
+    "23160054": "https://openalex.org/W4254934603",
+    "23166211": "https://openalex.org/W581539395",
+    "23166628": "https://openalex.org/W592020569",
+    "23166711": "https://openalex.org/W593920469",
+    "23167471": "https://openalex.org/W611728649",
+    "23222304": "https://openalex.org/W1987047371",
+    "23363206": "https://openalex.org/W2333064739",
+    "23365844": "https://openalex.org/W2343605114",
+    "23406715": "https://openalex.org/W266776443",
+    "23464654": "https://openalex.org/W3196948071",
+    "23467474": "https://openalex.org/W408663762",
+    "23479775": "https://openalex.org/W4248899894",
+    "23495386": "https://openalex.org/W579300696",
+    "23495712": "https://openalex.org/W585658567",
+    "23495726": "https://openalex.org/W585841502",
+    "23496908": "https://openalex.org/W607890611",
+    "23504123": "https://openalex.org/W998100820",
+    "23509621": "https://openalex.org/W1480797078",
+    "23518418": "https://openalex.org/W1546221645",
+    "23519838": "https://openalex.org/W1556844554",
+    "23522698": "https://openalex.org/W1578776400",
+    "23582277": "https://openalex.org/W2015581007",
+    "23597787": "https://openalex.org/W2034476295",
+    "23819093": "https://openalex.org/W3200390393",
+    "23821357": "https://openalex.org/W355078075",
+    "23857482": "https://openalex.org/W656080486",
+    "23857537": "https://openalex.org/W657329179",
+    "23859118": "https://openalex.org/W786664359",
+    "23976900": "https://openalex.org/W2050063526",
+    "23978987": "https://openalex.org/W2052459264",
+    "24137656": "https://openalex.org/W2748113064",
+    "24185642": "https://openalex.org/W3137704532",
+    "24214223": "https://openalex.org/W4255411393",
+    "24232175": "https://openalex.org/W595198278",
+    "24235463": "https://openalex.org/W637950372",
+    "24236730": "https://openalex.org/W653555206",
+    "24236857": "https://openalex.org/W655284345",
+    "24242833": "https://openalex.org/W974570991",
+    "24265257": "https://openalex.org/W1550513039",
+    "24283368": "https://openalex.org/W178523682",
+    "24297171": "https://openalex.org/W196790262",
+    "24423234": "https://openalex.org/W2087786333",
+    "24499078": "https://openalex.org/W2318134696",
+    "24511497": "https://openalex.org/W2335125251",
+    "24583748": "https://openalex.org/W2797403476",
+    "24646405": "https://openalex.org/W3170390277",
+    "24650022": "https://openalex.org/W3213382749",
+    "24710641": "https://openalex.org/W4385951245",
+    "24717885": "https://openalex.org/W585415368",
+    "24719421": "https://openalex.org/W600522813",
+    "24719846": "https://openalex.org/W604647400",
+    "24722762": "https://openalex.org/W632117657",
+    "24733444": "https://openalex.org/W98684793",
+    "24738999": "https://openalex.org/W119640094",
+    "24741087": "https://openalex.org/W129713366",
+    "24743324": "https://openalex.org/W1428272627",
+    "24791994": "https://openalex.org/W188355430",
+    "24796957": "https://openalex.org/W1951100038",
+    "24853317": "https://openalex.org/W2007995994",
+    "24952356": "https://openalex.org/W2088988709",
+    "25022293": "https://openalex.org/W2241559432",
+    "25128380": "https://openalex.org/W2562145688",
+    "25213125": "https://openalex.org/W2989339988",
+    "25347522": "https://openalex.org/W583039417",
+    "25347925": "https://openalex.org/W585768260",
+    "25354131": "https://openalex.org/W630589222",
+    "25354448": "https://openalex.org/W632904751",
+    "25357591": "https://openalex.org/W655425041",
+    "25381598": "https://openalex.org/W141051364",
+    "25386537": "https://openalex.org/W1487323664",
+    "25410785": "https://openalex.org/W1565242221",
+    "25423157": "https://openalex.org/W1606774556",
+    "25441714": "https://openalex.org/W1882754674",
+    "25638287": "https://openalex.org/W2103026198",
+    "25719296": "https://openalex.org/W2286225167",
+    "25861488": "https://openalex.org/W2593702939",
+    "25888647": "https://openalex.org/W2744784154",
+    "25911947": "https://openalex.org/W2788683103",
+    "25923671": "https://openalex.org/W2800329409",
+    "25938671": "https://openalex.org/W2886614719",
+    "25955186": "https://openalex.org/W2907698520",
+    "26003915": "https://openalex.org/W2984493356",
+    "26009857": "https://openalex.org/W2992674737",
+    "26049061": "https://openalex.org/W3121116702",
+    "26063253": "https://openalex.org/W3171963794",
+    "26068464": "https://openalex.org/W3204903763",
+    "26109586": "https://openalex.org/W4243790154",
+    "26153508": "https://openalex.org/W576336463",
+    "26156065": "https://openalex.org/W590203454",
+    "26160949": "https://openalex.org/W616572871",
+    "26161621": "https://openalex.org/W620130693",
+    "26163192": "https://openalex.org/W628573745",
+    "26166234": "https://openalex.org/W644307833",
+    "26175828": "https://openalex.org/W818819181",
+    "26196771": "https://openalex.org/W121832553",
+    "26219657": "https://openalex.org/W1509069953",
+    "26221077": "https://openalex.org/W1512626937",
+    "26235331": "https://openalex.org/W1545882845",
+    "26239643": "https://openalex.org/W155633806",
+    "26242221": "https://openalex.org/W1562541278",
+    "26245006": "https://openalex.org/W1569103119",
+    "26246418": "https://openalex.org/W1572627089",
+    "26252446": "https://openalex.org/W1587103015",
+    "26289135": "https://openalex.org/W1901370619",
+    "26368685": "https://openalex.org/W200401534",
+    "26483051": "https://openalex.org/W207006523",
+    "26610027": "https://openalex.org/W2232153290",
+    "26613122": "https://openalex.org/W2240756905",
+    "26613843": "https://openalex.org/W2241539718",
+    "26671565": "https://openalex.org/W2319595350",
+    "26833430": "https://openalex.org/W2481700018",
+    "26837963": "https://openalex.org/W2487151244",
+    "26842360": "https://openalex.org/W2492508632",
+    "26898146": "https://openalex.org/W2574786335",
+    "26964277": "https://openalex.org/W2792923996",
+    "26972592": "https://openalex.org/W2797932097",
+    "27015258": "https://openalex.org/W2900147545",
+    "27018410": "https://openalex.org/W2902371673",
+    "27087520": "https://openalex.org/W2971800703",
+    "27087763": "https://openalex.org/W2971922268",
+    "27092138": "https://openalex.org/W2976388035",
+    "27209742": "https://openalex.org/W3211294436",
+    "27211082": "https://openalex.org/W3214763527",
+    "27212085": "https://openalex.org/W3217630255",
+    "27346830": "https://openalex.org/W4252485213",
+    "27359549": "https://openalex.org/W4255095233",
+    "27366947": "https://openalex.org/W4256686158",
+    "27406118": "https://openalex.org/W588785548",
+    "27422363": "https://openalex.org/W645839550",
+    "27425432": "https://openalex.org/W656503035",
+    "27427826": "https://openalex.org/W70963486",
+    "27430508": "https://openalex.org/W76039603",
+    "27437034": "https://openalex.org/W822967550",
+    "27446141": "https://openalex.org/W94217951",
+    "27528055": "https://openalex.org/W130974874",
+    "27542127": "https://openalex.org/W1479772869",
+    "27611434": "https://openalex.org/W164502395",
+    "27628679": "https://openalex.org/W183324553",
+    "27659722": "https://openalex.org/W1971046469",
+    "27841256": "https://openalex.org/W2272024637",
+    "27847657": "https://openalex.org/W2275512806",
+    "27888730": "https://openalex.org/W2320129592",
+    "28009166": "https://openalex.org/W2497249573",
+    "28122131": "https://openalex.org/W2622422496",
+    "28237524": "https://openalex.org/W2798465950",
+    "28237774": "https://openalex.org/W2798587019",
+    "28376591": "https://openalex.org/W2984409377",
+    "28382504": "https://openalex.org/W2991235583",
+    "28553492": "https://openalex.org/W3166567999",
+    "28622905": "https://openalex.org/W3190800147",
+    "28691122": "https://openalex.org/W356316890",
+    "28708612": "https://openalex.org/W364717158",
+    "28709449": "https://openalex.org/W365150736",
+    "28713682": "https://openalex.org/W367217276",
+    "28728337": "https://openalex.org/W374372698",
+    "28728709": "https://openalex.org/W374541406",
+    "28744744": "https://openalex.org/W382445090",
+    "28745534": "https://openalex.org/W382829680",
+    "28746150": "https://openalex.org/W383132300",
+    "28765574": "https://openalex.org/W392610950",
+    "28765771": "https://openalex.org/W392715233",
+    "28808909": "https://openalex.org/W413712045",
+    "28845582": "https://openalex.org/W4207069290",
+    "28966036": "https://openalex.org/W4232856710",
+    "28976297": "https://openalex.org/W4233237077",
+    "29102047": "https://openalex.org/W4237874871",
+    "29126979": "https://openalex.org/W4238788204",
+    "29158480": "https://openalex.org/W4239958986",
+    "29252539": "https://openalex.org/W4243445459",
+    "29361744": "https://openalex.org/W4247475377",
+    "29420890": "https://openalex.org/W4249647599",
+    "29540757": "https://openalex.org/W4254070349",
+    "29602028": "https://openalex.org/W4256354805",
+    "29611664": "https://openalex.org/W425918225",
+    "29618135": "https://openalex.org/W428644694",
+    "29643089": "https://openalex.org/W4302322155",
+    "29782999": "https://openalex.org/W561284887",
+    "29814042": "https://openalex.org/W574288813",
+    "29817351": "https://openalex.org/W575693502",
+    "29831619": "https://openalex.org/W581718484",
+    "29835714": "https://openalex.org/W583476327",
+    "29838044": "https://openalex.org/W584465616",
+    "29840102": "https://openalex.org/W585329004",
+    "29856777": "https://openalex.org/W592356124",
+    "29871553": "https://openalex.org/W598675780",
+    "29874360": "https://openalex.org/W599836776",
+    "29893314": "https://openalex.org/W607866476",
+    "29898812": "https://openalex.org/W610173384",
+    "29899300": "https://openalex.org/W610356124",
+    "29907903": "https://openalex.org/W614038365",
+    "29925881": "https://openalex.org/W621665332",
+    "29934033": "https://openalex.org/W625118710",
+    "29935464": "https://openalex.org/W625713909",
+    "29943991": "https://openalex.org/W629315138",
+    "29947728": "https://openalex.org/W630906459",
+    "29947919": "https://openalex.org/W630991907",
+    "29956625": "https://openalex.org/W634662808",
+    "29984477": "https://openalex.org/W646506471",
+    "29990467": "https://openalex.org/W649069560",
+    "29994625": "https://openalex.org/W650826052",
+    "29995819": "https://openalex.org/W651324748",
+    "30018538": "https://openalex.org/W73184716",
+    "30033505": "https://openalex.org/W802294660",
+    "30164882": "https://openalex.org/W4249104067",
+    "30523724": "https://openalex.org/W2041459597",
+    "30710583": "https://openalex.org/W2032844381",
+    "30854004": "https://openalex.org/W1605506980",
+    "31058854": "https://openalex.org/W2011937305",
+    "31323552": "https://openalex.org/W200152392",
+    "31411465": "https://openalex.org/W1531312243",
+    "31516023": "https://openalex.org/W61874138",
+    "31640150": "https://openalex.org/W1988564676",
+    "31731587": "https://openalex.org/W1534079089",
+    "31762271": "https://openalex.org/W2468186441",
+    "33571192": "https://openalex.org/W1567072271",
+    "33765988": "https://openalex.org/W4234798958",
+    "33797647": "https://openalex.org/W2012091488",
+    "34249525": "https://openalex.org/W1582901906",
+    "34965926": "https://openalex.org/W1551021177",
+    "35667344": "https://openalex.org/W2893936458",
+    "35692472": "https://openalex.org/W1519294886",
+    "37442872": "https://openalex.org/W4388311642",
+    "38180580": "https://openalex.org/W1975161228",
+    "38459983": "https://openalex.org/W2910766306",
+    "39109794": "https://openalex.org/W2065314987",
+    "39349829": "https://openalex.org/W1536285720",
+    "40047849": "https://openalex.org/W2036865234",
+    "40158295": "https://openalex.org/W2092487046",
+    "40247521": "https://openalex.org/W2319309166",
+    "40383527": "https://openalex.org/W611947663",
+    "41779791": "https://openalex.org/W1974506059",
+    "42004268": "https://openalex.org/W2055780717",
+    "42899743": "https://openalex.org/W2067855064",
+    "43777372": "https://openalex.org/W2016648487",
+    "44502842": "https://openalex.org/W358061739",
+    "44586340": "https://openalex.org/W4253050632",
+    "44590317": "https://openalex.org/W4254388303",
+    "44631325": "https://openalex.org/W642532408",
+    "45297806": "https://openalex.org/W344324707",
+    "45636768": "https://openalex.org/W4239880964",
+    "46423156": "https://openalex.org/W1598851216",
+    "46545851": "https://openalex.org/W2892176266",
+    "46765219": "https://openalex.org/W2471435691",
+    "46984897": "https://openalex.org/W1537940716",
+    "47020086": "https://openalex.org/W1911476887",
+    "47221943": "https://openalex.org/W4388362047",
+    "47233338": "https://openalex.org/W2154391272",
+    "47322821": "https://openalex.org/W2114388358",
+    "47602853": "https://openalex.org/W4298029681",
+    "47675610": "https://openalex.org/W2150394325",
+    "47684396": "https://openalex.org/W2317164628",
+    "47772282": "https://openalex.org/W4206361702",
+    "47818620": "https://openalex.org/W2482399104",
+    "47853256": "https://openalex.org/W1994126252",
+    "47922768": "https://openalex.org/W1811218782",
+    "47998643": "https://openalex.org/W4301677129",
+    "48169076": "https://openalex.org/W3142890411",
+    "48275433": "https://openalex.org/W594212405",
+    "48400313": "https://openalex.org/W1497325574",
+    "49010087": "https://openalex.org/W3147053612",
+    "49245328": "https://openalex.org/W606027661",
+    "49471938": "https://openalex.org/W4231812537",
+    "49474446": "https://openalex.org/W4237591489",
+    "49655018": "https://openalex.org/W2494191977",
+    "49873884": "https://openalex.org/W2076562952",
+    "50052097": "https://openalex.org/W2795440619",
+    "50416193": "https://openalex.org/W2531828394",
+    "50704281": "https://openalex.org/W2085813202",
+    "50876121": "https://openalex.org/W2490038709",
+    "51118959": "https://openalex.org/W87533543",
+    "51129002": "https://openalex.org/W1470326704",
+    "51137739": "https://openalex.org/W1520927556",
+    "51469745": "https://openalex.org/W2485952821",
+    "51512296": "https://openalex.org/W2737027806",
+    "51585223": "https://openalex.org/W2943502224",
+    "51987693": "https://openalex.org/W2059677010",
+    "52005446": "https://openalex.org/W2080224311",
+    "52314536": "https://openalex.org/W2494216394",
+    "52514665": "https://openalex.org/W2915218347",
+    "52796734": "https://openalex.org/W4240383006",
+    "53000941": "https://openalex.org/W1968042482",
+    "53839614": "https://openalex.org/W2797512801",
+    "54325455": "https://openalex.org/W4240732477",
+    "54396538": "https://openalex.org/W4248968510",
+    "54455596": "https://openalex.org/W4255821502",
+    "54684341": "https://openalex.org/W1902928252",
+    "55429119": "https://openalex.org/W2890755801",
+    "55616123": "https://openalex.org/W2990385876",
+    "55616642": "https://openalex.org/W2990593134",
+    "55834029": "https://openalex.org/W315850956",
+    "56184929": "https://openalex.org/W4230139243",
+    "56191144": "https://openalex.org/W4230262887",
+    "56476207": "https://openalex.org/W4235775614",
+    "56922237": "https://openalex.org/W4244301284",
+    "57148990": "https://openalex.org/W4248626956",
+    "57201130": "https://openalex.org/W4249611722",
+    "57464167": "https://openalex.org/W4254645663",
+    "58019239": "https://openalex.org/W129584762",
+    "58020025": "https://openalex.org/W2330142050",
+    "58026615": "https://openalex.org/W1759591857",
+    "58105900": "https://openalex.org/W1992086015",
+    "58706979": "https://openalex.org/W2060217181",
+    "58902895": "https://openalex.org/W2480985083",
+    "59216072": "https://openalex.org/W2032906223",
+    "59235051": "https://openalex.org/W2219574487",
+    "59566940": "https://openalex.org/W423161637",
+    "59658028": "https://openalex.org/W2480692202",
+    "59670665": "https://openalex.org/W2795775725",
+    "59935262": "https://openalex.org/W2331485611",
+    "60319685": "https://openalex.org/W2051577982",
+    "60354943": "https://openalex.org/W2174010261",
+    "60386474": "https://openalex.org/W2326615672",
+    "60392219": "https://openalex.org/W2334636575",
+    "60612385": "https://openalex.org/W2051951182",
+    "60926027": "https://openalex.org/W162063570",
+    "61006212": "https://openalex.org/W2149331484",
+    "61323535": "https://openalex.org/W627939235",
+    "61384616": "https://openalex.org/W1966385433",
+    "61416435": "https://openalex.org/W2022033184",
+    "61893812": "https://openalex.org/W4388391509",
+    "62060241": "https://openalex.org/W2046465296",
+    "62331282": "https://openalex.org/W2460705407",
+    "62473406": "https://openalex.org/W2800319334",
+    "62996994": "https://openalex.org/W1987719469",
+    "63804237": "https://openalex.org/W2890787259",
+    "64100336": "https://openalex.org/W355176056",
+    "64248510": "https://openalex.org/W4249390499",
+    "64987270": "https://openalex.org/W1525853613",
+    "66668594": "https://openalex.org/W2486963249",
+    "67345300": "https://openalex.org/W2800142357",
+    "69733744": "https://openalex.org/W4238692056",
+    "69838319": "https://openalex.org/W4240970713",
+    "70060103": "https://openalex.org/W4245794871",
+    "70358775": "https://openalex.org/W4252268889",
+    "70704530": "https://openalex.org/W4302065255",
+    "70854423": "https://openalex.org/W4379432736",
+    "71079216": "https://openalex.org/W563732689",
+    "72269044": "https://openalex.org/W86095088",
+    "72771832": "https://openalex.org/W4253272880",
+    "72825254": "https://openalex.org/W2796842906",
+    "72836266": "https://openalex.org/W3133071399",
+    "73223829": "https://openalex.org/W2050931312",
+    "73568118": "https://openalex.org/W3094227626",
+    "73669254": "https://openalex.org/W2777128564",
+    "73685653": "https://openalex.org/W4230361154",
+    "74942742": "https://openalex.org/W4234915042",
+    "75282109": "https://openalex.org/W4250906402",
+    "75725054": "https://openalex.org/W4233513761",
+    "75748424": "https://openalex.org/W4245518118",
+    "76766957": "https://openalex.org/W2046366679",
+    "77109380": "https://openalex.org/W2502601249",
+    "77722127": "https://openalex.org/W4241329520",
+    "77734683": "https://openalex.org/W4242584765",
+    "77817949": "https://openalex.org/W4250912400",
+    "78320611": "https://openalex.org/W166960674",
+    "78751253": "https://openalex.org/W2334174764",
+    "81226355": "https://openalex.org/W4235627451",
+    "81483585": "https://openalex.org/W4239357909",
+    "81527011": "https://openalex.org/W4239985347",
+    "81974658": "https://openalex.org/W4246439916",
+    "82529776": "https://openalex.org/W4254441885",
+    "83788048": "https://openalex.org/W6963055",
+    "83838459": "https://openalex.org/W1515986151",
+    "84017330": "https://openalex.org/W1568208485",
+    "84135144": "https://openalex.org/W4235761353",
+    "84292634": "https://openalex.org/W27851781",
+    "84446870": "https://openalex.org/W2148291428",
+    "84498632": "https://openalex.org/W2335560468",
+    "84851260": "https://openalex.org/W14934345",
+    "85741260": "https://openalex.org/W2321368238",
+    "85762814": "https://openalex.org/W2756286680",
+    "85788729": "https://openalex.org/W42022325",
+    "85935970": "https://openalex.org/W592420245",
+    "86122725": "https://openalex.org/W1509270091",
+    "86343362": "https://openalex.org/W192952979",
+    "86531426": "https://openalex.org/W4241437362",
+    "86582437": "https://openalex.org/W194720",
+    "87204991": "https://openalex.org/W1533060199",
+    "87528104": "https://openalex.org/W39888140",
+    "87986989": "https://openalex.org/W4229726519",
+    "88246143": "https://openalex.org/W2052518175",
+    "88388289": "https://openalex.org/W2476541708",
+    "88524651": "https://openalex.org/W2995904564",
+    "88686625": "https://openalex.org/W4394745771",
+    "88829462": "https://openalex.org/W1967909267",
+    "89135801": "https://openalex.org/W2416403405",
+    "89324937": "https://openalex.org/W2905203113",
+    "89479762": "https://openalex.org/W31830399",
+    "89521388": "https://openalex.org/W4234880385",
+    "89635711": "https://openalex.org/W9014335",
+    "89752113": "https://openalex.org/W16517429",
+    "89993373": "https://openalex.org/W2076407291",
+    "90021108": "https://openalex.org/W2110237277",
+    "90061583": "https://openalex.org/W2169320406",
+    "90068295": "https://openalex.org/W2179968667",
+    "90793993": "https://openalex.org/W3168388584",
+    "91303813": "https://openalex.org/W1470961361",
+    "92821481": "https://openalex.org/W3137822921",
+    "93782066": "https://openalex.org/W4238113076",
+    "94017154": "https://openalex.org/W4242748805",
+    "95439176": "https://openalex.org/W2124479173",
+    "95466655": "https://openalex.org/W4237457471",
+    "95477104": "https://openalex.org/W2017473312",
+    "95504140": "https://openalex.org/W1996056154",
+    "97084176": "https://openalex.org/W2158037276",
+    "97332426": "https://openalex.org/W1544723719",
+    "98871001": "https://openalex.org/W2085385322",
+    "99080457": "https://openalex.org/W2908636648",
+    "99237757": "https://openalex.org/W4242743278",
+    "99247526": "https://openalex.org/W4246377890",
+    "101660255": "https://openalex.org/W2506782171",
+    "102839189": "https://openalex.org/W2954364032",
+    "103813424": "https://openalex.org/W3161905914",
+    "104507963": "https://openalex.org/W4213108564",
+    "106601820": "https://openalex.org/W4397009912",
+    "107095400": "https://openalex.org/W749176965",
+    "107282285": "https://openalex.org/W900792027",
+    "107288185": "https://openalex.org/W90699209",
+    "107408989": "https://openalex.org/W989070079",
+    "107427832": "https://openalex.org/W1996672843",
+    "107428098": "https://openalex.org/W4229781645",
+    "107428434": "https://openalex.org/W2050423830",
+    "107429677": "https://openalex.org/W1565769722",
+    "107443282": "https://openalex.org/W2044495792",
+    "107476885": "https://openalex.org/W1586944595",
+    "107538710": "https://openalex.org/W1516299026",
+    "107557518": "https://openalex.org/W1503661708",
+    "107559953": "https://openalex.org/W1486403545",
+    "107563756": "https://openalex.org/W3119226326",
+    "107573281": "https://openalex.org/W70659931",
+    "107637758": "https://openalex.org/W2318010369",
+    "107669503": "https://openalex.org/W1489390739",
+    "107817389": "https://openalex.org/W1548975733",
+    "107860252": "https://openalex.org/W1573042291",
+    "107865548": "https://openalex.org/W2483924458",
+    "107883907": "https://openalex.org/W3110910136",
+    "108056424": "https://openalex.org/W3135425113",
+    "108071297": "https://openalex.org/W640075987",
+    "108117351": "https://openalex.org/W1495907354",
+    "108117363": "https://openalex.org/W1499370269",
+    "108249055": "https://openalex.org/W1536265384",
+    "108309735": "https://openalex.org/W2337330164",
+    "108394364": "https://openalex.org/W4389013128",
+    "108618286": "https://openalex.org/W2626261620",
+    "108979188": "https://openalex.org/W2318881004",
+    "109077519": "https://openalex.org/W3209455527",
+    "109143021": "https://openalex.org/W406969938",
+    "109279523": "https://openalex.org/W183268713",
+    "109482114": "https://openalex.org/W416372464",
+    "109495746": "https://openalex.org/W155333002",
+    "109521023": "https://openalex.org/W2178040029",
+    "109828965": "https://openalex.org/W135949790",
+    "109909428": "https://openalex.org/W2564617443",
+    "109926329": "https://openalex.org/W2745151154",
+    "110021106": "https://openalex.org/W4236254570",
+    "110033156": "https://openalex.org/W604958792",
+    "110033909": "https://openalex.org/W644875531",
+    "110067376": "https://openalex.org/W2017527671",
+    "110080205": "https://openalex.org/W2076265504",
+    "110307790": "https://openalex.org/W4238578378",
+    "110344994": "https://openalex.org/W940592514",
+    "110590165": "https://openalex.org/W2612681137",
+    "110788463": "https://openalex.org/W629278966",
+    "110789131": "https://openalex.org/W638315411",
+    "110790117": "https://openalex.org/W650766790",
+    "110835806": "https://openalex.org/W1542533206",
+    "110855058": "https://openalex.org/W1599414905",
+    "110939850": "https://openalex.org/W202987523",
+    "110940449": "https://openalex.org/W2030662625",
+    "111081306": "https://openalex.org/W2288898103",
+    "111244284": "https://openalex.org/W2481336337",
+    "111423041": "https://openalex.org/W2804670987",
+    "111427451": "https://openalex.org/W2809817040",
+    "111577344": "https://openalex.org/W3107288829",
+    "111677697": "https://openalex.org/W3187871577",
+    "111706953": "https://openalex.org/W3213343377",
+    "111725255": "https://openalex.org/W420635121",
+    "111807696": "https://openalex.org/W583789818",
+    "111811661": "https://openalex.org/W602299684",
+    "111813228": "https://openalex.org/W609700641",
+    "111816543": "https://openalex.org/W625519208",
+    "111817394": "https://openalex.org/W629236542",
+    "111817910": "https://openalex.org/W631735092",
+    "111822297": "https://openalex.org/W652011636",
+    "111837085": "https://openalex.org/W88575827",
+    "111851185": "https://openalex.org/W1007060296",
+    "111855208": "https://openalex.org/W101094247",
+    "111867582": "https://openalex.org/W1023220353",
+    "111887042": "https://openalex.org/W104227078",
+    "111917982": "https://openalex.org/W113579867",
+    "111945071": "https://openalex.org/W118578048",
+    "111960742": "https://openalex.org/W122133620",
+    "111982814": "https://openalex.org/W128828995",
+    "112041583": "https://openalex.org/W146988211",
+    "112042062": "https://openalex.org/W147083348",
+    "112049246": "https://openalex.org/W1480628283",
+    "112073763": "https://openalex.org/W1488644135",
+    "112078807": "https://openalex.org/W1490286810",
+    "112091373": "https://openalex.org/W1494392932",
+    "112129393": "https://openalex.org/W1506931959",
+    "112132383": "https://openalex.org/W1507928277",
+    "112149103": "https://openalex.org/W1513397915",
+    "112154480": "https://openalex.org/W1515194507",
+    "112174554": "https://openalex.org/W1521802395",
+    "112188574": "https://openalex.org/W1526425579",
+    "112334169": "https://openalex.org/W1575213958",
+    "112334935": "https://openalex.org/W1575482645",
+    "112369951": "https://openalex.org/W1587373573",
+    "112394099": "https://openalex.org/W1595444015",
+    "112394514": "https://openalex.org/W159559119",
+    "112399855": "https://openalex.org/W1597388543",
+    "112457859": "https://openalex.org/W1632423973",
+    "112481993": "https://openalex.org/W1656401006",
+    "112489675": "https://openalex.org/W1664115085",
+    "112493858": "https://openalex.org/W166830592",
+    "112499297": "https://openalex.org/W1673661146",
+    "112516796": "https://openalex.org/W169921788",
+    "112567689": "https://openalex.org/W178296670",
+    "112573547": "https://openalex.org/W1791490622",
+    "112593778": "https://openalex.org/W182089578",
+    "112600846": "https://openalex.org/W182945245",
+    "112637542": "https://openalex.org/W187351794",
+    "112661630": "https://openalex.org/W190028884",
+    "112704601": "https://openalex.org/W194042554",
+    "112778954": "https://openalex.org/W197190645",
+    "112842042": "https://openalex.org/W198254481",
+    "112842495": "https://openalex.org/W198262417",
+    "112929836": "https://openalex.org/W199721157",
+    "113113353": "https://openalex.org/W202797614",
+    "113536724": "https://openalex.org/W2103279209",
+    "113636549": "https://openalex.org/W2133544175",
+    "113638140": "https://openalex.org/W2134044396",
+    "113763389": "https://openalex.org/W217330755",
+    "113775501": "https://openalex.org/W2179041978",
+    "113824068": "https://openalex.org/W2186360953",
+    "113882381": "https://openalex.org/W2201761563",
+    "113924220": "https://openalex.org/W2217196818",
+    "113925258": "https://openalex.org/W2217584039",
+    "113952744": "https://openalex.org/W2226413475",
+    "114003413": "https://openalex.org/W2240307239",
+    "114025772": "https://openalex.org/W2242159595",
+    "114034464": "https://openalex.org/W2242886029",
+    "114057454": "https://openalex.org/W2244801964",
+    "114071295": "https://openalex.org/W2245977440",
+    "114097884": "https://openalex.org/W2248177196",
+    "114111541": "https://openalex.org/W2249300284",
+    "114113369": "https://openalex.org/W2249451223",
+    "114117153": "https://openalex.org/W2249775645",
+    "114117544": "https://openalex.org/W2249811799",
+    "114121258": "https://openalex.org/W2250112516",
+    "114130074": "https://openalex.org/W2253161923",
+    "114137052": "https://openalex.org/W2254206857",
+    "114154779": "https://openalex.org/W2256901616",
+    "114291310": "https://openalex.org/W2277297232",
+    "114465519": "https://openalex.org/W2301847416",
+    "114495591": "https://openalex.org/W2310762019",
+    "114502039": "https://openalex.org/W2312373948",
+    "114517033": "https://openalex.org/W2313768098",
+    "114538783": "https://openalex.org/W2315797148",
+    "114580841": "https://openalex.org/W2319744436",
+    "114629089": "https://openalex.org/W2324287553",
+    "114636886": "https://openalex.org/W2325019223",
+    "114660806": "https://openalex.org/W2327302091",
+    "114706322": "https://openalex.org/W2331686243",
+    "114711779": "https://openalex.org/W2332217772",
+    "114801346": "https://openalex.org/W234240864",
+    "116282366": "https://openalex.org/W2420743948",
+    "116359117": "https://openalex.org/W2461672784",
+    "116384019": "https://openalex.org/W2465221677",
+    "116418409": "https://openalex.org/W2470141389",
+    "116515514": "https://openalex.org/W2484550907",
+    "116532053": "https://openalex.org/W2487042763",
+    "116543138": "https://openalex.org/W2488718270",
+    "116562537": "https://openalex.org/W2491684179",
+    "116672002": "https://openalex.org/W2508268812",
+    "116733092": "https://openalex.org/W2517330727",
+    "116981429": "https://openalex.org/W2563722547",
+    "117046603": "https://openalex.org/W2573547419",
+    "117080905": "https://openalex.org/W2580690967",
+    "117173383": "https://openalex.org/W2590400476",
+    "117240962": "https://openalex.org/W2596959696",
+    "117286306": "https://openalex.org/W2602129095",
+    "117286438": "https://openalex.org/W2602144280",
+    "117303389": "https://openalex.org/W2604113861",
+    "117352571": "https://openalex.org/W2607436272",
+    "117403725": "https://openalex.org/W2612321806",
+    "117483388": "https://openalex.org/W2620490811",
+    "117503576": "https://openalex.org/W2622630287",
+    "117663996": "https://openalex.org/W2735665835",
+    "117664203": "https://openalex.org/W2735684911",
+    "117807405": "https://openalex.org/W2749665935",
+    "117846406": "https://openalex.org/W2753606788",
+    "117864344": "https://openalex.org/W2755561174",
+    "117940982": "https://openalex.org/W2766227362",
+    "118085426": "https://openalex.org/W2782870824",
+    "118093369": "https://openalex.org/W2783536435",
+    "118122010": "https://openalex.org/W2786196499",
+    "118284852": "https://openalex.org/W2799733836",
+    "118285842": "https://openalex.org/W2799801875",
+    "118309391": "https://openalex.org/W2801486392",
+    "118321456": "https://openalex.org/W2802353538",
+    "118323435": "https://openalex.org/W2802492819",
+    "118327623": "https://openalex.org/W2802788396",
+    "118335177": "https://openalex.org/W2803374876",
+    "118353855": "https://openalex.org/W2804969976",
+    "118403138": "https://openalex.org/W2809491849",
+    "118420856": "https://openalex.org/W2811140317",
+    "118449246": "https://openalex.org/W2883453477",
+    "118532716": "https://openalex.org/W2890991713",
+    "118534916": "https://openalex.org/W2891179204",
+    "118623323": "https://openalex.org/W2900547712",
+    "118624741": "https://openalex.org/W2900654933",
+    "118744487": "https://openalex.org/W2910777655",
+    "118972649": "https://openalex.org/W2940967369",
+    "118985212": "https://openalex.org/W2942085365",
+    "119014805": "https://openalex.org/W2944270638",
+    "119213245": "https://openalex.org/W2953835440",
+    "119309114": "https://openalex.org/W2966007166",
+    "119373397": "https://openalex.org/W2971519242",
+    "119383057": "https://openalex.org/W2972152789",
+    "119535583": "https://openalex.org/W2982500009",
+    "119600530": "https://openalex.org/W2990534165",
+    "119629299": "https://openalex.org/W2992157757",
+    "119695102": "https://openalex.org/W2996061868",
+    "119752580": "https://openalex.org/W2999170885",
+    "119804379": "https://openalex.org/W3003871107",
+    "119829574": "https://openalex.org/W3005399761",
+    "120020946": "https://openalex.org/W3018079110",
+    "120115121": "https://openalex.org/W3026123744",
+    "120386556": "https://openalex.org/W3044002530",
+    "120421233": "https://openalex.org/W3046826601",
+    "120538066": "https://openalex.org/W3086003451",
+    "120625965": "https://openalex.org/W3092172625",
+    "120656451": "https://openalex.org/W3093984386",
+    "120854095": "https://openalex.org/W3116406770",
+    "120878182": "https://openalex.org/W3118872580",
+    "120918015": "https://openalex.org/W3121608790",
+    "121016080": "https://openalex.org/W3127084615",
+    "121100854": "https://openalex.org/W3133867419",
+    "121337949": "https://openalex.org/W3156750567",
+    "121428156": "https://openalex.org/W3162949736",
+    "121600932": "https://openalex.org/W3175589506",
+    "121701750": "https://openalex.org/W3184507000",
+    "121709159": "https://openalex.org/W3185049273",
+    "121728318": "https://openalex.org/W3186468895",
+    "121877417": "https://openalex.org/W3200087444",
+    "121885337": "https://openalex.org/W3200559770",
+    "121904465": "https://openalex.org/W3201730914",
+    "121926786": "https://openalex.org/W3203324779",
+    "121946608": "https://openalex.org/W3204732130",
+    "121980747": "https://openalex.org/W3207956910",
+    "122007784": "https://openalex.org/W3209571450",
+    "122128507": "https://openalex.org/W334224516",
+    "122139528": "https://openalex.org/W343675644",
+    "122692606": "https://openalex.org/W4232043097",
+    "122842009": "https://openalex.org/W4235001864",
+    "122845204": "https://openalex.org/W4235064429",
+    "122857560": "https://openalex.org/W4235308457",
+    "122981688": "https://openalex.org/W4237754200",
+    "123032800": "https://openalex.org/W4238754764",
+    "123135006": "https://openalex.org/W4240773005",
+    "123244736": "https://openalex.org/W4242937985",
+    "123445736": "https://openalex.org/W4246911687",
+    "123534659": "https://openalex.org/W4248660601",
+    "123579180": "https://openalex.org/W4249534136",
+    "123581912": "https://openalex.org/W4249587142",
+    "123785029": "https://openalex.org/W4253587879",
+    "123970574": "https://openalex.org/W4281774940",
+    "124319279": "https://openalex.org/W4301658807",
+    "125782164": "https://openalex.org/W4399129886",
+    "125782193": "https://openalex.org/W4399130419",
+    "125782620": "https://openalex.org/W4399138385",
+    "125782621": "https://openalex.org/W4399138389",
+    "125782642": "https://openalex.org/W4399138649",
+    "125782687": "https://openalex.org/W4399139145",
+    "125831832": "https://openalex.org/W48255069",
+    "125851884": "https://openalex.org/W55993810",
+    "125859689": "https://openalex.org/W563211861",
+    "125875293": "https://openalex.org/W569727995",
+    "125917584": "https://openalex.org/W587528627",
+    "125918407": "https://openalex.org/W587879501",
+    "125937398": "https://openalex.org/W595876241",
+    "125946339": "https://openalex.org/W599640370",
+    "125974705": "https://openalex.org/W611619384",
+    "125975617": "https://openalex.org/W612018133",
+    "125982523": "https://openalex.org/W614940237",
+    "125993213": "https://openalex.org/W619539065",
+    "126004377": "https://openalex.org/W624198038",
+    "126006500": "https://openalex.org/W625086857",
+    "126043930": "https://openalex.org/W640690015",
+    "126044393": "https://openalex.org/W640877236",
+    "126055065": "https://openalex.org/W645316072",
+    "126061216": "https://openalex.org/W647856011",
+    "126082274": "https://openalex.org/W656547159",
+    "126102914": "https://openalex.org/W71180412",
+    "126113155": "https://openalex.org/W74615407",
+    "126192104": "https://openalex.org/W812719707",
+    "126236470": "https://openalex.org/W85057778",
+    "126244125": "https://openalex.org/W857185759",
+    "126264131": "https://openalex.org/W88833205",
+    "126264735": "https://openalex.org/W88931537",
+    "126327947": "https://openalex.org/W967878876",
+    "126332795": "https://openalex.org/W972499109",
+    "126342968": "https://openalex.org/W982148465",
+    "126353263": "https://openalex.org/W991830328",
+    "126363772": "https://openalex.org/W2165545766",
+    "126395658": "https://openalex.org/W2035742699",
+    "126426501": "https://openalex.org/W2745407705",
+    "126444641": "https://openalex.org/W2102506398",
+    "126478694": "https://openalex.org/W2140324965",
+    "126541268": "https://openalex.org/W2052449303",
+    "126546619": "https://openalex.org/W2755473124",
+    "126633451": "https://openalex.org/W2005136235",
+    "126651066": "https://openalex.org/W2190736972",
+    "126677955": "https://openalex.org/W2570655866",
+    "126707877": "https://openalex.org/W2086139748",
+    "126899180": "https://openalex.org/W1554343254",
+    "127821017": "https://openalex.org/W2991553317",
+    "127830494": "https://openalex.org/W4388311738",
+    "131693876": "https://openalex.org/W775782239",
+    "131730144": "https://openalex.org/W1022210179",
+    "131819923": "https://openalex.org/W1234760364",
+    "131875557": "https://openalex.org/W1451670448",
+    "131907593": "https://openalex.org/W1486139228",
+    "132064962": "https://openalex.org/W1535472637",
+    "132337946": "https://openalex.org/W1658370551",
+    "132577694": "https://openalex.org/W1948548357",
+    "134187802": "https://openalex.org/W2182620867",
+    "134509286": "https://openalex.org/W2316779546",
+    "134597006": "https://openalex.org/W2329860995",
+    "136882093": "https://openalex.org/W3043479701",
+    "136936759": "https://openalex.org/W3083167480",
+    "138156583": "https://openalex.org/W4230825460",
+    "138545323": "https://openalex.org/W4240635318",
+    "138701239": "https://openalex.org/W4244558290",
+    "140519177": "https://openalex.org/W4390882998",
+    "141545598": "https://openalex.org/W648169597",
+    "141566474": "https://openalex.org/W69621119",
+    "141659579": "https://openalex.org/W826455379",
+    "141713956": "https://openalex.org/W900048136",
+    "141758092": "https://openalex.org/W962347222",
+    "141793300": "https://openalex.org/W2076758314",
+    "141802990": "https://openalex.org/W4388346711",
+    "141804351": "https://openalex.org/W2323357749",
+    "141863736": "https://openalex.org/W4302444277",
+    "141868008": "https://openalex.org/W4238616143",
+    "141875984": "https://openalex.org/W1578830462",
+    "141911475": "https://openalex.org/W4299981578",
+    "141926534": "https://openalex.org/W2326070882",
+    "141941458": "https://openalex.org/W2334955389",
+    "141994837": "https://openalex.org/W4233367032",
+    "142083690": "https://openalex.org/W4253961675",
+    "142141130": "https://openalex.org/W106193068",
+    "142180561": "https://openalex.org/W2481452109",
+    "142212090": "https://openalex.org/W60206946",
+    "142367906": "https://openalex.org/W180599170",
+    "142460717": "https://openalex.org/W3216127704",
+    "142510527": "https://openalex.org/W2077181592",
+    "142525430": "https://openalex.org/W2973184253",
+    "142600212": "https://openalex.org/W4213257706",
+    "142705789": "https://openalex.org/W4388330696",
+    "143635885": "https://openalex.org/W2746005853",
+    "143649304": "https://openalex.org/W2771752751",
+    "143666455": "https://openalex.org/W2903916312",
+    "143895832": "https://openalex.org/W2048975367",
+    "144299530": "https://openalex.org/W4239882520",
+    "144540052": "https://openalex.org/W2027116063",
+    "145124092": "https://openalex.org/W2960294437",
+    "145694170": "https://openalex.org/W4246468278",
+    "146102748": "https://openalex.org/W1168212674",
+    "146660654": "https://openalex.org/W1711458673",
+    "146770043": "https://openalex.org/W1873422131",
+    "147107894": "https://openalex.org/W2012093751",
+    "147133188": "https://openalex.org/W2016908836",
+    "148303255": "https://openalex.org/W2266574959",
+    "148897286": "https://openalex.org/W2326645690",
+    "148937315": "https://openalex.org/W2328874386",
+    "150979335": "https://openalex.org/W2478515400",
+    "150995945": "https://openalex.org/W2479631750",
+    "151065077": "https://openalex.org/W2484262009",
+    "151072896": "https://openalex.org/W2484789561",
+    "151188263": "https://openalex.org/W2492540840",
+    "151207952": "https://openalex.org/W2493870978",
+    "151213153": "https://openalex.org/W2494223821",
+    "151376794": "https://openalex.org/W2505217372",
+    "151689353": "https://openalex.org/W2542695802",
+    "151969927": "https://openalex.org/W2581295176",
+    "152935825": "https://openalex.org/W2752665778",
+    "153061546": "https://openalex.org/W2766336571",
+    "153074398": "https://openalex.org/W2767137720",
+    "153075034": "https://openalex.org/W2767175284",
+    "153395843": "https://openalex.org/W2795380660",
+    "153542599": "https://openalex.org/W2804433261",
+    "153800049": "https://openalex.org/W2893416254",
+    "154051770": "https://openalex.org/W2908224265",
+    "154185248": "https://openalex.org/W2915077028",
+    "154346761": "https://openalex.org/W2931754424",
+    "157849383": "https://openalex.org/W3172829017",
+    "158301516": "https://openalex.org/W3204041087",
+    "159116311": "https://openalex.org/W4214618957",
+    "160143818": "https://openalex.org/W423926977",
+    "160346997": "https://openalex.org/W4241535207",
+    "163123664": "https://openalex.org/W4381551414",
+    "163447050": "https://openalex.org/W4388651074",
+    "164862439": "https://openalex.org/W1586060904",
+    "164879305": "https://openalex.org/W1989083219",
+    "164887549": "https://openalex.org/W1521053012",
+    "164892405": "https://openalex.org/W4235743066",
+    "164905347": "https://openalex.org/W4301225875",
+    "164952731": "https://openalex.org/W4301968615",
+    "165004470": "https://openalex.org/W2320243545",
+    "165115206": "https://openalex.org/W2006351408",
+    "165155078": "https://openalex.org/W4246729694",
+    "165167297": "https://openalex.org/W2997883717",
+    "165574831": "https://openalex.org/W2086899558",
+    "165645460": "https://openalex.org/W4254749789",
+    "165765385": "https://openalex.org/W3195288767",
+    "165988061": "https://openalex.org/W2008608151",
+    "166337636": "https://openalex.org/W3041368339",
+    "166539643": "https://openalex.org/W2221229452",
+    "167381011": "https://openalex.org/W2492336778",
+    "170025376": "https://openalex.org/W2096259131",
+    "170126181": "https://openalex.org/W2138191184",
+    "170940797": "https://openalex.org/W2274706241",
+    "176520139": "https://openalex.org/W2797747971",
+    "176847058": "https://openalex.org/W2890074358",
+    "176871676": "https://openalex.org/W2891622011",
+    "180357679": "https://openalex.org/W3161514805",
+    "181857462": "https://openalex.org/W4213361340",
+    "181903497": "https://openalex.org/W4220658170",
+    "182645893": "https://openalex.org/W4235939009",
+    "183399828": "https://openalex.org/W4243937297",
+    "184047518": "https://openalex.org/W4250824963",
+    "184253400": "https://openalex.org/W4253022493",
+    "185111801": "https://openalex.org/W4293247623",
+    "185525521": "https://openalex.org/W4300575570",
+    "188806839": "https://openalex.org/W603072675",
+    "189527943": "https://openalex.org/W4244673011",
+    "189529847": "https://openalex.org/W4235158469",
+    "189537530": "https://openalex.org/W3151534266",
+    "189574315": "https://openalex.org/W4302033085",
+    "190107319": "https://openalex.org/W4235719768",
+    "190117418": "https://openalex.org/W4385333269",
+    "190372340": "https://openalex.org/W4206711839",
+    "190466848": "https://openalex.org/W1531735724",
+    "190569926": "https://openalex.org/W2482492815",
+    "191064938": "https://openalex.org/W1466169013",
+    "191462028": "https://openalex.org/W2155624524"
+  }
+}

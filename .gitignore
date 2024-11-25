@@ -1,0 +1,73 @@
+# Python basics - All good and standard
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments - Good but needs organization
+venv/
+ENV/
+env/
+.env/
+.venv/
+CloudVectorDB/  # Correct for your specific virtual environment
+
+# IDE - Good standard setup
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS - Good standard setup
+.DS_Store
+Thumbs.db
+
+# MongoDB - Good but could be more specific
+data/
+*.mongodb
+
+# Logs - Good but could add more patterns
+logs/
+*.log
+
+# Large files - Good but missing some common data files
+*.csv
+*.pkl
+*.h5
+*.model
+*.bin
+
+# Size-based exclusions (files > 2MB / 2097152 bytes)
+*.[!.]*
+!*.py
+!*.md
+!*.txt
+!*.json
+!*.yml
+!*.yaml
+!*.ini
+!*.cfg
+!*.conf
+!*.sh
+!*.bat
+!*.cmd
+!*.ps1
+!*.svg
+!*.gitignore
+!LICENSE
