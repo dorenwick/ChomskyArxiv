@@ -30,15 +30,6 @@ class TranscriptProcessor:
             print(f"Traceback: {traceback.format_exc()}")
             raise
 
-    def _get_max_paragraph_id(self) -> int:
-        """Get the maximum existing paragraph_int_id from MongoDB."""
-        try:
-            max_doc = self.collection.find_one(sort=[("paragraph_int_id", -1)])
-            return max_doc["paragraph_int_id"] if max_doc else 0
-        except Exception as e:
-            print(f"Error getting max paragraph ID: {str(e)}")
-            print(f"Traceback: {traceback.format_exc()}")
-            return 0
 
     def _combine_transcript_segments(self, segments: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """Combine transcript segments into paragraphs within token limit."""
@@ -111,10 +102,25 @@ class TranscriptProcessor:
             print(f"Error formatting timestamp {seconds}: {str(e)}")
             return "0:00"
 
+    def _get_max_paragraph_id(self) -> int:
+        """Get the maximum existing paragraph_int_id from MongoDB."""
+        try:
+            max_doc = self.collection.find_one(sort=[("paragraph_int_id", -1)])
+            max_id = max_doc["paragraph_int_id"] if max_doc else 0
+            print(f"Found current maximum paragraph_int_id in collection: {max_id}")
+            print(f"Will start new documents at ID: {max_id + 1}")
+            return max_id
+
+        except Exception as e:
+            print(f"Error getting max paragraph ID: {str(e)}")
+            print(f"Traceback: {traceback.format_exc()}")
+            return 0
+
     def process_transcript(self, transcript_path: str) -> None:
         """Process a single transcript file and store in MongoDB."""
         try:
             print(f"\nProcessing transcript: {transcript_path}")
+            print(f"Starting with paragraph_int_id: {self.current_paragraph_id + 1}")
 
             # Read transcript file
             print("Reading transcript file...")
@@ -130,13 +136,13 @@ class TranscriptProcessor:
             # Process each combined segment
             for i, segment in enumerate(combined_segments):
                 try:
-                    self.current_paragraph_id += 1
-                    print(f"\nProcessing segment {i+1}/{len(combined_segments)}")
-                    print(f"Paragraph ID: {self.current_paragraph_id}")
+                    next_id = self.current_paragraph_id + 1
+                    print(f"\nProcessing segment {i + 1}/{len(combined_segments)}")
+                    print(f"Using paragraph_int_id: {next_id}")
 
                     # Create document
                     document = {
-                        "paragraph_int_id": self.current_paragraph_id,
+                        "paragraph_int_id": next_id,
                         "type": "youtube",
                         "source": transcript_data.get("url", ""),
                         "url": transcript_data.get("url", ""),
@@ -158,8 +164,9 @@ class TranscriptProcessor:
                     print(f"Text length: {len(document['text'])} characters")
 
                     # Insert into MongoDB
-                    print("Inserting into MongoDB...")
+                    print(f"Inserting document with ID {next_id} into MongoDB...")
                     self.collection.insert_one(document)
+                    self.current_paragraph_id = next_id  # Update only after successful insertion
                     print("Successfully inserted document")
 
                 except Exception as e:
@@ -169,6 +176,7 @@ class TranscriptProcessor:
                     continue
 
             print(f"\nSuccessfully completed processing of {transcript_path}")
+            print(f"Final paragraph_int_id: {self.current_paragraph_id}")
 
         except Exception as e:
             print(f"Error processing transcript {transcript_path}: {str(e)}")

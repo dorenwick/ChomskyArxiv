@@ -1,0 +1,19 @@
+{
+  "duration": "PT41M43S",
+  "view_count": "2377",
+  "like_count": "73",
+  "title": "# 167 How Large Language Models Prove Chomsky Wrong with Steven Piantadosi",
+  "description": "Joining SlatorPod this week is Steven Piantadosi, Associate Professor of Psychology at UC Berkeley. Steven also runs the computation and language lab (colala) at UC Berkeley, which studies the basic computational processes involved in human language and cognition.\n\nSteven talks about the emergence of large language models (LLMs) and how it has reshaped our understanding of language processing and language acquisition.\n\nSteven breaks down his March 2023 paper, \"Modern language models refute Chomsky’s approach to language”. He argues that LLMs demonstrate a wide range of powerful language abilities and disprove foundational assumptions underpinning Noam Chomsky's theories and, as a consequence, negate parts of modern Linguistics.\n\nSteven shares how he prompted ChatGPT to generate coherent and sensible responses that go beyond its training data, showcasing its ability to produce creative outputs. While critics argue that it is merely an endless sequence of predicting the next token, Steven explains how the process allows the models to discover insights about language and potentially the world itself.\n\nSteven acknowledges that LLMs operate differently from humans, as models excel at language generation but lack certain human modes of reasoning when it comes to complex questions or scenarios. He unpacks the BabyLM Challenge which explores whether models can be trained on human-sized amounts of data and still learn syntax or other linguistic aspects effectively.\n\nDespite industry advancements and the trillion-dollar market opportunity, Steven agrees with Chomsky's ethical concerns, including issues such as the presence of harmful content, misinformation, and the potential impact on job displacement.\n\nSteven remains enthusiastic about the potential of LLMs and believes the recent advancements are a step forward to achieving artificial general intelligence, but refrains from making any concrete predictions.\n\nChapter Markers:\n00:00:00 Intro and Agenda\n00:00:37 UC Berkeley and The Computation and Language Lab\n00:02:24 Why LLMs are Philosophically Important\n00:05:11 How LLMs Refute Chomsky's Approach to Language\n00:11:49 Prompting ChatGPT Beyond its Training Data\n00:14:50 Critic's View on LLMs\n00:18:07 Reaction from the Linguistics Community\n00:20:27 How LLMs Differ from Humans when Generating Language\n00:24:50 BabyLM Challenge\n00:31:19 Ethical Concerns of LLMs\n00:38:43 Progress Towards Artificial General Intelligence",
+  "tags": [
+    "Slator",
+    "SlatorPod",
+    "Machine Translation",
+    "Translation",
+    "Language Services",
+    "Translation Services",
+    "Language Technology",
+    "Large Language Models",
+    "Noam Chomsky"
+  ],
+  "published_at": "2023-05-18T09:01:08Z"
+}

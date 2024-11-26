@@ -1,0 +1,5616 @@
+{
+  "video_id": "2C-zWrhFqpM",
+  "url": "https://www.youtube.com/watch?v=2C-zWrhFqpM&feature=youtu.be",
+  "transcript": [
+    {
+      "text": "[MUSIC PLAYING]",
+      "start": 0.0,
+      "duration": 4.293
+    },
+    {
+      "text": "SPEAKER 1: We are thrilled\nto welcome Noam Chomsky here",
+      "start": 6.21,
+      "duration": 3.06
+    },
+    {
+      "text": "today.",
+      "start": 9.27,
+      "duration": 1.2
+    },
+    {
+      "text": "Mr. Chomsky has taught at\nthe Massachusetts Institute",
+      "start": 10.47,
+      "duration": 2.52
+    },
+    {
+      "text": "of Technology for\nthe past 50 years,",
+      "start": 12.99,
+      "duration": 2.51
+    },
+    {
+      "text": "where he is Institute Professor\nEmeritus in the Department",
+      "start": 15.5,
+      "duration": 3.19
+    },
+    {
+      "text": "of Linguistics and Philosophy.",
+      "start": 18.69,
+      "duration": 2.22
+    },
+    {
+      "text": "His work is widely credited with\nhaving revolutionized the field",
+      "start": 20.91,
+      "duration": 3.96
+    },
+    {
+      "text": "of modern linguistics.",
+      "start": 24.87,
+      "duration": 2.22
+    },
+    {
+      "text": "He's the author of numerous best\nselling political works which",
+      "start": 27.09,
+      "duration": 3.39
+    },
+    {
+      "text": "have been translated into\nscores of languages worldwide.",
+      "start": 30.48,
+      "duration": 3.72
+    },
+    {
+      "text": "And we are thrilled to welcome\nhim today to Google Cambridge.",
+      "start": 34.2,
+      "duration": 3.63
+    },
+    {
+      "text": "Thank you.",
+      "start": 37.83,
+      "duration": 2.28
+    },
+    {
+      "text": "Thank you so much for\ntaking the time to be here.",
+      "start": 40.11,
+      "duration": 3.057
+    },
+    {
+      "text": "I'm just going to\njump right into this",
+      "start": 43.167,
+      "duration": 1.583
+    },
+    {
+      "text": "since we have just limited time.",
+      "start": 44.75,
+      "duration": 2.43
+    },
+    {
+      "text": "My name's Husson.",
+      "start": 47.18,
+      "duration": 1.58
+    },
+    {
+      "text": "I'm a software engineer here.",
+      "start": 48.76,
+      "duration": 1.21
+    },
+    {
+      "text": "And I have nothing to\ndo with linguistics.",
+      "start": 49.97,
+      "duration": 2.31
+    },
+    {
+      "text": "NOAM CHOMSKY: OK.",
+      "start": 52.28,
+      "duration": 0.78
+    },
+    {
+      "text": "SPEAKER 1: Or politics.",
+      "start": 53.06,
+      "duration": 1.249
+    },
+    {
+      "text": "NOAM CHOMSKY: Good.",
+      "start": 54.309,
+      "duration": 0.791
+    },
+    {
+      "text": "SPEAKER 1: Or anything relevant.",
+      "start": 55.1,
+      "duration": 1.11
+    },
+    {
+      "text": "NOAM CHOMSKY: Perfect.",
+      "start": 56.21,
+      "duration": 1.09
+    },
+    {
+      "text": "We're a perfect team.",
+      "start": 57.3,
+      "duration": 1.73
+    },
+    {
+      "text": "SPEAKER 1: But I have so\nmany questions for you.",
+      "start": 59.03,
+      "duration": 2.0
+    },
+    {
+      "text": "I wanted to ask you\nabout your academic focus",
+      "start": 61.03,
+      "duration": 3.67
+    },
+    {
+      "text": "having been linguistics.",
+      "start": 64.7,
+      "duration": 1.68
+    },
+    {
+      "text": "You obviously know a whole\nlot about a whole lot",
+      "start": 66.38,
+      "duration": 2.85
+    },
+    {
+      "text": "of other things.",
+      "start": 69.23,
+      "duration": 1.69
+    },
+    {
+      "text": "And I wonder what makes\nsomething interesting to you.",
+      "start": 70.92,
+      "duration": 4.14
+    },
+    {
+      "text": "NOAM CHOMSKY: Well,\nseveral factors.",
+      "start": 75.06,
+      "duration": 3.03
+    },
+    {
+      "text": "First of all, it has to be\nan intellectual challenge.",
+      "start": 78.09,
+      "duration": 4.07
+    },
+    {
+      "text": "Secondly, it has to be\nof some significance,",
+      "start": 82.16,
+      "duration": 2.92
+    },
+    {
+      "text": "and there are many different\ndimensions of significance.",
+      "start": 85.08,
+      "duration": 3.51
+    },
+    {
+      "text": "So for example, things that\nhave an impact on human life",
+      "start": 88.59,
+      "duration": 5.88
+    },
+    {
+      "text": "and in fact survival are\nof course, significant,",
+      "start": 94.47,
+      "duration": 3.54
+    },
+    {
+      "text": "even if they don't pose much\nof an intellectual challenge.",
+      "start": 98.01,
+      "duration": 3.35
+    },
+    {
+      "text": "On the other hand,\nthings that pose",
+      "start": 101.36,
+      "duration": 2.55
+    },
+    {
+      "text": "a very serious intellectual\nchallenge like how",
+      "start": 103.91,
+      "duration": 4.08
+    },
+    {
+      "text": "is it possible that human beings\ncan do what you and I are now",
+      "start": 107.99,
+      "duration": 3.27
+    },
+    {
+      "text": "doing, which is beyond the\ncapacity of any other organism,",
+      "start": 111.26,
+      "duration": 3.54
+    },
+    {
+      "text": "that poses a very significant\nintellectual challenge,",
+      "start": 114.8,
+      "duration": 3.86
+    },
+    {
+      "text": "it's human significance\nwhen you really look",
+      "start": 118.66,
+      "duration": 2.98
+    },
+    {
+      "text": "into the details of the debate.",
+      "start": 121.64,
+      "duration": 2.04
+    },
+    {
+      "text": "So there's different\ndimensions, different factors.",
+      "start": 123.68,
+      "duration": 4.41
+    },
+    {
+      "text": "That's essentially the same\nas what a four-year-old finds",
+      "start": 128.09,
+      "duration": 4.175
+    },
+    {
+      "text": "interesting.",
+      "start": 132.265,
+      "duration": 0.5
+    },
+    {
+      "text": "You want to understand\nonly about the world,",
+      "start": 132.765,
+      "duration": 2.885
+    },
+    {
+      "text": "you want to do\nsomething important.",
+      "start": 135.65,
+      "duration": 1.614
+    },
+    {
+      "text": "SPEAKER 1: I think\nthat many of us",
+      "start": 137.264,
+      "duration": 1.416
+    },
+    {
+      "text": "lose their four-year-old\ncuriosity over the years.",
+      "start": 138.68,
+      "duration": 3.06
+    },
+    {
+      "text": "What has what has kept\nyou curious in that way?",
+      "start": 141.74,
+      "duration": 2.82
+    },
+    {
+      "text": "You've obviously branched out\nso much throughout your life",
+      "start": 144.56,
+      "duration": 3.45
+    },
+    {
+      "text": "from your focus on linguistics.",
+      "start": 148.01,
+      "duration": 1.77
+    },
+    {
+      "text": "You've branched out\nquite a lot from there.",
+      "start": 149.78,
+      "duration": 4.05
+    },
+    {
+      "text": "Is it is it simply\nthis is something",
+      "start": 153.83,
+      "duration": 2.28
+    },
+    {
+      "text": "interesting for\nunderstanding humanity,",
+      "start": 156.11,
+      "duration": 2.35
+    },
+    {
+      "text": "or is there\nsomething else in it?",
+      "start": 158.46,
+      "duration": 2.174
+    },
+    {
+      "text": "NOAM CHOMSKY: Not that it\nmatters much, but in fact,",
+      "start": 160.634,
+      "duration": 2.166
+    },
+    {
+      "text": "it's the other way around.",
+      "start": 162.8,
+      "duration": 1.99
+    },
+    {
+      "text": "I was very much engaged in\npolitical life, social issues,",
+      "start": 164.79,
+      "duration": 5.21
+    },
+    {
+      "text": "long before I ever\nheard of linguistics.",
+      "start": 170.0,
+      "duration": 2.53
+    },
+    {
+      "text": "SPEAKER 1: So tell\nus about that.",
+      "start": 172.53,
+      "duration": 1.82
+    },
+    {
+      "text": "You took part in a lot\nof political activism",
+      "start": 174.35,
+      "duration": 3.75
+    },
+    {
+      "text": "earlier on over the\ncourse of your life.",
+      "start": 178.1,
+      "duration": 2.97
+    },
+    {
+      "text": "How did you get\nstarted with that?",
+      "start": 181.07,
+      "duration": 1.95
+    },
+    {
+      "text": "What was the drive for that?",
+      "start": 183.02,
+      "duration": 1.72
+    },
+    {
+      "text": "And what drew you to it?",
+      "start": 184.74,
+      "duration": 2.78
+    },
+    {
+      "text": "NOAM CHOMSKY: Well, I grew\nup in the 1930s, which was",
+      "start": 187.52,
+      "duration": 5.73
+    },
+    {
+      "text": "quite an interesting period.",
+      "start": 193.25,
+      "duration": 2.67
+    },
+    {
+      "text": "In some ways, a little bit\nlike today, and in other ways",
+      "start": 195.92,
+      "duration": 3.3
+    },
+    {
+      "text": "quite different.",
+      "start": 199.22,
+      "duration": 1.59
+    },
+    {
+      "text": "Objectively, it was\nmuch harsher than today.",
+      "start": 200.81,
+      "duration": 3.62
+    },
+    {
+      "text": "So conditions during the\ndepression here in the United",
+      "start": 204.43,
+      "duration": 3.97
+    },
+    {
+      "text": "States were much worse\nthan they are today.",
+      "start": 208.4,
+      "duration": 3.33
+    },
+    {
+      "text": "Subjectively, it was a much\nmore optimistic period.",
+      "start": 211.73,
+      "duration": 3.84
+    },
+    {
+      "text": "Today, it's kind of striking\nto see the anger, hopelessness.",
+      "start": 215.57,
+      "duration": 6.07
+    },
+    {
+      "text": "I get a dozen\nletters every night",
+      "start": 221.64,
+      "duration": 2.78
+    },
+    {
+      "text": "from mostly young people saying\nthe world's awful, what can",
+      "start": 224.42,
+      "duration": 3.96
+    },
+    {
+      "text": "I do.",
+      "start": 228.38,
+      "duration": 0.63
+    },
+    {
+      "text": "It's hopeless.",
+      "start": 229.01,
+      "duration": 1.6
+    },
+    {
+      "text": "Then it was pretty different.",
+      "start": 230.61,
+      "duration": 1.61
+    },
+    {
+      "text": "Not over the whole country.",
+      "start": 232.22,
+      "duration": 1.95
+    },
+    {
+      "text": "If you were an agricultural\nworker fleeing the Dust Bowl,",
+      "start": 234.17,
+      "duration": 3.87
+    },
+    {
+      "text": "it was pretty awful.",
+      "start": 238.04,
+      "duration": 1.03
+    },
+    {
+      "text": "But in the circles that\nwere my own milieu, which",
+      "start": 239.07,
+      "duration": 4.76
+    },
+    {
+      "text": "was mostly first generation\nimmigrants, working",
+      "start": 243.83,
+      "duration": 3.92
+    },
+    {
+      "text": "class, at the time\nmostly unemployed,",
+      "start": 247.75,
+      "duration": 3.94
+    },
+    {
+      "text": "part of the very lively,\nactivist, militant, working",
+      "start": 251.69,
+      "duration": 5.28
+    },
+    {
+      "text": "class culture of the time,\nit was pretty hopeful.",
+      "start": 256.97,
+      "duration": 3.51
+    },
+    {
+      "text": "There was a sense somehow\nwe can get out of all this",
+      "start": 260.48,
+      "duration": 4.17
+    },
+    {
+      "text": "through solidarity,\nthrough working together.",
+      "start": 264.65,
+      "duration": 4.43
+    },
+    {
+      "text": "There was an educated community\nand people who had never gone--",
+      "start": 269.08,
+      "duration": 4.42
+    },
+    {
+      "text": "couple of years of\nelementary school",
+      "start": 273.5,
+      "duration": 3.06
+    },
+    {
+      "text": "discussing the latest varieties\nof Freudian psychoanalysis,",
+      "start": 276.56,
+      "duration": 7.98
+    },
+    {
+      "text": "the last concert of the Budapest\nstring quartet and so on.",
+      "start": 284.54,
+      "duration": 4.5
+    },
+    {
+      "text": "There was worker education\nthat took place, a lot of it",
+      "start": 289.04,
+      "duration": 3.75
+    },
+    {
+      "text": "through the unions.",
+      "start": 292.79,
+      "duration": 1.56
+    },
+    {
+      "text": "It was just a--",
+      "start": 294.35,
+      "duration": 1.52
+    },
+    {
+      "text": "there was a sense of\nhopefulness, expectation,",
+      "start": 295.87,
+      "duration": 4.48
+    },
+    {
+      "text": "solidarity, we can do things.",
+      "start": 300.35,
+      "duration": 2.35
+    },
+    {
+      "text": "There was a moderately\nsympathetic administration,",
+      "start": 302.7,
+      "duration": 4.31
+    },
+    {
+      "text": "very unlike today.",
+      "start": 307.01,
+      "duration": 1.59
+    },
+    {
+      "text": "And it was possible to have\nsome achievements, which",
+      "start": 308.6,
+      "duration": 4.71
+    },
+    {
+      "text": "didn't end the depression,\nbut softened the edges,",
+      "start": 313.31,
+      "duration": 2.7
+    },
+    {
+      "text": "and made it look as if we\ncan create a better future.",
+      "start": 316.01,
+      "duration": 4.29
+    },
+    {
+      "text": "So objectively much worse,\nbut subjectively, much better.",
+      "start": 320.3,
+      "duration": 5.04
+    },
+    {
+      "text": "And then of course,\nin the background",
+      "start": 325.34,
+      "duration": 1.62
+    },
+    {
+      "text": "was what was happening in\nEurope, the spread of fascism,",
+      "start": 326.96,
+      "duration": 6.04
+    },
+    {
+      "text": "which was very frightening.",
+      "start": 333.0,
+      "duration": 1.97
+    },
+    {
+      "text": "I'm old enough to remember\nlistening on the radio",
+      "start": 334.97,
+      "duration": 4.956
+    },
+    {
+      "text": "to the Nuremberg rallies,\nHitler's speeches.",
+      "start": 339.926,
+      "duration": 3.224
+    },
+    {
+      "text": "I didn't understand\nthe words, but there",
+      "start": 343.15,
+      "duration": 1.73
+    },
+    {
+      "text": "was no mistaking what it meant.",
+      "start": 344.88,
+      "duration": 3.23
+    },
+    {
+      "text": "And of course.",
+      "start": 348.11,
+      "duration": 1.275
+    },
+    {
+      "text": "after the first--\nit's kind of ironic,",
+      "start": 349.385,
+      "duration": 2.765
+    },
+    {
+      "text": "I guess, but my\nwife and I happened",
+      "start": 352.15,
+      "duration": 2.78
+    },
+    {
+      "text": "to be in Barcelona at the time\nof the November 8 election.",
+      "start": 354.93,
+      "duration": 8.07
+    },
+    {
+      "text": "And the attitude in Europe\nwas the roof is falling in,",
+      "start": 363.0,
+      "duration": 5.92
+    },
+    {
+      "text": "it was this is the\nend of the world.",
+      "start": 368.92,
+      "duration": 3.24
+    },
+    {
+      "text": "And it happens that the\nfirst article that I wrote,",
+      "start": 372.16,
+      "duration": 2.99
+    },
+    {
+      "text": "that I remember at least, was\nabout the fall of Barcelona.",
+      "start": 375.15,
+      "duration": 4.74
+    },
+    {
+      "text": "So I can easily date\nit February 1939.",
+      "start": 379.89,
+      "duration": 4.28
+    },
+    {
+      "text": "I hope the article\nhas disappeared.",
+      "start": 384.17,
+      "duration": 1.96
+    },
+    {
+      "text": "I'm sure it's not\nvery memorable.",
+      "start": 386.13,
+      "duration": 1.73
+    },
+    {
+      "text": "I was the editor or the\nfourth grade newspaper.",
+      "start": 387.86,
+      "duration": 5.8
+    },
+    {
+      "text": "And probably the only reader,\nexcept maybe my mother.",
+      "start": 393.66,
+      "duration": 5.22
+    },
+    {
+      "text": "But the article, I\nremember, was essentially",
+      "start": 398.88,
+      "duration": 2.85
+    },
+    {
+      "text": "about the rise of fascism,\nAustria, Czechoslovakia,",
+      "start": 401.73,
+      "duration": 3.34
+    },
+    {
+      "text": "Toledo, Barcelona.",
+      "start": 405.07,
+      "duration": 3.47
+    },
+    {
+      "text": "It looked inexorable.",
+      "start": 408.54,
+      "duration": 1.62
+    },
+    {
+      "text": "This monstrous shadow\nspreading all over the world.",
+      "start": 410.16,
+      "duration": 4.83
+    },
+    {
+      "text": "And this is long\nbefore the Holocaust.",
+      "start": 414.99,
+      "duration": 4.26
+    },
+    {
+      "text": "So that's the background.",
+      "start": 419.25,
+      "duration": 1.4
+    },
+    {
+      "text": "On the other hand,\nthere was what was",
+      "start": 420.65,
+      "duration": 2.02
+    },
+    {
+      "text": "happening more within reach.",
+      "start": 422.67,
+      "duration": 4.03
+    },
+    {
+      "text": "By the time I was\nabout 12 years old,",
+      "start": 426.7,
+      "duration": 2.87
+    },
+    {
+      "text": "we lived in Philadelphia,\n100 miles from New York.",
+      "start": 429.57,
+      "duration": 5.15
+    },
+    {
+      "text": "When I was 11 or 12, my parents\nwould let me go to New York",
+      "start": 434.72,
+      "duration": 4.13
+    },
+    {
+      "text": "by myself on the train,\nstay with relatives,",
+      "start": 438.85,
+      "duration": 3.5
+    },
+    {
+      "text": "hang around anarchist\nbookstores and Union Square.",
+      "start": 442.35,
+      "duration": 4.524
+    },
+    {
+      "text": "SPEAKER 1: I wonder how\nmany parents in the audience",
+      "start": 446.874,
+      "duration": 2.166
+    },
+    {
+      "text": "are thinking about sending\ntheir 12-year-old on a train",
+      "start": 449.04,
+      "duration": 2.291
+    },
+    {
+      "text": "from Philly to New York.",
+      "start": 451.331,
+      "duration": 1.099
+    },
+    {
+      "text": "NOAM CHOMSKY: It was a\nmuch more peaceful time.",
+      "start": 452.43,
+      "duration": 2.1
+    },
+    {
+      "text": "It's pretty dramatic.",
+      "start": 454.53,
+      "duration": 1.39
+    },
+    {
+      "text": "I mean, in those days,\nyou could, in New York,",
+      "start": 455.92,
+      "duration": 3.05
+    },
+    {
+      "text": "you can walk along the river,\nRiverside Drive or Central",
+      "start": 458.97,
+      "duration": 5.16
+    },
+    {
+      "text": "Park, at night\nwithout any concern.",
+      "start": 464.13,
+      "duration": 3.52
+    },
+    {
+      "text": "A lot of things changed\nafter the Second World War.",
+      "start": 470.85,
+      "duration": 2.46
+    },
+    {
+      "text": "I don't know exactly why.",
+      "start": 473.31,
+      "duration": 1.25
+    },
+    {
+      "text": "But the cities became much\nmore dangerous, hostile places.",
+      "start": 474.56,
+      "duration": 4.78
+    },
+    {
+      "text": "There was plenty of conflict.",
+      "start": 479.34,
+      "duration": 3.69
+    },
+    {
+      "text": "If you were Irish, you didn't go\ninto the Italian neighborhoods",
+      "start": 483.03,
+      "duration": 2.67
+    },
+    {
+      "text": "and that sort of thing.",
+      "start": 485.7,
+      "duration": 1.31
+    },
+    {
+      "text": "But you weren't\ngoing to get killed.",
+      "start": 487.01,
+      "duration": 2.38
+    },
+    {
+      "text": "You might get chased.",
+      "start": 489.39,
+      "duration": 2.85
+    },
+    {
+      "text": "I spent a lot of my\nchildhood running away",
+      "start": 492.24,
+      "duration": 2.94
+    },
+    {
+      "text": "from Irish Catholic kids\nbecause they were too scary.",
+      "start": 495.18,
+      "duration": 4.15
+    },
+    {
+      "text": "But you weren't going to get\nshot, or knifed, or anything",
+      "start": 499.33,
+      "duration": 3.2
+    },
+    {
+      "text": "like that.",
+      "start": 502.53,
+      "duration": 1.05
+    },
+    {
+      "text": "That all changed for some reason\nafter the second World War.",
+      "start": 503.58,
+      "duration": 3.812
+    },
+    {
+      "text": "I don't understand why.",
+      "start": 507.392,
+      "duration": 0.958
+    },
+    {
+      "text": "All over the world,\nincidentally.",
+      "start": 508.35,
+      "duration": 1.75
+    },
+    {
+      "text": "Here, strikingly.",
+      "start": 510.1,
+      "duration": 1.35
+    },
+    {
+      "text": "SPEAKER 1: So you talk\nabout this general sentiment",
+      "start": 511.45,
+      "duration": 2.77
+    },
+    {
+      "text": "of people being,\nthe public being",
+      "start": 514.22,
+      "duration": 2.89
+    },
+    {
+      "text": "very hopeful, and around--",
+      "start": 517.11,
+      "duration": 2.814
+    },
+    {
+      "text": "NOAM CHOMSKY: Parts\nof the public.",
+      "start": 519.924,
+      "duration": 1.416
+    },
+    {
+      "text": "SPEAKER 1: At least parts of it.",
+      "start": 521.34,
+      "duration": 1.499
+    },
+    {
+      "text": "NOAM CHOMSKY: Not the\npeople John Steinbeck",
+      "start": 522.839,
+      "duration": 1.791
+    },
+    {
+      "text": "was writing about.",
+      "start": 524.63,
+      "duration": 0.7
+    },
+    {
+      "text": "SPEAKER 1: And you talk\nabout an administration",
+      "start": 525.33,
+      "duration": 1.958
+    },
+    {
+      "text": "at that time that was maybe\nmore sympathetic than the one",
+      "start": 527.288,
+      "duration": 2.782
+    },
+    {
+      "text": "that we have now.",
+      "start": 530.07,
+      "duration": 3.15
+    },
+    {
+      "text": "Leaving aside the administration\npart of that for the moment,",
+      "start": 533.22,
+      "duration": 3.52
+    },
+    {
+      "text": "do you feel that that\nhope has evaporated?",
+      "start": 536.74,
+      "duration": 3.32
+    },
+    {
+      "text": "Do you feel that we have\nbeen able to reharness",
+      "start": 540.06,
+      "duration": 2.64
+    },
+    {
+      "text": "that in times of need?",
+      "start": 542.7,
+      "duration": 1.98
+    },
+    {
+      "text": "You talk about it as though this\nis very much in the past tense.",
+      "start": 544.68,
+      "duration": 2.997
+    },
+    {
+      "text": "Is that intentional?",
+      "start": 547.677,
+      "duration": 0.833
+    },
+    {
+      "text": "NOAM CHOMSKY: I think\nit's still there.",
+      "start": 548.51,
+      "duration": 1.75
+    },
+    {
+      "text": "In fact, take a look at the last\nelection, November election.",
+      "start": 550.26,
+      "duration": 8.04
+    },
+    {
+      "text": "There were two\nstriking aspects of it.",
+      "start": 558.3,
+      "duration": 4.33
+    },
+    {
+      "text": "One of them, not very startling.",
+      "start": 562.63,
+      "duration": 3.53
+    },
+    {
+      "text": "Namely, in the\nRepublican primary,",
+      "start": 566.16,
+      "duration": 4.38
+    },
+    {
+      "text": "a person who was hated\nby the establishment,",
+      "start": 570.54,
+      "duration": 3.04
+    },
+    {
+      "text": "but who happens to be a\nbillionaire won the nomination.",
+      "start": 573.58,
+      "duration": 3.97
+    },
+    {
+      "text": "OK, kind of a surprise,\nbut not startling",
+      "start": 577.55,
+      "duration": 2.86
+    },
+    {
+      "text": "that a billionaire con man\nshould win the nomination.",
+      "start": 580.41,
+      "duration": 4.712
+    },
+    {
+      "text": "What happened on the Democratic\nside is much more dramatic.",
+      "start": 585.122,
+      "duration": 2.458
+    },
+    {
+      "text": "Somebody arose who was unknown.",
+      "start": 590.28,
+      "duration": 3.0
+    },
+    {
+      "text": "Nobody ever heard him.",
+      "start": 593.28,
+      "duration": 1.95
+    },
+    {
+      "text": "He had no support from any\nof the sources of wealth",
+      "start": 595.23,
+      "duration": 5.97
+    },
+    {
+      "text": "and power, no corporate support,\nno funding from the wealthy.",
+      "start": 601.2,
+      "duration": 7.21
+    },
+    {
+      "text": "He even used the scare\nword, socialist, which",
+      "start": 608.41,
+      "duration": 3.41
+    },
+    {
+      "text": "means mildly social democratic.",
+      "start": 611.82,
+      "duration": 2.82
+    },
+    {
+      "text": "In fact, his policies wouldn't\nsurprise Eisenhower very much.",
+      "start": 614.64,
+      "duration": 3.06
+    },
+    {
+      "text": "That's a sign of the\nsharp shift to the right",
+      "start": 617.7,
+      "duration": 2.977
+    },
+    {
+      "text": "in the whole spectrum.",
+      "start": 620.677,
+      "duration": 1.583
+    },
+    {
+      "text": "But from the point of view\nof the existing spectrum,",
+      "start": 622.26,
+      "duration": 2.82
+    },
+    {
+      "text": "he seemed way on the outside.",
+      "start": 625.08,
+      "duration": 2.22
+    },
+    {
+      "text": "He would have won the\nDemocratic Party nomination",
+      "start": 627.3,
+      "duration": 2.61
+    },
+    {
+      "text": "if it hadn't been\nfor the machinations",
+      "start": 629.91,
+      "duration": 2.67
+    },
+    {
+      "text": "of the Obama-Clinton\nparty managers.",
+      "start": 632.58,
+      "duration": 3.36
+    },
+    {
+      "text": "That's a break\nfrom over 100 years",
+      "start": 635.94,
+      "duration": 2.46
+    },
+    {
+      "text": "of American political history.",
+      "start": 638.4,
+      "duration": 2.2
+    },
+    {
+      "text": "I mean American elections\nare pretty much bought.",
+      "start": 640.6,
+      "duration": 3.26
+    },
+    {
+      "text": "You can literally pretty\nwell predict electability",
+      "start": 643.86,
+      "duration": 4.98
+    },
+    {
+      "text": "just on the basis of simple\nvariables like campaign",
+      "start": 648.84,
+      "duration": 4.53
+    },
+    {
+      "text": "spending.",
+      "start": 653.37,
+      "duration": 1.02
+    },
+    {
+      "text": "It's remarkable.",
+      "start": 654.39,
+      "duration": 1.53
+    },
+    {
+      "text": "Not just president.",
+      "start": 655.92,
+      "duration": 1.14
+    },
+    {
+      "text": "There's a recent\ninteresting study",
+      "start": 657.06,
+      "duration": 2.28
+    },
+    {
+      "text": "by Tom Ferguson, who's\ndone the main work on this,",
+      "start": 659.34,
+      "duration": 3.81
+    },
+    {
+      "text": "over at the U-Mass political\nscience department.",
+      "start": 663.15,
+      "duration": 2.85
+    },
+    {
+      "text": "He and some colleagues\ncame out last year",
+      "start": 666.0,
+      "duration": 3.36
+    },
+    {
+      "text": "with a study of\ncongressional elections",
+      "start": 669.36,
+      "duration": 3.96
+    },
+    {
+      "text": "from about 1980 up\ntill the present.",
+      "start": 673.32,
+      "duration": 3.66
+    },
+    {
+      "text": "Simply asking what's the\nrelation between campaign",
+      "start": 676.98,
+      "duration": 4.26
+    },
+    {
+      "text": "funding and electability,\nwhich of course, means policy.",
+      "start": 681.24,
+      "duration": 4.41
+    },
+    {
+      "text": "It's practically\na straight line.",
+      "start": 685.65,
+      "duration": 1.8
+    },
+    {
+      "text": "You just don't get results like\nthat in the social sciences.",
+      "start": 687.45,
+      "duration": 3.54
+    },
+    {
+      "text": "It's startling.",
+      "start": 690.99,
+      "duration": 1.5
+    },
+    {
+      "text": "And the same is true of\nthe presidential elections.",
+      "start": 692.49,
+      "duration": 3.03
+    },
+    {
+      "text": "And it's been known\nfor a long time.",
+      "start": 695.52,
+      "duration": 2.505
+    },
+    {
+      "text": "You go back to the 1890s.",
+      "start": 698.025,
+      "duration": 2.825
+    },
+    {
+      "text": "There was a very famous\ncampaign manager, Mark Hannah,",
+      "start": 700.85,
+      "duration": 4.03
+    },
+    {
+      "text": "who was the star of\ncampaign management.",
+      "start": 704.88,
+      "duration": 3.06
+    },
+    {
+      "text": "He was asked once what does\nit take to win an election.",
+      "start": 707.94,
+      "duration": 4.46
+    },
+    {
+      "text": "And he said it takes two things.",
+      "start": 712.4,
+      "duration": 2.16
+    },
+    {
+      "text": "The first one is money.",
+      "start": 714.56,
+      "duration": 2.5
+    },
+    {
+      "text": "I've forgotten what\nthe second one is.",
+      "start": 717.06,
+      "duration": 2.72
+    },
+    {
+      "text": "That was 1895, way\nbefore Citizens United",
+      "start": 719.78,
+      "duration": 5.02
+    },
+    {
+      "text": "or any of this stuff.",
+      "start": 724.8,
+      "duration": 2.01
+    },
+    {
+      "text": "Here comes Sanders\nand he just broke",
+      "start": 726.81,
+      "duration": 2.17
+    },
+    {
+      "text": "the pattern of over 100 years.",
+      "start": 728.98,
+      "duration": 3.677
+    },
+    {
+      "text": "It's astonishing.",
+      "start": 732.657,
+      "duration": 0.708
+    },
+    {
+      "text": "And what's more,\nthanks to Fox News,",
+      "start": 733.365,
+      "duration": 4.275
+    },
+    {
+      "text": "we know that he's the most\npopular political figure",
+      "start": 737.64,
+      "duration": 3.57
+    },
+    {
+      "text": "in the country, a poll that\nthey ran, by a huge margin.",
+      "start": 741.21,
+      "duration": 3.45
+    },
+    {
+      "text": "And among young\npeople, enormous.",
+      "start": 744.66,
+      "duration": 3.18
+    },
+    {
+      "text": "Well, what does that mean?",
+      "start": 747.84,
+      "duration": 1.39
+    },
+    {
+      "text": "It means there's\nreal signs of hope.",
+      "start": 749.23,
+      "duration": 2.27
+    },
+    {
+      "text": "It's out of the these two\nnon-establishment figures that",
+      "start": 751.5,
+      "duration": 7.605
+    },
+    {
+      "text": "won the public--",
+      "start": 759.105,
+      "duration": 1.935
+    },
+    {
+      "text": "of course, the\nestablishment assures itself",
+      "start": 761.04,
+      "duration": 5.37
+    },
+    {
+      "text": "that it controls the political\nsystem and the decisions.",
+      "start": 766.41,
+      "duration": 4.71
+    },
+    {
+      "text": "So Trump could rail against\nWall Street and Goldman Sachs",
+      "start": 771.12,
+      "duration": 5.52
+    },
+    {
+      "text": "on the campaign trail, but\ntake a look at his cabinet.",
+      "start": 776.64,
+      "duration": 4.14
+    },
+    {
+      "text": "So they make sure they\nbasically run the show,",
+      "start": 780.78,
+      "duration": 2.63
+    },
+    {
+      "text": "but they're losing\nthe population.",
+      "start": 783.41,
+      "duration": 2.29
+    },
+    {
+      "text": "And the same is\nhappening in Europe.",
+      "start": 785.7,
+      "duration": 2.13
+    },
+    {
+      "text": "The French election\nwas a good example.",
+      "start": 787.83,
+      "duration": 2.41
+    },
+    {
+      "text": "Two candidates from outside\nthe two political parties,",
+      "start": 790.24,
+      "duration": 3.84
+    },
+    {
+      "text": "although the thrust\nof policy will",
+      "start": 794.08,
+      "duration": 2.99
+    },
+    {
+      "text": "remain not all that different.",
+      "start": 797.07,
+      "duration": 3.24
+    },
+    {
+      "text": "But that's a sign of\npotential changes.",
+      "start": 800.31,
+      "duration": 2.67
+    },
+    {
+      "text": "If we can ever go back\nto having functioning--",
+      "start": 802.98,
+      "duration": 2.82
+    },
+    {
+      "text": "go back to partially\ncreate functioning",
+      "start": 805.8,
+      "duration": 3.66
+    },
+    {
+      "text": "democratic societies, that\ncould be quite different.",
+      "start": 809.46,
+      "duration": 3.421
+    },
+    {
+      "text": "SPEAKER 1: So\nstepping back a moment",
+      "start": 812.881,
+      "duration": 1.499
+    },
+    {
+      "text": "to the political\nactivism in your life.",
+      "start": 814.38,
+      "duration": 2.52
+    },
+    {
+      "text": "What do you remember\nout of your career,",
+      "start": 816.9,
+      "duration": 2.68
+    },
+    {
+      "text": "let's say, in\npolitical activism,",
+      "start": 819.58,
+      "duration": 1.88
+    },
+    {
+      "text": "as being some of the\nthese are the moments that",
+      "start": 821.46,
+      "duration": 2.91
+    },
+    {
+      "text": "were defining for me.",
+      "start": 824.37,
+      "duration": 2.28
+    },
+    {
+      "text": "NOAM CHOMSKY: What\nwas defining for me",
+      "start": 826.65,
+      "duration": 2.25
+    },
+    {
+      "text": "was things like--\nfor those of you",
+      "start": 828.9,
+      "duration": 4.25
+    },
+    {
+      "text": "who know New York City, in\nthose days Union Square used",
+      "start": 833.15,
+      "duration": 4.81
+    },
+    {
+      "text": "to be a kind of a center of\nradical offices, Freie Arbeiter",
+      "start": 837.96,
+      "duration": 5.822
+    },
+    {
+      "text": "Stimme, for example, the\nYiddish anarchist movement had",
+      "start": 843.782,
+      "duration": 5.728
+    },
+    {
+      "text": "its offices there, and others.",
+      "start": 849.51,
+      "duration": 1.76
+    },
+    {
+      "text": "And if you went down Fourth\nAvenue, which is now all",
+      "start": 851.27,
+      "duration": 3.19
+    },
+    {
+      "text": "gentrified, there were small\nbookstores with a lot of them",
+      "start": 854.46,
+      "duration": 7.09
+    },
+    {
+      "text": "run by European emigres.",
+      "start": 861.55,
+      "duration": 2.03
+    },
+    {
+      "text": "And a number of the ones that\nI kind of gravitated towards",
+      "start": 863.58,
+      "duration": 3.42
+    },
+    {
+      "text": "were refugees from\nSpain, people who",
+      "start": 867.0,
+      "duration": 3.06
+    },
+    {
+      "text": "fled from after the crushing\nof the anarchist revolution",
+      "start": 870.06,
+      "duration": 5.486
+    },
+    {
+      "text": "in 1937.",
+      "start": 875.546,
+      "duration": 1.794
+    },
+    {
+      "text": "And I picked up all kind of\npamphlets and understanding.",
+      "start": 877.34,
+      "duration": 4.21
+    },
+    {
+      "text": "I learned a lot of things,\nwhich are just barely getting",
+      "start": 881.55,
+      "duration": 3.33
+    },
+    {
+      "text": "into the news now.",
+      "start": 884.88,
+      "duration": 1.71
+    },
+    {
+      "text": "For example, you\ncan read books now",
+      "start": 886.59,
+      "duration": 2.13
+    },
+    {
+      "text": "which point out, somewhat\nmisleadingly, that",
+      "start": 888.72,
+      "duration": 3.16
+    },
+    {
+      "text": "in the 1930s, theoretically\nthe United States,",
+      "start": 891.88,
+      "duration": 5.18
+    },
+    {
+      "text": "the Roosevelt\nadministration, was following",
+      "start": 897.06,
+      "duration": 3.47
+    },
+    {
+      "text": "a policy of neutrality, they\ndon't support either side,",
+      "start": 900.53,
+      "duration": 3.07
+    },
+    {
+      "text": "the fascists or the republic.",
+      "start": 903.6,
+      "duration": 2.49
+    },
+    {
+      "text": "In fact, they were\nsupporting the fascists.",
+      "start": 906.09,
+      "duration": 3.12
+    },
+    {
+      "text": "I learned it in 1939\nfrom reading pamphlets",
+      "start": 909.21,
+      "duration": 5.085
+    },
+    {
+      "text": "and left wing\nliterature, and others,",
+      "start": 914.295,
+      "duration": 2.835
+    },
+    {
+      "text": "which exposed the fact that\nthe Texaco Oil Company, which",
+      "start": 917.13,
+      "duration": 6.45
+    },
+    {
+      "text": "was run by an outright\nNazi, didn't even hide it,",
+      "start": 923.58,
+      "duration": 4.0
+    },
+    {
+      "text": "had contracts with the\nRepublic to supply oil.",
+      "start": 927.58,
+      "duration": 5.78
+    },
+    {
+      "text": "In the middle of the\nconflict, he shifted.",
+      "start": 933.36,
+      "duration": 3.24
+    },
+    {
+      "text": "He started supplying oil to\nthe fascist forces, Franco.",
+      "start": 936.6,
+      "duration": 5.136
+    },
+    {
+      "text": "There were questions asked.",
+      "start": 941.736,
+      "duration": 1.124
+    },
+    {
+      "text": "The State Department denied it.",
+      "start": 942.86,
+      "duration": 1.89
+    },
+    {
+      "text": "It turned out to be true.",
+      "start": 944.75,
+      "duration": 1.9
+    },
+    {
+      "text": "It was reported in\nthe left wing press.",
+      "start": 946.65,
+      "duration": 2.39
+    },
+    {
+      "text": "And oil was the one thing that\nthe Germans and the Italians,",
+      "start": 949.04,
+      "duration": 4.62
+    },
+    {
+      "text": "the fascist countries, couldn't\nsupply to Franco's forces.",
+      "start": 953.66,
+      "duration": 3.567
+    },
+    {
+      "text": "They didn't have it.",
+      "start": 957.227,
+      "duration": 0.833
+    },
+    {
+      "text": "So they needed it.",
+      "start": 958.06,
+      "duration": 1.58
+    },
+    {
+      "text": "And Roosevelt and\nthe State Department",
+      "start": 959.64,
+      "duration": 2.52
+    },
+    {
+      "text": "pretended they didn't see it.",
+      "start": 962.16,
+      "duration": 1.37
+    },
+    {
+      "text": "Only the small left\nwing press saw it.",
+      "start": 963.53,
+      "duration": 2.86
+    },
+    {
+      "text": "It was later kind of conceded.",
+      "start": 966.39,
+      "duration": 1.97
+    },
+    {
+      "text": "It's now kind of pretty much,\nin scholarship at least,",
+      "start": 968.36,
+      "duration": 4.47
+    },
+    {
+      "text": "it's sort of acknowledged\na few years later.",
+      "start": 972.83,
+      "duration": 3.54
+    },
+    {
+      "text": "But I knew that in\n1939, just from hanging",
+      "start": 976.37,
+      "duration": 2.94
+    },
+    {
+      "text": "around the left wing offices.",
+      "start": 979.31,
+      "duration": 4.07
+    },
+    {
+      "text": "And you could see\nwhat was going on.",
+      "start": 983.38,
+      "duration": 1.84
+    },
+    {
+      "text": "The administration, Roosevelt,\nwas very bitter and angry when",
+      "start": 988.74,
+      "duration": 4.46
+    },
+    {
+      "text": "they found a an\nAmerican businessman who",
+      "start": 993.2,
+      "duration": 4.92
+    },
+    {
+      "text": "had sold a couple of\npistols to the Republic,",
+      "start": 998.12,
+      "duration": 2.64
+    },
+    {
+      "text": "you know violating\nthe neutrality act,",
+      "start": 1000.76,
+      "duration": 2.0
+    },
+    {
+      "text": "big condemnation.",
+      "start": 1002.76,
+      "duration": 1.7
+    },
+    {
+      "text": "And meanwhile, the\nmajor oil company",
+      "start": 1004.46,
+      "duration": 3.56
+    },
+    {
+      "text": "was breaking its contracts\nwith the Republic",
+      "start": 1008.02,
+      "duration": 2.7
+    },
+    {
+      "text": "and shifting them\nto the fascists.",
+      "start": 1010.72,
+      "duration": 3.36
+    },
+    {
+      "text": "That's an educational\nexperience.",
+      "start": 1014.08,
+      "duration": 2.29
+    },
+    {
+      "text": "I also learned things\nabout the war in Spain.",
+      "start": 1016.37,
+      "duration": 6.12
+    },
+    {
+      "text": "It wasn't just the Republicans\nversus the fascists.",
+      "start": 1022.49,
+      "duration": 3.65
+    },
+    {
+      "text": "There was a popular revolution\nin 1936, a libertarian",
+      "start": 1026.14,
+      "duration": 4.11
+    },
+    {
+      "text": "revolution, which was\npretty successful.",
+      "start": 1030.25,
+      "duration": 3.069
+    },
+    {
+      "text": "And it was crushed.",
+      "start": 1033.319,
+      "duration": 1.341
+    },
+    {
+      "text": "It was crushed by\nthe joint efforts",
+      "start": 1034.66,
+      "duration": 3.24
+    },
+    {
+      "text": "of the fascists, the communists,\nand the liberal democracies.",
+      "start": 1037.9,
+      "duration": 4.23
+    },
+    {
+      "text": "They had a lot of differences.",
+      "start": 1042.13,
+      "duration": 1.54
+    },
+    {
+      "text": "But there was one\nthing they agreed on.",
+      "start": 1043.67,
+      "duration": 2.09
+    },
+    {
+      "text": "You can't have a free society.",
+      "start": 1045.76,
+      "duration": 2.609
+    },
+    {
+      "text": "You can't have a\nlibertarian society.",
+      "start": 1048.369,
+      "duration": 1.931
+    },
+    {
+      "text": "So they cooperated on that.",
+      "start": 1050.3,
+      "duration": 2.0
+    },
+    {
+      "text": "Actually the attack was\nled by the communists, who",
+      "start": 1052.3,
+      "duration": 2.97
+    },
+    {
+      "text": "were the party of\nthe police force,",
+      "start": 1055.27,
+      "duration": 2.49
+    },
+    {
+      "text": "and the petty bourgeoisie,\nand very opposed",
+      "start": 1057.76,
+      "duration": 3.78
+    },
+    {
+      "text": "to any form of socialist\nor left activism.",
+      "start": 1061.54,
+      "duration": 6.16
+    },
+    {
+      "text": "And those are things you\nlearn if you pay attention.",
+      "start": 1067.7,
+      "duration": 3.62
+    },
+    {
+      "text": "And it was reinforced by other\nparts of my family environment.",
+      "start": 1071.32,
+      "duration": 6.325
+    },
+    {
+      "text": "At the time in New York, it was\na very lively political scene.",
+      "start": 1077.645,
+      "duration": 5.045
+    },
+    {
+      "text": "Every variety of left wing\npolitics you can imagine",
+      "start": 1082.69,
+      "duration": 5.91
+    },
+    {
+      "text": "was debated hotly.",
+      "start": 1088.6,
+      "duration": 3.741
+    },
+    {
+      "text": "In fact, a friend of mine,\nwho's a philosopher at Columbia,",
+      "start": 1092.341,
+      "duration": 4.929
+    },
+    {
+      "text": "told me recently\nthat he and his wife",
+      "start": 1097.27,
+      "duration": 3.72
+    },
+    {
+      "text": "got a place up in the Catskills\nto hang out in the summer.",
+      "start": 1100.99,
+      "duration": 3.96
+    },
+    {
+      "text": "Turns out these retirement\ncommunities there,",
+      "start": 1104.95,
+      "duration": 2.94
+    },
+    {
+      "text": "he said the people in the\nretirement communities",
+      "start": 1107.89,
+      "duration": 2.94
+    },
+    {
+      "text": "are still debating which\nbrand of Trotskyism was right.",
+      "start": 1110.83,
+      "duration": 4.87
+    },
+    {
+      "text": "The same arguments they\nwere having in the 1930s.",
+      "start": 1115.7,
+      "duration": 4.1
+    },
+    {
+      "text": "It's worth remembering that\nworking class education was",
+      "start": 1119.8,
+      "duration": 3.93
+    },
+    {
+      "text": "a very serious phenomenon then.",
+      "start": 1123.73,
+      "duration": 2.09
+    },
+    {
+      "text": "It goes way back.",
+      "start": 1125.82,
+      "duration": 2.14
+    },
+    {
+      "text": "I mean, you go back to the\nlate 19th century here,",
+      "start": 1127.96,
+      "duration": 3.795
+    },
+    {
+      "text": "the early Industrial Revolution,\nif an Irish blacksmith could",
+      "start": 1131.755,
+      "duration": 8.295
+    },
+    {
+      "text": "get enough money, he\nhired a boy to read",
+      "start": 1140.05,
+      "duration": 3.66
+    },
+    {
+      "text": "to him while he's working.",
+      "start": 1143.71,
+      "duration": 1.89
+    },
+    {
+      "text": "And reading meant what\nwe now call classics,",
+      "start": 1145.6,
+      "duration": 3.64
+    },
+    {
+      "text": "modern contemporary literature.",
+      "start": 1149.24,
+      "duration": 2.87
+    },
+    {
+      "text": "There were young\nwomen from the farms,",
+      "start": 1152.11,
+      "duration": 3.06
+    },
+    {
+      "text": "called factory girls,\nwho were compelled",
+      "start": 1155.17,
+      "duration": 3.24
+    },
+    {
+      "text": "to get into the textile\nfactories in eastern New",
+      "start": 1158.41,
+      "duration": 2.97
+    },
+    {
+      "text": "England.",
+      "start": 1161.38,
+      "duration": 0.51
+    },
+    {
+      "text": "And they had their\nown publications.",
+      "start": 1161.89,
+      "duration": 3.33
+    },
+    {
+      "text": "You read them.",
+      "start": 1165.22,
+      "duration": 0.63
+    },
+    {
+      "text": "They bitterly condemned the\nfact that the industrial system",
+      "start": 1165.85,
+      "duration": 4.92
+    },
+    {
+      "text": "was depriving them\nof their culture,",
+      "start": 1170.77,
+      "duration": 2.34
+    },
+    {
+      "text": "of their dignity,\ntheir independence.",
+      "start": 1173.11,
+      "duration": 2.93
+    },
+    {
+      "text": "You are selling yourself,\nnot what you produce.",
+      "start": 1176.04,
+      "duration": 3.49
+    },
+    {
+      "text": "It's quite different.",
+      "start": 1179.53,
+      "duration": 1.45
+    },
+    {
+      "text": "And part of it was an\nattack on the culture.",
+      "start": 1180.98,
+      "duration": 2.15
+    },
+    {
+      "text": "Same in England.",
+      "start": 1183.13,
+      "duration": 1.2
+    },
+    {
+      "text": "There's a massive study,\nan interesting study",
+      "start": 1184.33,
+      "duration": 2.34
+    },
+    {
+      "text": "by a guy named Jonathan\nRose of the reading habits",
+      "start": 1186.67,
+      "duration": 4.59
+    },
+    {
+      "text": "of the English working class.",
+      "start": 1191.26,
+      "duration": 2.78
+    },
+    {
+      "text": "And it turns out\nhis own conclusion",
+      "start": 1194.04,
+      "duration": 2.23
+    },
+    {
+      "text": "is that we're better educated\nthan the aristocrats.",
+      "start": 1196.27,
+      "duration": 3.13
+    },
+    {
+      "text": "And they may not\nhave gone to school.",
+      "start": 1199.4,
+      "duration": 2.64
+    },
+    {
+      "text": "They certainly\ndidn't go to Oxford,",
+      "start": 1202.04,
+      "duration": 2.03
+    },
+    {
+      "text": "but the working class,\nthe rising working class,",
+      "start": 1204.07,
+      "duration": 5.07
+    },
+    {
+      "text": "had its own institutions of\neducation and culture, which",
+      "start": 1209.14,
+      "duration": 4.17
+    },
+    {
+      "text": "was significant.",
+      "start": 1213.31,
+      "duration": 2.1
+    },
+    {
+      "text": "A lot of that has been\ndestroyed in all kinds of ways.",
+      "start": 1215.41,
+      "duration": 5.76
+    },
+    {
+      "text": "Google doesn't help.",
+      "start": 1221.17,
+      "duration": 1.61
+    },
+    {
+      "text": "But that's another story.",
+      "start": 1222.78,
+      "duration": 2.41
+    },
+    {
+      "text": "SPEAKER 1: Happy to do our part.",
+      "start": 1225.19,
+      "duration": 3.06
+    },
+    {
+      "text": "So I asked you about\npolitical activism,",
+      "start": 1228.25,
+      "duration": 1.92
+    },
+    {
+      "text": "and you talk about\nlearning a lot.",
+      "start": 1230.17,
+      "duration": 2.76
+    },
+    {
+      "text": "What part of that is--",
+      "start": 1232.93,
+      "duration": 1.55
+    },
+    {
+      "text": "what part of activism did you\ntake part in that was defining?",
+      "start": 1234.48,
+      "duration": 6.565
+    },
+    {
+      "text": "NOAM CHOMSKY: I was 12 years\nold, not a lot of activism.",
+      "start": 1241.045,
+      "duration": 3.075
+    },
+    {
+      "text": "But actually, the\nkind of activism",
+      "start": 1244.12,
+      "duration": 1.62
+    },
+    {
+      "text": "I was involved in\nmostly in those years",
+      "start": 1245.74,
+      "duration": 2.04
+    },
+    {
+      "text": "was within what was--",
+      "start": 1247.78,
+      "duration": 5.306
+    },
+    {
+      "text": "it's now called anti-Zionist.",
+      "start": 1253.086,
+      "duration": 2.164
+    },
+    {
+      "text": "At that time, it was Zionist.",
+      "start": 1255.25,
+      "duration": 3.44
+    },
+    {
+      "text": "My parents and my\nimmediate milieu",
+      "start": 1258.69,
+      "duration": 2.47
+    },
+    {
+      "text": "were deeply embedded\nin the whole revival",
+      "start": 1261.16,
+      "duration": 2.67
+    },
+    {
+      "text": "of Hebrew revival\nof Jewish culture,",
+      "start": 1263.83,
+      "duration": 2.7
+    },
+    {
+      "text": "connections to\nPalestine, and so on.",
+      "start": 1266.53,
+      "duration": 2.46
+    },
+    {
+      "text": "I kind of grew up with that.",
+      "start": 1268.99,
+      "duration": 1.92
+    },
+    {
+      "text": "And my own actual,\nmost of the activism",
+      "start": 1270.91,
+      "duration": 2.94
+    },
+    {
+      "text": "was internal to that system.",
+      "start": 1273.85,
+      "duration": 2.4
+    },
+    {
+      "text": "It was what is now\ncalled anti-Zionist.",
+      "start": 1276.25,
+      "duration": 3.0
+    },
+    {
+      "text": "It was strongly opposed to\na Jewish state in support",
+      "start": 1279.25,
+      "duration": 3.48
+    },
+    {
+      "text": "of Arab-Jewish working class\ncooperation in Palestine",
+      "start": 1282.73,
+      "duration": 5.01
+    },
+    {
+      "text": "with all kinds of\nideas about how",
+      "start": 1287.74,
+      "duration": 2.79
+    },
+    {
+      "text": "to create a society based on\nthe cooperatives and so on.",
+      "start": 1290.53,
+      "duration": 4.465
+    },
+    {
+      "text": "That kind of died in 1948.",
+      "start": 1294.995,
+      "duration": 3.125
+    },
+    {
+      "text": "But at the time, it was alive,\nsomething you could be part of.",
+      "start": 1298.12,
+      "duration": 4.905
+    },
+    {
+      "text": "And it extended to other things.",
+      "start": 1303.025,
+      "duration": 1.875
+    },
+    {
+      "text": "Like there wasn't much\nin the way of activism,",
+      "start": 1304.9,
+      "duration": 3.75
+    },
+    {
+      "text": "but when the British\nconquered Greece in 1944",
+      "start": 1308.65,
+      "duration": 6.96
+    },
+    {
+      "text": "and carried out\nbrutal repression",
+      "start": 1315.61,
+      "duration": 2.61
+    },
+    {
+      "text": "of the anti-fascist\nforces in Greece,",
+      "start": 1318.22,
+      "duration": 3.72
+    },
+    {
+      "text": "there were a couple of\nus who tried to protest,",
+      "start": 1321.94,
+      "duration": 3.63
+    },
+    {
+      "text": "whatever it meant when\nyou're 15 years old.",
+      "start": 1325.57,
+      "duration": 3.3
+    },
+    {
+      "text": "SPEAKER 1: You got very\nphysically involved.",
+      "start": 1328.87,
+      "duration": 2.745
+    },
+    {
+      "text": "NOAM CHOMSKY: There\nwasn't much you could do.",
+      "start": 1331.615,
+      "duration": 1.875
+    },
+    {
+      "text": "It was right in the\nmiddle of the war.",
+      "start": 1333.49,
+      "duration": 2.14
+    },
+    {
+      "text": "And there was a\nlot of patriotism,",
+      "start": 1335.63,
+      "duration": 3.32
+    },
+    {
+      "text": "dedication to the war effort.",
+      "start": 1338.95,
+      "duration": 1.92
+    },
+    {
+      "text": "Bringing up these things--",
+      "start": 1340.87,
+      "duration": 2.76
+    },
+    {
+      "text": "by the time the war started,\nthe political ferment",
+      "start": 1343.63,
+      "duration": 3.66
+    },
+    {
+      "text": "declined because of\ncommitment to the war effort.",
+      "start": 1347.29,
+      "duration": 5.26
+    },
+    {
+      "text": "It was just-- it\noverwhelmed everything else.",
+      "start": 1352.55,
+      "duration": 2.637
+    },
+    {
+      "text": "It was still around.",
+      "start": 1355.187,
+      "duration": 0.833
+    },
+    {
+      "text": "Like I was in high\nschool in the early '40s,",
+      "start": 1356.02,
+      "duration": 2.82
+    },
+    {
+      "text": "and it happened that\nthe high school I was in",
+      "start": 1358.84,
+      "duration": 2.49
+    },
+    {
+      "text": "was right next to a\nprisoner of war camp",
+      "start": 1361.33,
+      "duration": 3.75
+    },
+    {
+      "text": "where mostly German\nprisoners, and in those days,",
+      "start": 1365.08,
+      "duration": 3.33
+    },
+    {
+      "text": "security meant a wire fence.",
+      "start": 1368.41,
+      "duration": 2.56
+    },
+    {
+      "text": "So no big deal.",
+      "start": 1370.97,
+      "duration": 2.95
+    },
+    {
+      "text": "And a lot of the\nstudents were kind",
+      "start": 1373.92,
+      "duration": 2.32
+    },
+    {
+      "text": "of ridiculing, and mocking, and\nscreaming at the German POWs.",
+      "start": 1376.24,
+      "duration": 4.51
+    },
+    {
+      "text": "And a couple of us were strongly\nopposed to that, and tried to--",
+      "start": 1380.75,
+      "duration": 5.3
+    },
+    {
+      "text": "tried to get them to\nunderstand that they--",
+      "start": 1386.05,
+      "duration": 3.87
+    },
+    {
+      "text": "that there could be sort of--",
+      "start": 1389.92,
+      "duration": 1.8
+    },
+    {
+      "text": "like I said, it's not\nviolent the way it is today.",
+      "start": 1391.72,
+      "duration": 2.97
+    },
+    {
+      "text": "It's the kind of thing that\nyoung boys do, you know.",
+      "start": 1394.69,
+      "duration": 4.25
+    },
+    {
+      "text": "It was boys of course,\nit was segregated.",
+      "start": 1398.94,
+      "duration": 2.62
+    },
+    {
+      "text": "And we tried, a couple of,\nmaybe two or three of us,",
+      "start": 1401.56,
+      "duration": 3.15
+    },
+    {
+      "text": "to try to change the\nmood of the students",
+      "start": 1404.71,
+      "duration": 3.12
+    },
+    {
+      "text": "to understand that these guys\non the other side of the fence",
+      "start": 1407.83,
+      "duration": 3.81
+    },
+    {
+      "text": "are not criminals.",
+      "start": 1411.64,
+      "duration": 1.0
+    },
+    {
+      "text": "SPEAKER 1: So\nthat's fascinating.",
+      "start": 1412.64,
+      "duration": 1.375
+    },
+    {
+      "text": "What do you mean by we\ntried to change the mood?",
+      "start": 1414.015,
+      "duration": 2.665
+    },
+    {
+      "text": "Was that discourse?",
+      "start": 1416.68,
+      "duration": 1.76
+    },
+    {
+      "text": "NOAM CHOMSKY: To talk\nto people, education.",
+      "start": 1418.44,
+      "duration": 3.206
+    },
+    {
+      "text": "SPEAKER 1: And these\nare high school students",
+      "start": 1421.646,
+      "duration": 1.874
+    },
+    {
+      "text": "having intellectual discourse\nabout a prisoner of war camp",
+      "start": 1423.52,
+      "duration": 4.68
+    },
+    {
+      "text": "right next door to\nthe high school.",
+      "start": 1428.2,
+      "duration": 1.5
+    },
+    {
+      "text": "NOAM CHOMSKY: It's probably\neasier for high school students",
+      "start": 1429.7,
+      "duration": 2.48
+    },
+    {
+      "text": "than the Harvard faculty.",
+      "start": 1432.18,
+      "duration": 1.041
+    },
+    {
+      "text": "SPEAKER 1: I imagine that.",
+      "start": 1436.567,
+      "duration": 1.083
+    },
+    {
+      "text": "You'll forgive me for being\na product of my own time,",
+      "start": 1437.65,
+      "duration": 2.43
+    },
+    {
+      "text": "where I just can't even\nimagine a high school",
+      "start": 1440.08,
+      "duration": 2.58
+    },
+    {
+      "text": "next to a prison of war camp.",
+      "start": 1442.66,
+      "duration": 2.77
+    },
+    {
+      "text": "NOAM CHOMSKY: Well, and\nseparated by a wire fence.",
+      "start": 1445.43,
+      "duration": 2.64
+    },
+    {
+      "text": "SPEAKER 1: Right.",
+      "start": 1448.07,
+      "duration": 1.31
+    },
+    {
+      "text": "You became a little bit more\nperhaps politically active",
+      "start": 1449.38,
+      "duration": 3.48
+    },
+    {
+      "text": "later on in your life then.",
+      "start": 1452.86,
+      "duration": 1.41
+    },
+    {
+      "text": "NOAM CHOMSKY:\nPublicly articulate,",
+      "start": 1457.51,
+      "duration": 1.98
+    },
+    {
+      "text": "but the political\nactivism never changed.",
+      "start": 1459.49,
+      "duration": 2.13
+    },
+    {
+      "text": "It declined in the 50's.",
+      "start": 1461.62,
+      "duration": 1.59
+    },
+    {
+      "text": "The 50's were a pretty\nquiescent period.",
+      "start": 1463.21,
+      "duration": 4.32
+    },
+    {
+      "text": "Political activism\nwas pretty individual.",
+      "start": 1467.53,
+      "duration": 2.88
+    },
+    {
+      "text": "There was not a lot going on.",
+      "start": 1470.41,
+      "duration": 2.22
+    },
+    {
+      "text": "It was-- there were\nthings in the background,",
+      "start": 1472.63,
+      "duration": 3.61
+    },
+    {
+      "text": "but it was a pretty\nquiet, conformist period.",
+      "start": 1476.24,
+      "duration": 2.81
+    },
+    {
+      "text": "SPEAKER 1: But then, the '60's.",
+      "start": 1479.05,
+      "duration": 1.564
+    },
+    {
+      "text": "NOAM CHOMSKY: Early\n'60's, everything changed.",
+      "start": 1480.614,
+      "duration": 1.916
+    },
+    {
+      "text": "SPEAKER 1: Everything changed.",
+      "start": 1482.53,
+      "duration": 1.25
+    },
+    {
+      "text": "And you became then very active.",
+      "start": 1483.78,
+      "duration": 2.8
+    },
+    {
+      "text": "NOAM CHOMSKY: Publicly active.",
+      "start": 1486.58,
+      "duration": 2.58
+    },
+    {
+      "text": "It wasn't that much\nof a change for me,",
+      "start": 1489.16,
+      "duration": 2.55
+    },
+    {
+      "text": "personally, just a\ndifferent sphere.",
+      "start": 1491.71,
+      "duration": 2.902
+    },
+    {
+      "text": "SPEAKER 1: I see.",
+      "start": 1494.612,
+      "duration": 0.708
+    },
+    {
+      "text": "So what drove you to become\nmore publicly active?",
+      "start": 1495.32,
+      "duration": 3.92
+    },
+    {
+      "text": "NOAM CHOMSKY: John F. Kennedy.",
+      "start": 1499.24,
+      "duration": 2.58
+    },
+    {
+      "text": "Though it's still kind of like\noff the agenda in 1961 and '62,",
+      "start": 1501.82,
+      "duration": 9.48
+    },
+    {
+      "text": "that Kennedy very sharply\nescalated the Vietnam War.",
+      "start": 1511.3,
+      "duration": 4.5
+    },
+    {
+      "text": "It was already pretty awful.",
+      "start": 1515.8,
+      "duration": 2.41
+    },
+    {
+      "text": "The maybe 60 or 70,000\nSouth Vietnamese",
+      "start": 1518.21,
+      "duration": 4.54
+    },
+    {
+      "text": "had already been\nkilled by the regime",
+      "start": 1522.75,
+      "duration": 3.64
+    },
+    {
+      "text": "that the US had imposed in\nthe 1950's, but it was kind of",
+      "start": 1526.39,
+      "duration": 4.74
+    },
+    {
+      "text": "under the radar, like\nyou were seeing--",
+      "start": 1531.13,
+      "duration": 2.1
+    },
+    {
+      "text": "you can find out about it,\nbut you weren't seen much.",
+      "start": 1533.23,
+      "duration": 3.09
+    },
+    {
+      "text": "By '61 and '62, the repression\nof the South Vietnamese regime",
+      "start": 1536.32,
+      "duration": 5.57
+    },
+    {
+      "text": "we'd installed in violation\nof the Geneva Accords",
+      "start": 1541.89,
+      "duration": 4.51
+    },
+    {
+      "text": "had become so harsh that a\npopular rebellion sprang up.",
+      "start": 1546.4,
+      "duration": 8.36
+    },
+    {
+      "text": "The north actually opposed it.",
+      "start": 1554.76,
+      "duration": 3.245
+    },
+    {
+      "text": "They wanted to\nbuild the country,",
+      "start": 1558.005,
+      "duration": 1.545
+    },
+    {
+      "text": "not get involved in a\nconflict with the US.",
+      "start": 1559.55,
+      "duration": 3.44
+    },
+    {
+      "text": "But the National\nLiberation Front,",
+      "start": 1562.99,
+      "duration": 2.43
+    },
+    {
+      "text": "what propaganda calls the Viet\nCong, were beginning to cause--",
+      "start": 1565.42,
+      "duration": 7.88
+    },
+    {
+      "text": "beginning to develop and become\nactive in the late '50's.",
+      "start": 1573.3,
+      "duration": 4.78
+    },
+    {
+      "text": "And that the regime\ncouldn't contain them.",
+      "start": 1578.08,
+      "duration": 3.12
+    },
+    {
+      "text": "So there was a crisis.",
+      "start": 1581.2,
+      "duration": 2.85
+    },
+    {
+      "text": "Kennedy decided to\nescalate the war.",
+      "start": 1584.05,
+      "duration": 3.45
+    },
+    {
+      "text": "The US Air Force began to\nbomb South Vietnamese targets",
+      "start": 1587.5,
+      "duration": 5.31
+    },
+    {
+      "text": "under South Vietnamese markings.",
+      "start": 1592.81,
+      "duration": 3.06
+    },
+    {
+      "text": "Like the planes had South\nVietnamese markings,",
+      "start": 1595.87,
+      "duration": 2.34
+    },
+    {
+      "text": "but nobody's fooled.",
+      "start": 1598.21,
+      "duration": 1.93
+    },
+    {
+      "text": "I learned about it\nmyself in a small item,",
+      "start": 1600.14,
+      "duration": 4.89
+    },
+    {
+      "text": "maybe 10 lines in a back\npage of the New York Times,",
+      "start": 1605.03,
+      "duration": 3.32
+    },
+    {
+      "text": "which just happened\nto mention casually",
+      "start": 1608.35,
+      "duration": 2.69
+    },
+    {
+      "text": "that the US Air Force is bombing\nSouth Vietnamese targets.",
+      "start": 1611.04,
+      "duration": 5.26
+    },
+    {
+      "text": "They authorized Napalm, they\nstarted chemical warfare,",
+      "start": 1616.3,
+      "duration": 4.9
+    },
+    {
+      "text": "serious chemical warfare to try\nto destroy crops and livestock,",
+      "start": 1621.2,
+      "duration": 4.47
+    },
+    {
+      "text": "to starve out the population.",
+      "start": 1625.67,
+      "duration": 2.5
+    },
+    {
+      "text": "They began programs\nto drive people",
+      "start": 1628.17,
+      "duration": 4.3
+    },
+    {
+      "text": "into what amounted to\nconcentration camps.",
+      "start": 1632.47,
+      "duration": 2.9
+    },
+    {
+      "text": "They were called\nstrategic hamlets",
+      "start": 1635.37,
+      "duration": 1.75
+    },
+    {
+      "text": "where peasants were driven\noff the land, driven",
+      "start": 1637.12,
+      "duration": 4.77
+    },
+    {
+      "text": "into these places,\ninto urban slums.",
+      "start": 1641.89,
+      "duration": 2.42
+    },
+    {
+      "text": "And the official rhetoric\nwas to protect them",
+      "start": 1644.31,
+      "duration": 3.76
+    },
+    {
+      "text": "from the guerrillas, which in\nfact, the government knew very",
+      "start": 1648.07,
+      "duration": 4.59
+    },
+    {
+      "text": "well that they were supporting.",
+      "start": 1652.66,
+      "duration": 2.75
+    },
+    {
+      "text": "It wasn't widely reported,\nbut if you looked carefully.",
+      "start": 1655.41,
+      "duration": 3.7
+    },
+    {
+      "text": "And from my own experience back\nin the late '30's, early '40's,",
+      "start": 1659.11,
+      "duration": 4.6
+    },
+    {
+      "text": "I knew that you really\nhad to look carefully,",
+      "start": 1663.71,
+      "duration": 2.51
+    },
+    {
+      "text": "you know, take a look\nat the headlines.",
+      "start": 1666.22,
+      "duration": 2.55
+    },
+    {
+      "text": "Put together what's lying behind\nthem, like the Texaco story.",
+      "start": 1668.77,
+      "duration": 4.24
+    },
+    {
+      "text": "And it was pretty clear that\nthere was a sharp escalation",
+      "start": 1673.01,
+      "duration": 3.58
+    },
+    {
+      "text": "of the war going on.",
+      "start": 1676.59,
+      "duration": 1.69
+    },
+    {
+      "text": "So I did try to become active.",
+      "start": 1678.28,
+      "duration": 2.69
+    },
+    {
+      "text": "Being active at that time\nmeant giving a talk to couple",
+      "start": 1680.97,
+      "duration": 7.3
+    },
+    {
+      "text": "of people in somebody's living\nroom, or maybe in a church",
+      "start": 1688.27,
+      "duration": 5.19
+    },
+    {
+      "text": "where there were\nfour people, you",
+      "start": 1693.46,
+      "duration": 2.41
+    },
+    {
+      "text": "know the minister, who\nwas mildly sympathetic,",
+      "start": 1695.87,
+      "duration": 5.27
+    },
+    {
+      "text": "some drunk who walked in from\nthe street, another guy who",
+      "start": 1701.14,
+      "duration": 4.02
+    },
+    {
+      "text": "wanted to kill you, and\nmaybe one person who was--",
+      "start": 1705.16,
+      "duration": 2.774
+    },
+    {
+      "text": "SPEAKER 1: Sounds like a\ngreat way to start a movement.",
+      "start": 1707.934,
+      "duration": 2.291
+    },
+    {
+      "text": "NOAM CHOMSKY: Yeah,\nthat's what it was like.",
+      "start": 1710.225,
+      "duration": 1.833
+    },
+    {
+      "text": "But later it changed,\nbut it took years.",
+      "start": 1712.058,
+      "duration": 2.552
+    },
+    {
+      "text": "I mean, it wasn't until--",
+      "start": 1714.61,
+      "duration": 1.11
+    },
+    {
+      "text": "right here in\nBoston, those of you",
+      "start": 1718.45,
+      "duration": 1.93
+    },
+    {
+      "text": "are old enough may\nremember, but in Boston,",
+      "start": 1720.38,
+      "duration": 3.57
+    },
+    {
+      "text": "which is a pretty liberal city,\nthe first public demonstration",
+      "start": 1723.95,
+      "duration": 5.0
+    },
+    {
+      "text": "against the war was\nin October 1965.",
+      "start": 1728.95,
+      "duration": 4.922
+    },
+    {
+      "text": "Internationally, an\ninternational day of protest",
+      "start": 1733.872,
+      "duration": 4.848
+    },
+    {
+      "text": "was called.",
+      "start": 1738.72,
+      "duration": 1.14
+    },
+    {
+      "text": "So we decided we'll\ntake part in it,",
+      "start": 1739.86,
+      "duration": 3.19
+    },
+    {
+      "text": "and there was a march from\nHarvard Square to the Boston",
+      "start": 1743.05,
+      "duration": 4.19
+    },
+    {
+      "text": "Common.",
+      "start": 1747.24,
+      "duration": 1.38
+    },
+    {
+      "text": "Supposed to be a\ndemonstration there.",
+      "start": 1748.62,
+      "duration": 2.3
+    },
+    {
+      "text": "I was supposed to be\none of the speakers.",
+      "start": 1750.92,
+      "duration": 2.42
+    },
+    {
+      "text": "It was violently broken up\nby counter-demonstrators,",
+      "start": 1753.34,
+      "duration": 5.06
+    },
+    {
+      "text": "a lot of them students.",
+      "start": 1758.4,
+      "duration": 1.85
+    },
+    {
+      "text": "There were a lot\nof state police,",
+      "start": 1760.25,
+      "duration": 2.83
+    },
+    {
+      "text": "which is the only reason\nwe didn't get killed.",
+      "start": 1763.08,
+      "duration": 2.01
+    },
+    {
+      "text": "Nobody could hear the speakers.",
+      "start": 1765.09,
+      "duration": 1.291
+    },
+    {
+      "text": "It was impossible.",
+      "start": 1766.381,
+      "duration": 1.349
+    },
+    {
+      "text": "Take a look the Boston\nGlobe the next day.",
+      "start": 1767.73,
+      "duration": 3.95
+    },
+    {
+      "text": "It praised the\ncounter-demonstrators,",
+      "start": 1771.68,
+      "duration": 3.2
+    },
+    {
+      "text": "denounced the\ndemonstrators for daring",
+      "start": 1774.88,
+      "duration": 4.28
+    },
+    {
+      "text": "to question our great country,\nand what it's doing, and so on.",
+      "start": 1779.16,
+      "duration": 5.49
+    },
+    {
+      "text": "March 1966 was the next\ninternational day of protest,",
+      "start": 1784.65,
+      "duration": 5.31
+    },
+    {
+      "text": "and we realized we couldn't\nhave a public demonstration.",
+      "start": 1789.96,
+      "duration": 2.97
+    },
+    {
+      "text": "So we had a meeting at the\nArlington Street Church.",
+      "start": 1792.93,
+      "duration": 3.21
+    },
+    {
+      "text": "The church was attacked.",
+      "start": 1796.14,
+      "duration": 2.09
+    },
+    {
+      "text": "Again, tomatoes,\ncans, and so on.",
+      "start": 1798.23,
+      "duration": 5.25
+    },
+    {
+      "text": "At that time, there were\nalready a couple 100,000",
+      "start": 1803.48,
+      "duration": 2.83
+    },
+    {
+      "text": "American troops rampaging\nin South Vietnam.",
+      "start": 1806.31,
+      "duration": 3.06
+    },
+    {
+      "text": "It took a long time,\nand the country",
+      "start": 1809.37,
+      "duration": 2.22
+    },
+    {
+      "text": "was practically destroyed.",
+      "start": 1811.59,
+      "duration": 2.35
+    },
+    {
+      "text": "But at that time, Bernard\nFall, who was actually a hawk,",
+      "start": 1813.94,
+      "duration": 5.92
+    },
+    {
+      "text": "but was a highly respected\nand serious military historian",
+      "start": 1819.86,
+      "duration": 6.91
+    },
+    {
+      "text": "and Vietnam specialist,\nand by the US government,",
+      "start": 1826.77,
+      "duration": 3.45
+    },
+    {
+      "text": "he was the one\nnon-government specialist",
+      "start": 1830.22,
+      "duration": 2.82
+    },
+    {
+      "text": "who was respected, rightly.",
+      "start": 1833.04,
+      "duration": 2.97
+    },
+    {
+      "text": "He was a hawk, but he cared\nabout the Vietnamese people.",
+      "start": 1836.01,
+      "duration": 3.52
+    },
+    {
+      "text": "And he was writing at the time,\n'66, '67, that he wasn't sure",
+      "start": 1839.53,
+      "duration": 5.51
+    },
+    {
+      "text": "that Vietnam could survive as\na cultural and historic entity",
+      "start": 1845.04,
+      "duration": 5.76
+    },
+    {
+      "text": "under the most savage attack\nthat any region that size",
+      "start": 1850.8,
+      "duration": 4.59
+    },
+    {
+      "text": "had ever suffered.",
+      "start": 1855.39,
+      "duration": 1.65
+    },
+    {
+      "text": "At that point, you're\njust barely beginning",
+      "start": 1857.04,
+      "duration": 2.34
+    },
+    {
+      "text": "to get some visible protest.",
+      "start": 1859.38,
+      "duration": 2.73
+    },
+    {
+      "text": "It's changed a lot.",
+      "start": 1862.11,
+      "duration": 1.69
+    },
+    {
+      "text": "The country's become much\nmore civilized since then.",
+      "start": 1863.8,
+      "duration": 2.973
+    },
+    {
+      "text": "By now, the opposition to\naggression and violence",
+      "start": 1866.773,
+      "duration": 4.097
+    },
+    {
+      "text": "is far more widespread.",
+      "start": 1870.87,
+      "duration": 1.92
+    },
+    {
+      "text": "Governments just can't do--",
+      "start": 1872.79,
+      "duration": 3.15
+    },
+    {
+      "text": "like say the\ninvasion of Iraq, is",
+      "start": 1875.94,
+      "duration": 2.64
+    },
+    {
+      "text": "the first time in the entire\nhistory of imperialism",
+      "start": 1878.58,
+      "duration": 3.93
+    },
+    {
+      "text": "that there was massive protest\nbefore the invasion actually",
+      "start": 1882.51,
+      "duration": 6.48
+    },
+    {
+      "text": "took place.",
+      "start": 1888.99,
+      "duration": 1.94
+    },
+    {
+      "text": "And it was pretty horrible what\nhappened and not to go into it,",
+      "start": 1890.93,
+      "duration": 4.84
+    },
+    {
+      "text": "but the Bush\nadministration could never",
+      "start": 1895.77,
+      "duration": 2.31
+    },
+    {
+      "text": "contemplate what the\nKennedy administration just",
+      "start": 1898.08,
+      "duration": 3.12
+    },
+    {
+      "text": "did without any second thought.",
+      "start": 1901.2,
+      "duration": 1.63
+    },
+    {
+      "text": "The public has just\nchanged too much.",
+      "start": 1902.83,
+      "duration": 2.7
+    },
+    {
+      "text": "SPEAKER 1: So over\nyour extensive career",
+      "start": 1905.53,
+      "duration": 3.92
+    },
+    {
+      "text": "in being an activist in\nmany different veins,",
+      "start": 1909.45,
+      "duration": 3.15
+    },
+    {
+      "text": "obviously you learned\na lot along the way.",
+      "start": 1912.6,
+      "duration": 2.97
+    },
+    {
+      "text": "And it's useful to share\ninformation with the world",
+      "start": 1915.57,
+      "duration": 2.31
+    },
+    {
+      "text": "as you do--",
+      "start": 1917.88,
+      "duration": 1.03
+    },
+    {
+      "text": "NOAM CHOMSKY: I'll\ngive you one example,",
+      "start": 1918.91,
+      "duration": 1.88
+    },
+    {
+      "text": "which is kind of interesting.",
+      "start": 1920.79,
+      "duration": 1.27
+    },
+    {
+      "text": "Maybe 30 years from now\nit will enter awareness.",
+      "start": 1922.06,
+      "duration": 3.32
+    },
+    {
+      "text": "But take the Texaco Oil Company\nand the Spanish Civil War.",
+      "start": 1925.38,
+      "duration": 6.15
+    },
+    {
+      "text": "That was repeated under\nthe Clinton administration.",
+      "start": 1931.53,
+      "duration": 6.84
+    },
+    {
+      "text": "Virtually the same thing.",
+      "start": 1938.37,
+      "duration": 2.43
+    },
+    {
+      "text": "Under the Clinton,\nthere was in Haiti,",
+      "start": 1940.8,
+      "duration": 5.55
+    },
+    {
+      "text": "for the first time\nin its history,",
+      "start": 1946.35,
+      "duration": 2.17
+    },
+    {
+      "text": "there was a free\nelection in 1990.",
+      "start": 1948.52,
+      "duration": 3.31
+    },
+    {
+      "text": "And it was won by a\npriest, Aristide, who",
+      "start": 1951.83,
+      "duration": 10.4
+    },
+    {
+      "text": "nobody paid any attention to.",
+      "start": 1962.23,
+      "duration": 1.7
+    },
+    {
+      "text": "He was supported\nby the people who",
+      "start": 1963.93,
+      "duration": 2.91
+    },
+    {
+      "text": "were considered not\nworth looking at,",
+      "start": 1966.84,
+      "duration": 2.02
+    },
+    {
+      "text": "the urban slums, rural areas,\na lot of grassroots activism.",
+      "start": 1968.86,
+      "duration": 5.15
+    },
+    {
+      "text": "And to everyone's surprise,\nhe won the election.",
+      "start": 1974.01,
+      "duration": 2.94
+    },
+    {
+      "text": "They expected the US candidate\nwould win, Marc Bazin,",
+      "start": 1976.95,
+      "duration": 3.535
+    },
+    {
+      "text": "the World Bank guy.",
+      "start": 1980.485,
+      "duration": 2.315
+    },
+    {
+      "text": "But Aristide won the\nelection and he instituted--",
+      "start": 1982.8,
+      "duration": 5.71
+    },
+    {
+      "text": "the main question was when will\nthe military coup take place.",
+      "start": 1988.51,
+      "duration": 4.14
+    },
+    {
+      "text": "It turned about\nseven months later.",
+      "start": 1992.65,
+      "duration": 2.49
+    },
+    {
+      "text": "It's quite interesting\nwhat happened.",
+      "start": 1995.14,
+      "duration": 1.67
+    },
+    {
+      "text": "But the military\ncoup took place.",
+      "start": 1996.81,
+      "duration": 2.4
+    },
+    {
+      "text": "A vicious brutal terror began.",
+      "start": 1999.21,
+      "duration": 4.77
+    },
+    {
+      "text": "The US actually tacitly\nsupported it in many ways.",
+      "start": 2003.98,
+      "duration": 5.735
+    },
+    {
+      "text": "In 1994, the Clinton\nadministration",
+      "start": 2009.715,
+      "duration": 5.275
+    },
+    {
+      "text": "decided, OK, enough\nterror had taken place",
+      "start": 2014.99,
+      "duration": 2.83
+    },
+    {
+      "text": "so that the population subdued.",
+      "start": 2017.82,
+      "duration": 2.66
+    },
+    {
+      "text": "We can now allow the\npresident to return.",
+      "start": 2020.48,
+      "duration": 3.23
+    },
+    {
+      "text": "The eve-- there was a\nmarine landing in 1994.",
+      "start": 2023.71,
+      "duration": 4.9
+    },
+    {
+      "text": "Everyone paying attention to it.",
+      "start": 2028.61,
+      "duration": 1.41
+    },
+    {
+      "text": "It was quite public.",
+      "start": 2030.02,
+      "duration": 1.74
+    },
+    {
+      "text": "At the time, I happened to be--",
+      "start": 2031.76,
+      "duration": 4.02
+    },
+    {
+      "text": "there was a guy at\nMIT who was working",
+      "start": 2035.78,
+      "duration": 2.05
+    },
+    {
+      "text": "on a project of experimenting\nto allow people to have access",
+      "start": 2037.83,
+      "duration": 5.07
+    },
+    {
+      "text": "to the AP wires, which\nis pretty interesting.",
+      "start": 2042.9,
+      "duration": 3.09
+    },
+    {
+      "text": "Because what you get\nwhen you look at the AP",
+      "start": 2045.99,
+      "duration": 2.34
+    },
+    {
+      "text": "wires is just raw news,\nstuff pouring out constantly.",
+      "start": 2048.33,
+      "duration": 4.92
+    },
+    {
+      "text": "The AP wires feature\na story every day,",
+      "start": 2053.25,
+      "duration": 3.6
+    },
+    {
+      "text": "keeps repeating, to editors,\nhere's the big story.",
+      "start": 2056.85,
+      "duration": 4.38
+    },
+    {
+      "text": "The day before the\nmarine invasion of Haiti,",
+      "start": 2061.23,
+      "duration": 5.469
+    },
+    {
+      "text": "the big story was the\nTreasury Department",
+      "start": 2066.699,
+      "duration": 4.25
+    },
+    {
+      "text": "concedes the Texaco Oil\nCompany has been providing oil",
+      "start": 2070.949,
+      "duration": 5.641
+    },
+    {
+      "text": "to the military junta while\nthe CIA and the Clinton",
+      "start": 2076.59,
+      "duration": 3.93
+    },
+    {
+      "text": "administration were denying\nthat any oil was going to them.",
+      "start": 2080.52,
+      "duration": 3.6
+    },
+    {
+      "text": "Well, I was going to\nwrite an article about it.",
+      "start": 2084.12,
+      "duration": 2.4
+    },
+    {
+      "text": "But the article\nthat I would write",
+      "start": 2086.52,
+      "duration": 1.59
+    },
+    {
+      "text": "would come out two months\nlater, so I figure it's not",
+      "start": 2088.11,
+      "duration": 3.182
+    },
+    {
+      "text": "even worth mentioning this.",
+      "start": 2091.292,
+      "duration": 1.248
+    },
+    {
+      "text": "It'll be public news.",
+      "start": 2092.54,
+      "duration": 2.79
+    },
+    {
+      "text": "It's still not been reported.",
+      "start": 2095.33,
+      "duration": 2.936
+    },
+    {
+      "text": "Those are the things\nthat happen in the world",
+      "start": 2098.266,
+      "duration": 1.874
+    },
+    {
+      "text": "if you pay attention.",
+      "start": 2100.14,
+      "duration": 1.39
+    },
+    {
+      "text": "SPEAKER 1: So you've\nobviously been",
+      "start": 2101.53,
+      "duration": 1.458
+    },
+    {
+      "text": "very successful on reporting\non these types of things",
+      "start": 2102.988,
+      "duration": 3.932
+    },
+    {
+      "text": "and raising awareness.",
+      "start": 2106.92,
+      "duration": 0.96
+    },
+    {
+      "text": "And that has been one\navenue for your activism.",
+      "start": 2107.88,
+      "duration": 3.45
+    },
+    {
+      "text": "I wonder, is this\nintrinsic to who you are?",
+      "start": 2111.33,
+      "duration": 3.96
+    },
+    {
+      "text": "Or how you approach knowledge?",
+      "start": 2115.29,
+      "duration": 1.74
+    },
+    {
+      "text": "Why aren't there more Noam\nChomsky's in the world?",
+      "start": 2117.03,
+      "duration": 3.4
+    },
+    {
+      "text": "NOAM CHOMSKY: I think\nthere are plenty of them.",
+      "start": 2120.43,
+      "duration": 2.35
+    },
+    {
+      "text": "For example, why is Bernie\nSanders the most popular figure",
+      "start": 2122.78,
+      "duration": 4.24
+    },
+    {
+      "text": "in the United States, political\nfigure in the United States",
+      "start": 2127.02,
+      "duration": 2.79
+    },
+    {
+      "text": "by a huge margin?",
+      "start": 2129.81,
+      "duration": 1.125
+    },
+    {
+      "text": "Where are those people who pick\nhim as the most popular person?",
+      "start": 2133.92,
+      "duration": 5.19
+    },
+    {
+      "text": "I mean, they may not be well\nknown, but they're there.",
+      "start": 2139.11,
+      "duration": 3.394
+    },
+    {
+      "text": "SPEAKER 1: I should think\nthat as a percentage",
+      "start": 2142.504,
+      "duration": 1.916
+    },
+    {
+      "text": "of the rest of the\npeople out there",
+      "start": 2144.42,
+      "duration": 2.94
+    },
+    {
+      "text": "who are active in the\nsame way, very few of them",
+      "start": 2147.36,
+      "duration": 2.79
+    },
+    {
+      "text": "are as educated as you\nhave made yourself.",
+      "start": 2150.15,
+      "duration": 2.926
+    },
+    {
+      "text": "NOAM CHOMSKY:\nYou'd be surprised.",
+      "start": 2153.076,
+      "duration": 1.589
+    },
+    {
+      "text": "I mean, people may not know\nthings about the whole world,",
+      "start": 2157.27,
+      "duration": 2.99
+    },
+    {
+      "text": "but they know things about\ntheir lives and the situation",
+      "start": 2160.26,
+      "duration": 3.21
+    },
+    {
+      "text": "that they're in.",
+      "start": 2163.47,
+      "duration": 1.181
+    },
+    {
+      "text": "Take a look at polls.",
+      "start": 2164.651,
+      "duration": 0.874
+    },
+    {
+      "text": "An issue that's right in the\nmain headlines, health care.",
+      "start": 2171.15,
+      "duration": 4.68
+    },
+    {
+      "text": "What do people think\nabout health care?",
+      "start": 2175.83,
+      "duration": 2.52
+    },
+    {
+      "text": "Well, it turns out\nthat over a long period",
+      "start": 2178.35,
+      "duration": 4.23
+    },
+    {
+      "text": "most of the population has\nsupported a national health",
+      "start": 2182.58,
+      "duration": 2.99
+    },
+    {
+      "text": "care system, the kind\nthat other countries have.",
+      "start": 2185.57,
+      "duration": 4.69
+    },
+    {
+      "text": "Which is pretty remarkable,\nbecause nobody publicly",
+      "start": 2190.26,
+      "duration": 2.43
+    },
+    {
+      "text": "advocates it.",
+      "start": 2192.69,
+      "duration": 1.42
+    },
+    {
+      "text": "When Obama put through\nthe Affordable Care Act,",
+      "start": 2194.11,
+      "duration": 5.17
+    },
+    {
+      "text": "at the time,\ninitially, there was",
+      "start": 2199.28,
+      "duration": 4.06
+    },
+    {
+      "text": "what was called a\npublic option, which",
+      "start": 2203.34,
+      "duration": 2.4
+    },
+    {
+      "text": "means you could choose\nto have essentially",
+      "start": 2205.74,
+      "duration": 4.32
+    },
+    {
+      "text": "Medicare, national health care.",
+      "start": 2210.06,
+      "duration": 3.39
+    },
+    {
+      "text": "Almost two thirds\nof the population",
+      "start": 2213.45,
+      "duration": 1.62
+    },
+    {
+      "text": "favored it, even\nthough there was",
+      "start": 2215.07,
+      "duration": 1.83
+    },
+    {
+      "text": "no public articulated\nsupport for it.",
+      "start": 2216.9,
+      "duration": 2.52
+    },
+    {
+      "text": "It was dropped, of\ncourse, without comment.",
+      "start": 2219.42,
+      "duration": 2.53
+    },
+    {
+      "text": "You go back a little farther,\nsay to the Reagan years,",
+      "start": 2221.95,
+      "duration": 3.905
+    },
+    {
+      "text": "it turned out that about\n70% of the population",
+      "start": 2225.855,
+      "duration": 5.145
+    },
+    {
+      "text": "thought that guaranteed\nhealth care should",
+      "start": 2231.0,
+      "duration": 3.75
+    },
+    {
+      "text": "be in the Constitution,\nbecause it's an obvious right.",
+      "start": 2234.75,
+      "duration": 4.82
+    },
+    {
+      "text": "And about 40% thought it\nalready was in the Constitution.",
+      "start": 2239.57,
+      "duration": 4.72
+    },
+    {
+      "text": "The Constitution is just\nsome holy writ, which",
+      "start": 2244.29,
+      "duration": 3.01
+    },
+    {
+      "text": "has everything good in it.",
+      "start": 2247.3,
+      "duration": 1.79
+    },
+    {
+      "text": "So it must have had\nguaranteed health care,",
+      "start": 2249.09,
+      "duration": 2.91
+    },
+    {
+      "text": "because it's so obvious.",
+      "start": 2252.0,
+      "duration": 1.74
+    },
+    {
+      "text": "That's the public.",
+      "start": 2253.74,
+      "duration": 1.65
+    },
+    {
+      "text": "Of course, it's not the elites.",
+      "start": 2255.39,
+      "duration": 2.91
+    },
+    {
+      "text": "It's not the media.",
+      "start": 2258.3,
+      "duration": 1.38
+    },
+    {
+      "text": "It's not the elite discourse.",
+      "start": 2259.68,
+      "duration": 3.42
+    },
+    {
+      "text": "In fact, whenever the\npossibility is mentioned,",
+      "start": 2263.1,
+      "duration": 4.2
+    },
+    {
+      "text": "it's called politically\nimpossible or lacking",
+      "start": 2267.3,
+      "duration": 4.11
+    },
+    {
+      "text": "political support,\nwhich is accurate",
+      "start": 2271.41,
+      "duration": 2.76
+    },
+    {
+      "text": "if by political support\nyou mean the pharmaceutical",
+      "start": 2274.17,
+      "duration": 3.18
+    },
+    {
+      "text": "corporations, and the\ninsurance companies, and so on.",
+      "start": 2277.35,
+      "duration": 2.7
+    },
+    {
+      "text": "Yeah, they don't support it.",
+      "start": 2280.05,
+      "duration": 1.73
+    },
+    {
+      "text": "And the way our democracy\nworks, that's political support.",
+      "start": 2281.78,
+      "duration": 4.06
+    },
+    {
+      "text": "But the public is there.",
+      "start": 2285.84,
+      "duration": 2.08
+    },
+    {
+      "text": "And is it educated?",
+      "start": 2287.92,
+      "duration": 1.825
+    },
+    {
+      "text": "I mean, where do people\nget these ideas from?",
+      "start": 2289.745,
+      "duration": 2.865
+    },
+    {
+      "text": "Take say the Vietnam War.",
+      "start": 2292.61,
+      "duration": 1.45
+    },
+    {
+      "text": "That's a very, very\ninteresting, revealing situation",
+      "start": 2294.06,
+      "duration": 4.56
+    },
+    {
+      "text": "at the end of the Vietnam War.",
+      "start": 2298.62,
+      "duration": 2.25
+    },
+    {
+      "text": "When the Vietnam\nWar ended in 1975,",
+      "start": 2300.87,
+      "duration": 3.09
+    },
+    {
+      "text": "every famous person had to\nmake a statement about it.",
+      "start": 2303.96,
+      "duration": 4.59
+    },
+    {
+      "text": "There's a ton of material\nabout looking back",
+      "start": 2308.55,
+      "duration": 3.39
+    },
+    {
+      "text": "at the Vietnam War, what\ndid it mean, and so on.",
+      "start": 2311.94,
+      "duration": 3.37
+    },
+    {
+      "text": "And there was a spectrum.",
+      "start": 2315.31,
+      "duration": 1.22
+    },
+    {
+      "text": "I've written about it.",
+      "start": 2316.53,
+      "duration": 1.014
+    },
+    {
+      "text": "Went through it.",
+      "start": 2317.544,
+      "duration": 0.666
+    },
+    {
+      "text": "There's a spectrum.",
+      "start": 2318.21,
+      "duration": 1.45
+    },
+    {
+      "text": "At one end it said it was a\nnoble cause, if we'd fought",
+      "start": 2319.66,
+      "duration": 6.05
+    },
+    {
+      "text": "harder, we could have won.",
+      "start": 2325.71,
+      "duration": 2.67
+    },
+    {
+      "text": "We have to honor the effort.",
+      "start": 2328.38,
+      "duration": 2.16
+    },
+    {
+      "text": "Obama agrees with this.",
+      "start": 2330.54,
+      "duration": 2.22
+    },
+    {
+      "text": "That's the hawkish end.",
+      "start": 2332.76,
+      "duration": 2.41
+    },
+    {
+      "text": "Then you go over to what's\ncalled the left, you know,",
+      "start": 2335.17,
+      "duration": 5.28
+    },
+    {
+      "text": "the critical end.",
+      "start": 2340.45,
+      "duration": 1.8
+    },
+    {
+      "text": "And people, like\nsay, Anthony Lewis,",
+      "start": 2342.25,
+      "duration": 2.79
+    },
+    {
+      "text": "who was one of the most\nharshest critics of the war,",
+      "start": 2345.04,
+      "duration": 3.57
+    },
+    {
+      "text": "way out on the left,\nhe wrote an article",
+      "start": 2348.61,
+      "duration": 2.37
+    },
+    {
+      "text": "in which he said the\nwar, and I'm quoting,",
+      "start": 2350.98,
+      "duration": 2.76
+    },
+    {
+      "text": "\"The war began with blundering\nefforts to do good.\"",
+      "start": 2353.74,
+      "duration": 5.1
+    },
+    {
+      "text": "Notice that that's an axiom.",
+      "start": 2358.84,
+      "duration": 2.35
+    },
+    {
+      "text": "You don't have to give\nevidence for that.",
+      "start": 2361.19,
+      "duration": 2.72
+    },
+    {
+      "text": "If we did it, it was\nefforts to do good",
+      "start": 2363.91,
+      "duration": 3.33
+    },
+    {
+      "text": "by definition, on the left,\nwhat's called the left.",
+      "start": 2367.24,
+      "duration": 4.53
+    },
+    {
+      "text": "Blundering, because\nit didn't work.",
+      "start": 2371.77,
+      "duration": 2.18
+    },
+    {
+      "text": "So it began with blundering\nefforts to do good.",
+      "start": 2373.95,
+      "duration": 3.37
+    },
+    {
+      "text": "But by 1969, it had become\nclear that it was a disaster.",
+      "start": 2377.32,
+      "duration": 5.89
+    },
+    {
+      "text": "We couldn't bring\ndemocracy to Vietnam",
+      "start": 2383.21,
+      "duration": 3.29
+    },
+    {
+      "text": "at a cost acceptable\nto ourselves.",
+      "start": 2386.5,
+      "duration": 3.1
+    },
+    {
+      "text": "That's the critical end, OK?",
+      "start": 2389.6,
+      "duration": 3.764
+    },
+    {
+      "text": "You don't have to\ngive an argument",
+      "start": 2393.364,
+      "duration": 1.416
+    },
+    {
+      "text": "to say we're trying\nto bring democracy.",
+      "start": 2394.78,
+      "duration": 1.77
+    },
+    {
+      "text": "That's also an axiom.",
+      "start": 2396.55,
+      "duration": 1.33
+    },
+    {
+      "text": "That's kind of a principle\nyou don't question,",
+      "start": 2397.88,
+      "duration": 3.05
+    },
+    {
+      "text": "it's 2 plus 2 equals 4.",
+      "start": 2400.93,
+      "duration": 2.304
+    },
+    {
+      "text": "Well, at the very\nsame time, there",
+      "start": 2403.234,
+      "duration": 1.416
+    },
+    {
+      "text": "were polls taken\namong the public.",
+      "start": 2404.65,
+      "duration": 2.865
+    },
+    {
+      "text": "And what did they find?",
+      "start": 2407.515,
+      "duration": 2.225
+    },
+    {
+      "text": "They found that around\n70% of the public",
+      "start": 2409.74,
+      "duration": 3.19
+    },
+    {
+      "text": "said the war was\nnot a mistake, it",
+      "start": 2412.93,
+      "duration": 2.7
+    },
+    {
+      "text": "was fundamentally\nand morally wrong.",
+      "start": 2415.63,
+      "duration": 3.44
+    },
+    {
+      "text": "And that went on as\nlong as the polls were",
+      "start": 2419.07,
+      "duration": 2.47
+    },
+    {
+      "text": "taken until the early '80s.",
+      "start": 2421.54,
+      "duration": 3.13
+    },
+    {
+      "text": "Now the people, who\nwere running the polls,",
+      "start": 2424.67,
+      "duration": 4.58
+    },
+    {
+      "text": "liberal, academic,\npolitical scientists,",
+      "start": 2429.25,
+      "duration": 5.05
+    },
+    {
+      "text": "he did comment on these results.",
+      "start": 2434.3,
+      "duration": 2.77
+    },
+    {
+      "text": "And he said, well, what it means\nis that people were opposed",
+      "start": 2437.07,
+      "duration": 3.97
+    },
+    {
+      "text": "to American soldiers dying.",
+      "start": 2441.04,
+      "duration": 2.146
+    },
+    {
+      "text": "OK, maybe that's what it meant.",
+      "start": 2443.186,
+      "duration": 3.464
+    },
+    {
+      "text": "Maybe it meant they thought\nit was fundamentally",
+      "start": 2446.65,
+      "duration": 2.43
+    },
+    {
+      "text": "wrong and immoral as they said.",
+      "start": 2449.08,
+      "duration": 2.28
+    },
+    {
+      "text": "But that concept is just\nkind of inconceivable.",
+      "start": 2451.36,
+      "duration": 2.98
+    },
+    {
+      "text": "But that's the public.",
+      "start": 2456.99,
+      "duration": 1.2
+    },
+    {
+      "text": "Were they educated?",
+      "start": 2458.19,
+      "duration": 2.68
+    },
+    {
+      "text": "I'd say that we're more\neducated than the elites who",
+      "start": 2460.87,
+      "duration": 2.74
+    },
+    {
+      "text": "were writing, the\neducated elites who",
+      "start": 2463.61,
+      "duration": 1.996
+    },
+    {
+      "text": "were writing the articles.",
+      "start": 2465.606,
+      "duration": 2.594
+    },
+    {
+      "text": "SPEAKER 1: So switching\ngears for a moment, it's",
+      "start": 2468.2,
+      "duration": 2.87
+    },
+    {
+      "text": "easy to find a lot of material\non you speaking either online,",
+      "start": 2471.07,
+      "duration": 4.95
+    },
+    {
+      "text": "or articles that you've\nwritten about egregious wrongs",
+      "start": 2476.02,
+      "duration": 3.75
+    },
+    {
+      "text": "in the world, and the\nhistorical background",
+      "start": 2479.77,
+      "duration": 2.31
+    },
+    {
+      "text": "for these types of things.",
+      "start": 2482.08,
+      "duration": 3.33
+    },
+    {
+      "text": "You have a lot of\ncontext for that.",
+      "start": 2485.41,
+      "duration": 2.16
+    },
+    {
+      "text": "I wonder how do you stay\nsane knowing how much room",
+      "start": 2487.57,
+      "duration": 4.89
+    },
+    {
+      "text": "for improvement there is?",
+      "start": 2492.46,
+      "duration": 1.05
+    },
+    {
+      "text": "Where's the levity in your life?",
+      "start": 2493.51,
+      "duration": 2.79
+    },
+    {
+      "text": "And can you tell us a joke?",
+      "start": 2496.3,
+      "duration": 1.71
+    },
+    {
+      "text": "NOAM CHOMSKY: I can tell\nyou a joke, Mark Hannah.",
+      "start": 2501.12,
+      "duration": 2.94
+    },
+    {
+      "text": "SPEAKER 1: I've looked for quite\nsome time for a video of you",
+      "start": 2508.87,
+      "duration": 4.5
+    },
+    {
+      "text": "telling a joke.",
+      "start": 2513.37,
+      "duration": 2.41
+    },
+    {
+      "text": "It just doesn't seem to exist.",
+      "start": 2515.78,
+      "duration": 2.174
+    },
+    {
+      "text": "NOAM CHOMSKY: That's the\npeople who make the videos,",
+      "start": 2517.954,
+      "duration": 2.166
+    },
+    {
+      "text": "it's their problem.",
+      "start": 2520.12,
+      "duration": 1.56
+    },
+    {
+      "text": "SPEAKER 1: I was also curious\nabout you're obviously",
+      "start": 2521.68,
+      "duration": 3.18
+    },
+    {
+      "text": "very effective at\nassimilating information.",
+      "start": 2524.86,
+      "duration": 2.7
+    },
+    {
+      "text": "And digesting that in\na comprehensive way.",
+      "start": 2527.56,
+      "duration": 5.61
+    },
+    {
+      "text": "I wonder about the tools,\ntechnology, and routines",
+      "start": 2533.17,
+      "duration": 4.32
+    },
+    {
+      "text": "that help make your\nday productive.",
+      "start": 2537.49,
+      "duration": 2.46
+    },
+    {
+      "text": "How do you work?",
+      "start": 2539.95,
+      "duration": 3.08
+    },
+    {
+      "text": "NOAM CHOMSKY: It's\npretty straightforward.",
+      "start": 2543.03,
+      "duration": 2.71
+    },
+    {
+      "text": "How did 19th century\nworking class people",
+      "start": 2545.74,
+      "duration": 6.33
+    },
+    {
+      "text": "gain an education that\nwas superior to that",
+      "start": 2552.07,
+      "duration": 2.64
+    },
+    {
+      "text": "of the aristocrats in England?",
+      "start": 2554.71,
+      "duration": 3.07
+    },
+    {
+      "text": "Did they use the internet?",
+      "start": 2557.78,
+      "duration": 2.55
+    },
+    {
+      "text": "They read.",
+      "start": 2560.33,
+      "duration": 1.785
+    },
+    {
+      "text": "You look at what's\ngoing on around you,",
+      "start": 2562.115,
+      "duration": 2.255
+    },
+    {
+      "text": "you talk to the people,\nyou have interactions,",
+      "start": 2564.37,
+      "duration": 2.52
+    },
+    {
+      "text": "you read, you\nlearn about things.",
+      "start": 2566.89,
+      "duration": 2.7
+    },
+    {
+      "text": "It's not quantum physics.",
+      "start": 2569.59,
+      "duration": 1.83
+    },
+    {
+      "text": "It was understood\nthat all this is",
+      "start": 2571.42,
+      "duration": 2.22
+    },
+    {
+      "text": "pretty much on the\nsurface in these domains.",
+      "start": 2573.64,
+      "duration": 2.47
+    },
+    {
+      "text": "It's just a matter of--",
+      "start": 2576.11,
+      "duration": 1.46
+    },
+    {
+      "text": "it's a little easier now.",
+      "start": 2577.57,
+      "duration": 1.48
+    },
+    {
+      "text": "It used to be the\ncase that if you want",
+      "start": 2579.05,
+      "duration": 2.81
+    },
+    {
+      "text": "to look into the background.",
+      "start": 2581.86,
+      "duration": 5.45
+    },
+    {
+      "text": "And you wanted to see\nwhat was the press saying",
+      "start": 2587.31,
+      "duration": 2.38
+    },
+    {
+      "text": "about some topic in the 1970s.",
+      "start": 2589.69,
+      "duration": 3.77
+    },
+    {
+      "text": "You had to go to the library,\nlook up the microfilm.",
+      "start": 2593.46,
+      "duration": 4.02
+    },
+    {
+      "text": "A bit of a nuisance.",
+      "start": 2597.48,
+      "duration": 1.55
+    },
+    {
+      "text": "Now you can get it\non the internet.",
+      "start": 2599.03,
+      "duration": 2.38
+    },
+    {
+      "text": "Thanks to what we call\nthe free market, which",
+      "start": 2601.41,
+      "duration": 5.89
+    },
+    {
+      "text": "means the taxpayer putting\nhuge amounts of subsidies",
+      "start": 2607.3,
+      "duration": 5.81
+    },
+    {
+      "text": "into developing the high tech\nsystem of the next generation,",
+      "start": 2613.11,
+      "duration": 4.97
+    },
+    {
+      "text": "which is handed over to private\ncorporations for marketing",
+      "start": 2618.08,
+      "duration": 2.84
+    },
+    {
+      "text": "and profit.",
+      "start": 2620.92,
+      "duration": 1.21
+    },
+    {
+      "text": "So that's the internet,\nand computers,",
+      "start": 2622.13,
+      "duration": 2.33
+    },
+    {
+      "text": "and so on and so forth.",
+      "start": 2624.46,
+      "duration": 1.72
+    },
+    {
+      "text": "So now, it's a lot easier\nthan going to the library",
+      "start": 2626.18,
+      "duration": 3.08
+    },
+    {
+      "text": "and looking up the microfilms.",
+      "start": 2629.26,
+      "duration": 2.64
+    },
+    {
+      "text": "But not that different.",
+      "start": 2631.9,
+      "duration": 2.24
+    },
+    {
+      "text": "I mean, the change from\nno libraries to libraries",
+      "start": 2634.14,
+      "duration": 4.3
+    },
+    {
+      "text": "was a much bigger change than\nfrom libraries to the internet.",
+      "start": 2638.44,
+      "duration": 4.75
+    },
+    {
+      "text": "In fact, similarly, the change\nfrom sailing ships to telegraph",
+      "start": 2643.19,
+      "duration": 7.61
+    },
+    {
+      "text": "was a much bigger change than\nspeeding up the communication",
+      "start": 2650.8,
+      "duration": 4.56
+    },
+    {
+      "text": "by a couple of milliseconds\nwith some new technique.",
+      "start": 2655.36,
+      "duration": 5.67
+    },
+    {
+      "text": "So it's a little easier now,\nbut not fundamentally different.",
+      "start": 2661.03,
+      "duration": 4.36
+    },
+    {
+      "text": "SPEAKER 1: So the next question\ncame in from Rakesh [INAUDIBLE]",
+      "start": 2665.39,
+      "duration": 3.795
+    },
+    {
+      "text": "I apologize about\npronunciation there--",
+      "start": 2669.185,
+      "duration": 1.625
+    },
+    {
+      "text": "from India.",
+      "start": 2670.81,
+      "duration": 1.2
+    },
+    {
+      "text": "In an interview on\n2012, you mentioned",
+      "start": 2672.01,
+      "duration": 2.37
+    },
+    {
+      "text": "that artificial intelligence\nis going in the wrong direction",
+      "start": 2674.38,
+      "duration": 3.78
+    },
+    {
+      "text": "by putting more emphasis\non statistical techniques",
+      "start": 2678.16,
+      "duration": 2.97
+    },
+    {
+      "text": "to mine data.",
+      "start": 2681.13,
+      "duration": 1.69
+    },
+    {
+      "text": "Where do you think\nit's heading now?",
+      "start": 2682.82,
+      "duration": 1.79
+    },
+    {
+      "text": "And what steps should\nwe take to make",
+      "start": 2684.61,
+      "duration": 2.01
+    },
+    {
+      "text": "it more meaningful to society?",
+      "start": 2686.62,
+      "duration": 2.92
+    },
+    {
+      "text": "NOAM CHOMSKY: Well, I\ndon't know exactly what",
+      "start": 2689.54,
+      "duration": 2.03
+    },
+    {
+      "text": "that quote is from.",
+      "start": 2691.57,
+      "duration": 1.18
+    },
+    {
+      "text": "But artificial\nintelligence, what's",
+      "start": 2692.75,
+      "duration": 4.43
+    },
+    {
+      "text": "called artificial\nintelligence, which is just",
+      "start": 2697.18,
+      "duration": 4.05
+    },
+    {
+      "text": "part of cognitive science, it\ncan, like any part of science,",
+      "start": 2701.23,
+      "duration": 3.84
+    },
+    {
+      "text": "can go in to\ndifferent directions.",
+      "start": 2705.07,
+      "duration": 2.93
+    },
+    {
+      "text": "It can direct itself towards\nsome engineering application,",
+      "start": 2708.0,
+      "duration": 6.31
+    },
+    {
+      "text": "which may or may not be useful.",
+      "start": 2714.31,
+      "duration": 2.49
+    },
+    {
+      "text": "Or it can go into trying\nto understand something",
+      "start": 2716.8,
+      "duration": 2.25
+    },
+    {
+      "text": "about the world.",
+      "start": 2719.05,
+      "duration": 1.51
+    },
+    {
+      "text": "Those are the choices.",
+      "start": 2720.56,
+      "duration": 2.09
+    },
+    {
+      "text": "So take, say, the work that\nhappens to interest me most,",
+      "start": 2722.65,
+      "duration": 3.92
+    },
+    {
+      "text": "[INAUDIBLE] language.",
+      "start": 2726.57,
+      "duration": 1.93
+    },
+    {
+      "text": "One thrust is\ntrying to understand",
+      "start": 2728.5,
+      "duration": 4.77
+    },
+    {
+      "text": "how it is that we\ncan, for example, do",
+      "start": 2733.27,
+      "duration": 2.22
+    },
+    {
+      "text": "what we're now doing.",
+      "start": 2735.49,
+      "duration": 1.77
+    },
+    {
+      "text": "What lies behind that?",
+      "start": 2737.26,
+      "duration": 1.47
+    },
+    {
+      "text": "What are the mental operations?",
+      "start": 2738.73,
+      "duration": 3.04
+    },
+    {
+      "text": "Or what are the principles?",
+      "start": 2741.77,
+      "duration": 1.35
+    },
+    {
+      "text": "How's it acquired, and so on?",
+      "start": 2743.12,
+      "duration": 1.82
+    },
+    {
+      "text": "OK, that's one domain.",
+      "start": 2744.94,
+      "duration": 2.62
+    },
+    {
+      "text": "Another domain is how\ncan we get something",
+      "start": 2747.56,
+      "duration": 3.35
+    },
+    {
+      "text": "that's useful to give a\nkind of a rough translation",
+      "start": 2750.91,
+      "duration": 5.67
+    },
+    {
+      "text": "of an article in French into\nEnglish, the Google Translator.",
+      "start": 2756.58,
+      "duration": 6.72
+    },
+    {
+      "text": "That's OK, I mean,\nI use it, fine.",
+      "start": 2763.3,
+      "duration": 3.75
+    },
+    {
+      "text": "But it's a brute force\nengineering achievement.",
+      "start": 2767.05,
+      "duration": 4.86
+    },
+    {
+      "text": "It doesn't tell you anything\nabout how the world is working.",
+      "start": 2771.91,
+      "duration": 3.97
+    },
+    {
+      "text": "It just says here's something\nuseful, like a bulldozer.",
+      "start": 2775.88,
+      "duration": 2.652
+    },
+    {
+      "text": "I don't have anything\nagainst bulldozers.",
+      "start": 2778.532,
+      "duration": 1.708
+    },
+    {
+      "text": "I think they're great.",
+      "start": 2780.24,
+      "duration": 1.39
+    },
+    {
+      "text": "A lot easier than\ndigging with a shovel.",
+      "start": 2781.63,
+      "duration": 2.96
+    },
+    {
+      "text": "But it's not\nintellectually, it's",
+      "start": 2784.59,
+      "duration": 4.42
+    },
+    {
+      "text": "not an intellectually\ninteresting achievement.",
+      "start": 2789.01,
+      "duration": 2.28
+    },
+    {
+      "text": "It's useful.",
+      "start": 2791.29,
+      "duration": 2.105
+    },
+    {
+      "text": "SPEAKER 1: Have you\ndriven a bulldozer?",
+      "start": 2793.395,
+      "duration": 3.535
+    },
+    {
+      "text": "I mean, I haven't, but\nI dream to someday.",
+      "start": 2796.93,
+      "duration": 3.46
+    },
+    {
+      "text": "NOAM CHOMSKY: I'd be scared.",
+      "start": 2800.39,
+      "duration": 2.07
+    },
+    {
+      "text": "But I have a shovel.",
+      "start": 2802.46,
+      "duration": 1.91
+    },
+    {
+      "text": "SPEAKER 1: OK, we have\na base context then,",
+      "start": 2804.37,
+      "duration": 2.43
+    },
+    {
+      "text": "and a shared\nexperience with that.",
+      "start": 2806.8,
+      "duration": 1.59
+    },
+    {
+      "text": "That's good.",
+      "start": 2808.39,
+      "duration": 1.54
+    },
+    {
+      "text": "So, yeah, I think that this\nis an interesting thing",
+      "start": 2809.93,
+      "duration": 2.97
+    },
+    {
+      "text": "that you've talked\nabout in the past.",
+      "start": 2812.9,
+      "duration": 2.0
+    },
+    {
+      "text": "The interview, by the way, was\nin 2012, with \"The Atlantic.\"",
+      "start": 2814.9,
+      "duration": 2.93
+    },
+    {
+      "text": "I'd love to unpack\nthat a little bit.",
+      "start": 2817.83,
+      "duration": 1.95
+    },
+    {
+      "text": "Where would you like to see--",
+      "start": 2819.78,
+      "duration": 2.02
+    },
+    {
+      "text": "how would you like to\nsee AI research tackle",
+      "start": 2821.8,
+      "duration": 3.18
+    },
+    {
+      "text": "these types of deeper\nunderstanding problems?",
+      "start": 2824.98,
+      "duration": 2.64
+    },
+    {
+      "text": "NOAM CHOMSKY: Whenever you\nlearn something in the sciences,",
+      "start": 2827.62,
+      "duration": 4.8
+    },
+    {
+      "text": "what immediately\nhappens is you discover",
+      "start": 2832.42,
+      "duration": 2.84
+    },
+    {
+      "text": "there's a mass of new\nthings, which I never noticed",
+      "start": 2835.26,
+      "duration": 3.85
+    },
+    {
+      "text": "before that I don't understand.",
+      "start": 2839.11,
+      "duration": 2.75
+    },
+    {
+      "text": "Scientific research is kind\nof like mountain climbing.",
+      "start": 2841.86,
+      "duration": 3.03
+    },
+    {
+      "text": "You think that that peak\nover there is the top,",
+      "start": 2844.89,
+      "duration": 4.27
+    },
+    {
+      "text": "but when you get there,\nyou find, wait a minute,",
+      "start": 2849.16,
+      "duration": 2.54
+    },
+    {
+      "text": "turns out there's other peaks\nthat you didn't notice before.",
+      "start": 2851.7,
+      "duration": 3.52
+    },
+    {
+      "text": "Well, that's where\nscientific research has gone.",
+      "start": 2855.22,
+      "duration": 3.95
+    },
+    {
+      "text": "I mean, take what interests\nme, human cognitive capacity,",
+      "start": 2859.17,
+      "duration": 7.68
+    },
+    {
+      "text": "which is an astonishing fact\nthat humans are absolutely",
+      "start": 2866.85,
+      "duration": 3.48
+    },
+    {
+      "text": "unique in the organic world in\nan enormous number of respects.",
+      "start": 2870.33,
+      "duration": 5.88
+    },
+    {
+      "text": "Humans are not that old\nin evolutionary terms,",
+      "start": 2876.21,
+      "duration": 4.83
+    },
+    {
+      "text": "about 200,000 years.",
+      "start": 2881.04,
+      "duration": 2.25
+    },
+    {
+      "text": "So something happened\naround 200,000 years ago,",
+      "start": 2883.29,
+      "duration": 4.23
+    },
+    {
+      "text": "plus or minus, which created\nan entirely new organism, which",
+      "start": 2887.52,
+      "duration": 5.81
+    },
+    {
+      "text": "has what we call\nhigher intelligence,",
+      "start": 2893.33,
+      "duration": 2.65
+    },
+    {
+      "text": "which it is now\nusing incidentally",
+      "start": 2895.98,
+      "duration": 3.03
+    },
+    {
+      "text": "to create something\nthat would be",
+      "start": 2899.01,
+      "duration": 1.8
+    },
+    {
+      "text": "headlines in every newspaper.",
+      "start": 2900.81,
+      "duration": 2.35
+    },
+    {
+      "text": "We're using human intelligence\nto create a perfect storm.",
+      "start": 2903.16,
+      "duration": 5.96
+    },
+    {
+      "text": "Since the Second World\nWar, human intelligence",
+      "start": 2909.12,
+      "duration": 3.72
+    },
+    {
+      "text": "has created means of\nsuicide, self destruction.",
+      "start": 2912.84,
+      "duration": 7.33
+    },
+    {
+      "text": "The first is nuclear weapons.",
+      "start": 2920.17,
+      "duration": 1.94
+    },
+    {
+      "text": "The Second World War ended\nwith the nuclear age.",
+      "start": 2922.11,
+      "duration": 3.35
+    },
+    {
+      "text": "It was obvious\nright at the time,",
+      "start": 2925.46,
+      "duration": 2.17
+    },
+    {
+      "text": "I can tell you of\npersonal experiences,",
+      "start": 2927.63,
+      "duration": 1.74
+    },
+    {
+      "text": "that we had now, human\nintelligence had now",
+      "start": 2929.37,
+      "duration": 3.47
+    },
+    {
+      "text": "devised the means to\ndestroy everything.",
+      "start": 2932.84,
+      "duration": 3.42
+    },
+    {
+      "text": "That's the nuclear age.",
+      "start": 2936.26,
+      "duration": 1.57
+    },
+    {
+      "text": "We've barely survived it.",
+      "start": 2937.83,
+      "duration": 2.13
+    },
+    {
+      "text": "It wasn't known\nthen, but it's now",
+      "start": 2939.96,
+      "duration": 1.74
+    },
+    {
+      "text": "known that at the same time,\nend of the Second World War,",
+      "start": 2941.7,
+      "duration": 4.68
+    },
+    {
+      "text": "we had entered a new\ngeological epoch, what's",
+      "start": 2946.38,
+      "duration": 3.18
+    },
+    {
+      "text": "called the Anthropocene, where\nhuman activities are having",
+      "start": 2949.56,
+      "duration": 4.95
+    },
+    {
+      "text": "a severely destructive\nimpact in the environment.",
+      "start": 2954.51,
+      "duration": 4.32
+    },
+    {
+      "text": "Geologists have kind of\ndebated its inception.",
+      "start": 2958.83,
+      "duration": 3.192
+    },
+    {
+      "text": "But they have now\nmore or less agreed,",
+      "start": 2962.022,
+      "duration": 1.583
+    },
+    {
+      "text": "and world geological\norganizations",
+      "start": 2963.605,
+      "duration": 2.125
+    },
+    {
+      "text": "have agreed on end of\nthe Second World War.",
+      "start": 2965.73,
+      "duration": 3.36
+    },
+    {
+      "text": "So here, we created\ntwo huge sledgehammers",
+      "start": 2969.09,
+      "duration": 4.98
+    },
+    {
+      "text": "which are able to destroy us.",
+      "start": 2974.07,
+      "duration": 4.2
+    },
+    {
+      "text": "In the 1970's human\nintelligence took the next step.",
+      "start": 2978.27,
+      "duration": 4.77
+    },
+    {
+      "text": "Let's destroy the means\nto protect ourselves.",
+      "start": 2983.04,
+      "duration": 3.87
+    },
+    {
+      "text": "That's pretty much what\nhappened as the new,",
+      "start": 2986.91,
+      "duration": 3.24
+    },
+    {
+      "text": "as the period of what was called\nregimented capitalism shifted",
+      "start": 2990.15,
+      "duration": 5.25
+    },
+    {
+      "text": "to the Neoliberal era.",
+      "start": 2995.4,
+      "duration": 2.1
+    },
+    {
+      "text": "The Neoliberal era of\nthe last generation",
+      "start": 2997.5,
+      "duration": 3.6
+    },
+    {
+      "text": "is dedicated in principle\nto destroying the only means",
+      "start": 3001.1,
+      "duration": 5.04
+    },
+    {
+      "text": "to defend ourselves\nfrom destruction.",
+      "start": 3006.14,
+      "duration": 2.38
+    },
+    {
+      "text": "It's not called that.",
+      "start": 3008.52,
+      "duration": 1.52
+    },
+    {
+      "text": "What it's called is\nshifting decision",
+      "start": 3010.04,
+      "duration": 3.24
+    },
+    {
+      "text": "making from public institutions,\nwhich at least in principle",
+      "start": 3013.28,
+      "duration": 5.46
+    },
+    {
+      "text": "are under public influence,\nto private institutions, which",
+      "start": 3018.74,
+      "duration": 4.83
+    },
+    {
+      "text": "are immune from public\ncontrol in principle.",
+      "start": 3023.57,
+      "duration": 3.6
+    },
+    {
+      "text": "That's called shifting\nto the market.",
+      "start": 3027.17,
+      "duration": 2.73
+    },
+    {
+      "text": "It's under the\nrhetoric of freedom.",
+      "start": 3029.9,
+      "duration": 1.86
+    },
+    {
+      "text": "But it just means servitude.",
+      "start": 3031.76,
+      "duration": 2.21
+    },
+    {
+      "text": "It means servitude\nto unaccountable",
+      "start": 3033.97,
+      "duration": 2.41
+    },
+    {
+      "text": "private institutions.",
+      "start": 3036.38,
+      "duration": 2.25
+    },
+    {
+      "text": "The rhetoric, those of you who\nremember Margaret Thatcher,",
+      "start": 3038.63,
+      "duration": 4.59
+    },
+    {
+      "text": "\"There is no society,\njust individuals.\"",
+      "start": 3043.22,
+      "duration": 4.26
+    },
+    {
+      "text": "An ideal, not a description.",
+      "start": 3047.48,
+      "duration": 2.13
+    },
+    {
+      "text": "But she may not have\nknown it, but she",
+      "start": 3049.61,
+      "duration": 2.31
+    },
+    {
+      "text": "was paraphrasing Karl\nMarx, who at the period",
+      "start": 3051.92,
+      "duration": 4.53
+    },
+    {
+      "text": "of the severe French repression\nsaid the French repression is",
+      "start": 3056.45,
+      "duration": 5.07
+    },
+    {
+      "text": "turning society into\na sack of potatoes,",
+      "start": 3061.52,
+      "duration": 5.34
+    },
+    {
+      "text": "amorphous class of individuals,\nwho can't work together,",
+      "start": 3066.86,
+      "duration": 4.49
+    },
+    {
+      "text": "who are separated and atomized.",
+      "start": 3071.35,
+      "duration": 2.11
+    },
+    {
+      "text": "That's the ideal\nof Neoliberalism.",
+      "start": 3073.46,
+      "duration": 2.64
+    },
+    {
+      "text": "Let's turn society into\na sack of potatoes.",
+      "start": 3076.1,
+      "duration": 3.18
+    },
+    {
+      "text": "Let's eliminate the\ninstitutions that might--",
+      "start": 3079.28,
+      "duration": 3.16
+    },
+    {
+      "text": "in which engage,\nin that the people",
+      "start": 3082.44,
+      "duration": 4.4
+    },
+    {
+      "text": "might get together to try\nto deal constructively",
+      "start": 3086.84,
+      "duration": 3.57
+    },
+    {
+      "text": "with their problems.",
+      "start": 3090.41,
+      "duration": 1.07
+    },
+    {
+      "text": "Let's transfer it into the\nhands of unaccountable private",
+      "start": 3091.48,
+      "duration": 4.3
+    },
+    {
+      "text": "institutions, which are\ndevoted in principle to profit",
+      "start": 3095.78,
+      "duration": 4.2
+    },
+    {
+      "text": "maximization and\npower maximization.",
+      "start": 3099.98,
+      "duration": 3.03
+    },
+    {
+      "text": "Of course, that means\nundermining democracy.",
+      "start": 3103.01,
+      "duration": 3.12
+    },
+    {
+      "text": "That's what's happened.",
+      "start": 3106.13,
+      "duration": 1.67
+    },
+    {
+      "text": "That's why we see\nwhat's called--",
+      "start": 3107.8,
+      "duration": 2.85
+    },
+    {
+      "text": "it's a bad term, it's called\nthe populist uprising.",
+      "start": 3110.65,
+      "duration": 3.74
+    },
+    {
+      "text": "Nothing populist about it.",
+      "start": 3114.39,
+      "duration": 1.84
+    },
+    {
+      "text": "It means an anger, fear,\nhatred, discontent, contempt",
+      "start": 3116.23,
+      "duration": 6.07
+    },
+    {
+      "text": "for institutions, the\ncollapse of institutions,",
+      "start": 3122.3,
+      "duration": 3.12
+    },
+    {
+      "text": "a direct consequence of the\nNeoliberal economic policies,",
+      "start": 3125.42,
+      "duration": 5.68
+    },
+    {
+      "text": "which have also led to\nstagnation or decline",
+      "start": 3131.1,
+      "duration": 3.2
+    },
+    {
+      "text": "for the majority.",
+      "start": 3134.3,
+      "duration": 1.68
+    },
+    {
+      "text": "Real wages have actually\ndeclined since 1979",
+      "start": 3135.98,
+      "duration": 3.48
+    },
+    {
+      "text": "when the program began.",
+      "start": 3139.46,
+      "duration": 2.27
+    },
+    {
+      "text": "All of this is together,\nand put it together,",
+      "start": 3141.73,
+      "duration": 2.58
+    },
+    {
+      "text": "what you have is\nhuman intelligence",
+      "start": 3144.31,
+      "duration": 2.61
+    },
+    {
+      "text": "has created two means\nof destroying ourself,",
+      "start": 3146.92,
+      "duration": 5.5
+    },
+    {
+      "text": "and it has also been\nactively engaged",
+      "start": 3152.42,
+      "duration": 3.86
+    },
+    {
+      "text": "in trying to eliminate\nthe only protection we",
+      "start": 3156.28,
+      "duration": 2.49
+    },
+    {
+      "text": "have against them.",
+      "start": 3158.77,
+      "duration": 1.35
+    },
+    {
+      "text": "So it's a kind of perfect storm.",
+      "start": 3160.12,
+      "duration": 2.37
+    },
+    {
+      "text": "That's what humans have done.",
+      "start": 3162.49,
+      "duration": 2.16
+    },
+    {
+      "text": "How did this happen?",
+      "start": 3164.65,
+      "duration": 1.51
+    },
+    {
+      "text": "How did we get this way?",
+      "start": 3166.16,
+      "duration": 1.55
+    },
+    {
+      "text": "How did we develop\ncreative capacities",
+      "start": 3167.71,
+      "duration": 2.85
+    },
+    {
+      "text": "of a unique kind which have led\nto extraordinary achievements?",
+      "start": 3170.56,
+      "duration": 6.12
+    },
+    {
+      "text": "OK, these are things we have to\ntry to understand, all of them.",
+      "start": 3176.68,
+      "duration": 4.12
+    },
+    {
+      "text": "And do something about,\nnot just understand.",
+      "start": 3180.8,
+      "duration": 2.72
+    },
+    {
+      "text": "SPEAKER 1: Another question\nfrom Oleg [INAUDIBLE]",
+      "start": 3183.52,
+      "duration": 2.49
+    },
+    {
+      "text": "from Australia, asks how do\nyou think Google can and should",
+      "start": 3186.01,
+      "duration": 4.74
+    },
+    {
+      "text": "handle the fake news problem.",
+      "start": 3190.75,
+      "duration": 2.23
+    },
+    {
+      "text": "We have a big hammer.",
+      "start": 3192.98,
+      "duration": 1.46
+    },
+    {
+      "text": "We're looking for nails.",
+      "start": 3194.44,
+      "duration": 2.11
+    },
+    {
+      "text": "NOAM CHOMSKY: Well by\nnot contributing to it.",
+      "start": 3196.55,
+      "duration": 3.08
+    },
+    {
+      "text": "So for example, the\ninternet is actually",
+      "start": 3199.63,
+      "duration": 4.23
+    },
+    {
+      "text": "slowing down in some respects.",
+      "start": 3203.86,
+      "duration": 2.97
+    },
+    {
+      "text": "And one of the reasons\nit's slowing down",
+      "start": 3206.83,
+      "duration": 2.28
+    },
+    {
+      "text": "is because if you\npick up, you say",
+      "start": 3209.11,
+      "duration": 5.43
+    },
+    {
+      "text": "access, \"The New York\nTimes,\" the first thing that",
+      "start": 3214.54,
+      "duration": 5.01
+    },
+    {
+      "text": "gets loaded is a ton of ads,\nwhich slow everything down.",
+      "start": 3219.55,
+      "duration": 5.76
+    },
+    {
+      "text": "All of this is going\non all the time.",
+      "start": 3225.31,
+      "duration": 2.52
+    },
+    {
+      "text": "It's contributing to the\nnarrowness of coverage,",
+      "start": 3227.83,
+      "duration": 6.03
+    },
+    {
+      "text": "and even to the\nkind of coverage,",
+      "start": 3233.86,
+      "duration": 2.01
+    },
+    {
+      "text": "because it's influenced\nby, of course, the choice,",
+      "start": 3235.87,
+      "duration": 3.0
+    },
+    {
+      "text": "the funding, the\ninstitutions, of course,",
+      "start": 3238.87,
+      "duration": 1.91
+    },
+    {
+      "text": "it's influenced by its\nfunders, mostly advertisers.",
+      "start": 3240.78,
+      "duration": 4.78
+    },
+    {
+      "text": "So all of that's happening.",
+      "start": 3245.56,
+      "duration": 2.97
+    },
+    {
+      "text": "And it's not what\npeople call fake news.",
+      "start": 3248.53,
+      "duration": 2.79
+    },
+    {
+      "text": "But it's a distortion\nof the world in ways",
+      "start": 3251.32,
+      "duration": 4.17
+    },
+    {
+      "text": "that shouldn't be happening.",
+      "start": 3255.49,
+      "duration": 2.14
+    },
+    {
+      "text": "So the actual news, I\nthink, should be what",
+      "start": 3257.63,
+      "duration": 3.05
+    },
+    {
+      "text": "we've just been talking about.",
+      "start": 3260.68,
+      "duration": 2.01
+    },
+    {
+      "text": "Like why are we--",
+      "start": 3262.69,
+      "duration": 1.83
+    },
+    {
+      "text": "why for the last\ngeneration have we",
+      "start": 3264.52,
+      "duration": 2.91
+    },
+    {
+      "text": "constructed socioeconomic\npolicies and political policies",
+      "start": 3267.43,
+      "duration": 4.83
+    },
+    {
+      "text": "which are developing a perfect\nstorm which could destroy us.",
+      "start": 3272.26,
+      "duration": 4.81
+    },
+    {
+      "text": "SPEAKER 1: So if we\ncan devise a way for--",
+      "start": 3277.07,
+      "duration": 2.54
+    },
+    {
+      "text": "I mean obviously advertising\nmonetization is the way",
+      "start": 3279.61,
+      "duration": 2.91
+    },
+    {
+      "text": "and a lot of publications exist.",
+      "start": 3282.52,
+      "duration": 2.97
+    },
+    {
+      "text": "And perhaps without it,\nmany of those publications",
+      "start": 3285.49,
+      "duration": 2.73
+    },
+    {
+      "text": "would be without the funding\nrequired to continue.",
+      "start": 3288.22,
+      "duration": 3.27
+    },
+    {
+      "text": "NOAM CHOMSKY: That's not true.",
+      "start": 3291.49,
+      "duration": 1.29
+    },
+    {
+      "text": "The period of the freest, most\nlively press in the United",
+      "start": 3292.78,
+      "duration": 3.24
+    },
+    {
+      "text": "States was probably\nin the 19th century,",
+      "start": 3296.02,
+      "duration": 3.24
+    },
+    {
+      "text": "when you had a proliferation\nof all kinds of newspapers,",
+      "start": 3299.26,
+      "duration": 4.97
+    },
+    {
+      "text": "ethnic, working class.",
+      "start": 3304.23,
+      "duration": 3.2
+    },
+    {
+      "text": "I mentioned the factory girls.",
+      "start": 3307.43,
+      "duration": 2.06
+    },
+    {
+      "text": "There were others.",
+      "start": 3309.49,
+      "duration": 1.68
+    },
+    {
+      "text": "What happened in the\nlate 19th century",
+      "start": 3311.17,
+      "duration": 2.28
+    },
+    {
+      "text": "is in England and\nthe United States,",
+      "start": 3313.45,
+      "duration": 4.11
+    },
+    {
+      "text": "which also saw a similar shift\ntowards capital concentration",
+      "start": 3317.56,
+      "duration": 4.9
+    },
+    {
+      "text": "and advertiser\nreliance, and that",
+      "start": 3322.46,
+      "duration": 2.69
+    },
+    {
+      "text": "has very sharply narrowed and\nchanged the nature of media.",
+      "start": 3325.15,
+      "duration": 8.25
+    },
+    {
+      "text": "So say in England, as\nlate as the 1960's,",
+      "start": 3333.4,
+      "duration": 6.06
+    },
+    {
+      "text": "the most popular\nwidely read newspaper",
+      "start": 3339.46,
+      "duration": 3.3
+    },
+    {
+      "text": "was \"The Daily Herald,\" which\nwas kind of social-democratic.",
+      "start": 3342.76,
+      "duration": 4.89
+    },
+    {
+      "text": "The tabloids in England,\nwhich are now monstrous,",
+      "start": 3347.65,
+      "duration": 3.36
+    },
+    {
+      "text": "were labor based newspapers\nand pretty interesting.",
+      "start": 3351.01,
+      "duration": 3.48
+    },
+    {
+      "text": "They succumbed to\nthe consequences",
+      "start": 3354.49,
+      "duration": 3.36
+    },
+    {
+      "text": "of capital concentration,\nand advertiser reliance,",
+      "start": 3357.85,
+      "duration": 3.9
+    },
+    {
+      "text": "and became quite different.",
+      "start": 3361.75,
+      "duration": 2.1
+    },
+    {
+      "text": "Similar here.",
+      "start": 3363.85,
+      "duration": 2.52
+    },
+    {
+      "text": "When I was a kid\ngrowing up, there",
+      "start": 3366.37,
+      "duration": 1.56
+    },
+    {
+      "text": "were several newspapers\ndelivered, local newspapers,",
+      "start": 3367.93,
+      "duration": 3.57
+    },
+    {
+      "text": "delivered every day.",
+      "start": 3371.5,
+      "duration": 1.83
+    },
+    {
+      "text": "They were not-- there\nwas a certain variety.",
+      "start": 3373.33,
+      "duration": 3.19
+    },
+    {
+      "text": "Now in Boston, now\nthere isn't even one.",
+      "start": 3376.52,
+      "duration": 3.77
+    },
+    {
+      "text": "\"The Boston Globe\" used to\nbe a pretty decent newspaper,",
+      "start": 3380.29,
+      "duration": 5.57
+    },
+    {
+      "text": "problems, but a\nlot of bureaus all",
+      "start": 3385.86,
+      "duration": 2.41
+    },
+    {
+      "text": "over the world, good reporters.",
+      "start": 3388.27,
+      "duration": 2.67
+    },
+    {
+      "text": "Take a look at it now.",
+      "start": 3390.94,
+      "duration": 2.475
+    },
+    {
+      "text": "It basically doesn't exist.",
+      "start": 3393.415,
+      "duration": 2.325
+    },
+    {
+      "text": "It has some local news.",
+      "start": 3395.74,
+      "duration": 1.92
+    },
+    {
+      "text": "And the rest, it picks\nup \"The New York Times,\"",
+      "start": 3397.66,
+      "duration": 2.82
+    },
+    {
+      "text": "\"Washington Post,\" the AP.",
+      "start": 3400.48,
+      "duration": 3.15
+    },
+    {
+      "text": "That's happened all\nover the country.",
+      "start": 3403.63,
+      "duration": 2.82
+    },
+    {
+      "text": "It has a lot of\nreasons behind it.",
+      "start": 3406.45,
+      "duration": 2.85
+    },
+    {
+      "text": "But the large part of\nit-- it's been going on",
+      "start": 3409.3,
+      "duration": 3.27
+    },
+    {
+      "text": "for over a century.",
+      "start": 3412.57,
+      "duration": 0.99
+    },
+    {
+      "text": "It's just continuing.",
+      "start": 3413.56,
+      "duration": 1.4
+    },
+    {
+      "text": "The large part is the effect\nof capital concentration",
+      "start": 3414.96,
+      "duration": 3.51
+    },
+    {
+      "text": "and advertiser reliance.",
+      "start": 3418.47,
+      "duration": 1.45
+    },
+    {
+      "text": "Which affects the content of\nthe media reporting as well.",
+      "start": 3419.92,
+      "duration": 4.092
+    },
+    {
+      "text": "SPEAKER 1: In that case,\nwe'll cancel our advertising",
+      "start": 3424.012,
+      "duration": 2.208
+    },
+    {
+      "text": "programs.",
+      "start": 3426.22,
+      "duration": 0.714
+    },
+    {
+      "text": "NOAM CHOMSKY: See, advertising\nis a very interesting",
+      "start": 3426.934,
+      "duration": 2.166
+    },
+    {
+      "text": "phenomenon.",
+      "start": 3429.1,
+      "duration": 1.5
+    },
+    {
+      "text": "Any of you that have\ntaken an economics course",
+      "start": 3430.6,
+      "duration": 2.46
+    },
+    {
+      "text": "know that the\nbeauty, the marvels",
+      "start": 3433.06,
+      "duration": 4.98
+    },
+    {
+      "text": "of the market that we're\nsupposed to admire and worship",
+      "start": 3438.04,
+      "duration": 3.77
+    },
+    {
+      "text": "is because the market is based\non informed consumers making",
+      "start": 3441.81,
+      "duration": 5.96
+    },
+    {
+      "text": "rational choices.",
+      "start": 3447.77,
+      "duration": 1.32
+    },
+    {
+      "text": "And you prove all sorts of\ntheorems about how wonderful",
+      "start": 3449.09,
+      "duration": 3.09
+    },
+    {
+      "text": "it is.",
+      "start": 3452.18,
+      "duration": 1.97
+    },
+    {
+      "text": "Turn on your television set.",
+      "start": 3454.15,
+      "duration": 3.16
+    },
+    {
+      "text": "Do you see efforts\nby corporations",
+      "start": 3457.31,
+      "duration": 3.36
+    },
+    {
+      "text": "to create informed consumers\nmaking rational choices?",
+      "start": 3460.67,
+      "duration": 6.12
+    },
+    {
+      "text": "Is that what you see when\nyou see an ad for cars?",
+      "start": 3466.79,
+      "duration": 3.47
+    },
+    {
+      "text": "I mean, if we had a\nmarket system, what",
+      "start": 3470.26,
+      "duration": 2.5
+    },
+    {
+      "text": "you would see is when General\nMotors is advertising a car,",
+      "start": 3472.76,
+      "duration": 5.34
+    },
+    {
+      "text": "what you would see is a list of\nthe characteristics of the car,",
+      "start": 3478.1,
+      "duration": 5.25
+    },
+    {
+      "text": "along with a report\nby \"Consumers Report\"",
+      "start": 3483.35,
+      "duration": 2.82
+    },
+    {
+      "text": "saying what's wrong\nwith it and so on.",
+      "start": 3486.17,
+      "duration": 2.73
+    },
+    {
+      "text": "That would create\ninformed consumers that",
+      "start": 3488.9,
+      "duration": 2.16
+    },
+    {
+      "text": "could make rational choices.",
+      "start": 3491.06,
+      "duration": 1.5
+    },
+    {
+      "text": "But you don't see that.",
+      "start": 3492.56,
+      "duration": 1.8
+    },
+    {
+      "text": "What you see is an\neffort to delude,",
+      "start": 3494.36,
+      "duration": 2.68
+    },
+    {
+      "text": "you know, a movie star,\na football player,",
+      "start": 3497.04,
+      "duration": 3.93
+    },
+    {
+      "text": "a car shooting up\ninto the stratosphere,",
+      "start": 3500.97,
+      "duration": 2.72
+    },
+    {
+      "text": "wherever it may be.",
+      "start": 3503.69,
+      "duration": 2.07
+    },
+    {
+      "text": "Huge amounts of capital\nare expended every year",
+      "start": 3505.76,
+      "duration": 4.62
+    },
+    {
+      "text": "to try to undermine\nmarkets, undermine markets",
+      "start": 3510.38,
+      "duration": 3.72
+    },
+    {
+      "text": "by creating uninformed consumers\nmaking irrational choices,",
+      "start": 3514.1,
+      "duration": 5.01
+    },
+    {
+      "text": "and driving them to\nconsumerism, which atomizes",
+      "start": 3519.11,
+      "duration": 4.23
+    },
+    {
+      "text": "rather than serious things.",
+      "start": 3523.34,
+      "duration": 2.22
+    },
+    {
+      "text": "That's what ought to be\ntaught in economics courses.",
+      "start": 3525.56,
+      "duration": 3.69
+    },
+    {
+      "text": "Massive efforts by the business\ncommunity to undermine markets.",
+      "start": 3529.25,
+      "duration": 5.03
+    },
+    {
+      "text": "It's not deep.",
+      "start": 3534.28,
+      "duration": 1.54
+    },
+    {
+      "text": "We all know it, you know.",
+      "start": 3535.82,
+      "duration": 1.93
+    },
+    {
+      "text": "We just somehow\ndon't think about it.",
+      "start": 3537.75,
+      "duration": 2.65
+    },
+    {
+      "text": "And just as we don't\nthink about the fact",
+      "start": 3540.4,
+      "duration": 2.62
+    },
+    {
+      "text": "that the marvels\nof free enterprise,",
+      "start": 3543.02,
+      "duration": 4.8
+    },
+    {
+      "text": "like computers, the\ninternet, and so on,",
+      "start": 3547.82,
+      "duration": 1.98
+    },
+    {
+      "text": "were created by the taxpayer\nat public expense in places",
+      "start": 3549.8,
+      "duration": 3.9
+    },
+    {
+      "text": "like MIT, right\nacross the street.",
+      "start": 3553.7,
+      "duration": 3.38
+    },
+    {
+      "text": "SPEAKER 1: So I wish\nwe could go on forever.",
+      "start": 3557.08,
+      "duration": 2.11
+    },
+    {
+      "text": "I'm riveted, but unfortunately,\nwe're out of time.",
+      "start": 3559.19,
+      "duration": 3.002
+    },
+    {
+      "text": "Thank you so much for coming.",
+      "start": 3562.192,
+      "duration": 1.208
+    },
+    {
+      "text": "But one thing I\nwill say, though,",
+      "start": 3563.4,
+      "duration": 1.68
+    },
+    {
+      "text": "is that it's not every day\nthat a non-Googler gets",
+      "start": 3565.08,
+      "duration": 2.78
+    },
+    {
+      "text": "to sit in a room full of\npeople who work in at Google,",
+      "start": 3567.86,
+      "duration": 3.42
+    },
+    {
+      "text": "and are software engineers,\nand are advertising experts,",
+      "start": 3571.28,
+      "duration": 2.97
+    },
+    {
+      "text": "and are market experts\nin different fields.",
+      "start": 3574.25,
+      "duration": 2.46
+    },
+    {
+      "text": "Do you have anything that\nyou'd like to ask us?",
+      "start": 3576.71,
+      "duration": 4.314
+    },
+    {
+      "text": "NOAM CHOMSKY: Why not do\nsome of the serious things?",
+      "start": 3581.024,
+      "duration": 2.166
+    },
+    {
+      "text": "SPEAKER 1: Something\nthat we'll [INAUDIBLE].",
+      "start": 3585.7,
+      "duration": 2.34
+    }
+  ]
+}

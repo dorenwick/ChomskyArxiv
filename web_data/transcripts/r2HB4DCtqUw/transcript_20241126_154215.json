@@ -1,0 +1,2916 @@
+{
+  "video_id": "r2HB4DCtqUw",
+  "url": "https://www.youtube.com/watch?v=r2HB4DCtqUw",
+  "transcript": [
+    {
+      "text": "One of the things that I really like about",
+      "start": 2.68,
+      "duration": 2.13
+    },
+    {
+      "text": "the field of language and language\nacquisition in particular is that it",
+      "start": 4.84,
+      "duration": 4.41
+    },
+    {
+      "text": "really touches on these deep\nquestions about human nature.",
+      "start": 9.28,
+      "duration": 5.08
+    },
+    {
+      "text": "And welcome everyone to SlatorPod.",
+      "start": 15.72,
+      "duration": 2.3
+    },
+    {
+      "text": "Today we're really excited to have",
+      "start": 18.04,
+      "duration": 1.5
+    },
+    {
+      "text": "Steven Piantadosi on the podcast, so\nSteven is a Professor of Psychology and",
+      "start": 19.56,
+      "duration": 3.86
+    },
+    {
+      "text": "Neuroscience at the University\nof California, Berkeley.",
+      "start": 23.45,
+      "duration": 3.05
+    },
+    {
+      "text": "Hi, Steven.\nThanks for joining.",
+      "start": 26.52,
+      "duration": 1.3
+    },
+    {
+      "text": "Hello.\nThank you for having me.",
+      "start": 27.84,
+      "duration": 1.62
+    },
+    {
+      "text": "Absolutely, so where does\nthis podcast find you today?",
+      "start": 29.48,
+      "duration": 2.06
+    },
+    {
+      "text": "What country, what city?\nAre you in Berkeley?",
+      "start": 31.56,
+      "duration": 1.62
+    },
+    {
+      "text": "I'm in Berkeley.\nYeah.",
+      "start": 33.21,
+      "duration": 1.21
+    },
+    {
+      "text": "There you go, nice.",
+      "start": 34.45,
+      "duration": 1.09
+    },
+    {
+      "text": "Other end of the world for me.",
+      "start": 35.57,
+      "duration": 1.69
+    },
+    {
+      "text": "So first, let's start with a bit of scene",
+      "start": 37.29,
+      "duration": 2.97
+    },
+    {
+      "text": "setting introduction, so\ntell us more about your lab.",
+      "start": 40.29,
+      "duration": 3.57
+    },
+    {
+      "text": "You run a lab called Colala, Computation\nand Language Lab and maybe expand a bit",
+      "start": 43.89,
+      "duration": 4.85
+    },
+    {
+      "text": "about your role at Berkeley and\nhow it intersects with language?",
+      "start": 48.77,
+      "duration": 3.21
+    },
+    {
+      "text": "Yeah, so my lab is really\ninterested in two main topics.",
+      "start": 52.01,
+      "duration": 5.25
+    },
+    {
+      "text": "The first is language, so language\nprocessing and language acquisition.",
+      "start": 57.29,
+      "duration": 5.85
+    },
+    {
+      "text": "Specifically, we're interested in how kids",
+      "start": 63.17,
+      "duration": 2.37
+    },
+    {
+      "text": "take the kind of input that they\nreceive and learn the kinds of abstract",
+      "start": 65.57,
+      "duration": 4.72
+    },
+    {
+      "text": "rules and structures and concepts and\nthings that you need for language.",
+      "start": 70.32,
+      "duration": 3.45
+    },
+    {
+      "text": "So we're trying to develop formal",
+      "start": 73.8,
+      "duration": 2.58
+    },
+    {
+      "text": "computational theories of how that process\ncan happen and that's very exciting to us",
+      "start": 76.41,
+      "duration": 5.57
+    },
+    {
+      "text": "because it's very interdisciplinary, so it\ndraws on linguistics and computer science",
+      "start": 82.01,
+      "duration": 5.53
+    },
+    {
+      "text": "and neuroscience and\nexperimental psychology.",
+      "start": 87.57,
+      "duration": 4.17
+    },
+    {
+      "text": "So we're trying to put all of that\ntogether into some kind of picture that",
+      "start": 91.76,
+      "duration": 3.53
+    },
+    {
+      "text": "can explain kind of early\nlanguage and early concepts.",
+      "start": 95.32,
+      "duration": 3.97
+    },
+    {
+      "text": "The second topic we study is numerical\ncognition, which I actually got into",
+      "start": 99.32,
+      "duration": 4.22
+    },
+    {
+      "text": "through language, so kids learning of\nwords like one, two, three, four,",
+      "start": 103.57,
+      "duration": 5.57
+    },
+    {
+      "text": "learning of an accounting system or\narithmetic and we do some computational",
+      "start": 109.17,
+      "duration": 6.04
+    },
+    {
+      "text": "modeling work there, some experimental\npsychology just trying to understand the",
+      "start": 115.24,
+      "duration": 4.44
+    },
+    {
+      "text": "basics of how numbers are\nunderstood and represented.",
+      "start": 119.71,
+      "duration": 5.14
+    },
+    {
+      "text": "And we also do some field work, so we work\nwith a South American indigenous community",
+      "start": 124.88,
+      "duration": 4.5
+    },
+    {
+      "text": "to try to understand the role of formal\nschooling in number acquisition. So, e",
+      "start": 129.41,
+      "duration": 6.27
+    },
+    {
+      "text": "xciting kind of combination of\neach of those kind of topics.",
+      "start": 136.72,
+      "duration": 4.86
+    },
+    {
+      "text": "Exceptionally exciting and fascinating.\nAbsolutely.",
+      "start": 141.61,
+      "duration": 2.97
+    },
+    {
+      "text": "So I learned about your work when you",
+      "start": 144.61,
+      "duration": 3.35
+    },
+    {
+      "text": "published a paper recently on large\nlanguage models, kind of broad as possible",
+      "start": 147.99,
+      "duration": 4.74
+    },
+    {
+      "text": "umbrella there, and it\nhad quite an impact.",
+      "start": 152.76,
+      "duration": 2.74
+    },
+    {
+      "text": "And in the paper, you say that LLMs are",
+      "start": 155.53,
+      "duration": 3.73
+    },
+    {
+      "text": "not just impressive, they're\nphilosophically important.",
+      "start": 159.29,
+      "duration": 3.93
+    },
+    {
+      "text": "Now, can you expand a\nbit on why you think so?",
+      "start": 163.25,
+      "duration": 2.97
+    },
+    {
+      "text": "One of the things that I really like about",
+      "start": 166.25,
+      "duration": 2.25
+    },
+    {
+      "text": "the field of language and language\nacquisition in particular,",
+      "start": 168.53,
+      "duration": 4.81
+    },
+    {
+      "text": "is that it really touches on these deep\nquestions about human nature, right?",
+      "start": 173.37,
+      "duration": 4.17
+    },
+    {
+      "text": "So what kinds of things need to be innate\nfor humans, have to be just built in",
+      "start": 177.57,
+      "duration": 5.13
+    },
+    {
+      "text": "genetically to enable us to not only learn\nlanguage, but learn all of the other",
+      "start": 182.73,
+      "duration": 5.21
+    },
+    {
+      "text": "conceptual domains and cognitive\nabilities that we know.",
+      "start": 187.97,
+      "duration": 4.37
+    },
+    {
+      "text": "And those kinds of questions about human\nnature, I think, are well, I should say",
+      "start": 192.37,
+      "duration": 7.01
+    },
+    {
+      "text": "they're also deeply related to questions\nabout human uniqueness, right?",
+      "start": 199.41,
+      "duration": 3.57
+    },
+    {
+      "text": "So as far as we can tell, no other species\ncan learn human language or anything kind",
+      "start": 203.01,
+      "duration": 5.13
+    },
+    {
+      "text": "of remotely as complicated\nas human language.",
+      "start": 208.17,
+      "duration": 2.93
+    },
+    {
+      "text": "And so if we're really interested in\nunderstanding what makes people the way",
+      "start": 211.12,
+      "duration": 3.52
+    },
+    {
+      "text": "that they are, then language is a\nreally good place to look for that.",
+      "start": 214.67,
+      "duration": 4.99
+    },
+    {
+      "text": "And of course, in language acquisition,\nthere have been decades of debates and",
+      "start": 219.69,
+      "duration": 5.97
+    },
+    {
+      "text": "competing theories about\nwhat kinds of things need to be there.",
+      "start": 225.69,
+      "duration": 4.37
+    },
+    {
+      "text": "And the kind of main, I guess, thesis of\nthat paper is that large language models",
+      "start": 230.09,
+      "duration": 7.97
+    },
+    {
+      "text": "have really changed the\nlandscape for theories there.",
+      "start": 238.09,
+      "duration": 3.73
+    },
+    {
+      "text": "So for a long time, for example, it was\nthought that language learning was just",
+      "start": 241.85,
+      "duration": 4.25
+    },
+    {
+      "text": "impossible without there being\nsubstantial innate constraints.",
+      "start": 246.13,
+      "duration": 4.25
+    },
+    {
+      "text": "So people even had very kind of",
+      "start": 250.41,
+      "duration": 1.89
+    },
+    {
+      "text": "mathematical arguments that would try to\nsay,",
+      "start": 252.33,
+      "duration": 4.25
+    },
+    {
+      "text": "you mathematically could not figure out\nthe right grammar from the kind of input",
+      "start": 256.6,
+      "duration": 4.3
+    },
+    {
+      "text": "that kids get and therefore, some pieces\nof that grammar have to be present",
+      "start": 260.92,
+      "duration": 5.42
+    },
+    {
+      "text": "innately, they have to be encoded for\nus genetically, whatever that means.",
+      "start": 266.36,
+      "duration": 4.5
+    },
+    {
+      "text": "And that argument in particular, I think,",
+      "start": 270.89,
+      "duration": 4.13
+    },
+    {
+      "text": "has been really refuted by large language\nmodels because they show that",
+      "start": 275.04,
+      "duration": 5.34
+    },
+    {
+      "text": "if you give enough text, they're able to\nidentify a really competent grammatical",
+      "start": 280.41,
+      "duration": 6.29
+    },
+    {
+      "text": "system, probably more competent than our\nexisting linguistic theories",
+      "start": 286.72,
+      "duration": 4.98
+    },
+    {
+      "text": "from just observing sentences\nand input data like that.",
+      "start": 291.72,
+      "duration": 4.98
+    },
+    {
+      "text": "So it's probably not the case that you",
+      "start": 296.72,
+      "duration": 2.82
+    },
+    {
+      "text": "sort of need to mathematically\nbe provided with pieces of that grammar.",
+      "start": 299.57,
+      "duration": 5.57
+    },
+    {
+      "text": "The right kind of learning system is able\nto discover the key pieces of grammar.",
+      "start": 305.16,
+      "duration": 5.7
+    },
+    {
+      "text": "Now, if some of the listeners think this\nsounds familiar from conceptual point of",
+      "start": 310.89,
+      "duration": 4.15
+    },
+    {
+      "text": "view, it's because they might have come\nacross the innateness kind of theory in",
+      "start": 315.07,
+      "duration": 4.05
+    },
+    {
+      "text": "their translation studies, linguistic\nstudies, and of course, the grandfather or",
+      "start": 319.15,
+      "duration": 4.83
+    },
+    {
+      "text": "father of it all would\nbe Noam Chomsky, right?",
+      "start": 324.01,
+      "duration": 2.97
+    },
+    {
+      "text": "And so the title of your\npaper was quite provocative.",
+      "start": 327.01,
+      "duration": 4.97
+    },
+    {
+      "text": "It was actually called \"Modern Language\nModels refute Chomsky's approach to",
+      "start": 332.01,
+      "duration": 4.93
+    },
+    {
+      "text": "language\", so quite the title and let me\njust quote from the abstract as well.",
+      "start": 336.97,
+      "duration": 5.53
+    },
+    {
+      "text": "You said that the rise and success of a\nlarge language model, as you already",
+      "start": 342.53,
+      "duration": 4.37
+    },
+    {
+      "text": "pointed out, now undermines virtually\nevery strong claim for the innateness of",
+      "start": 346.92,
+      "duration": 3.28
+    },
+    {
+      "text": "language that has been proposed\nby generative linguistics.",
+      "start": 350.2,
+      "duration": 2.54
+    },
+    {
+      "text": "Modern machine learning has subverted and",
+      "start": 352.76,
+      "duration": 1.86
+    },
+    {
+      "text": "bypassed the entire theoretical framework\nof Chomsky's approach, including its core",
+      "start": 354.65,
+      "duration": 4.29
+    },
+    {
+      "text": "claims to particular insights,\nprinciples, structures, and processes.",
+      "start": 358.96,
+      "duration": 3.3
+    },
+    {
+      "text": "Now, can we just revisit, can you help us\nrevisit Chomsky's kind of key paradigm and",
+      "start": 362.29,
+      "duration": 6.85
+    },
+    {
+      "text": "how it maybe has shaped\nlinguistics for decades?",
+      "start": 369.17,
+      "duration": 3.05
+    },
+    {
+      "text": "I mean, a lot of the listeners here would,\nif they remember anything from",
+      "start": 372.24,
+      "duration": 3.44
+    },
+    {
+      "text": "linguistics, it's probably\nthe name Chomsky, right?",
+      "start": 375.68,
+      "duration": 2.26
+    },
+    {
+      "text": "So can you just help us kind of understand\nthat first, and then we go into why you",
+      "start": 377.97,
+      "duration": 4.13
+    },
+    {
+      "text": "think that LLMs kind of refute\nand undermine that theory?",
+      "start": 382.13,
+      "duration": 3.33
+    },
+    {
+      "text": "There's a couple of key interrelated\nideas, I think, with Chomsky's approach.",
+      "start": 385.48,
+      "duration": 6.78
+    },
+    {
+      "text": "So one of them, for example, is that in a",
+      "start": 392.29,
+      "duration": 3.19
+    },
+    {
+      "text": "grammatical theory, we should be finding\nkind of discrete systems of rules, right?",
+      "start": 395.51,
+      "duration": 5.95
+    },
+    {
+      "text": "So you can think about a rule that might\nsay something like put the subjects before",
+      "start": 401.48,
+      "duration": 3.5
+    },
+    {
+      "text": "the verbs or put the objects after the\nverbs and those kind of discrete rules...",
+      "start": 405.01,
+      "duration": 7.49
+    },
+    {
+      "text": "In the paper, I have one or two quotes\nfrom Chomsky talking about, for example,",
+      "start": 412.53,
+      "duration": 4.29
+    },
+    {
+      "text": "how probability is completely useless, so\nthere's nothing probabilistic or",
+      "start": 416.85,
+      "duration": 4.81
+    },
+    {
+      "text": "stochastic or gradient\nin grammatical systems.",
+      "start": 421.69,
+      "duration": 4.77
+    },
+    {
+      "text": "And that's another example where large",
+      "start": 426.48,
+      "duration": 4.14
+    },
+    {
+      "text": "language models work in a\ncompletely different way, right?",
+      "start": 430.65,
+      "duration": 3.33
+    },
+    {
+      "text": "So they have a continuous space of neural\nnetwork weights, and they use gradient",
+      "start": 434.01,
+      "duration": 6.69
+    },
+    {
+      "text": "descent, so they compute derivatives with\nrespect to their parameters in order to",
+      "start": 440.73,
+      "duration": 6.85
+    },
+    {
+      "text": "tune those parameters and make them\ndo a good job of predicting data.",
+      "start": 447.6,
+      "duration": 3.34
+    },
+    {
+      "text": "So there's nothing like the kind of",
+      "start": 450.97,
+      "duration": 1.77
+    },
+    {
+      "text": "discrete rules that Chomsky and theories\npropose inside of these.",
+      "start": 452.77,
+      "duration": 5.65
+    },
+    {
+      "text": "And in fact, both the probability part and\nthe gradient part are probably very",
+      "start": 458.45,
+      "duration": 4.93
+    },
+    {
+      "text": "important for making\nthese models work well.",
+      "start": 463.41,
+      "duration": 2.29
+    },
+    {
+      "text": "So if you want to",
+      "start": 465.73,
+      "duration": 4.15
+    },
+    {
+      "text": "optimize a model with lots of parameters,\nfor example, then this is the main method",
+      "start": 471.84,
+      "duration": 5.5
+    },
+    {
+      "text": "that people have figured\nout for how to do it.",
+      "start": 477.36,
+      "duration": 2.78
+    },
+    {
+      "text": "So I think that maybe at the most basic\nlevel, the underlying representations end",
+      "start": 480.17,
+      "duration": 4.25
+    },
+    {
+      "text": "up looking really,\nreally different, right?",
+      "start": 484.44,
+      "duration": 1.86
+    },
+    {
+      "text": "You have a grammar which is somehow\nencoded into the weights of a neural",
+      "start": 486.33,
+      "duration": 3.77
+    },
+    {
+      "text": "network compared to a system of kind\nof logical rewrite rules or something.",
+      "start": 490.13,
+      "duration": 6.93
+    },
+    {
+      "text": "There's other kinds of assumptions which\nalso, I think, differ fundamentally.",
+      "start": 497.09,
+      "duration": 5.37
+    },
+    {
+      "text": "So, for example,",
+      "start": 502.48,
+      "duration": 1.78
+    },
+    {
+      "text": "since the 90s, one of main features of\nChomsky's approach has been trying to find",
+      "start": 504.29,
+      "duration": 5.81
+    },
+    {
+      "text": "kind of small, minimal sets of rules and\nprinciples which can explain language and",
+      "start": 510.13,
+      "duration": 6.17
+    },
+    {
+      "text": "he talks about that as a kind of\ndefining feature of his approach.",
+      "start": 516.32,
+      "duration": 3.66
+    },
+    {
+      "text": "I think it's actually probably\nnot that unique in the sense that",
+      "start": 520.01,
+      "duration": 4.25
+    },
+    {
+      "text": "scientists generally try to find\nsimple rules and principles.",
+      "start": 524.29,
+      "duration": 4.33
+    },
+    {
+      "text": "But in particular,",
+      "start": 528.65,
+      "duration": 2.31
+    },
+    {
+      "text": "his approach to linguistics often tries to\nminimize the amount of, say,",
+      "start": 533.12,
+      "duration": 5.94
+    },
+    {
+      "text": "memorized structure, so trying to derive\nas much as possible from the rules.",
+      "start": 539.08,
+      "duration": 6.46
+    },
+    {
+      "text": "And if you think about people,",
+      "start": 545.56,
+      "duration": 1.98
+    },
+    {
+      "text": "so people are very good at learning words,\nfor example, we know tens of thousands of",
+      "start": 547.56,
+      "duration": 3.9
+    },
+    {
+      "text": "different words, and we also know tens\nof thousands of different idioms, right?",
+      "start": 551.49,
+      "duration": 4.21
+    },
+    {
+      "text": "Idioms just have to be memorized because",
+      "start": 555.73,
+      "duration": 2.05
+    },
+    {
+      "text": "we know their meaning and we know their\nlinguistic form and",
+      "start": 557.81,
+      "duration": 5.89
+    },
+    {
+      "text": "the meaning is not derivable\nfrom the linguistic form, right?",
+      "start": 563.73,
+      "duration": 3.29
+    },
+    {
+      "text": "So, like kick the bucket has a meaning\nwhich is not derivable from the words.",
+      "start": 567.05,
+      "duration": 5.45
+    },
+    {
+      "text": "So we're very, very good at learning\nlittle chunks of language like that and",
+      "start": 572.53,
+      "duration": 4.49
+    },
+    {
+      "text": "actually, large language models\nare similarly also good at that.",
+      "start": 577.05,
+      "duration": 3.81
+    },
+    {
+      "text": "So they're not seeking, in Chomsky's\nsense, a minimal set of rules.",
+      "start": 580.89,
+      "duration": 4.09
+    },
+    {
+      "text": "They're very happy to memorize data, to",
+      "start": 585.01,
+      "duration": 2.49
+    },
+    {
+      "text": "memorize idioms or little\npieces of language.",
+      "start": 587.53,
+      "duration": 3.13
+    },
+    {
+      "text": "And one of the,",
+      "start": 590.69,
+      "duration": 2.05
+    },
+    {
+      "text": "I think, kind of remarkable findings of\nkind of deep learning and modern language",
+      "start": 592.77,
+      "duration": 5.93
+    },
+    {
+      "text": "models has been that\nthere exist statistical models which are",
+      "start": 598.73,
+      "duration": 5.21
+    },
+    {
+      "text": "good at memorizing data, but also\ngood at generalizing to new data.",
+      "start": 603.97,
+      "duration": 3.85
+    },
+    {
+      "text": "So for a long time, it was thought in kind\nof statistical approaches that if you had",
+      "start": 607.85,
+      "duration": 5.41
+    },
+    {
+      "text": "a model which had too many parameters, so\nmany parameters that it could essentially",
+      "start": 613.29,
+      "duration": 4.57
+    },
+    {
+      "text": "memorize most of what it sees, it wouldn't\nbe good at generalizing meaning extending",
+      "start": 617.89,
+      "duration": 5.69
+    },
+    {
+      "text": "to, say, sentences or image categories or\nwhatever outside of its training set",
+      "start": 623.61,
+      "duration": 6.53
+    },
+    {
+      "text": "and deep learning tools, for whatever\nreason, seem able to do that.",
+      "start": 630.17,
+      "duration": 5.65
+    },
+    {
+      "text": "And that means that you can have things",
+      "start": 635.85,
+      "duration": 2.53
+    },
+    {
+      "text": "which\naren't kind of explicitly seeking minimal",
+      "start": 638.41,
+      "duration": 4.57
+    },
+    {
+      "text": "sets of logical rules, as in Chomsky's\ntheory,",
+      "start": 643.01,
+      "duration": 3.97
+    },
+    {
+      "text": "but instead are very good at memorization\nand also very good at generalization.",
+      "start": 647.01,
+      "duration": 6.35
+    },
+    {
+      "text": "I think that those two pieces together are",
+      "start": 654.76,
+      "duration": 4.54
+    },
+    {
+      "text": "kind of most of the advance and if you\nthink about what a linguistic theory",
+      "start": 659.33,
+      "duration": 6.01
+    },
+    {
+      "text": "should look like,\nI think that large language models come at",
+      "start": 665.37,
+      "duration": 6.31
+    },
+    {
+      "text": "this question from a completely different\npoint of view and end up doing really,",
+      "start": 671.71,
+      "duration": 4.61
+    },
+    {
+      "text": "really well on pretty much any\ntask we can find for them, right?",
+      "start": 676.35,
+      "duration": 3.71
+    },
+    {
+      "text": "So they're good at syntactic tasks,",
+      "start": 680.08,
+      "duration": 2.66
+    },
+    {
+      "text": "they're reasonably okay at some kind of\nbasic reasoning tasks,",
+      "start": 682.77,
+      "duration": 6.01
+    },
+    {
+      "text": "they're good at translation, they're good\nat answering questions and writing",
+      "start": 688.81,
+      "duration": 5.13
+    },
+    {
+      "text": "computer code and all\nof that kind of stuff.",
+      "start": 693.96,
+      "duration": 2.14
+    },
+    {
+      "text": "So I think from that starting point, which\nis different than Chomsky's, they're able",
+      "start": 696.13,
+      "duration": 4.93
+    },
+    {
+      "text": "to exhibit a much wider and kind of more\npowerful set of language abilities.",
+      "start": 701.08,
+      "duration": 8.06
+    },
+    {
+      "text": "And I think in your paper also, you just",
+      "start": 709.17,
+      "duration": 2.29
+    },
+    {
+      "text": "mentioned that\nthe concept of outside of training data,",
+      "start": 711.49,
+      "duration": 5.69
+    },
+    {
+      "text": "right, and I think it\nwas important for you...",
+      "start": 717.2,
+      "duration": 1.5
+    },
+    {
+      "text": "In your very first example in the paper,",
+      "start": 718.72,
+      "duration": 1.94
+    },
+    {
+      "text": "you said that you tested ChatGPT's\nabilities with this ant could sink an",
+      "start": 720.69,
+      "duration": 5.75
+    },
+    {
+      "text": "aircraft carrier example to demonstrate\nthat you have to be very careful to make",
+      "start": 726.47,
+      "duration": 6.83
+    },
+    {
+      "text": "sure that you test it on things that are\nclearly outside of any training data.",
+      "start": 733.32,
+      "duration": 3.7
+    },
+    {
+      "text": "Can you just tell us a bit more about how",
+      "start": 737.05,
+      "duration": 2.41
+    },
+    {
+      "text": "you prompted Chet GPT to get outside\nof that training data realm?",
+      "start": 739.49,
+      "duration": 6.65
+    },
+    {
+      "text": "This has actually made kind of working\nwith these models kind of fun, right?",
+      "start": 746.17,
+      "duration": 4.97
+    },
+    {
+      "text": "So they're trained on huge amounts of text",
+      "start": 751.17,
+      "duration": 2.29
+    },
+    {
+      "text": "from the Internet, think billions and\nbillions of tokens, everything in",
+      "start": 753.49,
+      "duration": 3.61
+    },
+    {
+      "text": "Wikipedia, for example, a lot of comment\nthreads on different sites and whatever.",
+      "start": 757.13,
+      "duration": 5.49
+    },
+    {
+      "text": "So that means that if you ask them",
+      "start": 762.65,
+      "duration": 3.73
+    },
+    {
+      "text": "a really common kind of question, if you\nask them to maybe say what it would look",
+      "start": 766.41,
+      "duration": 6.55
+    },
+    {
+      "text": "like to dig up an anthill, for example,\nthere might be text on the internet that",
+      "start": 772.99,
+      "duration": 4.59
+    },
+    {
+      "text": "contains that information and so if they\nprovide it back to you, then you have to",
+      "start": 777.6,
+      "duration": 3.62
+    },
+    {
+      "text": "worry that they're just repeating\nsomething they've already seen, right,",
+      "start": 781.24,
+      "duration": 3.3
+    },
+    {
+      "text": "because we know they have this ability\nto memorize chunks of language.",
+      "start": 784.57,
+      "duration": 7.53
+    },
+    {
+      "text": "And this means that to really test them,",
+      "start": 792.13,
+      "duration": 2.69
+    },
+    {
+      "text": "you have to ask them questions which are\nreally unlikely to have been encountered",
+      "start": 794.85,
+      "duration": 4.37
+    },
+    {
+      "text": "before, even on the entire\nInternet, and so it's kind of fun.",
+      "start": 799.25,
+      "duration": 5.65
+    },
+    {
+      "text": "It takes a little bit of creativity, I",
+      "start": 804.92,
+      "duration": 1.7
+    },
+    {
+      "text": "think, to think of things which are\noutside of the box of the entire Internet.",
+      "start": 806.65,
+      "duration": 6.57
+    },
+    {
+      "text": "One example from the paper is that.",
+      "start": 813.25,
+      "duration": 3.29
+    },
+    {
+      "text": "I had asked it to describe how an ant\ncould sink an aircraft carrier, right?",
+      "start": 816.57,
+      "duration": 4.49
+    },
+    {
+      "text": "And it comes up with this story about\none ant kind of rallying together all of",
+      "start": 821.08,
+      "duration": 6.3
+    },
+    {
+      "text": "the other ants and coming up with a\nscheme to sink an aircraft carrier.",
+      "start": 827.41,
+      "duration": 4.97
+    },
+    {
+      "text": "And if you look for that text, or text\nlike it on the Internet, it really isn't",
+      "start": 832.41,
+      "duration": 6.89
+    },
+    {
+      "text": "there, so what that says is that it's able\nto generate coherent discourses just from",
+      "start": 839.33,
+      "duration": 7.91
+    },
+    {
+      "text": "a little prompt like that, far\noutside of its training set.",
+      "start": 847.27,
+      "duration": 3.79
+    },
+    {
+      "text": "The other one in the paper was\nasking it to explain the fundamental",
+      "start": 851.08,
+      "duration": 5.54
+    },
+    {
+      "text": "theorem of arithmetic in the style of\nDonald Trump, right, and so that's just a",
+      "start": 856.65,
+      "duration": 4.77
+    },
+    {
+      "text": "fact in number theory that you can factor\na number down into its prime factors.",
+      "start": 861.45,
+      "duration": 5.89
+    },
+    {
+      "text": "And they're very good at imitating style",
+      "start": 867.37,
+      "duration": 2.85
+    },
+    {
+      "text": "and so it gave this speech that was very\nreminiscent of Trump saying things like,",
+      "start": 870.25,
+      "duration": 6.05
+    },
+    {
+      "text": "believe me, I know a lot about prime\nnumbers and that kind of stuff in there.",
+      "start": 876.33,
+      "duration": 3.89
+    },
+    {
+      "text": "So that's also\ncertain to be outside of its training set,",
+      "start": 880.25,
+      "duration": 5.17
+    },
+    {
+      "text": "and yet it's able to put those pieces\ntogether in a coherent and sensible way.",
+      "start": 885.45,
+      "duration": 5.01
+    },
+    {
+      "text": "So then maybe some critics would still",
+      "start": 890.49,
+      "duration": 2.05
+    },
+    {
+      "text": "argue that it's just simply kind of an\nendless sequence of predicting the next",
+      "start": 892.57,
+      "duration": 6.17
+    },
+    {
+      "text": "token, right, and that's\nhow it comes up...",
+      "start": 898.77,
+      "duration": 2.85
+    },
+    {
+      "text": "It just kind of takes the most likely next\nsolution and then sometimes, I was told,",
+      "start": 901.65,
+      "duration": 6.41
+    },
+    {
+      "text": "it kind of has to deviate a little bit\nfrom this to make it creative, so you",
+      "start": 908.08,
+      "duration": 5.54
+    },
+    {
+      "text": "would think that\nthat argument wouldn't count.",
+      "start": 913.65,
+      "duration": 3.97
+    },
+    {
+      "text": "It's not just predicting, like it's not\njust an endless sequence of predicting the",
+      "start": 917.64,
+      "duration": 3.52
+    },
+    {
+      "text": "next one, but there is\nsomething else going on there.",
+      "start": 921.19,
+      "duration": 2.87
+    },
+    {
+      "text": "Yeah, so I mean, it's certainly true that\nfor many or most of these models,",
+      "start": 924.08,
+      "duration": 5.9
+    },
+    {
+      "text": "their training consists of being able to\npredict the next token in language, right?",
+      "start": 930.01,
+      "duration": 5.49
+    },
+    {
+      "text": "So they see some string and then they're\nasked what the next word is going to be in",
+      "start": 935.53,
+      "duration": 5.15
+    },
+    {
+      "text": "that string and when you ask them to\nanswer a question like that, what they're",
+      "start": 940.71,
+      "duration": 5.31
+    },
+    {
+      "text": "doing is predicting the language\nthat would follow that question.",
+      "start": 946.04,
+      "duration": 3.02
+    },
+    {
+      "text": "So explain the fundamental theorem of\narithmetic in the style of Donald Trump.",
+      "start": 949.08,
+      "duration": 5.1
+    },
+    {
+      "text": "They're taking that text and then",
+      "start": 954.21,
+      "duration": 2.77
+    },
+    {
+      "text": "predicting word by word what the next\nlikely word would be and that happens to",
+      "start": 957.01,
+      "duration": 4.25
+    },
+    {
+      "text": "be a description of the theorem\nin the style of Donald Trump.",
+      "start": 961.29,
+      "duration": 6.69
+    },
+    {
+      "text": "So I think it's true that\nthey're working like that.",
+      "start": 968.01,
+      "duration": 3.01
+    },
+    {
+      "text": "I think where the interesting debate\nis, is what exactly does that mean, right?",
+      "start": 971.05,
+      "duration": 7.89
+    },
+    {
+      "text": "So how I think about it is that\nif you were doing a really good job of",
+      "start": 978.97,
+      "duration": 6.21
+    },
+    {
+      "text": "predicting upcoming linguistic material,\nwhat word was going to be said next?",
+      "start": 985.21,
+      "duration": 4.41
+    },
+    {
+      "text": "You'd actually have to have discovered",
+      "start": 989.64,
+      "duration": 1.82
+    },
+    {
+      "text": "quite a bit about the world and about\nlanguage, right, the grammar.",
+      "start": 991.49,
+      "duration": 6.69
+    },
+    {
+      "text": "So if you think about these models as\nhaving lots of parameters and kind of",
+      "start": 998.21,
+      "duration": 3.89
+    },
+    {
+      "text": "configuring themselves in a way in order\nto predict language well,",
+      "start": 1002.13,
+      "duration": 5.33
+    },
+    {
+      "text": "probably what they're doing is actually\nconfiguring themselves to represent some",
+      "start": 1007.49,
+      "duration": 5.13
+    },
+    {
+      "text": "facts about the world and some facts\nabout the dynamics of language, right?",
+      "start": 1012.65,
+      "duration": 4.13
+    },
+    {
+      "text": "So, for example, if you gave it a prompt\nthat said something like,",
+      "start": 1016.81,
+      "duration": 4.69
+    },
+    {
+      "text": "you walk into a fancy Italian\nrestaurant, what happens next, right?",
+      "start": 1021.53,
+      "duration": 5.48
+    },
+    {
+      "text": "Well, it will just predict the next word.",
+      "start": 1027.04,
+      "duration": 2.14
+    },
+    {
+      "text": "It'll probably give you a plausible",
+      "start": 1029.2,
+      "duration": 1.61
+    },
+    {
+      "text": "description of that scene, of what\nthe next events are going to be.",
+      "start": 1030.84,
+      "duration": 4.82
+    },
+    {
+      "text": "But if it knows that you're going to be",
+      "start": 1035.68,
+      "duration": 1.57
+    },
+    {
+      "text": "handed a menu and shown a table,\nit only knows that because it has",
+      "start": 1037.28,
+      "duration": 5.94
+    },
+    {
+      "text": "internally represented the relationships\nbetween words like restaurant and words",
+      "start": 1043.25,
+      "duration": 5.56
+    },
+    {
+      "text": "like menu and table and the sequential\nprogression of events like that.",
+      "start": 1048.84,
+      "duration": 3.54
+    },
+    {
+      "text": "So it's built some at least approximate",
+      "start": 1052.41,
+      "duration": 2.81
+    },
+    {
+      "text": "little model of what's happening in the\nworld and that model is encoded implicitly",
+      "start": 1055.25,
+      "duration": 4.93
+    },
+    {
+      "text": "somehow in all of these billions\nof neural network weights.",
+      "start": 1060.21,
+      "duration": 4.56
+    },
+    {
+      "text": "So I think of this word prediction as just",
+      "start": 1064.8,
+      "duration": 3.97
+    },
+    {
+      "text": "a kind of description\nof its training setup.",
+      "start": 1068.8,
+      "duration": 3.82
+    },
+    {
+      "text": "But I think one thing that's been very",
+      "start": 1072.64,
+      "duration": 1.74
+    },
+    {
+      "text": "surprising, even to people in AI and\ncertainly in linguistics and cognitive",
+      "start": 1074.41,
+      "duration": 5.4
+    },
+    {
+      "text": "science, is that from that kind of\nprediction, you're able to discover lots",
+      "start": 1079.84,
+      "duration": 4.73
+    },
+    {
+      "text": "about language and probably\nalso lots about the world.",
+      "start": 1084.6,
+      "duration": 3.02
+    },
+    {
+      "text": "When we go back to...",
+      "start": 1087.65,
+      "duration": 1.05
+    },
+    {
+      "text": "Maybe it wasn't a controversy, but you",
+      "start": 1088.73,
+      "duration": 1.93
+    },
+    {
+      "text": "certainly, probably got a bit of pushback\non Twitter and in some of these debates",
+      "start": 1090.68,
+      "duration": 3.61
+    },
+    {
+      "text": "that I saw on YouTube, like,\nwhat are the different camps?",
+      "start": 1094.32,
+      "duration": 3.06
+    },
+    {
+      "text": "And do you think it's just an adjustment",
+      "start": 1097.41,
+      "duration": 2.36
+    },
+    {
+      "text": "and some people adjust faster than others\nand others just cling on to like the past",
+      "start": 1099.8,
+      "duration": 4.77
+    },
+    {
+      "text": "four decades of obviously,\nliterature and research?",
+      "start": 1104.6,
+      "duration": 4.17
+    },
+    {
+      "text": "Like, where do you see this going within\nthe linguistics community, for example?",
+      "start": 1108.8,
+      "duration": 3.9
+    },
+    {
+      "text": "I mean, my own view is that it really",
+      "start": 1112.73,
+      "duration": 2.28
+    },
+    {
+      "text": "changes pretty much everything\nin linguistics, right?",
+      "start": 1115.04,
+      "duration": 3.05
+    },
+    {
+      "text": "So the reason for that is that there just",
+      "start": 1118.12,
+      "duration": 2.68
+    },
+    {
+      "text": "haven't been models that work\nthis well in anything, right?",
+      "start": 1120.83,
+      "duration": 3.46
+    },
+    {
+      "text": "So if you look at, for example, a",
+      "start": 1124.32,
+      "duration": 3.58
+    },
+    {
+      "text": "generative syntax textbook, it'll have\nhundreds and hundreds of pages about",
+      "start": 1127.93,
+      "duration": 6.45
+    },
+    {
+      "text": "what the likely structures are underlying\nlanguage and little arguments about why",
+      "start": 1134.41,
+      "duration": 6.25
+    },
+    {
+      "text": "it's this structure and\nnot this other structure.",
+      "start": 1140.69,
+      "duration": 3.01
+    },
+    {
+      "text": "But the problem is that",
+      "start": 1143.73,
+      "duration": 2.52
+    },
+    {
+      "text": "many of the approaches there start from\nthe same set of basic assumptions, right?",
+      "start": 1146.28,
+      "duration": 4.7
+    },
+    {
+      "text": "So they start by trying to find\nsome small set of discrete rules.",
+      "start": 1151.01,
+      "duration": 4.08
+    },
+    {
+      "text": "They don't start from\nkind of gradient continuous probabilities",
+      "start": 1155.12,
+      "duration": 6.62
+    },
+    {
+      "text": "and kind of rich ability\nto memorize things.",
+      "start": 1161.77,
+      "duration": 3.69
+    },
+    {
+      "text": "And so what that means is that most of\nthose theories, I think, are probably not",
+      "start": 1165.49,
+      "duration": 4.99
+    },
+    {
+      "text": "going to last very long, right, because\nthey're just from the wrong starting",
+      "start": 1170.51,
+      "duration": 4.02
+    },
+    {
+      "text": "points and they're from starting points\nthat people had decades to work on",
+      "start": 1174.56,
+      "duration": 5.1
+    },
+    {
+      "text": "and that\nthose decades of effort didn't produce",
+      "start": 1179.69,
+      "duration": 4.29
+    },
+    {
+      "text": "anything close to the abilities\nthat these models have.",
+      "start": 1184.01,
+      "duration": 3.65
+    },
+    {
+      "text": "So I think of them as really changing the",
+      "start": 1187.69,
+      "duration": 3.6
+    },
+    {
+      "text": "starting points and the core underlying\nassumptions of how we think about",
+      "start": 1191.32,
+      "duration": 5.01
+    },
+    {
+      "text": "what it means to represent a grammar or\nwhat it means to represent linguistic",
+      "start": 1196.36,
+      "duration": 4.08
+    },
+    {
+      "text": "knowledge and from my point\nof view, that's great, right?",
+      "start": 1200.47,
+      "duration": 3.62
+    },
+    {
+      "text": "That's a real advance in our understanding\nand our way of thinking about things.",
+      "start": 1204.12,
+      "duration": 5.89
+    },
+    {
+      "text": "And like, I think pretty much everything\nin science, those kinds of advances",
+      "start": 1210.04,
+      "duration": 5.7
+    },
+    {
+      "text": "really necessitate\nmoving past the prior theories, right,",
+      "start": 1215.77,
+      "duration": 6.76
+    },
+    {
+      "text": "moving to the next theory\nthat works better.",
+      "start": 1222.56,
+      "duration": 4.21
+    },
+    {
+      "text": "It must have been very hard to falsify\nany of these theories in the past.",
+      "start": 1226.8,
+      "duration": 4.62
+    },
+    {
+      "text": "I mean, how can you disprove that we don't",
+      "start": 1231.45,
+      "duration": 3.32
+    },
+    {
+      "text": "have discrete rules in our\nhead as humans, right?",
+      "start": 1234.8,
+      "duration": 3.97
+    },
+    {
+      "text": "And now we have a model that does it",
+      "start": 1238.8,
+      "duration": 2.7
+    },
+    {
+      "text": "clearly not in the way that a human would\ndo it, but can we maybe just dwell on the",
+      "start": 1241.53,
+      "duration": 5.55
+    },
+    {
+      "text": "question, like, how or in what ways does\nkind of an LLM differ from a human in",
+      "start": 1247.11,
+      "duration": 5.31
+    },
+    {
+      "text": "generating information\nin natural language?",
+      "start": 1252.45,
+      "duration": 3.69
+    },
+    {
+      "text": "Clearly, there is something, I mean,",
+      "start": 1256.17,
+      "duration": 1.91
+    },
+    {
+      "text": "there's something very, very generative\ngoing on with these models, right?",
+      "start": 1258.11,
+      "duration": 3.66
+    },
+    {
+      "text": "And\ndo you think, is it too early to even",
+      "start": 1261.8,
+      "duration": 5.21
+    },
+    {
+      "text": "fundamentally assess the\ndifference or how...",
+      "start": 1267.04,
+      "duration": 3.49
+    },
+    {
+      "text": "Well, so I'm rambling a bit, but like,",
+      "start": 1270.56,
+      "duration": 2.25
+    },
+    {
+      "text": "going back to how humans generate, can we\nget insights about how humans generate",
+      "start": 1272.84,
+      "duration": 6.82
+    },
+    {
+      "text": "language and information from what we're\nseeing now playing out with the LLMs?",
+      "start": 1279.69,
+      "duration": 4.08
+    },
+    {
+      "text": "I guess that's mildly more coherently put.",
+      "start": 1283.8,
+      "duration": 2.9
+    },
+    {
+      "text": "I think both of those\nquestions are really good.",
+      "start": 1286.73,
+      "duration": 2.77
+    },
+    {
+      "text": "So for the first one on the differences,\none difference that a number of people",
+      "start": 1289.53,
+      "duration": 5.61
+    },
+    {
+      "text": "have pointed to is that we seem to have a\nvariety of different modes of reasoning,",
+      "start": 1295.17,
+      "duration": 6.53
+    },
+    {
+      "text": "many of which are probably not\naccessible to these models.",
+      "start": 1301.73,
+      "duration": 3.47
+    },
+    {
+      "text": "So, for instance, you can picture a\n3D scene and reason about it, right?",
+      "start": 1305.23,
+      "duration": 4.23
+    },
+    {
+      "text": "You could picture the Italian restaurant I",
+      "start": 1309.48,
+      "duration": 1.85
+    },
+    {
+      "text": "brought up and come up with a hypothetical\nguess of where stuff would be laid out and",
+      "start": 1311.36,
+      "duration": 6.21
+    },
+    {
+      "text": "whether there's a candle on top of the\ntable or underneath the table and kind of",
+      "start": 1317.6,
+      "duration": 4.58
+    },
+    {
+      "text": "think through things in that\nkind of geometrical way.",
+      "start": 1322.21,
+      "duration": 3.65
+    },
+    {
+      "text": "You can also reason about\ndifferent entities, right?",
+      "start": 1325.89,
+      "duration": 5.39
+    },
+    {
+      "text": "Well, I guess both reasoning and\nplanning, so if I asked you",
+      "start": 1334.16,
+      "duration": 6.41
+    },
+    {
+      "text": "how to get to the airport or what the\nsequence of steps is that you would need",
+      "start": 1340.6,
+      "duration": 4.94
+    },
+    {
+      "text": "for doing that,\nprobably your knowledge of that is quite",
+      "start": 1345.57,
+      "duration": 5.33
+    },
+    {
+      "text": "rich and richer than even a\nlarge language model would have.",
+      "start": 1350.93,
+      "duration": 5.01
+    },
+    {
+      "text": "So I think one of the main differences is",
+      "start": 1355.97,
+      "duration": 3.6
+    },
+    {
+      "text": "that they're mostly just doing language,\nbut there's a lot in that word, mostly",
+      "start": 1359.6,
+      "duration": 6.73
+    },
+    {
+      "text": "because they are able to solve\ncertain reasoning problems.",
+      "start": 1366.36,
+      "duration": 4.66
+    },
+    {
+      "text": "They can maybe play a chess opening or\nsomething just based on kind of the",
+      "start": 1371.05,
+      "duration": 4.93
+    },
+    {
+      "text": "statistical patterns of\ndata that they've seen.",
+      "start": 1376.01,
+      "duration": 3.28
+    },
+    {
+      "text": "So I think this is one of the other things\nthat's been surprising, is that just",
+      "start": 1379.32,
+      "duration": 4.49
+    },
+    {
+      "text": "training on language seems to give them\nsome of the information about the world",
+      "start": 1383.84,
+      "duration": 4.62
+    },
+    {
+      "text": "and kind of how the world is structured,\nand they're able to internalize that.",
+      "start": 1388.49,
+      "duration": 4.19
+    },
+    {
+      "text": "So they could, for instance, tell you how\nto get to the airport, but if you ask them",
+      "start": 1392.71,
+      "duration": 4.34
+    },
+    {
+      "text": "more complicated questions,\nlet's say that on the way to the airport,",
+      "start": 1397.08,
+      "duration": 4.78
+    },
+    {
+      "text": "your taxi gets a flat tire or something,\nwhat should you do?",
+      "start": 1401.89,
+      "duration": 3.68
+    },
+    {
+      "text": "If you keep making things more and more",
+      "start": 1405.6,
+      "duration": 1.42
+    },
+    {
+      "text": "complicated, you'll probably run into some\nwall with their reasoning ability and",
+      "start": 1407.05,
+      "duration": 3.99
+    },
+    {
+      "text": "their ability to keep track\nof all of the moving pieces.",
+      "start": 1411.07,
+      "duration": 3.47
+    },
+    {
+      "text": "So this is something,",
+      "start": 1414.57,
+      "duration": 2.85
+    },
+    {
+      "text": "both of those aspects, I think, are things\nthat people are currently working on, so",
+      "start": 1417.45,
+      "duration": 4.93
+    },
+    {
+      "text": "trying to integrate these kinds of\nlinguistic abilities with",
+      "start": 1422.41,
+      "duration": 4.68
+    },
+    {
+      "text": "other kinds of kind of cognitive reasoning\nmodules that people seem to have.",
+      "start": 1427.12,
+      "duration": 6.96
+    },
+    {
+      "text": "That I should say is even a debate in the",
+      "start": 1437.2,
+      "duration": 3.2
+    },
+    {
+      "text": "literature about whether\nthat's even necessary, right?",
+      "start": 1440.43,
+      "duration": 2.95
+    },
+    {
+      "text": "So there's some people who think or maybe",
+      "start": 1443.41,
+      "duration": 4.45
+    },
+    {
+      "text": "thought that\nyou wouldn't need anything other than just",
+      "start": 1447.89,
+      "duration": 5.25
+    },
+    {
+      "text": "this kind of general\nclass of model, right?",
+      "start": 1453.17,
+      "duration": 2.53
+    },
+    {
+      "text": "So if we just gave them enough data or the",
+      "start": 1455.72,
+      "duration": 2.04
+    },
+    {
+      "text": "right kind of data maybe they could learn\nto develop reasoning or learn to reason",
+      "start": 1457.79,
+      "duration": 4.95
+    },
+    {
+      "text": "and think about objects and physical\nscenes and these kinds of things.",
+      "start": 1462.76,
+      "duration": 3.33
+    },
+    {
+      "text": "And\nthere's lots of evidence that they have",
+      "start": 1466.12,
+      "duration": 3.72
+    },
+    {
+      "text": "some ability there and it's, I think, kind\nof unclear still",
+      "start": 1469.87,
+      "duration": 5.31
+    },
+    {
+      "text": "how much ability they have or how\nexactly it compares to people.",
+      "start": 1475.21,
+      "duration": 3.57
+    },
+    {
+      "text": "Probably it's kind of a\ncoarse fuzzy model of the world that",
+      "start": 1478.81,
+      "duration": 4.33
+    },
+    {
+      "text": "they're developing and not as kind of\nsophisticated as the one that people get.",
+      "start": 1483.17,
+      "duration": 6.73
+    },
+    {
+      "text": "Yeah.",
+      "start": 1489.92,
+      "duration": 0.26
+    },
+    {
+      "text": "No, there's one thing also,\nthe data size issue, right?",
+      "start": 1490.2,
+      "duration": 2.56
+    },
+    {
+      "text": "I mean, these models have been trained\nwith like I think we're in the 500 billion",
+      "start": 1492.79,
+      "duration": 5.49
+    },
+    {
+      "text": "kind of reach now and some argued\nthat there's even bigger ones.",
+      "start": 1498.44,
+      "duration": 3.42
+    },
+    {
+      "text": "But there's also something I think I came",
+      "start": 1501.88,
+      "duration": 1.78
+    },
+    {
+      "text": "across in your writing, a BabyLM,\nso basically training the models from",
+      "start": 1503.69,
+      "duration": 6.97
+    },
+    {
+      "text": "scratch on human-sized\namounts of linguistic data.",
+      "start": 1510.69,
+      "duration": 2.85
+    },
+    {
+      "text": "So what is human-sized amounts of",
+      "start": 1513.57,
+      "duration": 2.27
+    },
+    {
+      "text": "linguistic data and what's the\nchallenge in training the BabyLM?",
+      "start": 1515.87,
+      "duration": 3.59
+    },
+    {
+      "text": "This actually relates to",
+      "start": 1519.49,
+      "duration": 2.49
+    },
+    {
+      "text": "one key weakness of the current models\nthat I haven't touched on here,",
+      "start": 1522.01,
+      "duration": 5.65
+    },
+    {
+      "text": "which is that they're trained on\nmuch more data than people get.",
+      "start": 1527.69,
+      "duration": 3.53
+    },
+    {
+      "text": "So this has been one of the kind of",
+      "start": 1531.25,
+      "duration": 2.77
+    },
+    {
+      "text": "primary responses that people have said\nabout the article, right, is like, okay,",
+      "start": 1534.05,
+      "duration": 4.89
+    },
+    {
+      "text": "these aren't actually relevant to human\nlanguage learning because maybe they get",
+      "start": 1538.97,
+      "duration": 4.03
+    },
+    {
+      "text": "100 or 1000 times as much\ndata as a human kid gets.",
+      "start": 1543.03,
+      "duration": 4.59
+    },
+    {
+      "text": "And there's two, I think, main responses\nto that, so one is that these models are",
+      "start": 1547.65,
+      "duration": 7.25
+    },
+    {
+      "text": "very, very new and we don't actually\nknow how much data is necessary.",
+      "start": 1554.93,
+      "duration": 4.57
+    },
+    {
+      "text": "So it could be that there's a nearby",
+      "start": 1559.53,
+      "duration": 2.56
+    },
+    {
+      "text": "architecture, so something kind of like\nthe existing models, but maybe with a",
+      "start": 1562.12,
+      "duration": 4.2
+    },
+    {
+      "text": "little twist or a certain kind of\nrecurrence or something that",
+      "start": 1566.35,
+      "duration": 4.74
+    },
+    {
+      "text": "allows them to learn what they\nneed from much, much less data.",
+      "start": 1571.12,
+      "duration": 5.34
+    },
+    {
+      "text": "The second thing to say is that\nprobably a lot of that data is just",
+      "start": 1576.49,
+      "duration": 7.65
+    },
+    {
+      "text": "not going into learning the syntax,\nthe grammar of the language.",
+      "start": 1584.17,
+      "duration": 4.29
+    },
+    {
+      "text": "Probably a lot of it is going into\nlearning either the semantics of the",
+      "start": 1588.49,
+      "duration": 4.03
+    },
+    {
+      "text": "language or these other kind of semantic\naspects of",
+      "start": 1592.55,
+      "duration": 4.91
+    },
+    {
+      "text": "learning about the world and kind of\nstructures and things in the world.",
+      "start": 1597.49,
+      "duration": 4.93
+    },
+    {
+      "text": "And so if that's true, it could be the\ncase that",
+      "start": 1602.45,
+      "duration": 5.07
+    },
+    {
+      "text": "learning grammar and language is not so\nhard, but learning kind of semantics and",
+      "start": 1607.64,
+      "duration": 6.82
+    },
+    {
+      "text": "meaning and about the world\ntakes lots and lots of data.",
+      "start": 1614.49,
+      "duration": 3.01
+    },
+    {
+      "text": "And of course, human learners are in a",
+      "start": 1617.52,
+      "duration": 1.88
+    },
+    {
+      "text": "very different situation than large\nlanguage models in that they're getting",
+      "start": 1619.43,
+      "duration": 3.75
+    },
+    {
+      "text": "independent data about the world, data\nthat's independent of language from",
+      "start": 1623.21,
+      "duration": 4.53
+    },
+    {
+      "text": "interacting with the world or interacting\nwith other people in the world.",
+      "start": 1627.77,
+      "duration": 4.41
+    },
+    {
+      "text": "So that's kind of how the data issue, I",
+      "start": 1632.21,
+      "duration": 4.93
+    },
+    {
+      "text": "think, is relevant to these questions\nabout whether the models have anything to",
+      "start": 1637.16,
+      "duration": 3.8
+    },
+    {
+      "text": "say about what human\nlearning is actually like.",
+      "start": 1640.99,
+      "duration": 3.43
+    },
+    {
+      "text": "The BabyLM Challenge is this really",
+      "start": 1644.45,
+      "duration": 2.45
+    },
+    {
+      "text": "exciting project where\npeople are kind of competing to see",
+      "start": 1646.93,
+      "duration": 7.09
+    },
+    {
+      "text": "whether you can train a model like\nthis on human-sized amounts of data.",
+      "start": 1654.05,
+      "duration": 4.52
+    },
+    {
+      "text": "I believe human-sized is something like 10",
+      "start": 1658.6,
+      "duration": 2.21
+    },
+    {
+      "text": "to 100 million tokens\nand if that's roughly the amount of data",
+      "start": 1660.84,
+      "duration": 6.58
+    },
+    {
+      "text": "that you get in childhood, then it's\nreally important for us to know whether",
+      "start": 1667.45,
+      "duration": 4.12
+    },
+    {
+      "text": "it's possible to take that amount of data\nand learn syntax, for example, or to",
+      "start": 1671.6,
+      "duration": 5.78
+    },
+    {
+      "text": "develop other models which are able\nto learn syntax from that sized data.",
+      "start": 1677.41,
+      "duration": 7.45
+    },
+    {
+      "text": "Part of why BabyLM is a thing is that",
+      "start": 1684.89,
+      "duration": 4.68
+    },
+    {
+      "text": "these kind of current models like ChatGPT,\nfor example, are developed by AI companies",
+      "start": 1689.6,
+      "duration": 5.69
+    },
+    {
+      "text": "who don't really care about human\nlearning and language acquisition, right?",
+      "start": 1695.32,
+      "duration": 3.52
+    },
+    {
+      "text": "They're just trying to build a useful\nproduct, and so they don't really care",
+      "start": 1698.84,
+      "duration": 3.34
+    },
+    {
+      "text": "about the scaling with respect\nto the amount of data.",
+      "start": 1702.21,
+      "duration": 4.53
+    },
+    {
+      "text": "If you're interested in these things as\nlanguage acquisition theories, then you",
+      "start": 1706.76,
+      "duration": 3.22
+    },
+    {
+      "text": "really care about the amount of data\nbecause if it takes a trillion tokens or",
+      "start": 1710.01,
+      "duration": 4.31
+    },
+    {
+      "text": "whatever, then\nthat's not going to be plausible.",
+      "start": 1714.35,
+      "duration": 4.46
+    },
+    {
+      "text": "But many people are optimistic, I think,\nthat it can be done with much less.",
+      "start": 1718.84,
+      "duration": 3.86
+    },
+    {
+      "text": "But couldn't you argue that\nmaybe you said between ten and 100 million",
+      "start": 1722.73,
+      "duration": 6.84
+    },
+    {
+      "text": "tokens, right, but for a human, so that's\na lot less than these models, right?",
+      "start": 1729.6,
+      "duration": 5.82
+    },
+    {
+      "text": "But there's all these other kind of",
+      "start": 1735.45,
+      "duration": 1.93
+    },
+    {
+      "text": "multimodal information\nthat a child will get.",
+      "start": 1737.41,
+      "duration": 2.33
+    },
+    {
+      "text": "I think you even mentioned it, right?",
+      "start": 1739.76,
+      "duration": 1.16
+    },
+    {
+      "text": "I mean, so you ask your mother and then\nshe actually reacts in a certain way, and",
+      "start": 1740.92,
+      "duration": 3.89
+    },
+    {
+      "text": "you're looking at it sort of like visual\ninput that is not necessarily linguistic.",
+      "start": 1744.84,
+      "duration": 5.58
+    },
+    {
+      "text": "So is that taken into account here at all,",
+      "start": 1750.45,
+      "duration": 2.93
+    },
+    {
+      "text": "or we're just kind of separating\nthe linguistic component out?",
+      "start": 1753.41,
+      "duration": 3.49
+    },
+    {
+      "text": "In BabyLM, I believe you're able to",
+      "start": 1756.93,
+      "duration": 3.01
+    },
+    {
+      "text": "include multimodal\ninformation if you want.",
+      "start": 1759.97,
+      "duration": 3.84
+    },
+    {
+      "text": "So you could have a learning model, for\nexample, that watched 1000 hours of video",
+      "start": 1763.84,
+      "duration": 6.38
+    },
+    {
+      "text": "and tried to learn about events and\nevent structure in the world like that.",
+      "start": 1770.25,
+      "duration": 4.21
+    },
+    {
+      "text": "And\nI think in general, that's very hard,",
+      "start": 1774.49,
+      "duration": 5.13
+    },
+    {
+      "text": "right, because you can imagine trying to\nmake the statistical learning model, which",
+      "start": 1779.64,
+      "duration": 3.34
+    },
+    {
+      "text": "could take 1000 hours of video and learn\nthat there are objects, or that objects",
+      "start": 1783.01,
+      "duration": 5.73
+    },
+    {
+      "text": "sit in certain spatial\nrelationships or something like...",
+      "start": 1788.77,
+      "duration": 3.73
+    },
+    {
+      "text": "Whatever kids know about objects and the",
+      "start": 1792.53,
+      "duration": 3.31
+    },
+    {
+      "text": "world I think it's a very hard task to\nextract that from video,",
+      "start": 1795.87,
+      "duration": 5.75
+    },
+    {
+      "text": "but I think that's what most people think\nis going on with child acquisition, right?",
+      "start": 1801.65,
+      "duration": 4.92
+    },
+    {
+      "text": "So kids don't require 100 billion tokens",
+      "start": 1806.6,
+      "duration": 5.66
+    },
+    {
+      "text": "because\nthey're in a situation where they can",
+      "start": 1812.29,
+      "duration": 4.75
+    },
+    {
+      "text": "learn a word from a\nsingle instance, right?",
+      "start": 1817.07,
+      "duration": 2.35
+    },
+    {
+      "text": "You hear the word dacks when there's a",
+      "start": 1819.45,
+      "duration": 2.15
+    },
+    {
+      "text": "kangaroo around and you figure out that\ndacks means kangaroo and",
+      "start": 1821.63,
+      "duration": 5.17
+    },
+    {
+      "text": "that kind of learning mechanism can be\nvery fast both on the syntax and the",
+      "start": 1827.28,
+      "duration": 6.01
+    },
+    {
+      "text": "semantics side and that kind of experience\nis not what these language models have.",
+      "start": 1833.32,
+      "duration": 5.54
+    },
+    {
+      "text": "And so some people take that and say,",
+      "start": 1838.89,
+      "duration": 2.16
+    },
+    {
+      "text": "well, that means that they're\nirrelevant to language acquisition.",
+      "start": 1841.08,
+      "duration": 3.73
+    },
+    {
+      "text": "Other people, like me, take it and think\nlike, okay, it means that probably we can",
+      "start": 1844.84,
+      "duration": 4.56
+    },
+    {
+      "text": "make versions of these models which work\nwith much less data and which are",
+      "start": 1849.43,
+      "duration": 3.83
+    },
+    {
+      "text": "therefore much more directly relevant\nto kind of real world learning.",
+      "start": 1853.29,
+      "duration": 4.73
+    },
+    {
+      "text": "Fascinating.\nI'll follow the BabyLM challenge.",
+      "start": 1858.05,
+      "duration": 3.45
+    },
+    {
+      "text": "I understand now it's very good that you",
+      "start": 1861.52,
+      "duration": 1.52
+    },
+    {
+      "text": "put this in context, that this is actually\nvery important for your part of the",
+      "start": 1863.07,
+      "duration": 3.97
+    },
+    {
+      "text": "linguistics field because the amount of\ndata you put in is so crucial to kind of",
+      "start": 1867.07,
+      "duration": 6.73
+    },
+    {
+      "text": "the overarching\nkind of conclusions you're taking from it.",
+      "start": 1873.83,
+      "duration": 5.83
+    },
+    {
+      "text": "Let's bring it back to Chomsky.",
+      "start": 1879.69,
+      "duration": 2.05
+    },
+    {
+      "text": "I find it interesting that it's taking\nsomewhat of a luddite position on this",
+      "start": 1881.76,
+      "duration": 3.26
+    },
+    {
+      "text": "because like in a New York Times article,\nand I'm going to have to quote a bit here,",
+      "start": 1885.04,
+      "duration": 3.98
+    },
+    {
+      "text": "he's saying that while AI tech, like Chat\nGPT may have some practical uses,",
+      "start": 1889.05,
+      "duration": 5.93
+    },
+    {
+      "text": "he actually mentions language translation\nand information retrieval, they're not",
+      "start": 1895.0,
+      "duration": 3.74
+    },
+    {
+      "text": "capable of true understanding\nor consciousness.",
+      "start": 1898.77,
+      "duration": 2.32
+    },
+    {
+      "text": "And then he says it lacks the embodied",
+      "start": 1901.12,
+      "duration": 2.38
+    },
+    {
+      "text": "intelligence and perceptual\nexperience that humans possess.",
+      "start": 1903.53,
+      "duration": 3.04
+    },
+    {
+      "text": "He says that it's tech for profit and",
+      "start": 1906.6,
+      "duration": 2.38
+    },
+    {
+      "text": "efficiency and may ultimately lead to\ngreater inequality, job displacement.",
+      "start": 1909.01,
+      "duration": 4.32
+    },
+    {
+      "text": "And finally, he kind of urges a more",
+      "start": 1913.36,
+      "duration": 1.84
+    },
+    {
+      "text": "critical and thoughtful\napproach to AI development.",
+      "start": 1915.23,
+      "duration": 2.75
+    },
+    {
+      "text": "Now, from an industry perspective,",
+      "start": 1918.01,
+      "duration": 3.17
+    },
+    {
+      "text": "I wonder how relevant are any of these\nquestions when LLMs are being shipped and",
+      "start": 1921.21,
+      "duration": 5.67
+    },
+    {
+      "text": "it's basically a trillion-\ndollar market opportunity?",
+      "start": 1926.88,
+      "duration": 2.54
+    },
+    {
+      "text": "I'm not sure.",
+      "start": 1929.45,
+      "duration": 0.81
+    },
+    {
+      "text": "You're kind of sitting in the middle like\nyou're criticizing him from an academic",
+      "start": 1930.28,
+      "duration": 3.66
+    },
+    {
+      "text": "point of view, but also from an industry\npoint of view I wonder if",
+      "start": 1933.97,
+      "duration": 3.45
+    },
+    {
+      "text": "what's the point of making these points\nin a sense, if it's happening anyway?",
+      "start": 1937.45,
+      "duration": 4.36
+    },
+    {
+      "text": "I think I probably agree with him a\nlot on the kind of ethics issues.",
+      "start": 1941.84,
+      "duration": 6.18
+    },
+    {
+      "text": "So for example, when you train on text",
+      "start": 1948.05,
+      "duration": 3.33
+    },
+    {
+      "text": "from the internet, there's a lot of\nhorrible things on the internet.",
+      "start": 1951.41,
+      "duration": 3.97
+    },
+    {
+      "text": "And these models, even ChatGPT, at least",
+      "start": 1955.41,
+      "duration": 3.73
+    },
+    {
+      "text": "the early versions, you could\nextract horrible things from them.",
+      "start": 1959.17,
+      "duration": 5.81
+    },
+    {
+      "text": "And from an industry perspective that's",
+      "start": 1965.0,
+      "duration": 1.78
+    },
+    {
+      "text": "very bad because if you want to rely on\nthat, if you want to rely on that kind of",
+      "start": 1966.81,
+      "duration": 4.95
+    },
+    {
+      "text": "technology, you need to be able to trust\nthat it's not going to say horrible things",
+      "start": 1971.79,
+      "duration": 4.5
+    },
+    {
+      "text": "or exhibit illegal biases, for\nexample, or immoral biases.",
+      "start": 1976.32,
+      "duration": 7.1
+    },
+    {
+      "text": "So I think that there's lots of\nquestions and concerns there.",
+      "start": 1983.45,
+      "duration": 4.77
+    },
+    {
+      "text": "There's also lots of questions and",
+      "start": 1988.24,
+      "duration": 1.46
+    },
+    {
+      "text": "concerns about, for example,\nmisinformation, so people have pointed out",
+      "start": 1989.73,
+      "duration": 4.36
+    },
+    {
+      "text": "that when you have models like this,\nthey're kind of the perfect tool for",
+      "start": 1994.12,
+      "duration": 5.3
+    },
+    {
+      "text": "spreading misinformation or trying to\ninfluence elections or other kinds of",
+      "start": 1999.45,
+      "duration": 4.07
+    },
+    {
+      "text": "things, which I think\nyou could see at Facebook, for example.",
+      "start": 2003.55,
+      "duration": 5.59
+    },
+    {
+      "text": "Everybody thinking it's a",
+      "start": 2009.17,
+      "duration": 1.88
+    },
+    {
+      "text": "friendly social media site and then\npolitical groups being able to hijack the",
+      "start": 2011.08,
+      "duration": 5.73
+    },
+    {
+      "text": "advertising\nto really push around elections.",
+      "start": 2016.84,
+      "duration": 5.38
+    },
+    {
+      "text": "And I think that there's lots of",
+      "start": 2022.25,
+      "duration": 3.56
+    },
+    {
+      "text": "kind of unintended and likely still\nunanticipated consequences like those.",
+      "start": 2025.84,
+      "duration": 4.66
+    },
+    {
+      "text": "So I think there's lots to be worried\nabout with these models and part of what",
+      "start": 2030.53,
+      "duration": 5.49
+    },
+    {
+      "text": "makes it complicated is, like you said,\neverybody is able to make them.",
+      "start": 2036.05,
+      "duration": 5.33
+    },
+    {
+      "text": "There was an article in the New York Times",
+      "start": 2041.41,
+      "duration": 2.16
+    },
+    {
+      "text": "last week or the week before about Nano\nGPT, which is basically a GPT model you",
+      "start": 2043.6,
+      "duration": 5.48
+    },
+    {
+      "text": "can train in an hour on\nyour desktop, right?",
+      "start": 2049.11,
+      "duration": 2.99
+    },
+    {
+      "text": "And when the technology is that\naccessible, it's very hard to",
+      "start": 2052.13,
+      "duration": 5.49
+    },
+    {
+      "text": "think about regulating it or\ncontrolling it in any way.",
+      "start": 2057.65,
+      "duration": 5.15
+    },
+    {
+      "text": "But I think that those are important\nconcerns and there's certainly important",
+      "start": 2062.8,
+      "duration": 3.3
+    },
+    {
+      "text": "concerns that people want to use this\nin an applied setting.",
+      "start": 2066.13,
+      "duration": 6.17
+    },
+    {
+      "text": "So I think that I agree with him\non all of those kinds of concerns.",
+      "start": 2072.33,
+      "duration": 4.87
+    },
+    {
+      "text": "Also, I guess concerns about\ntaking people's jobs, right?",
+      "start": 2077.23,
+      "duration": 3.31
+    },
+    {
+      "text": "So\nthere's lots of jobs probably that can be",
+      "start": 2080.57,
+      "duration": 5.01
+    },
+    {
+      "text": "replaced by this and the people who are\nmaking these technologies I don't think",
+      "start": 2085.6,
+      "duration": 3.88
+    },
+    {
+      "text": "are thinking through the societal\nconsequences of what that will be.",
+      "start": 2089.51,
+      "duration": 6.01
+    },
+    {
+      "text": "All of that said, I think that\non the kind of language science side,",
+      "start": 2095.72,
+      "duration": 9.02
+    },
+    {
+      "text": "I think that there's really interesting\nquestions",
+      "start": 2104.77,
+      "duration": 4.05
+    },
+    {
+      "text": "about understanding, for example,\nwhere I actually think that",
+      "start": 2108.85,
+      "duration": 5.93
+    },
+    {
+      "text": "these models probably have some form of\nunderstanding and in fact, their form of",
+      "start": 2114.81,
+      "duration": 4.31
+    },
+    {
+      "text": "understanding is probably a lot\nlike our form of understanding.",
+      "start": 2119.15,
+      "duration": 3.75
+    },
+    {
+      "text": "So in collaboration with Felix Hill, who's",
+      "start": 2122.93,
+      "duration": 3.33
+    },
+    {
+      "text": "a researcher at DeepMind, we wrote this\npaper maybe about a year ago on",
+      "start": 2126.29,
+      "duration": 7.05
+    },
+    {
+      "text": "kind of understanding and\nconcepts in these models.",
+      "start": 2133.37,
+      "duration": 3.65
+    },
+    {
+      "text": "So one intuition a lot of people have is",
+      "start": 2137.05,
+      "duration": 2.25
+    },
+    {
+      "text": "that to really understand something, you\nhave to know about the physical reference",
+      "start": 2139.32,
+      "duration": 3.98
+    },
+    {
+      "text": "of the thing, right, so if you\nreally want to understand...",
+      "start": 2143.33,
+      "duration": 3.71
+    },
+    {
+      "text": "What's our example?\nWe had an example of a postage stamp.",
+      "start": 2147.4,
+      "duration": 2.58
+    },
+    {
+      "text": "Okay, if you really want to understand a\npostage stamp, you have to be able to pick",
+      "start": 2150.0,
+      "duration": 4.1
+    },
+    {
+      "text": "out the physical thing and know kind\nof physically what it looks like.",
+      "start": 2154.12,
+      "duration": 2.94
+    },
+    {
+      "text": "Those are kind of the defining\nfeatures of the term.",
+      "start": 2157.09,
+      "duration": 4.53
+    },
+    {
+      "text": "And what we argued actually is that",
+      "start": 2161.65,
+      "duration": 2.04
+    },
+    {
+      "text": "there's this kind of long-standing\napproach in philosophy of mind and",
+      "start": 2163.72,
+      "duration": 6.14
+    },
+    {
+      "text": "philosophy of language which says it's not\nreally the physical things that define our",
+      "start": 2169.89,
+      "duration": 4.28
+    },
+    {
+      "text": "concepts, it's really the\nrelationships between concepts.",
+      "start": 2174.2,
+      "duration": 3.38
+    },
+    {
+      "text": "So for example,\nwhat makes something a postage stamp is",
+      "start": 2177.61,
+      "duration": 4.97
+    },
+    {
+      "text": "something like it's a thing that you pay\nfor and put on a letter so that the",
+      "start": 2182.61,
+      "duration": 4.69
+    },
+    {
+      "text": "government will deliver the\nletter to some address, okay?",
+      "start": 2187.33,
+      "duration": 3.36
+    },
+    {
+      "text": "So almost sort of definitional, but",
+      "start": 2190.72,
+      "duration": 5.2
+    },
+    {
+      "text": "certainly some relationship\namong those pieces.",
+      "start": 2197.0,
+      "duration": 2.86
+    },
+    {
+      "text": "And if you think about that definition,",
+      "start": 2199.89,
+      "duration": 2.32
+    },
+    {
+      "text": "you could probably imagine\ntypes of postage stamps which don't",
+      "start": 2202.24,
+      "duration": 5.4
+    },
+    {
+      "text": "physically exist, but which everybody\nwould call a postage stamp, right?",
+      "start": 2207.64,
+      "duration": 3.14
+    },
+    {
+      "text": "So for example, a postage stamp that was",
+      "start": 2210.81,
+      "duration": 2.36
+    },
+    {
+      "text": "made out of glass, you could imagine some\ncountry somewhere decided that they were",
+      "start": 2213.2,
+      "duration": 3.84
+    },
+    {
+      "text": "going to issue glass postage stamps and\nlittle like microscope slide covers or",
+      "start": 2217.07,
+      "duration": 4.05
+    },
+    {
+      "text": "something, little thin pieces of\nglass you could attach to a letter.",
+      "start": 2221.15,
+      "duration": 3.95
+    },
+    {
+      "text": "And that kind of example is one where\nit can match all of the",
+      "start": 2225.13,
+      "duration": 7.97
+    },
+    {
+      "text": "kind of definitional,\nrelational types of properties.",
+      "start": 2233.13,
+      "duration": 3.08
+    },
+    {
+      "text": "It's something you pay for and you'll\nattach it to a letter, but it's a physical",
+      "start": 2236.24,
+      "duration": 3.66
+    },
+    {
+      "text": "instantiation of a postage stamp you've\nmaybe never even thought about before.",
+      "start": 2239.92,
+      "duration": 3.46
+    },
+    {
+      "text": "So if you can think about it and agree\nthat would be a postage stamp, even though",
+      "start": 2243.41,
+      "duration": 4.61
+    },
+    {
+      "text": "it's a physical thing you've never seen\nbefore, that tells us that the physical",
+      "start": 2248.05,
+      "duration": 4.12
+    },
+    {
+      "text": "part is not the part that\ndefines the concept.",
+      "start": 2252.2,
+      "duration": 2.58
+    },
+    {
+      "text": "It's much more likely that the thing that",
+      "start": 2254.8,
+      "duration": 1.66
+    },
+    {
+      "text": "defines the concept are these\nrelationships to other concepts.",
+      "start": 2256.49,
+      "duration": 4.41
+    },
+    {
+      "text": "And those relationships, we argue, are\nexactly what large language models have.",
+      "start": 2260.93,
+      "duration": 4.33
+    },
+    {
+      "text": "So they know that you should do that with\na postage stamp, and they could maybe even",
+      "start": 2265.29,
+      "duration": 5.97
+    },
+    {
+      "text": "reason a little bit about situations in\nwhich you had to pay for a postage stamp",
+      "start": 2271.29,
+      "duration": 4.77
+    },
+    {
+      "text": "or what somebody would be likely to\ndo with one or something like that.",
+      "start": 2276.08,
+      "duration": 3.02
+    },
+    {
+      "text": "So even though they don't know anything\nabout the physical grounding of those",
+      "start": 2279.12,
+      "duration": 3.26
+    },
+    {
+      "text": "concepts, they still know the\nrelationships and we argue that that's a",
+      "start": 2282.41,
+      "duration": 5.24
+    },
+    {
+      "text": "really compelling picture of how human\nconcepts and human meanings work.",
+      "start": 2287.68,
+      "duration": 5.6
+    },
+    {
+      "text": "This is, I guess, getting back to your",
+      "start": 2294.2,
+      "duration": 1.6
+    },
+    {
+      "text": "very first question about these things\nbeing philosophically profound.",
+      "start": 2295.83,
+      "duration": 3.63
+    },
+    {
+      "text": "I think that they really are, because they",
+      "start": 2299.49,
+      "duration": 2.39
+    },
+    {
+      "text": "force us to think about these kinds of\nquestions like what do we really mean by",
+      "start": 2301.88,
+      "duration": 3.58
+    },
+    {
+      "text": "meaning or what do we\nreally mean by grammar?",
+      "start": 2305.49,
+      "duration": 3.01
+    },
+    {
+      "text": "And they show you a system which seems\nto have lots of those aspects, right?",
+      "start": 2308.53,
+      "duration": 5.49
+    },
+    {
+      "text": "It knows a lot about grammar and it knows\na lot about meaning in this sense of",
+      "start": 2314.05,
+      "duration": 4.64
+    },
+    {
+      "text": "relationships and maybe that's\nmost of what meaning is to us.",
+      "start": 2318.72,
+      "duration": 4.66
+    },
+    {
+      "text": "Do you see this as a step towards\nAGI, artificial general intelligence?",
+      "start": 2323.41,
+      "duration": 5.28
+    },
+    {
+      "text": "Are we there already?",
+      "start": 2328.72,
+      "duration": 1.18
+    },
+    {
+      "text": "Are we kind of knocking at the door?",
+      "start": 2329.92,
+      "duration": 1.7
+    },
+    {
+      "text": "Or are we now just kind of really starting\nto understand how kind of powerful",
+      "start": 2331.65,
+      "duration": 5.17
+    },
+    {
+      "text": "computers have become because\nthey now speak our language?",
+      "start": 2336.85,
+      "duration": 3.65
+    },
+    {
+      "text": "I mean, until now you had to code like, I",
+      "start": 2340.52,
+      "duration": 2.04
+    },
+    {
+      "text": "can't code, but now I can actually\nkind of prompt it in my own language.",
+      "start": 2342.59,
+      "duration": 4.95
+    },
+    {
+      "text": "So where do you stand on this\nkind of AGI spectrum debate?",
+      "start": 2347.57,
+      "duration": 3.73
+    },
+    {
+      "text": "I mean, I think it's a very exciting time.",
+      "start": 2351.33,
+      "duration": 2.84
+    },
+    {
+      "text": "I think that large language models in\nparticular, but deep learning",
+      "start": 2354.2,
+      "duration": 5.66
+    },
+    {
+      "text": "in general, are just a huge advance over\nthe state of the field, say 10 or 15 years",
+      "start": 2359.89,
+      "duration": 6.01
+    },
+    {
+      "text": "ago, where people knew some of these kind\nof pieces and were kind of hopeful that",
+      "start": 2365.93,
+      "duration": 4.63
+    },
+    {
+      "text": "the pieces could be put\ntogether in a useful way.",
+      "start": 2370.59,
+      "duration": 3.39
+    },
+    {
+      "text": "But now there's systems which\nyou could demonstrate work well and they",
+      "start": 2374.01,
+      "duration": 5.81
+    },
+    {
+      "text": "work better than pretty much any system on\npretty much any language task you want to",
+      "start": 2379.85,
+      "duration": 6.11
+    },
+    {
+      "text": "find, so translation or parsing\nor question answering or converting",
+      "start": 2385.99,
+      "duration": 5.59
+    },
+    {
+      "text": "between language and code or\nany of those kinds of things.",
+      "start": 2391.6,
+      "duration": 2.74
+    },
+    {
+      "text": "There just aren't other competing\nmodels which can do this.",
+      "start": 2394.37,
+      "duration": 3.13
+    },
+    {
+      "text": "So from my point of view,",
+      "start": 2397.53,
+      "duration": 3.93
+    },
+    {
+      "text": "the advances that have been made over the\nlast, say, 10 years in language models are",
+      "start": 2401.49,
+      "duration": 4.45
+    },
+    {
+      "text": "a huge step towards artificial\nintelligence, artificial general",
+      "start": 2405.97,
+      "duration": 3.89
+    },
+    {
+      "text": "intelligence,\nbut they're not quite there yet.",
+      "start": 2409.89,
+      "duration": 3.93
+    },
+    {
+      "text": "And they're not quite there yet probably\nbecause of this issue that these models",
+      "start": 2413.85,
+      "duration": 5.84
+    },
+    {
+      "text": "engage in kind of one very specific mode\nof reasoning which is tied to language and",
+      "start": 2419.72,
+      "duration": 5.3
+    },
+    {
+      "text": "humans seem able to reason and think about\nthe world in a variety of different ways.",
+      "start": 2425.05,
+      "duration": 4.69
+    },
+    {
+      "text": "So\nI don't think it's going to be that hard",
+      "start": 2429.77,
+      "duration": 5.21
+    },
+    {
+      "text": "to incorporate reasoning into these models\nor more sophisticated kinds of",
+      "start": 2435.01,
+      "duration": 8.68
+    },
+    {
+      "text": "representations of the\ntype that people have.",
+      "start": 2443.72,
+      "duration": 3.97
+    },
+    {
+      "text": "And so that makes me think that\nAGI is probably very close, due in large",
+      "start": 2447.72,
+      "duration": 7.49
+    },
+    {
+      "text": "part to these kind of recent\nadvances, but I don't know.",
+      "start": 2455.24,
+      "duration": 4.5
+    },
+    {
+      "text": "The other thing I've learned from these\nmodels is that I have no ability to",
+      "start": 2459.76,
+      "duration": 2.89
+    },
+    {
+      "text": "predict anything about\nwhat will happen in the future, because if",
+      "start": 2462.68,
+      "duration": 4.04
+    },
+    {
+      "text": "you had asked people 15 years ago, they\nwould have said that this approach",
+      "start": 2466.75,
+      "duration": 4.03
+    },
+    {
+      "text": "couldn't possibly do language or couldn't\npossibly capture meanings in language or",
+      "start": 2470.81,
+      "duration": 5.09
+    },
+    {
+      "text": "grammar and that's a large part of what\nthese models have shown to be wrong.",
+      "start": 2475.93,
+      "duration": 7.13
+    },
+    {
+      "text": "So I guess I'm trying not to make",
+      "start": 2483.09,
+      "duration": 2.29
+    },
+    {
+      "text": "predictions, but I'm very\nenthusiastic about it.",
+      "start": 2485.41,
+      "duration": 3.21
+    },
+    {
+      "text": "Great.",
+      "start": 2488.64,
+      "duration": 0.3
+    },
+    {
+      "text": "Well, Steve, that was a\nfascinating conversation.",
+      "start": 2488.97,
+      "duration": 2.93
+    },
+    {
+      "text": "Thank you so much for taking the time.\nCool.",
+      "start": 2491.92,
+      "duration": 1.98
+    },
+    {
+      "text": "Thank you so much for having me.",
+      "start": 2493.92,
+      "duration": 1.56
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "duration": "PT9M39S",
+  "view_count": "28848",
+  "like_count": "619",
+  "title": "How Complex is Natural Language? The Chomsky Hierarchy",
+  "description": "How can we describe the complexity of linguistic systems? Where does natural language fit in? In this week's episode, we talk about the Chomsky hierarchy: what it captures, what characterizes different kinds of grammars on the hierarchy, and whether we can find grammars that sit higher on the scale than human language.\n\nThis is Topic #63!\n\nThis week's tag language: Croatian!\n\nRelated topics:\nHappy Little Trees: X' Theory - https://youtu.be/7UOcoQr0hvg\nTrace Evidence: Syntactic Movement - https://youtu.be/x5iBbSkp8rk\n\nLast episode:\nQuantifying Sets and Toasters: Generalized Quantifiers - https://youtu.be/U1l3C_hmjqM\n\nOther of our syntax and morphology videos:\nRaising the Bar: Raising and Control Verbs - https://youtu.be/SYoYNeaSYrU\nOrganizing Meanings: Morphological Typology - https://youtu.be/Ts2DS0ZsTyo\nReferential Treatment: Binding Theory - https://youtu.be/9sqm_cex4kA\n\nAlso, if you'd like to know more about the Chomsky Hierarchy and its impact on computer science, Computerphile's had a few videos about them:\n- Their episode on the hierarchy: https://www.youtube.com/watch?v=224plb3bCog.\n- Their episode about finite-state machines: https://www.youtube.com/watch?v=vhiiia1_hC4.\n- And their episode about how finite-state machines relate to grammar: https://www.youtube.com/watch?v=RjOCRYdg8BY.\n\n\nFind us on all the social media worlds:\nTumblr: http://thelingspace.tumblr.com/\nTwitter: http://twitter.com/TheLingSpace\nFacebook: http://www.facebook.com/thelingspace/\n\nAnd at our website, http://www.thelingspace.com/ !\nYou can also find our store at the website, https://thelingspace.storenvy.com/\n\nOur website also has extra content about this week's topic at http://www.thelingspace.com/episode-63/\n\nWe also have forums to discuss this episode, and linguistics more generally.\n\nSources:\n(1) I-Language (1st Edition, Daniela isac & Charles Reiss)\n(2) Introduction to the Theory of Computation (3rd Edition, Michael Sipser)\n(3) Mathematical Logic for Computer Science (3rd Edition, Mordechai Ben-Ari)\n(4) Evidence Against the Context-Freeness of Natural Language (Stuart Shieber - http://www.eecs.harvard.edu/~shieber/Biblio/Papers/shieber85.pdf)\n(5) https://en.wikipedia.org/wiki/Chomsky_hierarchy\n(6) Syntactic Structures (Noam Chomsky)\n(7) Mathematical Methods in Linguistics  (Barbara Partee, Alice G. ter Meulen, Robert Wall) \n\nProof regarding crossing dependencies (adapted from the first edition of Introduction to Automata Theory, Languages, and Computation, by John Hopcroft and Jeffrey Ullman. Note where carets appear that the following character should be taken as superscript):\n\nWe first capture the general pattern of embedded clauses in Swiss German with the language a^nb^mc^nd^m . We then treat this as the result of intersecting Swiss German with the regular language a*b*c*d*.\n\nNow, let L = {a^nb^mc^nd^m | n ≥ 1 and m ≥ 1}. Suppose L is a context-free language, and let p be the pumping length referred to in the pumping lemma for context-free languages (https://en.wikipedia.org/wiki/Pumping_lemma_for_context-free_languages). Consider the string z = a^pb^pc^pd^p. Let z = uvwxy satisfy the conditions of the pumping lemma. Then as |vwx| ≤ p, vx can contain at most two different symbols. Furthermore, if vx contains two different symbols, they must be consecutive, for example, a and b. If vx has only a’s, then uwy has fewer a’s than c’s and is not in L, a contradiction. We proceed similarly if vx consists of only b’s, only c’s, or only d’s. Now suppose that vx has a’s and b’s. Then uwy still has fewer a’s than c’s. A similar contradiction occurs if vx consist of b’s and c’s or c’s and d’s. Since these are the only possibilities, we conclude that L is not context-free.\n\nSince context-free languages are closed under intersection with regular languages, and the above intersection is not context-free, Swiss German must be non-context-free.\n\nQ.E.D.\n\nA proof of the pumping lemma itself can be found in Introduction to the Theory of Computation (among other places). For a discussion of the closure properties of context-free languages, see Mathematical Methods in Linguistics (among other places).\n\nLooking forward to next week!",
+  "tags": [
+    "linguistics",
+    "linguistic complexity",
+    "Chomsky Hierarchy",
+    "finite state grammars",
+    "crossing dependencies",
+    "Moti Lieberman",
+    "The Ling Space",
+    "Yuji",
+    "cool",
+    "fun",
+    "cute",
+    "awesome",
+    "Logic-Bot 3000",
+    "Imitation Game"
+  ],
+  "published_at": "2016-03-02T21:30:05Z"
+}

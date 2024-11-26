@@ -1,0 +1,1046 @@
+{
+  "video_id": "jc2bL1z9Wh4",
+  "url": "https://www.youtube.com/watch?v=jc2bL1z9Wh4",
+  "transcript": [
+    {
+      "text": "from the mid-1950s onwards the American",
+      "start": 2.37,
+      "duration": 6.37
+    },
+    {
+      "text": "linguist noam chomsky established a",
+      "start": 5.89,
+      "duration": 5.09
+    },
+    {
+      "text": "number of objectives which have",
+      "start": 8.74,
+      "duration": 4.56
+    },
+    {
+      "text": "continued to direct the course of",
+      "start": 10.98,
+      "duration": 5.16
+    },
+    {
+      "text": "linguistic research to the present day",
+      "start": 13.3,
+      "duration": 5.549
+    },
+    {
+      "text": "central to Chomsky's approach is the",
+      "start": 16.14,
+      "duration": 8.549
+    },
+    {
+      "text": "notion of the well-formed sentence and",
+      "start": 18.849,
+      "duration": 5.84
+    },
+    {
+      "text": "any theory capable of producing",
+      "start": 25.68,
+      "duration": 5.62
+    },
+    {
+      "text": "well-formed sentences and rejecting",
+      "start": 28.989,
+      "duration": 4.761
+    },
+    {
+      "text": "ill-formed sentences is referred to as",
+      "start": 31.3,
+      "duration": 6.45
+    },
+    {
+      "text": "generative grammar so we will look at",
+      "start": 33.75,
+      "duration": 6.63
+    },
+    {
+      "text": "sentences first and then look at a",
+      "start": 37.75,
+      "duration": 5.55
+    },
+    {
+      "text": "central notion the notion of competence",
+      "start": 40.38,
+      "duration": 6.09
+    },
+    {
+      "text": "and finally look at the components of",
+      "start": 43.3,
+      "duration": 6.81
+    },
+    {
+      "text": "generative grammar so let's look at",
+      "start": 46.47,
+      "duration": 6.64
+    },
+    {
+      "text": "sentences first the simplest imaginable",
+      "start": 50.11,
+      "duration": 6.96
+    },
+    {
+      "text": "syntactic theory is a grammar that",
+      "start": 53.11,
+      "duration": 6.36
+    },
+    {
+      "text": "consists of a list of all well-formed",
+      "start": 57.07,
+      "duration": 5.79
+    },
+    {
+      "text": "sentences of a language however such a",
+      "start": 59.47,
+      "duration": 6.45
+    },
+    {
+      "text": "list would be too long since there are",
+      "start": 62.86,
+      "duration": 6.6
+    },
+    {
+      "text": "infinitely many sentences of English so",
+      "start": 65.92,
+      "duration": 7.22
+    },
+    {
+      "text": "the number of sentences in a language is",
+      "start": 69.46,
+      "duration": 8.55
+    },
+    {
+      "text": "infinite two principals are responsible",
+      "start": 73.14,
+      "duration": 7.63
+    },
+    {
+      "text": "for this non finite character of natural",
+      "start": 78.01,
+      "duration": 5.19
+    },
+    {
+      "text": "language let's look at them more closely",
+      "start": 80.77,
+      "duration": 8.01
+    },
+    {
+      "text": "the first one is called creativity now",
+      "start": 83.2,
+      "duration": 9.24
+    },
+    {
+      "text": "behind me you see a picture which we",
+      "start": 88.78,
+      "duration": 5.73
+    },
+    {
+      "text": "could describe with the sentence the",
+      "start": 92.44,
+      "duration": 4.8
+    },
+    {
+      "text": "pink horse welcomed the cross-eyed",
+      "start": 94.51,
+      "duration": 7.62
+    },
+    {
+      "text": "elephant called Susie so grammaticality",
+      "start": 97.24,
+      "duration": 7.2
+    },
+    {
+      "text": "judgments and this sentence is certainly",
+      "start": 102.13,
+      "duration": 4.739
+    },
+    {
+      "text": "grammatical do not only apply two",
+      "start": 104.44,
+      "duration": 5.1
+    },
+    {
+      "text": "sentences we have heard before but also",
+      "start": 106.869,
+      "duration": 7.29
+    },
+    {
+      "text": "to such novel utterances this remarkable",
+      "start": 109.54,
+      "duration": 8.67
+    },
+    {
+      "text": "ability is refer to as creativity any",
+      "start": 114.159,
+      "duration": 6.171
+    },
+    {
+      "text": "native speaker is capable of",
+      "start": 118.21,
+      "duration": 4.38
+    },
+    {
+      "text": "understanding and producing new",
+      "start": 120.33,
+      "duration": 5.039
+    },
+    {
+      "text": "sentences well here's another one the",
+      "start": 122.59,
+      "duration": 5.97
+    },
+    {
+      "text": "interactive whiteboard behind me is used",
+      "start": 125.369,
+      "duration": 6.46
+    },
+    {
+      "text": "to present the main topics of my lecture",
+      "start": 128.56,
+      "duration": 5.73
+    },
+    {
+      "text": "have you heard this sentence before I",
+      "start": 131.829,
+      "duration": 4.381
+    },
+    {
+      "text": "don't think so but",
+      "start": 134.29,
+      "duration": 4.95
+    },
+    {
+      "text": "can understand it this creative",
+      "start": 136.21,
+      "duration": 4.98
+    },
+    {
+      "text": "character shows that language cannot",
+      "start": 139.24,
+      "duration": 5.24
+    },
+    {
+      "text": "simply be learned by imitation rather",
+      "start": 141.19,
+      "duration": 6.0
+    },
+    {
+      "text": "languages are acquired by principles of",
+      "start": 144.48,
+      "duration": 5.05
+    },
+    {
+      "text": "abstraction perhaps some some linguists",
+      "start": 147.19,
+      "duration": 7.43
+    },
+    {
+      "text": "argue these principles are even innate",
+      "start": 149.53,
+      "duration": 5.09
+    },
+    {
+      "text": "now the second principle beyond",
+      "start": 155.34,
+      "duration": 10.29
+    },
+    {
+      "text": "creativity is referred to as recursion",
+      "start": 160.03,
+      "duration": 5.6
+    },
+    {
+      "text": "natural languages typically allow",
+      "start": 166.38,
+      "duration": 4.27
+    },
+    {
+      "text": "constructions that involve the",
+      "start": 168.85,
+      "duration": 4.61
+    },
+    {
+      "text": "repetitive occurrence of elements",
+      "start": 170.65,
+      "duration": 6.24
+    },
+    {
+      "text": "this phenomenon is defined as recursion",
+      "start": 173.46,
+      "duration": 7.21
+    },
+    {
+      "text": "some people define it as iteration any",
+      "start": 176.89,
+      "duration": 5.76
+    },
+    {
+      "text": "attempt to describe such growing",
+      "start": 180.67,
+      "duration": 4.53
+    },
+    {
+      "text": "structures by enumerate in the elements",
+      "start": 182.65,
+      "duration": 4.71
+    },
+    {
+      "text": "in them faces the problem that there is",
+      "start": 185.2,
+      "duration": 4.77
+    },
+    {
+      "text": "no upper limit to the length of such",
+      "start": 187.36,
+      "duration": 5.88
+    },
+    {
+      "text": "sentences with a very simple rule system",
+      "start": 189.97,
+      "duration": 6.18
+    },
+    {
+      "text": "however the recursive character of",
+      "start": 193.24,
+      "duration": 5.43
+    },
+    {
+      "text": "natural language can be described well",
+      "start": 196.15,
+      "duration": 5.7
+    },
+    {
+      "text": "let's look at these send these examples",
+      "start": 198.67,
+      "duration": 5.73
+    },
+    {
+      "text": "of recursion or iteration first the",
+      "start": 201.85,
+      "duration": 4.8
+    },
+    {
+      "text": "first one is called sentence or noun",
+      "start": 204.4,
+      "duration": 6.57
+    },
+    {
+      "text": "phrase coordination this one here so",
+      "start": 206.65,
+      "duration": 7.32
+    },
+    {
+      "text": "here we have examples such as jack saw",
+      "start": 210.97,
+      "duration": 6.75
+    },
+    {
+      "text": "bill and bill saw Mary and Mary saw Jane",
+      "start": 213.97,
+      "duration": 6.78
+    },
+    {
+      "text": "and so on and so forth so there's no end",
+      "start": 217.72,
+      "duration": 6.3
+    },
+    {
+      "text": "to this sentence and we simply apply the",
+      "start": 220.75,
+      "duration": 5.85
+    },
+    {
+      "text": "same rule time and again another example",
+      "start": 224.02,
+      "duration": 5.28
+    },
+    {
+      "text": "would be adjectives alliteration or",
+      "start": 226.6,
+      "duration": 5.4
+    },
+    {
+      "text": "recursion well here you have examples",
+      "start": 229.3,
+      "duration": 7.14
+    },
+    {
+      "text": "such as the wonderful long Old English",
+      "start": 232.0,
+      "duration": 9.9
+    },
+    {
+      "text": "and so on tail so for adjectives and",
+      "start": 236.44,
+      "duration": 9.06
+    },
+    {
+      "text": "even more on the trot well the last one",
+      "start": 241.9,
+      "duration": 7.74
+    },
+    {
+      "text": "is referred to as prepositional phrase",
+      "start": 245.5,
+      "duration": 7.41
+    },
+    {
+      "text": "attachment and well I would like to",
+      "start": 249.64,
+      "duration": 7.88
+    },
+    {
+      "text": "exemplify this example in more detail",
+      "start": 252.91,
+      "duration": 9.18
+    },
+    {
+      "text": "well here is my example let's start with",
+      "start": 257.52,
+      "duration": 10.09
+    },
+    {
+      "text": "the noun phrase the ball now a next step",
+      "start": 262.09,
+      "duration": 7.95
+    },
+    {
+      "text": "would put the ball in the box so",
+      "start": 267.61,
+      "duration": 5.39
+    },
+    {
+      "text": "we have the first prepositional phrase",
+      "start": 270.04,
+      "duration": 6.99
+    },
+    {
+      "text": "then let's continue with the ball in the",
+      "start": 273.0,
+      "duration": 8.29
+    },
+    {
+      "text": "box under the table well and here we can",
+      "start": 277.03,
+      "duration": 6.96
+    },
+    {
+      "text": "go on the box the ball in the box under",
+      "start": 281.29,
+      "duration": 5.46
+    },
+    {
+      "text": "the table with the lamp and you see",
+      "start": 283.99,
+      "duration": 6.8
+    },
+    {
+      "text": "there is no end to the number of",
+      "start": 286.75,
+      "duration": 6.3
+    },
+    {
+      "text": "prepositional phrases that can be",
+      "start": 290.79,
+      "duration": 6.7
+    },
+    {
+      "text": "attached to this construction and the",
+      "start": 293.05,
+      "duration": 10.62
+    },
+    {
+      "text": "rule is quite simple even though the",
+      "start": 297.49,
+      "duration": 9.96
+    },
+    {
+      "text": "number of sentences is infinite not all",
+      "start": 303.67,
+      "duration": 5.76
+    },
+    {
+      "text": "sentences that are used in human",
+      "start": 307.45,
+      "duration": 4.41
+    },
+    {
+      "text": "conversation find their way into a",
+      "start": 309.43,
+      "duration": 5.16
+    },
+    {
+      "text": "grammatical theory sin tactician z--",
+      "start": 311.86,
+      "duration": 4.82
+    },
+    {
+      "text": "define a specific level of abstraction",
+      "start": 314.59,
+      "duration": 7.02
+    },
+    {
+      "text": "referred to as competence do you know",
+      "start": 316.68,
+      "duration": 6.21
+    },
+    {
+      "text": "what I mean",
+      "start": 321.61,
+      "duration": 5.28
+    },
+    {
+      "text": "well as a native speaker of language we",
+      "start": 322.89,
+      "duration": 6.61
+    },
+    {
+      "text": "are able to make numerous intuitive",
+      "start": 326.89,
+      "duration": 5.19
+    },
+    {
+      "text": "judgments about our language we do not",
+      "start": 329.5,
+      "duration": 5.58
+    },
+    {
+      "text": "have to consult grammar books or we do",
+      "start": 332.08,
+      "duration": 5.22
+    },
+    {
+      "text": "not have to interview large groups of",
+      "start": 335.08,
+      "duration": 5.64
+    },
+    {
+      "text": "people of native speakers rather by",
+      "start": 337.3,
+      "duration": 6.12
+    },
+    {
+      "text": "virtue of knowing a language we know",
+      "start": 340.72,
+      "duration": 5.87
+    },
+    {
+      "text": "that sentences are fine and some are bad",
+      "start": 343.42,
+      "duration": 7.14
+    },
+    {
+      "text": "this is referred to as competence as",
+      "start": 346.59,
+      "duration": 7.69
+    },
+    {
+      "text": "native speaker competence consider some",
+      "start": 350.56,
+      "duration": 6.03
+    },
+    {
+      "text": "English sentences well here we have the",
+      "start": 354.28,
+      "duration": 5.55
+    },
+    {
+      "text": "first one the table-saw the woman well",
+      "start": 356.59,
+      "duration": 5.64
+    },
+    {
+      "text": "this sentence is grammatically correct",
+      "start": 359.83,
+      "duration": 6.66
+    },
+    {
+      "text": "it has subject here it has a verb it has",
+      "start": 362.23,
+      "duration": 6.48
+    },
+    {
+      "text": "an object so the typical English word",
+      "start": 366.49,
+      "duration": 4.98
+    },
+    {
+      "text": "order however it is semantically at",
+      "start": 368.71,
+      "duration": 5.31
+    },
+    {
+      "text": "least questionable even though this",
+      "start": 371.47,
+      "duration": 4.86
+    },
+    {
+      "text": "wonderful picture here shows that table",
+      "start": 374.02,
+      "duration": 5.43
+    },
+    {
+      "text": "tables might be able to see we would",
+      "start": 376.33,
+      "duration": 5.19
+    },
+    {
+      "text": "confine this to special worlds for",
+      "start": 379.45,
+      "duration": 5.19
+    },
+    {
+      "text": "example to fairytales so linguists",
+      "start": 381.52,
+      "duration": 5.64
+    },
+    {
+      "text": "normally put one or two question marks",
+      "start": 384.64,
+      "duration": 5.1
+    },
+    {
+      "text": "in front of such sentences to signal",
+      "start": 387.16,
+      "duration": 6.44
+    },
+    {
+      "text": "that they're at least semantically odd",
+      "start": 389.74,
+      "duration": 7.17
+    },
+    {
+      "text": "the next sentence John put the car",
+      "start": 393.6,
+      "duration": 5.43
+    },
+    {
+      "text": "well this sentence is clearly",
+      "start": 396.91,
+      "duration": 7.02
+    },
+    {
+      "text": "ungrammatical it violates the argument",
+      "start": 399.03,
+      "duration": 6.85
+    },
+    {
+      "text": "structure of the verb put we know that",
+      "start": 403.93,
+      "duration": 5.459
+    },
+    {
+      "text": "put requires not only an object like the",
+      "start": 405.88,
+      "duration": 7.95
+    },
+    {
+      "text": "car it also requires a location or an",
+      "start": 409.389,
+      "duration": 7.831
+    },
+    {
+      "text": "obligatory adverbial that is where do we",
+      "start": 413.83,
+      "duration": 7.88
+    },
+    {
+      "text": "put the car so something is missing here",
+      "start": 417.22,
+      "duration": 7.289
+    },
+    {
+      "text": "well and finally we have a sentence that",
+      "start": 421.71,
+      "duration": 5.769
+    },
+    {
+      "text": "is also totally ungrammatical because",
+      "start": 424.509,
+      "duration": 7.681
+    },
+    {
+      "text": "here we have a word order which is not",
+      "start": 427.479,
+      "duration": 6.991
+    },
+    {
+      "text": "in line with what we know about the",
+      "start": 432.19,
+      "duration": 4.949
+    },
+    {
+      "text": "English word order here is an object so",
+      "start": 434.47,
+      "duration": 6.24
+    },
+    {
+      "text": "the vs o pattern in declarative",
+      "start": 437.139,
+      "duration": 6.09
+    },
+    {
+      "text": "sentences is not the standard word order",
+      "start": 440.71,
+      "duration": 6.51
+    },
+    {
+      "text": "of present-day English so now we've",
+      "start": 443.229,
+      "duration": 8.521
+    },
+    {
+      "text": "already learned how to assess the status",
+      "start": 447.22,
+      "duration": 6.509
+    },
+    {
+      "text": "of a sentence and in linguistics were",
+      "start": 451.75,
+      "duration": 6.96
+    },
+    {
+      "text": "using two symbols the asterisk and the",
+      "start": 453.729,
+      "duration": 10.041
+    },
+    {
+      "text": "question mark the asterisk means",
+      "start": 458.71,
+      "duration": 11.97
+    },
+    {
+      "text": "ungrammatical and the question mark",
+      "start": 463.77,
+      "duration": 18.579
+    },
+    {
+      "text": "means it is not on non meaningful having",
+      "start": 470.68,
+      "duration": 13.38
+    },
+    {
+      "text": "defined the prerequisites for a",
+      "start": 482.349,
+      "duration": 4.35
+    },
+    {
+      "text": "grammatical model let us now see how",
+      "start": 484.06,
+      "duration": 5.94
+    },
+    {
+      "text": "such a grammar should be built two",
+      "start": 486.699,
+      "duration": 5.881
+    },
+    {
+      "text": "components constitute the core of a",
+      "start": 490.0,
+      "duration": 4.71
+    },
+    {
+      "text": "generative grammar and interact with one",
+      "start": 492.58,
+      "duration": 5.55
+    },
+    {
+      "text": "another the first is called the phrase",
+      "start": 494.71,
+      "duration": 6.54
+    },
+    {
+      "text": "structure component so you'll find the",
+      "start": 498.13,
+      "duration": 8.099
+    },
+    {
+      "text": "word phrase structure its central task",
+      "start": 501.25,
+      "duration": 9.08
+    },
+    {
+      "text": "is the structural description of all",
+      "start": 506.229,
+      "duration": 6.661
+    },
+    {
+      "text": "well-formed sentences of a language to",
+      "start": 510.33,
+      "duration": 5.259
+    },
+    {
+      "text": "achieve this goal we need a well-defined",
+      "start": 512.89,
+      "duration": 6.12
+    },
+    {
+      "text": "rule system so we need rules in this",
+      "start": 515.589,
+      "duration": 10.141
+    },
+    {
+      "text": "component that combines all categories",
+      "start": 519.01,
+      "duration": 10.62
+    },
+    {
+      "text": "into successively larger units you see",
+      "start": 525.73,
+      "duration": 7.04
+    },
+    {
+      "text": "the syntactic tree here which is a",
+      "start": 529.63,
+      "duration": 6.48
+    },
+    {
+      "text": "visual manifestation of the syntactic",
+      "start": 532.77,
+      "duration": 4.48
+    },
+    {
+      "text": "rules",
+      "start": 536.11,
+      "duration": 3.659
+    },
+    {
+      "text": "this rule system consists of so-called",
+      "start": 537.25,
+      "duration": 5.459
+    },
+    {
+      "text": "phrase structure rules the technique of",
+      "start": 539.769,
+      "duration": 5.521
+    },
+    {
+      "text": "analyzing sentences in such a way is",
+      "start": 542.709,
+      "duration": 8.13
+    },
+    {
+      "text": "referred to as constituent analysis this",
+      "start": 545.29,
+      "duration": 7.5
+    },
+    {
+      "text": "approach which receives empirical",
+      "start": 550.839,
+      "duration": 3.961
+    },
+    {
+      "text": "support by means of a large number of",
+      "start": 552.79,
+      "duration": 4.399
+    },
+    {
+      "text": "constituent tests has a long tradition",
+      "start": 554.8,
+      "duration": 6.12
+    },
+    {
+      "text": "from the early systems of the 1950s to",
+      "start": 557.189,
+      "duration": 7.77
+    },
+    {
+      "text": "today's elaborate x-bar syntax scheme",
+      "start": 560.92,
+      "duration": 6.63
+    },
+    {
+      "text": "the second component is called the",
+      "start": 564.959,
+      "duration": 7.021
+    },
+    {
+      "text": "lexicon this one here the lexicon",
+      "start": 567.55,
+      "duration": 6.18
+    },
+    {
+      "text": "interacts with the phrase structure",
+      "start": 571.98,
+      "duration": 3.94
+    },
+    {
+      "text": "component and contains information about",
+      "start": 573.73,
+      "duration": 4.729
+    },
+    {
+      "text": "the lexemes of a language this includes",
+      "start": 575.92,
+      "duration": 6.0
+    },
+    {
+      "text": "phonological morphological syntactic and",
+      "start": 578.459,
+      "duration": 8.05
+    },
+    {
+      "text": "semantic aspects well the whole system",
+      "start": 581.92,
+      "duration": 6.45
+    },
+    {
+      "text": "works as follows the phrase structure",
+      "start": 586.509,
+      "duration": 4.08
+    },
+    {
+      "text": "component contains a limited set of",
+      "start": 588.37,
+      "duration": 4.649
+    },
+    {
+      "text": "rules with which basic sentence",
+      "start": 590.589,
+      "duration": 4.831
+    },
+    {
+      "text": "structures can be generated these",
+      "start": 593.019,
+      "duration": 5.49
+    },
+    {
+      "text": "structures are licensed by means of",
+      "start": 595.42,
+      "duration": 5.669
+    },
+    {
+      "text": "lexical information in other words the",
+      "start": 598.509,
+      "duration": 6.45
+    },
+    {
+      "text": "lexicon delivers the lexemes on the",
+      "start": 601.089,
+      "duration": 5.911
+    },
+    {
+      "text": "basis of whose information the basic",
+      "start": 604.959,
+      "duration": 4.67
+    },
+    {
+      "text": "sentence structures can be generated",
+      "start": 607.0,
+      "duration": 5.759
+    },
+    {
+      "text": "together phrase structure component in",
+      "start": 609.629,
+      "duration": 5.83
+    },
+    {
+      "text": "lexicon constitute the core of any",
+      "start": 612.759,
+      "duration": 7.56
+    },
+    {
+      "text": "modern generative grammar let's",
+      "start": 615.459,
+      "duration": 7.44
+    },
+    {
+      "text": "summarize generative grammar not only",
+      "start": 620.319,
+      "duration": 4.681
+    },
+    {
+      "text": "provides a description of the structure",
+      "start": 622.899,
+      "duration": 3.81
+    },
+    {
+      "text": "of a language but it seeks to explain",
+      "start": 625.0,
+      "duration": 5.879
+    },
+    {
+      "text": "among others the following phenomena it",
+      "start": 626.709,
+      "duration": 6.841
+    },
+    {
+      "text": "wants to explain language processing",
+      "start": 630.879,
+      "duration": 5.7
+    },
+    {
+      "text": "that is how do humans understand and",
+      "start": 633.55,
+      "duration": 7.529
+    },
+    {
+      "text": "produce speech language acquisition what",
+      "start": 636.579,
+      "duration": 7.56
+    },
+    {
+      "text": "goes on in an infant's mind when he or",
+      "start": 641.079,
+      "duration": 5.13
+    },
+    {
+      "text": "she acquires his or her mother tongue",
+      "start": 644.139,
+      "duration": 4.771
+    },
+    {
+      "text": "and language variation why do languages",
+      "start": 646.209,
+      "duration": 6.24
+    },
+    {
+      "text": "change in what is going on under the",
+      "start": 648.91,
+      "duration": 7.08
+    },
+    {
+      "text": "surface of language variation well as a",
+      "start": 652.449,
+      "duration": 6.151
+    },
+    {
+      "text": "result of these of the discussion of",
+      "start": 655.99,
+      "duration": 5.339
+    },
+    {
+      "text": "these phenomena it seems plausible to",
+      "start": 658.6,
+      "duration": 5.75
+    },
+    {
+      "text": "claim that language is like an instinct",
+      "start": 661.329,
+      "duration": 7.23
+    },
+    {
+      "text": "we acquire and use it subconsciously the",
+      "start": 664.35,
+      "duration": 6.49
+    },
+    {
+      "text": "core of this process is what many lis",
+      "start": 668.559,
+      "duration": 6.301
+    },
+    {
+      "text": "wrists refer to as universal grammar but",
+      "start": 670.84,
+      "duration": 7.88
+    },
+    {
+      "text": "that's an even more complicated story",
+      "start": 674.86,
+      "duration": 3.86
+    }
+  ]
+}

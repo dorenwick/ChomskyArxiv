@@ -1,0 +1,7676 @@
+{
+  "video_id": "ujnk0DTTsj0",
+  "url": "https://www.youtube.com/watch?v=ujnk0DTTsj0",
+  "transcript": [
+    {
+      "text": "foreign",
+      "start": 0.84,
+      "duration": 2.72
+    },
+    {
+      "text": "ladies and gentlemen from Morocco",
+      "start": 5.12,
+      "duration": 4.36
+    },
+    {
+      "text": "actually maybe good morning from",
+      "start": 7.5,
+      "duration": 4.16
+    },
+    {
+      "text": "California",
+      "start": 9.48,
+      "duration": 2.18
+    },
+    {
+      "text": "yes uh actually it is my privilege today",
+      "start": 11.88,
+      "duration": 7.14
+    },
+    {
+      "text": "now to extend to your warm welcome on",
+      "start": 15.54,
+      "duration": 5.399
+    },
+    {
+      "text": "behalf of the organizers of this",
+      "start": 19.02,
+      "duration": 4.98
+    },
+    {
+      "text": "conference I'm really honored to welcome",
+      "start": 20.939,
+      "duration": 6.241
+    },
+    {
+      "text": "and introduce Our Guest distinguished",
+      "start": 24.0,
+      "duration": 5.76
+    },
+    {
+      "text": "guest Professor Nam Chomsky who is going",
+      "start": 27.18,
+      "duration": 5.64
+    },
+    {
+      "text": "to talk about computational Linguistics",
+      "start": 29.76,
+      "duration": 5.94
+    },
+    {
+      "text": "and language learning and education and",
+      "start": 32.82,
+      "duration": 6.12
+    },
+    {
+      "text": "Professor Stephen Prussian and ashari",
+      "start": 35.7,
+      "duration": 4.74
+    },
+    {
+      "text": "who are going to talk about language",
+      "start": 38.94,
+      "duration": 5.7
+    },
+    {
+      "text": "acquisition and actions",
+      "start": 40.44,
+      "duration": 7.92
+    },
+    {
+      "text": "I know Noam Chomsky that you are swamped",
+      "start": 44.64,
+      "duration": 6.12
+    },
+    {
+      "text": "with interview request all the time so",
+      "start": 48.36,
+      "duration": 5.64
+    },
+    {
+      "text": "uh on behalf again or of the organizers",
+      "start": 50.76,
+      "duration": 5.16
+    },
+    {
+      "text": "of this conference I would like to thank",
+      "start": 54.0,
+      "duration": 4.02
+    },
+    {
+      "text": "you so much for taking the time to talk",
+      "start": 55.92,
+      "duration": 6.54
+    },
+    {
+      "text": "to us today and for maybe this is for me",
+      "start": 58.02,
+      "duration": 7.26
+    },
+    {
+      "text": "the fourth time in my life and hope will",
+      "start": 62.46,
+      "duration": 5.339
+    },
+    {
+      "text": "be not will not be the last one",
+      "start": 65.28,
+      "duration": 5.82
+    },
+    {
+      "text": "in the future so today",
+      "start": 67.799,
+      "duration": 7.081
+    },
+    {
+      "text": "uh ladies and gentlemen we have a",
+      "start": 71.1,
+      "duration": 6.42
+    },
+    {
+      "text": "special uh guest a hero of many",
+      "start": 74.88,
+      "duration": 6.0
+    },
+    {
+      "text": "generations and actually does need an",
+      "start": 77.52,
+      "duration": 6.3
+    },
+    {
+      "text": "introduction his linguist philosopher",
+      "start": 80.88,
+      "duration": 5.7
+    },
+    {
+      "text": "cognitive scientist historian and social",
+      "start": 83.82,
+      "duration": 5.04
+    },
+    {
+      "text": "critic he's considered the father mother",
+      "start": 86.58,
+      "duration": 5.88
+    },
+    {
+      "text": "of mud of modern linguistics",
+      "start": 88.86,
+      "duration": 5.88
+    },
+    {
+      "text": "and he's going to talk about",
+      "start": 92.46,
+      "duration": 3.86
+    },
+    {
+      "text": "computational",
+      "start": 94.74,
+      "duration": 5.28
+    },
+    {
+      "text": "uh let's say uh computational",
+      "start": 96.32,
+      "duration": 6.58
+    },
+    {
+      "text": "Linguistics so I will start first with",
+      "start": 100.02,
+      "duration": 6.599
+    },
+    {
+      "text": "Professor Nam Chomsky as you know uh",
+      "start": 102.9,
+      "duration": 6.66
+    },
+    {
+      "text": "education and technology is one of the",
+      "start": 106.619,
+      "duration": 5.701
+    },
+    {
+      "text": "themes of this conference that's why we",
+      "start": 109.56,
+      "duration": 7.08
+    },
+    {
+      "text": "are going to focus on two and mainly",
+      "start": 112.32,
+      "duration": 7.68
+    },
+    {
+      "text": "issues uh in this webinar the first will",
+      "start": 116.64,
+      "duration": 5.82
+    },
+    {
+      "text": "be about technology and the second one",
+      "start": 120.0,
+      "duration": 5.1
+    },
+    {
+      "text": "will be about education so let's start",
+      "start": 122.46,
+      "duration": 4.32
+    },
+    {
+      "text": "with the first one",
+      "start": 125.1,
+      "duration": 4.68
+    },
+    {
+      "text": "Professor Chomsky you have introduced or",
+      "start": 126.78,
+      "duration": 6.0
+    },
+    {
+      "text": "talked about or before about the notion",
+      "start": 129.78,
+      "duration": 6.06
+    },
+    {
+      "text": "of computational linguistics",
+      "start": 132.78,
+      "duration": 7.02
+    },
+    {
+      "text": "we are first eager to know the meaning",
+      "start": 135.84,
+      "duration": 7.8
+    },
+    {
+      "text": "of this notion and to talk about let's",
+      "start": 139.8,
+      "duration": 6.9
+    },
+    {
+      "text": "say so the meaning of the notion what is",
+      "start": 143.64,
+      "duration": 6.66
+    },
+    {
+      "text": "computational linguistics in general and",
+      "start": 146.7,
+      "duration": 7.8
+    },
+    {
+      "text": "talk about recent recent advances in",
+      "start": 150.3,
+      "duration": 6.36
+    },
+    {
+      "text": "natural language processing and",
+      "start": 154.5,
+      "duration": 5.7
+    },
+    {
+      "text": "artificial intelligence or IA so the",
+      "start": 156.66,
+      "duration": 6.74
+    },
+    {
+      "text": "floor is yours professor",
+      "start": 160.2,
+      "duration": 6.78
+    },
+    {
+      "text": "computation Linguistics can mean two",
+      "start": 163.4,
+      "duration": 5.76
+    },
+    {
+      "text": "quite different things",
+      "start": 166.98,
+      "duration": 8.399
+    },
+    {
+      "text": "one is simply the study of the nature of",
+      "start": 169.16,
+      "duration": 7.06
+    },
+    {
+      "text": "the",
+      "start": 175.379,
+      "duration": 3.72
+    },
+    {
+      "text": "system of language and thought",
+      "start": 176.22,
+      "duration": 4.26
+    },
+    {
+      "text": "uh",
+      "start": 179.099,
+      "duration": 4.441
+    },
+    {
+      "text": "it is a computational system",
+      "start": 180.48,
+      "duration": 6.479
+    },
+    {
+      "text": "so a language consists of a",
+      "start": 183.54,
+      "duration": 7.46
+    },
+    {
+      "text": "discrete Infinity of",
+      "start": 186.959,
+      "duration": 6.36
+    },
+    {
+      "text": "linguistic expressions",
+      "start": 191.0,
+      "duration": 5.14
+    },
+    {
+      "text": "Each of which is the expression of a",
+      "start": 193.319,
+      "duration": 3.78
+    },
+    {
+      "text": "thought",
+      "start": 196.14,
+      "duration": 3.44
+    },
+    {
+      "text": "Each of which can be",
+      "start": 197.099,
+      "duration": 5.64
+    },
+    {
+      "text": "externalized in some sensory motor",
+      "start": 199.58,
+      "duration": 7.84
+    },
+    {
+      "text": "medium mainly sound could be Vision sign",
+      "start": 202.739,
+      "duration": 6.681
+    },
+    {
+      "text": "language touch",
+      "start": 207.42,
+      "duration": 7.22
+    },
+    {
+      "text": "so it is a computational system and one",
+      "start": 209.42,
+      "duration": 7.06
+    },
+    {
+      "text": "understanding of computational",
+      "start": 214.64,
+      "duration": 4.179
+    },
+    {
+      "text": "linguistics is it's just a theory of",
+      "start": 216.48,
+      "duration": 3.96
+    },
+    {
+      "text": "language and thought",
+      "start": 218.819,
+      "duration": 4.441
+    },
+    {
+      "text": "that's the aspect of it that I happen to",
+      "start": 220.44,
+      "duration": 4.2
+    },
+    {
+      "text": "be interested in",
+      "start": 223.26,
+      "duration": 4.44
+    },
+    {
+      "text": "there's another interpretation of",
+      "start": 224.64,
+      "duration": 6.0
+    },
+    {
+      "text": "the phrase computational Linguistics",
+      "start": 227.7,
+      "duration": 6.74
+    },
+    {
+      "text": "that's uh which find in natural language",
+      "start": 230.64,
+      "duration": 9.3
+    },
+    {
+      "text": "processing automatic parsing uh Google",
+      "start": 234.44,
+      "duration": 6.96
+    },
+    {
+      "text": "translate",
+      "start": 239.94,
+      "duration": 6.6
+    },
+    {
+      "text": "the current fad is uh chat GPT and so on",
+      "start": 241.4,
+      "duration": 8.559
+    },
+    {
+      "text": "that's a quite different discipline it's",
+      "start": 246.54,
+      "duration": 5.94
+    },
+    {
+      "text": "basically an engineering discipline",
+      "start": 249.959,
+      "duration": 4.5
+    },
+    {
+      "text": "it's asking uh",
+      "start": 252.48,
+      "duration": 6.24
+    },
+    {
+      "text": "how can we solve some technical problems",
+      "start": 254.459,
+      "duration": 10.221
+    },
+    {
+      "text": "uh it takes a current fed the GPT series",
+      "start": 258.72,
+      "duration": 8.22
+    },
+    {
+      "text": "chat GPT",
+      "start": 264.68,
+      "duration": 6.519
+    },
+    {
+      "text": "it's basically high-tech plagiarism",
+      "start": 266.94,
+      "duration": 10.14
+    },
+    {
+      "text": "uh as it has no intellectual content uh",
+      "start": 271.199,
+      "duration": 7.56
+    },
+    {
+      "text": "it's uh",
+      "start": 277.08,
+      "duration": 3.78
+    },
+    {
+      "text": "you have a",
+      "start": 278.759,
+      "duration": 5.781
+    },
+    {
+      "text": "super computers that are surveying",
+      "start": 280.86,
+      "duration": 7.38
+    },
+    {
+      "text": "astronomical amounts of data they can",
+      "start": 284.54,
+      "duration": 6.7
+    },
+    {
+      "text": "find some regularities they can string",
+      "start": 288.24,
+      "duration": 5.16
+    },
+    {
+      "text": "them together it looks more or less like",
+      "start": 291.24,
+      "duration": 6.06
+    },
+    {
+      "text": "what somebody would have said as no",
+      "start": 293.4,
+      "duration": 6.66
+    },
+    {
+      "text": "function that I can see other than",
+      "start": 297.3,
+      "duration": 5.899
+    },
+    {
+      "text": "technique of probably used for",
+      "start": 300.06,
+      "duration": 8.3
+    },
+    {
+      "text": "disinformation for this defamation",
+      "start": 303.199,
+      "duration": 8.981
+    },
+    {
+      "text": "making it easier for students to fake on",
+      "start": 308.36,
+      "duration": 7.24
+    },
+    {
+      "text": "exams but I don't see any particular",
+      "start": 312.18,
+      "duration": 5.0
+    },
+    {
+      "text": "purpose in it",
+      "start": 315.6,
+      "duration": 5.039
+    },
+    {
+      "text": "and it tells you nothing at all about",
+      "start": 317.18,
+      "duration": 6.16
+    },
+    {
+      "text": "language or thought or cognition",
+      "start": 320.639,
+      "duration": 4.381
+    },
+    {
+      "text": "so that",
+      "start": 323.34,
+      "duration": 5.579
+    },
+    {
+      "text": "one form of that's the current phase of",
+      "start": 325.02,
+      "duration": 6.72
+    },
+    {
+      "text": "AI I don't think it's a very uh",
+      "start": 328.919,
+      "duration": 5.521
+    },
+    {
+      "text": "productive one but it's quite different",
+      "start": 331.74,
+      "duration": 5.459
+    },
+    {
+      "text": "from the study of the nature of the",
+      "start": 334.44,
+      "duration": 5.94
+    },
+    {
+      "text": "computational system that is in your",
+      "start": 337.199,
+      "duration": 6.0
+    },
+    {
+      "text": "head coded in your brain somehow coded",
+      "start": 340.38,
+      "duration": 6.12
+    },
+    {
+      "text": "in my brain similar enough so we can",
+      "start": 343.199,
+      "duration": 5.541
+    },
+    {
+      "text": "interact with one another",
+      "start": 346.5,
+      "duration": 5.96
+    },
+    {
+      "text": "we can try to find its properties",
+      "start": 348.74,
+      "duration": 6.28
+    },
+    {
+      "text": "these are of",
+      "start": 352.46,
+      "duration": 5.98
+    },
+    {
+      "text": "a specific specific interest to humans",
+      "start": 355.02,
+      "duration": 7.08
+    },
+    {
+      "text": "because they are the properties that",
+      "start": 358.44,
+      "duration": 7.68
+    },
+    {
+      "text": "sharply differentiate humans from any",
+      "start": 362.1,
+      "duration": 6.659
+    },
+    {
+      "text": "other species so if we're interested in",
+      "start": 366.12,
+      "duration": 6.54
+    },
+    {
+      "text": "finding out about our nature this is the",
+      "start": 368.759,
+      "duration": 5.581
+    },
+    {
+      "text": "topic to look into",
+      "start": 372.66,
+      "duration": 4.759
+    },
+    {
+      "text": "but it's quite different from",
+      "start": 374.34,
+      "duration": 6.0
+    },
+    {
+      "text": "computational Linguistics in the sense",
+      "start": 377.419,
+      "duration": 3.701
+    },
+    {
+      "text": "of",
+      "start": 380.34,
+      "duration": 4.56
+    },
+    {
+      "text": "trying to achieve a product that can",
+      "start": 381.12,
+      "duration": 6.96
+    },
+    {
+      "text": "serve some useful purpose like say",
+      "start": 384.9,
+      "duration": 7.32
+    },
+    {
+      "text": "Google Translate is useful glad to have",
+      "start": 388.08,
+      "duration": 5.119
+    },
+    {
+      "text": "it",
+      "start": 392.22,
+      "duration": 3.539
+    },
+    {
+      "text": "but it's not an intellectual",
+      "start": 393.199,
+      "duration": 3.94
+    },
+    {
+      "text": "contribution",
+      "start": 395.759,
+      "duration": 5.94
+    },
+    {
+      "text": "it's like a snow plow glad to have snow",
+      "start": 397.139,
+      "duration": 7.921
+    },
+    {
+      "text": "players don't have to shuffle by hand so",
+      "start": 401.699,
+      "duration": 6.56
+    },
+    {
+      "text": "that's all to the good",
+      "start": 405.06,
+      "duration": 3.199
+    },
+    {
+      "text": "contribution to science and understand",
+      "start": 409.94,
+      "duration": 3.64
+    },
+    {
+      "text": "it",
+      "start": 412.139,
+      "duration": 4.441
+    },
+    {
+      "text": "foreign",
+      "start": 413.58,
+      "duration": 3.0
+    },
+    {
+      "text": "interesting thank you very much",
+      "start": 419.36,
+      "duration": 5.08
+    },
+    {
+      "text": "professor uh okay thank you very much",
+      "start": 421.68,
+      "duration": 4.859
+    },
+    {
+      "text": "for enlightening us we're answering the",
+      "start": 424.44,
+      "duration": 4.94
+    },
+    {
+      "text": "the question or the definition of",
+      "start": 426.539,
+      "duration": 7.141
+    },
+    {
+      "text": "uh computational uh Linguistics uh also",
+      "start": 429.38,
+      "duration": 6.36
+    },
+    {
+      "text": "let's move on to talk about the second",
+      "start": 433.68,
+      "duration": 5.94
+    },
+    {
+      "text": "uh issue or related to the theme of this",
+      "start": 435.74,
+      "duration": 6.54
+    },
+    {
+      "text": "conference",
+      "start": 439.62,
+      "duration": 2.66
+    },
+    {
+      "text": "as you know educational",
+      "start": 442.819,
+      "duration": 7.6
+    },
+    {
+      "text": "uh Professor Don Chomsky you mentioned",
+      "start": 447.02,
+      "duration": 5.98
+    },
+    {
+      "text": "in a previous webinar talking about",
+      "start": 450.419,
+      "duration": 5.761
+    },
+    {
+      "text": "language learning and acquisition that",
+      "start": 453.0,
+      "duration": 6.12
+    },
+    {
+      "text": "language isn't really learned it grows",
+      "start": 456.18,
+      "duration": 5.84
+    },
+    {
+      "text": "in the mind it's something that develops",
+      "start": 459.12,
+      "duration": 7.139
+    },
+    {
+      "text": "naturally automatically so what does",
+      "start": 462.02,
+      "duration": 6.64
+    },
+    {
+      "text": "this mean and how should a second",
+      "start": 466.259,
+      "duration": 6.481
+    },
+    {
+      "text": "language be acquired or taught how",
+      "start": 468.66,
+      "duration": 7.099
+    },
+    {
+      "text": "should schools and educational programs",
+      "start": 472.74,
+      "duration": 6.98
+    },
+    {
+      "text": "take this into account",
+      "start": 475.759,
+      "duration": 3.961
+    },
+    {
+      "text": "is that directed to me or to",
+      "start": 481.44,
+      "duration": 5.64
+    },
+    {
+      "text": "Stephen crashing",
+      "start": 485.099,
+      "duration": 4.921
+    },
+    {
+      "text": "yes this is to you Professor Nam Chomsky",
+      "start": 487.08,
+      "duration": 4.44
+    },
+    {
+      "text": "to me",
+      "start": 490.02,
+      "duration": 5.7
+    },
+    {
+      "text": "well the easiest way to acquire",
+      "start": 491.52,
+      "duration": 7.859
+    },
+    {
+      "text": "several languages is to be a",
+      "start": 495.72,
+      "duration": 5.819
+    },
+    {
+      "text": "two-year-old infant",
+      "start": 499.379,
+      "duration": 6.481
+    },
+    {
+      "text": "uh and be immersed in the use of the",
+      "start": 501.539,
+      "duration": 7.641
+    },
+    {
+      "text": "language if you are then the",
+      "start": 505.86,
+      "duration": 6.0
+    },
+    {
+      "text": "intrinsic structure that's built into",
+      "start": 509.18,
+      "duration": 7.0
+    },
+    {
+      "text": "you or innate competence will simply",
+      "start": 511.86,
+      "duration": 7.619
+    },
+    {
+      "text": "flourish and an infant without any",
+      "start": 516.18,
+      "duration": 5.18
+    },
+    {
+      "text": "effort or awareness",
+      "start": 519.479,
+      "duration": 6.48
+    },
+    {
+      "text": "or training will can easily pick up",
+      "start": 521.36,
+      "duration": 7.74
+    },
+    {
+      "text": "three or four languages simultaneously",
+      "start": 525.959,
+      "duration": 5.521
+    },
+    {
+      "text": "this is the way you talk to your mother",
+      "start": 529.1,
+      "duration": 4.5
+    },
+    {
+      "text": "this is the way you talk to your aunt",
+      "start": 531.48,
+      "duration": 4.68
+    },
+    {
+      "text": "this is the way you talk to the kids in",
+      "start": 533.6,
+      "duration": 5.14
+    },
+    {
+      "text": "the street they don't even know they're",
+      "start": 536.16,
+      "duration": 5.4
+    },
+    {
+      "text": "speaking different languages and Achieve",
+      "start": 538.74,
+      "duration": 5.4
+    },
+    {
+      "text": "perfect competence it's because we're",
+      "start": 541.56,
+      "duration": 6.66
+    },
+    {
+      "text": "built to do that the same way it can you",
+      "start": 544.14,
+      "duration": 6.96
+    },
+    {
+      "text": "walked you're built to walk not to fly",
+      "start": 548.22,
+      "duration": 5.76
+    },
+    {
+      "text": "so a little bit of experience is enough",
+      "start": 551.1,
+      "duration": 6.239
+    },
+    {
+      "text": "to trigger the innate system and it",
+      "start": 553.98,
+      "duration": 6.9
+    },
+    {
+      "text": "takes off that's the easy way well we",
+      "start": 557.339,
+      "duration": 6.721
+    },
+    {
+      "text": "can't all be two-year-old infants so",
+      "start": 560.88,
+      "duration": 5.28
+    },
+    {
+      "text": "sometimes you want to learn the language",
+      "start": 564.06,
+      "duration": 4.38
+    },
+    {
+      "text": "in later life",
+      "start": 566.16,
+      "duration": 5.04
+    },
+    {
+      "text": "that can be harder uh",
+      "start": 568.44,
+      "duration": 4.16
+    },
+    {
+      "text": "there are",
+      "start": 571.2,
+      "duration": 3.0
+    },
+    {
+      "text": "apparently",
+      "start": 572.6,
+      "duration": 5.14
+    },
+    {
+      "text": "what are called critical periods like if",
+      "start": 574.2,
+      "duration": 8.24
+    },
+    {
+      "text": "a 10 year old goes to a foreign country",
+      "start": 577.74,
+      "duration": 7.32
+    },
+    {
+      "text": "within a couple of weeks or a couple of",
+      "start": 582.44,
+      "duration": 5.44
+    },
+    {
+      "text": "months it'll be automatically speaking",
+      "start": 585.06,
+      "duration": 6.12
+    },
+    {
+      "text": "the language if it's a 15 year old maybe",
+      "start": 587.88,
+      "duration": 7.079
+    },
+    {
+      "text": "much harder if it's a natural take some",
+      "start": 591.18,
+      "duration": 6.42
+    },
+    {
+      "text": "work and effort because like other",
+      "start": 594.959,
+      "duration": 4.521
+    },
+    {
+      "text": "innate capacities",
+      "start": 597.6,
+      "duration": 6.419
+    },
+    {
+      "text": "this one has a period during which it",
+      "start": 599.48,
+      "duration": 8.32
+    },
+    {
+      "text": "functions freely and reflexively and",
+      "start": 604.019,
+      "duration": 6.541
+    },
+    {
+      "text": "productively others where",
+      "start": 607.8,
+      "duration": 4.68
+    },
+    {
+      "text": "it doesn't we know this is true of",
+      "start": 610.56,
+      "duration": 5.719
+    },
+    {
+      "text": "vision it's true of",
+      "start": 612.48,
+      "duration": 7.68
+    },
+    {
+      "text": "locomotion every capacity is like this",
+      "start": 616.279,
+      "duration": 8.201
+    },
+    {
+      "text": "so in later life you have to find ways",
+      "start": 620.16,
+      "duration": 5.34
+    },
+    {
+      "text": "of",
+      "start": 624.48,
+      "duration": 5.64
+    },
+    {
+      "text": "uh encouraging and stimulating the",
+      "start": 625.5,
+      "duration": 8.1
+    },
+    {
+      "text": "interest in pursuing the effort and it",
+      "start": 630.12,
+      "duration": 5.76
+    },
+    {
+      "text": "is an effort of acquiring a second",
+      "start": 633.6,
+      "duration": 3.419
+    },
+    {
+      "text": "language",
+      "start": 635.88,
+      "duration": 2.639
+    },
+    {
+      "text": "and then it's",
+      "start": 637.019,
+      "duration": 5.041
+    },
+    {
+      "text": "again the closer you come to immersion",
+      "start": 638.519,
+      "duration": 6.421
+    },
+    {
+      "text": "the better it is so if you're living in",
+      "start": 642.06,
+      "duration": 5.94
+    },
+    {
+      "text": "a foreign country you're likely to learn",
+      "start": 644.94,
+      "duration": 4.98
+    },
+    {
+      "text": "the language faster than if you're",
+      "start": 648.0,
+      "duration": 5.22
+    },
+    {
+      "text": "studying it from a book but the main",
+      "start": 649.92,
+      "duration": 7.859
+    },
+    {
+      "text": "thing is like all teaching motivation",
+      "start": 653.22,
+      "duration": 7.26
+    },
+    {
+      "text": "if a student isn't interested in the",
+      "start": 657.779,
+      "duration": 5.521
+    },
+    {
+      "text": "topic they won't learn they might be",
+      "start": 660.48,
+      "duration": 5.64
+    },
+    {
+      "text": "able to pass a test but nothing will",
+      "start": 663.3,
+      "duration": 5.88
+    },
+    {
+      "text": "stay inside if they are interested and",
+      "start": 666.12,
+      "duration": 4.38
+    },
+    {
+      "text": "motivated",
+      "start": 669.18,
+      "duration": 5.159
+    },
+    {
+      "text": "stimulated then",
+      "start": 670.5,
+      "duration": 3.839
+    },
+    {
+      "text": "methods of course theory and are better",
+      "start": 675.3,
+      "duration": 4.8
+    },
+    {
+      "text": "or worse but you've overcome the main",
+      "start": 677.7,
+      "duration": 5.4
+    },
+    {
+      "text": "barrier",
+      "start": 680.1,
+      "duration": 3.0
+    },
+    {
+      "text": "interesting thank you very much",
+      "start": 684.0,
+      "duration": 4.5
+    },
+    {
+      "text": "Professor Chomsky and here maybe you",
+      "start": 685.94,
+      "duration": 5.98
+    },
+    {
+      "text": "mentioned motivation maybe this is what",
+      "start": 688.5,
+      "duration": 5.7
+    },
+    {
+      "text": "Stephen crushing talks about or what is",
+      "start": 691.92,
+      "duration": 5.58
+    },
+    {
+      "text": "called compiling inputs okay we should",
+      "start": 694.2,
+      "duration": 7.44
+    },
+    {
+      "text": "okay find or create compelling inputs to",
+      "start": 697.5,
+      "duration": 6.18
+    },
+    {
+      "text": "the student for the student to be",
+      "start": 701.64,
+      "duration": 4.259
+    },
+    {
+      "text": "motivated before I give the floor to",
+      "start": 703.68,
+      "duration": 4.86
+    },
+    {
+      "text": "again Stephan prasha I'm going also to",
+      "start": 705.899,
+      "duration": 4.44
+    },
+    {
+      "text": "give another question maybe this is the",
+      "start": 708.54,
+      "duration": 4.32
+    },
+    {
+      "text": "last one Professor Nam Chomsky about",
+      "start": 710.339,
+      "duration": 5.661
+    },
+    {
+      "text": "reading because in a previous webinar",
+      "start": 712.86,
+      "duration": 6.36
+    },
+    {
+      "text": "you commented on Christian's talk and",
+      "start": 716.0,
+      "duration": 7.0
+    },
+    {
+      "text": "said that's the level of reading is very",
+      "start": 719.22,
+      "duration": 6.84
+    },
+    {
+      "text": "sharply declined people don't come to",
+      "start": 723.0,
+      "duration": 5.82
+    },
+    {
+      "text": "look for books anymore they are busy",
+      "start": 726.06,
+      "duration": 5.7
+    },
+    {
+      "text": "with as you mentioned this thing which",
+      "start": 728.82,
+      "duration": 5.48
+    },
+    {
+      "text": "means the smartphone",
+      "start": 731.76,
+      "duration": 6.12
+    },
+    {
+      "text": "uh uh in their hands and you mentioned",
+      "start": 734.3,
+      "duration": 5.2
+    },
+    {
+      "text": "that some universities in the United",
+      "start": 737.88,
+      "duration": 4.62
+    },
+    {
+      "text": "States have redesigned sidewalks that",
+      "start": 739.5,
+      "duration": 6.06
+    },
+    {
+      "text": "students walk on so that they can put a",
+      "start": 742.5,
+      "duration": 6.48
+    },
+    {
+      "text": "plaque on the the sidewalk and said look",
+      "start": 745.56,
+      "duration": 6.6
+    },
+    {
+      "text": "up meaning don't just look at what is in",
+      "start": 748.98,
+      "duration": 8.4
+    },
+    {
+      "text": "your uh hand so my question uh is it bad",
+      "start": 752.16,
+      "duration": 8.16
+    },
+    {
+      "text": "to use that thing to learn a language",
+      "start": 757.38,
+      "duration": 6.6
+    },
+    {
+      "text": "without uh focusing or doing much",
+      "start": 760.32,
+      "duration": 7.019
+    },
+    {
+      "text": "reading don't you think that's uh that",
+      "start": 763.98,
+      "duration": 5.58
+    },
+    {
+      "text": "thing means the smartphone nowadays can",
+      "start": 767.339,
+      "duration": 4.44
+    },
+    {
+      "text": "facilitate the learning or let's say the",
+      "start": 769.56,
+      "duration": 5.279
+    },
+    {
+      "text": "acquisition process",
+      "start": 771.779,
+      "duration": 5.101
+    },
+    {
+      "text": "okay",
+      "start": 774.839,
+      "duration": 5.341
+    },
+    {
+      "text": "are you asking about the effect of the",
+      "start": 776.88,
+      "duration": 5.639
+    },
+    {
+      "text": "modern technology and like smartphones",
+      "start": 780.18,
+      "duration": 5.459
+    },
+    {
+      "text": "and reading ability",
+      "start": 782.519,
+      "duration": 6.481
+    },
+    {
+      "text": "yes there is a notable decline",
+      "start": 785.639,
+      "duration": 6.301
+    },
+    {
+      "text": "it's measurable so for example if you",
+      "start": 789.0,
+      "duration": 4.26
+    },
+    {
+      "text": "take",
+      "start": 791.94,
+      "duration": 3.66
+    },
+    {
+      "text": "school high school schools in the United",
+      "start": 793.26,
+      "duration": 6.84
+    },
+    {
+      "text": "States and you ask what kind of reading",
+      "start": 795.6,
+      "duration": 8.4
+    },
+    {
+      "text": "materials are being assigned to 12th",
+      "start": 800.1,
+      "duration": 5.34
+    },
+    {
+      "text": "grade students",
+      "start": 804.0,
+      "duration": 3.959
+    },
+    {
+      "text": "you find that it's about the same as",
+      "start": 805.44,
+      "duration": 5.94
+    },
+    {
+      "text": "what was assigned to 9th grade students",
+      "start": 807.959,
+      "duration": 6.201
+    },
+    {
+      "text": "40 years ago",
+      "start": 811.38,
+      "duration": 7.88
+    },
+    {
+      "text": "and you see it very clearly people",
+      "start": 814.16,
+      "duration": 8.46
+    },
+    {
+      "text": "watch a couple of",
+      "start": 819.26,
+      "duration": 7.48
+    },
+    {
+      "text": "young people sitting around a restaurant",
+      "start": 822.62,
+      "duration": 6.82
+    },
+    {
+      "text": "talking to each other they're not",
+      "start": 826.74,
+      "duration": 5.94
+    },
+    {
+      "text": "talking to each other each one has a",
+      "start": 829.44,
+      "duration": 5.82
+    },
+    {
+      "text": "some kind of a device in his hand and",
+      "start": 832.68,
+      "duration": 5.88
+    },
+    {
+      "text": "it's carrying out two conversations one",
+      "start": 835.26,
+      "duration": 6.36
+    },
+    {
+      "text": "a superficial conversation with the",
+      "start": 838.56,
+      "duration": 6.18
+    },
+    {
+      "text": "people sitting next to him one talking",
+      "start": 841.62,
+      "duration": 5.519
+    },
+    {
+      "text": "to his girlfriend about something or",
+      "start": 844.74,
+      "duration": 5.76
+    },
+    {
+      "text": "other also very superficial like just",
+      "start": 847.139,
+      "duration": 7.801
+    },
+    {
+      "text": "texting all of this has a cheapening",
+      "start": 850.5,
+      "duration": 6.839
+    },
+    {
+      "text": "effect in fact there are",
+      "start": 854.94,
+      "duration": 5.1
+    },
+    {
+      "text": "literally universities in the United",
+      "start": 857.339,
+      "duration": 4.321
+    },
+    {
+      "text": "States",
+      "start": 860.04,
+      "duration": 4.08
+    },
+    {
+      "text": "Duke University's one there are others",
+      "start": 861.66,
+      "duration": 6.6
+    },
+    {
+      "text": "where on the sidewalks inside the campus",
+      "start": 864.12,
+      "duration": 8.7
+    },
+    {
+      "text": "they have Plex saying look up",
+      "start": 868.26,
+      "duration": 7.5
+    },
+    {
+      "text": "meaning don't just look at this thing in",
+      "start": 872.82,
+      "duration": 5.72
+    },
+    {
+      "text": "your hand well",
+      "start": 875.76,
+      "duration": 5.759
+    },
+    {
+      "text": "the effect of",
+      "start": 878.54,
+      "duration": 5.919
+    },
+    {
+      "text": "the form of communication and",
+      "start": 881.519,
+      "duration": 4.921
+    },
+    {
+      "text": "interaction that's given by these",
+      "start": 884.459,
+      "duration": 3.06
+    },
+    {
+      "text": "devices",
+      "start": 886.44,
+      "duration": 3.959
+    },
+    {
+      "text": "is very narrowing",
+      "start": 887.519,
+      "duration": 6.841
+    },
+    {
+      "text": "short short you know abbreviations short",
+      "start": 890.399,
+      "duration": 5.521
+    },
+    {
+      "text": "statements",
+      "start": 894.36,
+      "duration": 4.62
+    },
+    {
+      "text": "Twitter you know this kind of thing is",
+      "start": 895.92,
+      "duration": 7.44
+    },
+    {
+      "text": "not conducive to uh sitting down in a",
+      "start": 898.98,
+      "duration": 6.18
+    },
+    {
+      "text": "corner and reading something carefully",
+      "start": 903.36,
+      "duration": 3.659
+    },
+    {
+      "text": "and thinking about it",
+      "start": 905.16,
+      "duration": 3.96
+    },
+    {
+      "text": "and you see the effect",
+      "start": 907.019,
+      "duration": 4.62
+    },
+    {
+      "text": "the effect is",
+      "start": 909.12,
+      "duration": 5.7
+    },
+    {
+      "text": "it's kind of it's also connected with",
+      "start": 911.639,
+      "duration": 4.581
+    },
+    {
+      "text": "the",
+      "start": 914.82,
+      "duration": 4.68
+    },
+    {
+      "text": "broader developments in the society",
+      "start": 916.22,
+      "duration": 7.179
+    },
+    {
+      "text": "there is a general collapse in the",
+      "start": 919.5,
+      "duration": 5.639
+    },
+    {
+      "text": "social order",
+      "start": 923.399,
+      "duration": 5.101
+    },
+    {
+      "text": "that's taken place over the last 30 or",
+      "start": 925.139,
+      "duration": 4.681
+    },
+    {
+      "text": "40 years",
+      "start": 928.5,
+      "duration": 4.079
+    },
+    {
+      "text": "it's the effect of the neoliberal",
+      "start": 929.82,
+      "duration": 6.54
+    },
+    {
+      "text": "policies which atomize people separate",
+      "start": 932.579,
+      "duration": 6.721
+    },
+    {
+      "text": "them from one another make lives more",
+      "start": 936.36,
+      "duration": 6.12
+    },
+    {
+      "text": "precarious and all of this has an effect",
+      "start": 939.3,
+      "duration": 5.399
+    },
+    {
+      "text": "on",
+      "start": 942.48,
+      "duration": 4.14
+    },
+    {
+      "text": "cheapening",
+      "start": 944.699,
+      "duration": 5.0
+    },
+    {
+      "text": "uh intellectual",
+      "start": 946.62,
+      "duration": 5.94
+    },
+    {
+      "text": "life and curiosity people just don't",
+      "start": 949.699,
+      "duration": 7.301
+    },
+    {
+      "text": "have time for it also the massive",
+      "start": 952.56,
+      "duration": 6.32
+    },
+    {
+      "text": "expansion of",
+      "start": 957.0,
+      "duration": 3.62
+    },
+    {
+      "text": "advertising",
+      "start": 958.88,
+      "duration": 5.28
+    },
+    {
+      "text": "designed to try to drive you into a",
+      "start": 960.62,
+      "duration": 6.12
+    },
+    {
+      "text": "marginal insignificant",
+      "start": 964.16,
+      "duration": 5.5
+    },
+    {
+      "text": "what are called by the industry The",
+      "start": 966.74,
+      "duration": 5.5
+    },
+    {
+      "text": "Superficial form thing things of Life",
+      "start": 969.66,
+      "duration": 6.739
+    },
+    {
+      "text": "all of these are huge Industries uh all",
+      "start": 972.24,
+      "duration": 8.0
+    },
+    {
+      "text": "converging and being accelerated by the",
+      "start": 976.399,
+      "duration": 8.341
+    },
+    {
+      "text": "technical devices that are uh",
+      "start": 980.24,
+      "duration": 7.599
+    },
+    {
+      "text": "that do draw people especially young",
+      "start": 984.74,
+      "duration": 6.3
+    },
+    {
+      "text": "people into",
+      "start": 987.839,
+      "duration": 6.541
+    },
+    {
+      "text": "exhibitionist to Marginal like to take a",
+      "start": 991.04,
+      "duration": 4.84
+    },
+    {
+      "text": "look at tick tock",
+      "start": 994.38,
+      "duration": 3.84
+    },
+    {
+      "text": "it's fine because kids are having fun",
+      "start": 995.88,
+      "duration": 5.16
+    },
+    {
+      "text": "but if you want to spend your time going",
+      "start": 998.22,
+      "duration": 5.28
+    },
+    {
+      "text": "like this in a picture you're not doing",
+      "start": 1001.04,
+      "duration": 4.02
+    },
+    {
+      "text": "something else",
+      "start": 1003.5,
+      "duration": 4.079
+    },
+    {
+      "text": "so and the temptation to do it of course",
+      "start": 1005.06,
+      "duration": 5.219
+    },
+    {
+      "text": "is pretty strong everyone else is doing",
+      "start": 1007.579,
+      "duration": 5.841
+    },
+    {
+      "text": "it why shouldn't I",
+      "start": 1010.279,
+      "duration": 3.141
+    },
+    {
+      "text": "interesting thank you very much Norm",
+      "start": 1014.779,
+      "duration": 4.021
+    },
+    {
+      "text": "Chomsky for answering these interesting",
+      "start": 1016.94,
+      "duration": 4.56
+    },
+    {
+      "text": "questions and now I would give the floor",
+      "start": 1018.8,
+      "duration": 5.58
+    },
+    {
+      "text": "to uh Professor Stephen Prussian to",
+      "start": 1021.5,
+      "duration": 6.839
+    },
+    {
+      "text": "comment on uh chomsky's talk the floor",
+      "start": 1024.38,
+      "duration": 6.299
+    },
+    {
+      "text": "is your professor",
+      "start": 1028.339,
+      "duration": 4.801
+    },
+    {
+      "text": "okay I am going to say a few words and",
+      "start": 1030.679,
+      "duration": 4.201
+    },
+    {
+      "text": "then Professor ashtari is going to say a",
+      "start": 1033.14,
+      "duration": 3.539
+    },
+    {
+      "text": "few words and then I'll say a few more",
+      "start": 1034.88,
+      "duration": 3.9
+    },
+    {
+      "text": "words and let me give you a brief",
+      "start": 1036.679,
+      "duration": 4.74
+    },
+    {
+      "text": "history of our topic which has to do",
+      "start": 1038.78,
+      "duration": 5.039
+    },
+    {
+      "text": "with accent and the idea is there a",
+      "start": 1041.419,
+      "duration": 5.16
+    },
+    {
+      "text": "period for accent where it dies away the",
+      "start": 1043.819,
+      "duration": 5.341
+    },
+    {
+      "text": "original idea is you can get a good",
+      "start": 1046.579,
+      "duration": 4.801
+    },
+    {
+      "text": "accent if you start when you're young",
+      "start": 1049.16,
+      "duration": 4.08
+    },
+    {
+      "text": "but if you start when you're older it's",
+      "start": 1051.38,
+      "duration": 4.2
+    },
+    {
+      "text": "a lot tougher in fact there's a",
+      "start": 1053.24,
+      "duration": 4.92
+    },
+    {
+      "text": "neurological barrier to getting an ex a",
+      "start": 1055.58,
+      "duration": 6.12
+    },
+    {
+      "text": "good accent happens around puberty my",
+      "start": 1058.16,
+      "duration": 4.86
+    },
+    {
+      "text": "doctor will work in the work of others",
+      "start": 1061.7,
+      "duration": 3.12
+    },
+    {
+      "text": "show that it wasn't true at least the",
+      "start": 1063.02,
+      "duration": 4.56
+    },
+    {
+      "text": "one popular neurological barrier was not",
+      "start": 1064.82,
+      "duration": 4.979
+    },
+    {
+      "text": "the one that we thought it was",
+      "start": 1067.58,
+      "duration": 3.959
+    },
+    {
+      "text": "and the theory now",
+      "start": 1069.799,
+      "duration": 4.861
+    },
+    {
+      "text": "still a remnant of the old idea that you",
+      "start": 1071.539,
+      "duration": 5.76
+    },
+    {
+      "text": "can get a good accent if you work really",
+      "start": 1074.66,
+      "duration": 3.6
+    },
+    {
+      "text": "hard",
+      "start": 1077.299,
+      "duration": 3.361
+    },
+    {
+      "text": "a very interesting paper came out in",
+      "start": 1078.26,
+      "duration": 5.52
+    },
+    {
+      "text": "1990 a guy named Hammond interviewed uh",
+      "start": 1080.66,
+      "duration": 5.82
+    },
+    {
+      "text": "Hispanic Spanish speakers in the Miami",
+      "start": 1083.78,
+      "duration": 5.7
+    },
+    {
+      "text": "area who were acquiring English",
+      "start": 1086.48,
+      "duration": 5.939
+    },
+    {
+      "text": "half of them agreed with hard work and",
+      "start": 1089.48,
+      "duration": 5.64
+    },
+    {
+      "text": "determination anyone who works at it can",
+      "start": 1092.419,
+      "duration": 5.041
+    },
+    {
+      "text": "get a really good accent in other words",
+      "start": 1095.12,
+      "duration": 4.439
+    },
+    {
+      "text": "if you don't have a good accent it's",
+      "start": 1097.46,
+      "duration": 4.74
+    },
+    {
+      "text": "your own fault I had a good illustration",
+      "start": 1099.559,
+      "duration": 5.281
+    },
+    {
+      "text": "of this from a place I used to go to all",
+      "start": 1102.2,
+      "duration": 4.859
+    },
+    {
+      "text": "the time highly recommend Gold's Gym in",
+      "start": 1104.84,
+      "duration": 4.44
+    },
+    {
+      "text": "Venice California you occasionally see",
+      "start": 1107.059,
+      "duration": 4.081
+    },
+    {
+      "text": "Arnold Schwarzenegger there it's very",
+      "start": 1109.28,
+      "duration": 3.84
+    },
+    {
+      "text": "exciting anyway I used to work out there",
+      "start": 1111.14,
+      "duration": 4.14
+    },
+    {
+      "text": "with a friend of mine and he did a good",
+      "start": 1113.12,
+      "duration": 4.98
+    },
+    {
+      "text": "thing to improve his uh physique he took",
+      "start": 1115.28,
+      "duration": 5.22
+    },
+    {
+      "text": "lessons from a professional trainer now",
+      "start": 1118.1,
+      "duration": 4.14
+    },
+    {
+      "text": "this friend of mine was born and raised",
+      "start": 1120.5,
+      "duration": 4.02
+    },
+    {
+      "text": "in Argentina and he speaks English with",
+      "start": 1122.24,
+      "duration": 4.14
+    },
+    {
+      "text": "a slight accent although he's very good",
+      "start": 1124.52,
+      "duration": 3.96
+    },
+    {
+      "text": "and I am going to use",
+      "start": 1126.38,
+      "duration": 4.799
+    },
+    {
+      "text": "um the power I have in being in the",
+      "start": 1128.48,
+      "duration": 4.559
+    },
+    {
+      "text": "podium here and have a little bit of",
+      "start": 1131.179,
+      "duration": 4.321
+    },
+    {
+      "text": "profanity in this next statement and he",
+      "start": 1133.039,
+      "duration": 4.5
+    },
+    {
+      "text": "says this trainer mine says you've been",
+      "start": 1135.5,
+      "duration": 5.039
+    },
+    {
+      "text": "in the United States for 12 years and",
+      "start": 1137.539,
+      "duration": 6.0
+    },
+    {
+      "text": "you still have that accent this",
+      "start": 1140.539,
+      "duration": 5.401
+    },
+    {
+      "text": "means it was said in good humor and this",
+      "start": 1143.539,
+      "duration": 4.681
+    },
+    {
+      "text": "means if you only worked hard at it you",
+      "start": 1145.94,
+      "duration": 4.08
+    },
+    {
+      "text": "could get rid of it and that scene to be",
+      "start": 1148.22,
+      "duration": 4.14
+    },
+    {
+      "text": "the popular view but let me tell you the",
+      "start": 1150.02,
+      "duration": 4.32
+    },
+    {
+      "text": "research on instruction is quite",
+      "start": 1152.36,
+      "duration": 4.319
+    },
+    {
+      "text": "disappointing I've reviewed the research",
+      "start": 1154.34,
+      "duration": 5.64
+    },
+    {
+      "text": "instruction in pronunciation only helps",
+      "start": 1156.679,
+      "duration": 5.661
+    },
+    {
+      "text": "when you focus on particular sounds",
+      "start": 1159.98,
+      "duration": 5.46
+    },
+    {
+      "text": "particular segments and you're focused",
+      "start": 1162.34,
+      "duration": 5.68
+    },
+    {
+      "text": "on that rule that one and it's the same",
+      "start": 1165.44,
+      "duration": 4.979
+    },
+    {
+      "text": "as the constraints on using consciously",
+      "start": 1168.02,
+      "duration": 4.08
+    },
+    {
+      "text": "learned grammar you need to know the",
+      "start": 1170.419,
+      "duration": 3.781
+    },
+    {
+      "text": "rule you need to have time you need to",
+      "start": 1172.1,
+      "duration": 4.02
+    },
+    {
+      "text": "be focused on form in other words it",
+      "start": 1174.2,
+      "duration": 3.839
+    },
+    {
+      "text": "doesn't work very well",
+      "start": 1176.12,
+      "duration": 4.32
+    },
+    {
+      "text": "I've looked at advertisements for accent",
+      "start": 1178.039,
+      "duration": 4.801
+    },
+    {
+      "text": "improvement classes they don't mention",
+      "start": 1180.44,
+      "duration": 4.64
+    },
+    {
+      "text": "the research the only one that does",
+      "start": 1182.84,
+      "duration": 4.8
+    },
+    {
+      "text": "cited one study which turned out to be",
+      "start": 1185.08,
+      "duration": 4.719
+    },
+    {
+      "text": "an unpublished dissertation which I was",
+      "start": 1187.64,
+      "duration": 4.56
+    },
+    {
+      "text": "never able to find so there's no obvious",
+      "start": 1189.799,
+      "duration": 5.521
+    },
+    {
+      "text": "evidence that instruction helps and",
+      "start": 1192.2,
+      "duration": 6.18
+    },
+    {
+      "text": "pretty good evidence that it doesn't",
+      "start": 1195.32,
+      "duration": 6.359
+    },
+    {
+      "text": "what we're going to do now is look at a",
+      "start": 1198.38,
+      "duration": 5.76
+    },
+    {
+      "text": "different hypothesis the different",
+      "start": 1201.679,
+      "duration": 4.5
+    },
+    {
+      "text": "hypothesis is",
+      "start": 1204.14,
+      "duration": 4.14
+    },
+    {
+      "text": "and I I'm sorry I can't give you all",
+      "start": 1206.179,
+      "duration": 4.021
+    },
+    {
+      "text": "kinds of empirical data a lot of this",
+      "start": 1208.28,
+      "duration": 4.019
+    },
+    {
+      "text": "comes from my experiences dushan",
+      "start": 1210.2,
+      "duration": 4.5
+    },
+    {
+      "text": "ashtarees experiences questionnaires Etc",
+      "start": 1212.299,
+      "duration": 5.641
+    },
+    {
+      "text": "but it may very well be true",
+      "start": 1214.7,
+      "duration": 4.8
+    },
+    {
+      "text": "perfect accent",
+      "start": 1217.94,
+      "duration": 3.54
+    },
+    {
+      "text": "is there inside you",
+      "start": 1219.5,
+      "duration": 4.98
+    },
+    {
+      "text": "the language acquisition device doesn't",
+      "start": 1221.48,
+      "duration": 6.0
+    },
+    {
+      "text": "shut off as Professor Chomsky has said",
+      "start": 1224.48,
+      "duration": 4.98
+    },
+    {
+      "text": "it's a mental organ it's kind of like",
+      "start": 1227.48,
+      "duration": 4.14
+    },
+    {
+      "text": "you can't decide you're not going to see",
+      "start": 1229.46,
+      "duration": 4.38
+    },
+    {
+      "text": "if your eyes are open your vision is",
+      "start": 1231.62,
+      "duration": 4.26
+    },
+    {
+      "text": "correct and there's there's light you",
+      "start": 1233.84,
+      "duration": 3.12
+    },
+    {
+      "text": "will see",
+      "start": 1235.88,
+      "duration": 2.82
+    },
+    {
+      "text": "so we're going to talk first about",
+      "start": 1236.96,
+      "duration": 3.18
+    },
+    {
+      "text": "perception",
+      "start": 1238.7,
+      "duration": 3.9
+    },
+    {
+      "text": "uh that other there are other factors",
+      "start": 1240.14,
+      "duration": 5.399
+    },
+    {
+      "text": "influencing it namely we think accent is",
+      "start": 1242.6,
+      "duration": 5.52
+    },
+    {
+      "text": "a marker of group membership and then",
+      "start": 1245.539,
+      "duration": 3.541
+    },
+    {
+      "text": "we'll talk a little bit about",
+      "start": 1248.12,
+      "duration": 3.72
+    },
+    {
+      "text": "performance so let me turn the platform",
+      "start": 1249.08,
+      "duration": 5.7
+    },
+    {
+      "text": "over to Dr rashtari for that",
+      "start": 1251.84,
+      "duration": 5.52
+    },
+    {
+      "text": "thank you so much Dr prashan and thank",
+      "start": 1254.78,
+      "duration": 4.86
+    },
+    {
+      "text": "you so much Dr Chomsky Dr romacky it's",
+      "start": 1257.36,
+      "duration": 3.78
+    },
+    {
+      "text": "such an honor",
+      "start": 1259.64,
+      "duration": 4.2
+    },
+    {
+      "text": "um it is so true so I'm going to start",
+      "start": 1261.14,
+      "duration": 5.64
+    },
+    {
+      "text": "with my immigration story to start the",
+      "start": 1263.84,
+      "duration": 7.32
+    },
+    {
+      "text": "process I moved to the US in 2011 to",
+      "start": 1266.78,
+      "duration": 7.019
+    },
+    {
+      "text": "pursue my Graduate Studies and by that",
+      "start": 1271.16,
+      "duration": 4.44
+    },
+    {
+      "text": "point I had already been teaching",
+      "start": 1273.799,
+      "duration": 4.681
+    },
+    {
+      "text": "English for seven ish years I thought I",
+      "start": 1275.6,
+      "duration": 4.56
+    },
+    {
+      "text": "was comfortable with the language I had",
+      "start": 1278.48,
+      "duration": 3.6
+    },
+    {
+      "text": "a good command of the language and I",
+      "start": 1280.16,
+      "duration": 4.2
+    },
+    {
+      "text": "don't think that I have a big foreign",
+      "start": 1282.08,
+      "duration": 5.339
+    },
+    {
+      "text": "accent so I thought it would be a smooth",
+      "start": 1284.36,
+      "duration": 6.42
+    },
+    {
+      "text": "sailing process for me however when I",
+      "start": 1287.419,
+      "duration": 5.521
+    },
+    {
+      "text": "got to the US I started teaching English",
+      "start": 1290.78,
+      "duration": 6.18
+    },
+    {
+      "text": "also right away in universities but I",
+      "start": 1292.94,
+      "duration": 6.119
+    },
+    {
+      "text": "found that when I was interacting with",
+      "start": 1296.96,
+      "duration": 5.219
+    },
+    {
+      "text": "native English speakers",
+      "start": 1299.059,
+      "duration": 5.461
+    },
+    {
+      "text": "um I would get very different facial",
+      "start": 1302.179,
+      "duration": 5.701
+    },
+    {
+      "text": "expressions multiple times asking me to",
+      "start": 1304.52,
+      "duration": 5.46
+    },
+    {
+      "text": "repeat not understanding what I was",
+      "start": 1307.88,
+      "duration": 5.4
+    },
+    {
+      "text": "saying and it was very fascinating to me",
+      "start": 1309.98,
+      "duration": 5.699
+    },
+    {
+      "text": "because I thought if this is happening",
+      "start": 1313.28,
+      "duration": 6.24
+    },
+    {
+      "text": "to me then it it's happening much",
+      "start": 1315.679,
+      "duration": 6.661
+    },
+    {
+      "text": "much more to my students who are maybe",
+      "start": 1319.52,
+      "duration": 5.22
+    },
+    {
+      "text": "beginner intermediate",
+      "start": 1322.34,
+      "duration": 4.68
+    },
+    {
+      "text": "um speakers of English and I wanted to",
+      "start": 1324.74,
+      "duration": 5.34
+    },
+    {
+      "text": "know more so in 2011 I started Gathering",
+      "start": 1327.02,
+      "duration": 6.18
+    },
+    {
+      "text": "data about this I started asking people",
+      "start": 1330.08,
+      "duration": 6.36
+    },
+    {
+      "text": "other non-native speakers surveying them",
+      "start": 1333.2,
+      "duration": 6.599
+    },
+    {
+      "text": "um and interviewing them for up for",
+      "start": 1336.44,
+      "duration": 6.239
+    },
+    {
+      "text": "about this this specific topic and it",
+      "start": 1339.799,
+      "duration": 5.641
+    },
+    {
+      "text": "was very interesting because 80 percent",
+      "start": 1342.679,
+      "duration": 5.281
+    },
+    {
+      "text": "of the participants non-native speakers",
+      "start": 1345.44,
+      "duration": 4.56
+    },
+    {
+      "text": "of English they said that they got",
+      "start": 1347.96,
+      "duration": 4.14
+    },
+    {
+      "text": "disappointed by the feedback that they",
+      "start": 1350.0,
+      "duration": 3.36
+    },
+    {
+      "text": "received but they're verbal or",
+      "start": 1352.1,
+      "duration": 3.72
+    },
+    {
+      "text": "non-verbal from native speakers of",
+      "start": 1353.36,
+      "duration": 4.5
+    },
+    {
+      "text": "English and because of that they were",
+      "start": 1355.82,
+      "duration": 4.8
+    },
+    {
+      "text": "not willing to start a conversation due",
+      "start": 1357.86,
+      "duration": 4.559
+    },
+    {
+      "text": "to that and one fun fact about this",
+      "start": 1360.62,
+      "duration": 4.14
+    },
+    {
+      "text": "study so I started Gathering data in",
+      "start": 1362.419,
+      "duration": 6.661
+    },
+    {
+      "text": "2011 I sent this paper to publication",
+      "start": 1364.76,
+      "duration": 7.98
+    },
+    {
+      "text": "um a little bit later and it happened to",
+      "start": 1369.08,
+      "duration": 7.4
+    },
+    {
+      "text": "be coincidentally my first professional",
+      "start": 1372.74,
+      "duration": 6.179
+    },
+    {
+      "text": "Crossing path with Dr crash and he",
+      "start": 1376.48,
+      "duration": 4.9
+    },
+    {
+      "text": "happened to be the reviewer one of the",
+      "start": 1378.919,
+      "duration": 5.821
+    },
+    {
+      "text": "reviewers of that paper and if I had",
+      "start": 1381.38,
+      "duration": 5.4
+    },
+    {
+      "text": "known that I would have probably never",
+      "start": 1384.74,
+      "duration": 4.559
+    },
+    {
+      "text": "sent that paper to that journal because",
+      "start": 1386.78,
+      "duration": 5.34
+    },
+    {
+      "text": "I would have been petrified but",
+      "start": 1389.299,
+      "duration": 6.601
+    },
+    {
+      "text": "um very interesting that he he found",
+      "start": 1392.12,
+      "duration": 5.939
+    },
+    {
+      "text": "that paper interesting the concepts of",
+      "start": 1395.9,
+      "duration": 3.899
+    },
+    {
+      "text": "it and it was something that resonated",
+      "start": 1398.059,
+      "duration": 4.261
+    },
+    {
+      "text": "with a lot of other people as well that",
+      "start": 1399.799,
+      "duration": 4.801
+    },
+    {
+      "text": "this fear and disappointment and lack of",
+      "start": 1402.32,
+      "duration": 5.46
+    },
+    {
+      "text": "enthusiasm that led to a lot of",
+      "start": 1404.6,
+      "duration": 5.76
+    },
+    {
+      "text": "non-native speakers kind of minimizing",
+      "start": 1407.78,
+      "duration": 4.56
+    },
+    {
+      "text": "the interactions that they had with",
+      "start": 1410.36,
+      "duration": 5.22
+    },
+    {
+      "text": "native speakers and also 70 of them said",
+      "start": 1412.34,
+      "duration": 5.28
+    },
+    {
+      "text": "that they would prefer to have nine",
+      "start": 1415.58,
+      "duration": 5.099
+    },
+    {
+      "text": "native friends because then they would",
+      "start": 1417.62,
+      "duration": 5.88
+    },
+    {
+      "text": "not be as stressed in that anxiety state",
+      "start": 1420.679,
+      "duration": 6.12
+    },
+    {
+      "text": "as much and as we know when it comes to",
+      "start": 1423.5,
+      "duration": 5.4
+    },
+    {
+      "text": "language acquisition if we are getting",
+      "start": 1426.799,
+      "duration": 3.141
+    },
+    {
+      "text": "less",
+      "start": 1428.9,
+      "duration": 3.779
+    },
+    {
+      "text": "interaction that means less input less",
+      "start": 1429.94,
+      "duration": 4.9
+    },
+    {
+      "text": "comprehensible compelling input for us",
+      "start": 1432.679,
+      "duration": 4.921
+    },
+    {
+      "text": "and that not having as much interaction",
+      "start": 1434.84,
+      "duration": 5.6
+    },
+    {
+      "text": "not having as much input means less L2",
+      "start": 1437.6,
+      "duration": 5.16
+    },
+    {
+      "text": "acquisition we're not acquiring the",
+      "start": 1440.44,
+      "duration": 3.88
+    },
+    {
+      "text": "language as much because we're not",
+      "start": 1442.76,
+      "duration": 4.68
+    },
+    {
+      "text": "getting as much input also this kind of",
+      "start": 1444.32,
+      "duration": 5.7
+    },
+    {
+      "text": "research is not new at all there has",
+      "start": 1447.44,
+      "duration": 5.16
+    },
+    {
+      "text": "been research being done about this for",
+      "start": 1450.02,
+      "duration": 6.659
+    },
+    {
+      "text": "decades for example in 1992 Reuben they",
+      "start": 1452.6,
+      "duration": 6.18
+    },
+    {
+      "text": "did a study which was very fascinating",
+      "start": 1456.679,
+      "duration": 5.821
+    },
+    {
+      "text": "they had recordings of the exact",
+      "start": 1458.78,
+      "duration": 6.2
+    },
+    {
+      "text": "recording so it's one recording of an",
+      "start": 1462.5,
+      "duration": 6.36
+    },
+    {
+      "text": "unaccented English speech lecture but",
+      "start": 1464.98,
+      "duration": 6.28
+    },
+    {
+      "text": "they had different groups so to one",
+      "start": 1468.86,
+      "duration": 4.92
+    },
+    {
+      "text": "group they showed the picture of the",
+      "start": 1471.26,
+      "duration": 5.46
+    },
+    {
+      "text": "speaker as an Asian male and to the",
+      "start": 1473.78,
+      "duration": 5.04
+    },
+    {
+      "text": "other group they showed the picture of",
+      "start": 1476.72,
+      "duration": 5.52
+    },
+    {
+      "text": "the speaker as a Caucasian male so",
+      "start": 1478.82,
+      "duration": 6.599
+    },
+    {
+      "text": "um same same exact recording and what",
+      "start": 1482.24,
+      "duration": 4.62
+    },
+    {
+      "text": "was interesting that they got very",
+      "start": 1485.419,
+      "duration": 3.901
+    },
+    {
+      "text": "different results so the group that was",
+      "start": 1486.86,
+      "duration": 4.92
+    },
+    {
+      "text": "shown the pick picture of an Asian male",
+      "start": 1489.32,
+      "duration": 4.92
+    },
+    {
+      "text": "as the speaker said that there was an",
+      "start": 1491.78,
+      "duration": 5.16
+    },
+    {
+      "text": "accent in that speech in that lecture",
+      "start": 1494.24,
+      "duration": 4.2
+    },
+    {
+      "text": "and because of that they couldn't",
+      "start": 1496.94,
+      "duration": 4.08
+    },
+    {
+      "text": "understand it as much as the other one",
+      "start": 1498.44,
+      "duration": 5.28
+    },
+    {
+      "text": "so in other words the accent was not",
+      "start": 1501.02,
+      "duration": 6.539
+    },
+    {
+      "text": "there it was perceived or as we titled",
+      "start": 1503.72,
+      "duration": 6.24
+    },
+    {
+      "text": "the paper the accent might be in the",
+      "start": 1507.559,
+      "duration": 5.821
+    },
+    {
+      "text": "mind of The Listener in these cases",
+      "start": 1509.96,
+      "duration": 6.06
+    },
+    {
+      "text": "this also has been studied in other",
+      "start": 1513.38,
+      "duration": 4.919
+    },
+    {
+      "text": "languages for example Taylor and Gardner",
+      "start": 1516.02,
+      "duration": 5.519
+    },
+    {
+      "text": "they did a study about French Canadian",
+      "start": 1518.299,
+      "duration": 5.76
+    },
+    {
+      "text": "and English Canadian speakers and they",
+      "start": 1521.539,
+      "duration": 5.161
+    },
+    {
+      "text": "wanted to investigate whether how people",
+      "start": 1524.059,
+      "duration": 4.921
+    },
+    {
+      "text": "would react and rate to their",
+      "start": 1526.7,
+      "duration": 4.38
+    },
+    {
+      "text": "communication and because of the",
+      "start": 1528.98,
+      "duration": 5.28
+    },
+    {
+      "text": "stereotypes and perceptions of the",
+      "start": 1531.08,
+      "duration": 5.339
+    },
+    {
+      "text": "people who are raping them the results",
+      "start": 1534.26,
+      "duration": 4.68
+    },
+    {
+      "text": "show that they even though it was the",
+      "start": 1536.419,
+      "duration": 4.86
+    },
+    {
+      "text": "same level of performance the listeners",
+      "start": 1538.94,
+      "duration": 4.68
+    },
+    {
+      "text": "rated the French Canadian speakers",
+      "start": 1541.279,
+      "duration": 5.64
+    },
+    {
+      "text": "communication as poor relatively to that",
+      "start": 1543.62,
+      "duration": 7.14
+    },
+    {
+      "text": "of the native English speakers",
+      "start": 1546.919,
+      "duration": 5.821
+    },
+    {
+      "text": "um there has been other experiments done",
+      "start": 1550.76,
+      "duration": 4.14
+    },
+    {
+      "text": "with other languages such as Tagalog",
+      "start": 1552.74,
+      "duration": 4.919
+    },
+    {
+      "text": "Mandarin Korean and many other languages",
+      "start": 1554.9,
+      "duration": 5.159
+    },
+    {
+      "text": "all pointing to this bias and",
+      "start": 1557.659,
+      "duration": 5.041
+    },
+    {
+      "text": "discrimination based on accents both in",
+      "start": 1560.059,
+      "duration": 5.041
+    },
+    {
+      "text": "terms of personal and professional life",
+      "start": 1562.7,
+      "duration": 5.339
+    },
+    {
+      "text": "experiences we got even more interested",
+      "start": 1565.1,
+      "duration": 6.179
+    },
+    {
+      "text": "so Dr krashen and I did a study in 2020",
+      "start": 1568.039,
+      "duration": 7.201
+    },
+    {
+      "text": "where we played two audio recordings so",
+      "start": 1571.279,
+      "duration": 6.0
+    },
+    {
+      "text": "if there were the exact same lines we",
+      "start": 1575.24,
+      "duration": 4.14
+    },
+    {
+      "text": "asked two different people reading the",
+      "start": 1577.279,
+      "duration": 3.541
+    },
+    {
+      "text": "exact same lines",
+      "start": 1579.38,
+      "duration": 4.08
+    },
+    {
+      "text": "what was different was that one of the",
+      "start": 1580.82,
+      "duration": 5.76
+    },
+    {
+      "text": "speakers who was reading those texts was",
+      "start": 1583.46,
+      "duration": 6.48
+    },
+    {
+      "text": "a a native English speaker with Indian",
+      "start": 1586.58,
+      "duration": 6.18
+    },
+    {
+      "text": "ethnicity so he was born and raised with",
+      "start": 1589.94,
+      "duration": 5.04
+    },
+    {
+      "text": "English as their first language",
+      "start": 1592.76,
+      "duration": 5.46
+    },
+    {
+      "text": "um but it had an Indian accent however",
+      "start": 1594.98,
+      "duration": 6.36
+    },
+    {
+      "text": "the other speaker was a non-native",
+      "start": 1598.22,
+      "duration": 5.88
+    },
+    {
+      "text": "English speaker he was born and raised",
+      "start": 1601.34,
+      "duration": 5.939
+    },
+    {
+      "text": "in Iran and he moved to the U.S and",
+      "start": 1604.1,
+      "duration": 5.459
+    },
+    {
+      "text": "started acquiring English after what",
+      "start": 1607.279,
+      "duration": 5.361
+    },
+    {
+      "text": "would be considered the critical period",
+      "start": 1609.559,
+      "duration": 7.441
+    },
+    {
+      "text": "but he had an American accent when he",
+      "start": 1612.64,
+      "duration": 6.519
+    },
+    {
+      "text": "spoke those lines when he set those",
+      "start": 1617.0,
+      "duration": 4.919
+    },
+    {
+      "text": "lines we asked the participants of this",
+      "start": 1619.159,
+      "duration": 5.161
+    },
+    {
+      "text": "study one question who is the native",
+      "start": 1621.919,
+      "duration": 4.86
+    },
+    {
+      "text": "speaker do you think is a speaker a or a",
+      "start": 1624.32,
+      "duration": 5.4
+    },
+    {
+      "text": "speaker B and what was interesting was",
+      "start": 1626.779,
+      "duration": 5.341
+    },
+    {
+      "text": "that the majority of the participants",
+      "start": 1629.72,
+      "duration": 5.819
+    },
+    {
+      "text": "about 64 percent said that the speaker",
+      "start": 1632.12,
+      "duration": 4.5
+    },
+    {
+      "text": "with",
+      "start": 1635.539,
+      "duration": 3.781
+    },
+    {
+      "text": "who was actually the native speaker was",
+      "start": 1636.62,
+      "duration": 4.74
+    },
+    {
+      "text": "not the native speaker and the other",
+      "start": 1639.32,
+      "duration": 4.62
+    },
+    {
+      "text": "speaker speaker B who was a non-native",
+      "start": 1641.36,
+      "duration": 4.199
+    },
+    {
+      "text": "English speaker but had an American",
+      "start": 1643.94,
+      "duration": 5.119
+    },
+    {
+      "text": "accent was the native English speaker",
+      "start": 1645.559,
+      "duration": 6.061
+    },
+    {
+      "text": "between the two",
+      "start": 1649.059,
+      "duration": 4.781
+    },
+    {
+      "text": "um and it's it's interesting because the",
+      "start": 1651.62,
+      "duration": 4.62
+    },
+    {
+      "text": "American accent helped that speaker",
+      "start": 1653.84,
+      "duration": 6.36
+    },
+    {
+      "text": "speaker be to become to be perceived as",
+      "start": 1656.24,
+      "duration": 6.9
+    },
+    {
+      "text": "the club member in the native English",
+      "start": 1660.2,
+      "duration": 6.78
+    },
+    {
+      "text": "speaker uh group so he was more accepted",
+      "start": 1663.14,
+      "duration": 6.06
+    },
+    {
+      "text": "as part of the club",
+      "start": 1666.98,
+      "duration": 4.98
+    },
+    {
+      "text": "all of these data further reminds us",
+      "start": 1669.2,
+      "duration": 5.64
+    },
+    {
+      "text": "that the power of perception in when it",
+      "start": 1671.96,
+      "duration": 4.199
+    },
+    {
+      "text": "comes to language use and language",
+      "start": 1674.84,
+      "duration": 5.1
+    },
+    {
+      "text": "production is very very strong and also",
+      "start": 1676.159,
+      "duration": 6.181
+    },
+    {
+      "text": "they point us to the cases that we've",
+      "start": 1679.94,
+      "duration": 3.719
+    },
+    {
+      "text": "talked about before and also the",
+      "start": 1682.34,
+      "duration": 3.6
+    },
+    {
+      "text": "hypothesis that Dr crashing is going to",
+      "start": 1683.659,
+      "duration": 5.0
+    },
+    {
+      "text": "talk more about",
+      "start": 1685.94,
+      "duration": 2.719
+    },
+    {
+      "text": "thank you and the hypothesis is that",
+      "start": 1689.12,
+      "duration": 5.299
+    },
+    {
+      "text": "accent is a marker of Club membership",
+      "start": 1692.0,
+      "duration": 4.919
+    },
+    {
+      "text": "we perceive someone's a member of a club",
+      "start": 1694.419,
+      "duration": 5.081
+    },
+    {
+      "text": "we think we hear the exit but it also",
+      "start": 1696.919,
+      "duration": 4.38
+    },
+    {
+      "text": "influences production",
+      "start": 1699.5,
+      "duration": 4.559
+    },
+    {
+      "text": "I want to uh tell you a story the",
+      "start": 1701.299,
+      "duration": 6.181
+    },
+    {
+      "text": "conversation I had over 50 years ago in",
+      "start": 1704.059,
+      "duration": 5.521
+    },
+    {
+      "text": "Ethiopia and annasa Baba in the menelik",
+      "start": 1707.48,
+      "duration": 5.299
+    },
+    {
+      "text": "school near arakilo some of you may know",
+      "start": 1709.58,
+      "duration": 6.18
+    },
+    {
+      "text": "uh I was teaching there",
+      "start": 1712.779,
+      "duration": 5.5
+    },
+    {
+      "text": "and we had a visitor from UK her name",
+      "start": 1715.76,
+      "duration": 4.86
+    },
+    {
+      "text": "was Gerald mossbach I haven't been in",
+      "start": 1718.279,
+      "duration": 3.78
+    },
+    {
+      "text": "touch with him since but I'm told he",
+      "start": 1720.62,
+      "duration": 3.059
+    },
+    {
+      "text": "went out and published some books on how",
+      "start": 1722.059,
+      "duration": 4.321
+    },
+    {
+      "text": "to be a good reader Etc and we just",
+      "start": 1723.679,
+      "duration": 4.561
+    },
+    {
+      "text": "chatted about our experiences with",
+      "start": 1726.38,
+      "duration": 4.2
+    },
+    {
+      "text": "foreign language classes he said that",
+      "start": 1728.24,
+      "duration": 4.26
+    },
+    {
+      "text": "when he was a student he took French and",
+      "start": 1730.58,
+      "duration": 5.099
+    },
+    {
+      "text": "he hated it he hated the language he",
+      "start": 1732.5,
+      "duration": 5.76
+    },
+    {
+      "text": "hated the instruction basically he hated",
+      "start": 1735.679,
+      "duration": 5.461
+    },
+    {
+      "text": "the final examination where you had to",
+      "start": 1738.26,
+      "duration": 4.86
+    },
+    {
+      "text": "speak French in front of a panel of",
+      "start": 1741.14,
+      "duration": 4.38
+    },
+    {
+      "text": "native speakers and for an adolescent",
+      "start": 1743.12,
+      "duration": 5.88
+    },
+    {
+      "text": "kid that is quite quite traumatic so he",
+      "start": 1745.52,
+      "duration": 5.46
+    },
+    {
+      "text": "said this is what I did to get even and",
+      "start": 1749.0,
+      "duration": 4.919
+    },
+    {
+      "text": "get revenge and to share my contempt for",
+      "start": 1750.98,
+      "duration": 5.28
+    },
+    {
+      "text": "all they were doing for the language I",
+      "start": 1753.919,
+      "duration": 5.88
+    },
+    {
+      "text": "dressed French I had a beret okay what",
+      "start": 1756.26,
+      "duration": 5.7
+    },
+    {
+      "text": "he thought was French I had a glass with",
+      "start": 1759.799,
+      "duration": 4.561
+    },
+    {
+      "text": "a dark liquid which he says I pretended",
+      "start": 1761.96,
+      "duration": 5.52
+    },
+    {
+      "text": "it was wine and I exaggerated a French",
+      "start": 1764.36,
+      "duration": 6.0
+    },
+    {
+      "text": "accent I thought I was insulting The",
+      "start": 1767.48,
+      "duration": 6.679
+    },
+    {
+      "text": "Listener I started out by saying",
+      "start": 1770.36,
+      "duration": 3.799
+    },
+    {
+      "text": "how did they react one of them said why",
+      "start": 1777.279,
+      "duration": 5.681
+    },
+    {
+      "text": "didn't you talk like that in my class",
+      "start": 1780.5,
+      "duration": 6.659
+    },
+    {
+      "text": "that was fantastic in other words",
+      "start": 1782.96,
+      "duration": 7.26
+    },
+    {
+      "text": "he had acquired the French accent",
+      "start": 1787.159,
+      "duration": 6.061
+    },
+    {
+      "text": "he felt uncomfortable using it because",
+      "start": 1790.22,
+      "duration": 7.5
+    },
+    {
+      "text": "he wasn't a member of that club you have",
+      "start": 1793.22,
+      "duration": 8.04
+    },
+    {
+      "text": "so an accent uh the limits on second",
+      "start": 1797.72,
+      "duration": 5.64
+    },
+    {
+      "text": "language acquisition is not a failure to",
+      "start": 1801.26,
+      "duration": 5.46
+    },
+    {
+      "text": "acquire it may be a reluctance to",
+      "start": 1803.36,
+      "duration": 5.1
+    },
+    {
+      "text": "perform",
+      "start": 1806.72,
+      "duration": 4.86
+    },
+    {
+      "text": "we've seen this in other cases uh in my",
+      "start": 1808.46,
+      "duration": 5.099
+    },
+    {
+      "text": "case this can affect our performance too",
+      "start": 1811.58,
+      "duration": 4.62
+    },
+    {
+      "text": "how we help people react to it",
+      "start": 1813.559,
+      "duration": 5.581
+    },
+    {
+      "text": "um I taught it for uh several months at",
+      "start": 1816.2,
+      "duration": 6.0
+    },
+    {
+      "text": "the University of Ottawa in the 1980s",
+      "start": 1819.14,
+      "duration": 5.399
+    },
+    {
+      "text": "and while I was there when me and my",
+      "start": 1822.2,
+      "duration": 3.78
+    },
+    {
+      "text": "family we had a very good time we made",
+      "start": 1824.539,
+      "duration": 3.841
+    },
+    {
+      "text": "lots of friends my French improved we",
+      "start": 1825.98,
+      "duration": 4.319
+    },
+    {
+      "text": "had social relations",
+      "start": 1828.38,
+      "duration": 5.76
+    },
+    {
+      "text": "Etc uh two years later I went back I",
+      "start": 1830.299,
+      "duration": 5.401
+    },
+    {
+      "text": "happened to be at a conference and met",
+      "start": 1834.14,
+      "duration": 3.6
+    },
+    {
+      "text": "with the people I worked with and we had",
+      "start": 1835.7,
+      "duration": 3.9
+    },
+    {
+      "text": "two meetings one with a group of English",
+      "start": 1837.74,
+      "duration": 3.78
+    },
+    {
+      "text": "speakers one with a group of French",
+      "start": 1839.6,
+      "duration": 3.72
+    },
+    {
+      "text": "speakers to talk about articles we were",
+      "start": 1841.52,
+      "duration": 3.72
+    },
+    {
+      "text": "writing about how to teach subject",
+      "start": 1843.32,
+      "duration": 3.78
+    },
+    {
+      "text": "matter in a second language",
+      "start": 1845.24,
+      "duration": 5.7
+    },
+    {
+      "text": "I was uh organizing the group talking to",
+      "start": 1847.1,
+      "duration": 5.819
+    },
+    {
+      "text": "my friends everyone in that group was a",
+      "start": 1850.94,
+      "duration": 3.479
+    },
+    {
+      "text": "good friend of mine my former French",
+      "start": 1852.919,
+      "duration": 4.801
+    },
+    {
+      "text": "teacher people I knew socially I managed",
+      "start": 1854.419,
+      "duration": 5.701
+    },
+    {
+      "text": "the meeting in French on the board very",
+      "start": 1857.72,
+      "duration": 4.14
+    },
+    {
+      "text": "comfortable because I was with people",
+      "start": 1860.12,
+      "duration": 5.1
+    },
+    {
+      "text": "who I associated with the door opened",
+      "start": 1861.86,
+      "duration": 5.699
+    },
+    {
+      "text": "and a stranger walked in",
+      "start": 1865.22,
+      "duration": 4.14
+    },
+    {
+      "text": "we were in a classroom in the French",
+      "start": 1867.559,
+      "duration": 4.801
+    },
+    {
+      "text": "department and I thought oh no this guy",
+      "start": 1869.36,
+      "duration": 5.539
+    },
+    {
+      "text": "is hearing my terrible French",
+      "start": 1872.36,
+      "duration": 5.34
+    },
+    {
+      "text": "involuntarily that's the word my French",
+      "start": 1874.899,
+      "duration": 5.981
+    },
+    {
+      "text": "disintegrated on the spot I became",
+      "start": 1877.7,
+      "duration": 5.76
+    },
+    {
+      "text": "hesitant started making mistakes second",
+      "start": 1880.88,
+      "duration": 4.38
+    },
+    {
+      "text": "guessing Etc",
+      "start": 1883.46,
+      "duration": 3.959
+    },
+    {
+      "text": "it's how you feel with the people you're",
+      "start": 1885.26,
+      "duration": 4.74
+    },
+    {
+      "text": "with that influences it the other point",
+      "start": 1887.419,
+      "duration": 4.801
+    },
+    {
+      "text": "of view the other experience in contrast",
+      "start": 1890.0,
+      "duration": 4.02
+    },
+    {
+      "text": "I went back to Paris a few years later",
+      "start": 1892.22,
+      "duration": 3.66
+    },
+    {
+      "text": "and brought my daughter our daughter",
+      "start": 1894.02,
+      "duration": 2.82
+    },
+    {
+      "text": "with us",
+      "start": 1895.88,
+      "duration": 3.179
+    },
+    {
+      "text": "and at the time Debbie was a student in",
+      "start": 1896.84,
+      "duration": 3.42
+    },
+    {
+      "text": "a French school the French was pretty",
+      "start": 1899.059,
+      "duration": 3.661
+    },
+    {
+      "text": "good and I made an appointment to meet",
+      "start": 1900.26,
+      "duration": 4.86
+    },
+    {
+      "text": "with the professor at the store but to",
+      "start": 1902.72,
+      "duration": 4.439
+    },
+    {
+      "text": "talk about her research and sociology of",
+      "start": 1905.12,
+      "duration": 4.02
+    },
+    {
+      "text": "language and like he was supposed to do",
+      "start": 1907.159,
+      "duration": 3.961
+    },
+    {
+      "text": "in Paris we met at a coffee shop of",
+      "start": 1909.14,
+      "duration": 4.62
+    },
+    {
+      "text": "course and Debbie came with us she was",
+      "start": 1911.12,
+      "duration": 4.02
+    },
+    {
+      "text": "playing video games while we were",
+      "start": 1913.76,
+      "duration": 2.7
+    },
+    {
+      "text": "chatting and occasionally she'd come",
+      "start": 1915.14,
+      "duration": 3.539
+    },
+    {
+      "text": "over and listen our conversation was in",
+      "start": 1916.46,
+      "duration": 4.8
+    },
+    {
+      "text": "French and it was so interesting I",
+      "start": 1918.679,
+      "duration": 4.98
+    },
+    {
+      "text": "forgot about language we just talked it",
+      "start": 1921.26,
+      "duration": 4.38
+    },
+    {
+      "text": "was wonderful I was interested in her",
+      "start": 1923.659,
+      "duration": 3.841
+    },
+    {
+      "text": "work she liked to hear me talk about",
+      "start": 1925.64,
+      "duration": 3.419
+    },
+    {
+      "text": "acquisition and learning which I always",
+      "start": 1927.5,
+      "duration": 3.0
+    },
+    {
+      "text": "like to talk about",
+      "start": 1929.059,
+      "duration": 4.62
+    },
+    {
+      "text": "when we were leaving deputy said to me",
+      "start": 1930.5,
+      "duration": 5.58
+    },
+    {
+      "text": "dad I didn't realize you spoke French so",
+      "start": 1933.679,
+      "duration": 6.12
+    },
+    {
+      "text": "well that was so good the output filter",
+      "start": 1936.08,
+      "duration": 7.5
+    },
+    {
+      "text": "was down because of the social situation",
+      "start": 1939.799,
+      "duration": 5.461
+    },
+    {
+      "text": "okay",
+      "start": 1943.58,
+      "duration": 4.44
+    },
+    {
+      "text": "so this is the hypothesis",
+      "start": 1945.26,
+      "duration": 4.919
+    },
+    {
+      "text": "there is no barrier the language",
+      "start": 1948.02,
+      "duration": 4.32
+    },
+    {
+      "text": "acquisition device Endeavor shuts off",
+      "start": 1950.179,
+      "duration": 5.1
+    },
+    {
+      "text": "it's a mental organ as Professor Chomsky",
+      "start": 1952.34,
+      "duration": 3.839
+    },
+    {
+      "text": "has said",
+      "start": 1955.279,
+      "duration": 3.661
+    },
+    {
+      "text": "you can't shut it off voluntarily it's",
+      "start": 1956.179,
+      "duration": 4.921
+    },
+    {
+      "text": "there you could have second thoughts",
+      "start": 1958.94,
+      "duration": 4.2
+    },
+    {
+      "text": "about it feel insecure about it because",
+      "start": 1961.1,
+      "duration": 6.12
+    },
+    {
+      "text": "of this output filter one more example",
+      "start": 1963.14,
+      "duration": 6.0
+    },
+    {
+      "text": "this is Peter this is uh if you're used",
+      "start": 1967.22,
+      "duration": 3.48
+    },
+    {
+      "text": "enough the great actor",
+      "start": 1969.14,
+      "duration": 3.659
+    },
+    {
+      "text": "who uh if you've seen him in French",
+      "start": 1970.7,
+      "duration": 5.16
+    },
+    {
+      "text": "movies I have his French sounds",
+      "start": 1972.799,
+      "duration": 6.0
+    },
+    {
+      "text": "absolutely perfect he's known for his",
+      "start": 1975.86,
+      "duration": 5.34
+    },
+    {
+      "text": "facility with accents and languages and",
+      "start": 1978.799,
+      "duration": 3.901
+    },
+    {
+      "text": "native speakers of friendship told me",
+      "start": 1981.2,
+      "duration": 3.06
+    },
+    {
+      "text": "the same thing he sells absolutely",
+      "start": 1982.7,
+      "duration": 2.579
+    },
+    {
+      "text": "French",
+      "start": 1984.26,
+      "duration": 2.58
+    },
+    {
+      "text": "in an interview",
+      "start": 1985.279,
+      "duration": 4.5
+    },
+    {
+      "text": "this staff said I can do that in a movie",
+      "start": 1986.84,
+      "duration": 4.92
+    },
+    {
+      "text": "but I can't do that in real life I don't",
+      "start": 1989.779,
+      "duration": 4.14
+    },
+    {
+      "text": "because I'm not French when I speak",
+      "start": 1991.76,
+      "duration": 5.279
+    },
+    {
+      "text": "French to someone from France I have an",
+      "start": 1993.919,
+      "duration": 6.661
+    },
+    {
+      "text": "English accent this is involuntary this",
+      "start": 1997.039,
+      "duration": 6.36
+    },
+    {
+      "text": "is a powerful device this output filter",
+      "start": 2000.58,
+      "duration": 5.939
+    },
+    {
+      "text": "but the moral of the story is the output",
+      "start": 2003.399,
+      "duration": 6.361
+    },
+    {
+      "text": "filter is there our capacity to acquire",
+      "start": 2006.519,
+      "duration": 6.421
+    },
+    {
+      "text": "is not diminished it's still very",
+      "start": 2009.76,
+      "duration": 5.58
+    },
+    {
+      "text": "powerful and that is today's message",
+      "start": 2012.94,
+      "duration": 5.18
+    },
+    {
+      "text": "thank you",
+      "start": 2015.34,
+      "duration": 2.78
+    },
+    {
+      "text": "thank you very much Professor thank you",
+      "start": 2018.94,
+      "duration": 6.18
+    },
+    {
+      "text": "very much for this interesting talk I",
+      "start": 2021.76,
+      "duration": 5.159
+    },
+    {
+      "text": "would like to ask another question",
+      "start": 2025.12,
+      "duration": 4.82
+    },
+    {
+      "text": "related to uh of course uh Native like",
+      "start": 2026.919,
+      "duration": 4.921
+    },
+    {
+      "text": "proficiency so we will talk about",
+      "start": 2029.94,
+      "duration": 4.8
+    },
+    {
+      "text": "negative like proficiency uh do we mean",
+      "start": 2031.84,
+      "duration": 6.66
+    },
+    {
+      "text": "uh mastering the four skills or just the",
+      "start": 2034.74,
+      "duration": 5.74
+    },
+    {
+      "text": "speaking maybe or the listening skills",
+      "start": 2038.5,
+      "duration": 4.279
+    },
+    {
+      "text": "how about writing and reading",
+      "start": 2040.48,
+      "duration": 4.679
+    },
+    {
+      "text": "well writing and reading come from",
+      "start": 2042.779,
+      "duration": 4.24
+    },
+    {
+      "text": "Reading that's what our research says",
+      "start": 2045.159,
+      "duration": 4.44
+    },
+    {
+      "text": "and I think it's true you do massive",
+      "start": 2047.019,
+      "duration": 4.801
+    },
+    {
+      "text": "amounts of interesting reading you're",
+      "start": 2049.599,
+      "duration": 4.8
+    },
+    {
+      "text": "really really good reading for pleasure",
+      "start": 2051.82,
+      "duration": 4.14
+    },
+    {
+      "text": "okay",
+      "start": 2054.399,
+      "duration": 4.141
+    },
+    {
+      "text": "uh accent is another story because that",
+      "start": 2055.96,
+      "duration": 4.8
+    },
+    {
+      "text": "Mark she was a member of a group so so",
+      "start": 2058.54,
+      "duration": 4.319
+    },
+    {
+      "text": "many of us let me tell you about you",
+      "start": 2060.76,
+      "duration": 4.82
+    },
+    {
+      "text": "young man okay let me make a prediction",
+      "start": 2062.859,
+      "duration": 6.181
+    },
+    {
+      "text": "I predict that uh your writing is native",
+      "start": 2065.58,
+      "duration": 4.299
+    },
+    {
+      "text": "like",
+      "start": 2069.04,
+      "duration": 2.28
+    },
+    {
+      "text": "of course because you've done all this",
+      "start": 2069.879,
+      "duration": 4.561
+    },
+    {
+      "text": "reading slight accent we must speak",
+      "start": 2071.32,
+      "duration": 4.26
+    },
+    {
+      "text": "English",
+      "start": 2074.44,
+      "duration": 3.38
+    },
+    {
+      "text": "but if you were in a relaxed situation",
+      "start": 2075.58,
+      "duration": 4.92
+    },
+    {
+      "text": "your English would sound just like mine",
+      "start": 2077.82,
+      "duration": 5.799
+    },
+    {
+      "text": "it would sound native but it wouldn't",
+      "start": 2080.5,
+      "duration": 5.28
+    },
+    {
+      "text": "quite feel right to do it in public",
+      "start": 2083.619,
+      "duration": 5.341
+    },
+    {
+      "text": "that's the prediction now I have to back",
+      "start": 2085.78,
+      "duration": 5.94
+    },
+    {
+      "text": "up all this by saying that this is based",
+      "start": 2088.96,
+      "duration": 3.78
+    },
+    {
+      "text": "on",
+      "start": 2091.72,
+      "duration": 5.52
+    },
+    {
+      "text": "uh my experience okay uh there is no",
+      "start": 2092.74,
+      "duration": 6.3
+    },
+    {
+      "text": "study that basically shows that it's",
+      "start": 2097.24,
+      "duration": 4.08
+    },
+    {
+      "text": "true but I have a hunch it's a very good",
+      "start": 2099.04,
+      "duration": 4.799
+    },
+    {
+      "text": "hypothesis and I hope research can be",
+      "start": 2101.32,
+      "duration": 4.08
+    },
+    {
+      "text": "done on it",
+      "start": 2103.839,
+      "duration": 4.201
+    },
+    {
+      "text": "maybe this is the case with again a",
+      "start": 2105.4,
+      "duration": 4.38
+    },
+    {
+      "text": "tourist guides because tourist guides",
+      "start": 2108.04,
+      "duration": 3.0
+    },
+    {
+      "text": "sometimes they don't they don't",
+      "start": 2109.78,
+      "duration": 2.88
+    },
+    {
+      "text": "sometimes don't know how to read they",
+      "start": 2111.04,
+      "duration": 4.14
+    },
+    {
+      "text": "not know how to write spots their uh",
+      "start": 2112.66,
+      "duration": 4.439
+    },
+    {
+      "text": "English let's say or the language of",
+      "start": 2115.18,
+      "duration": 4.32
+    },
+    {
+      "text": "maybe second or foreign language accent",
+      "start": 2117.099,
+      "duration": 5.161
+    },
+    {
+      "text": "is good maybe because of the thanks to",
+      "start": 2119.5,
+      "duration": 5.9
+    },
+    {
+      "text": "the interaction with native speakers",
+      "start": 2122.26,
+      "duration": 5.76
+    },
+    {
+      "text": "and they're with friendly people and",
+      "start": 2125.4,
+      "duration": 4.54
+    },
+    {
+      "text": "relaxed and there's an expectation that",
+      "start": 2128.02,
+      "duration": 4.92
+    },
+    {
+      "text": "they will speak well good thing let's do",
+      "start": 2129.94,
+      "duration": 6.899
+    },
+    {
+      "text": "a study on it good idea good idea thank",
+      "start": 2132.94,
+      "duration": 5.76
+    },
+    {
+      "text": "you very much so maybe uh the same",
+      "start": 2136.839,
+      "duration": 4.081
+    },
+    {
+      "text": "question to Professor Nam Chomsky I",
+      "start": 2138.7,
+      "duration": 4.919
+    },
+    {
+      "text": "would like to ask you about the language",
+      "start": 2140.92,
+      "duration": 4.939
+    },
+    {
+      "text": "acquisition device",
+      "start": 2143.619,
+      "duration": 6.421
+    },
+    {
+      "text": "and whether it affects our accent",
+      "start": 2145.859,
+      "duration": 7.861
+    },
+    {
+      "text": "language acquisition device",
+      "start": 2150.04,
+      "duration": 3.68
+    },
+    {
+      "text": "you're asking the wrong person",
+      "start": 2154.0,
+      "duration": 3.859
+    },
+    {
+      "text": "I have no idea I mean I you know from",
+      "start": 2158.52,
+      "duration": 6.52
+    },
+    {
+      "text": "experience that",
+      "start": 2162.82,
+      "duration": 6.68
+    },
+    {
+      "text": "children pick up young children pick up",
+      "start": 2165.04,
+      "duration": 8.7
+    },
+    {
+      "text": "native speech with no no difficulty they",
+      "start": 2169.5,
+      "duration": 6.48
+    },
+    {
+      "text": "generally tend to speak like their peers",
+      "start": 2173.74,
+      "duration": 5.099
+    },
+    {
+      "text": "not like their parents not like their",
+      "start": 2175.98,
+      "duration": 6.28
+    },
+    {
+      "text": "teachers and it just comes automatically",
+      "start": 2178.839,
+      "duration": 6.601
+    },
+    {
+      "text": "how it happens is very mysterious",
+      "start": 2182.26,
+      "duration": 4.92
+    },
+    {
+      "text": "take my own case",
+      "start": 2185.44,
+      "duration": 5.88
+    },
+    {
+      "text": "my parents were immigrants they spoke",
+      "start": 2187.18,
+      "duration": 7.2
+    },
+    {
+      "text": "English perfectly well but with their",
+      "start": 2191.32,
+      "duration": 5.299
+    },
+    {
+      "text": "native language was actually Yiddish",
+      "start": 2194.38,
+      "duration": 6.979
+    },
+    {
+      "text": "they spoke English",
+      "start": 2196.619,
+      "duration": 4.74
+    },
+    {
+      "text": "I didn't I don't speak the way they do",
+      "start": 2201.46,
+      "duration": 6.6
+    },
+    {
+      "text": "my accent is not theirs my accent is the",
+      "start": 2204.22,
+      "duration": 5.76
+    },
+    {
+      "text": "children in the streets",
+      "start": 2208.06,
+      "duration": 5.519
+    },
+    {
+      "text": "who I had very little contact with",
+      "start": 2209.98,
+      "duration": 6.119
+    },
+    {
+      "text": "uh went to",
+      "start": 2213.579,
+      "duration": 6.861
+    },
+    {
+      "text": "Nursery School other kids but",
+      "start": 2216.099,
+      "duration": 8.461
+    },
+    {
+      "text": "a good dialectologist could very quickly",
+      "start": 2220.44,
+      "duration": 7.2
+    },
+    {
+      "text": "tell what",
+      "start": 2224.56,
+      "duration": 9.559
+    },
+    {
+      "text": "area of North Philadelphia I grew up in",
+      "start": 2227.64,
+      "duration": 6.479
+    },
+    {
+      "text": "even though I had not much contact with",
+      "start": 2234.78,
+      "duration": 5.98
+    },
+    {
+      "text": "it it just comes automatically you can't",
+      "start": 2237.579,
+      "duration": 5.52
+    },
+    {
+      "text": "help it you're playing with the kids in",
+      "start": 2240.76,
+      "duration": 3.72
+    },
+    {
+      "text": "the street you",
+      "start": 2243.099,
+      "duration": 6.841
+    },
+    {
+      "text": "pick up their language uh and uh",
+      "start": 2244.48,
+      "duration": 7.639
+    },
+    {
+      "text": "I'll just give you one other",
+      "start": 2249.94,
+      "duration": 4.679
+    },
+    {
+      "text": "anecdote since I have no scientific",
+      "start": 2252.119,
+      "duration": 6.581
+    },
+    {
+      "text": "knowledge of this uh about 40 years ago",
+      "start": 2254.619,
+      "duration": 8.22
+    },
+    {
+      "text": "my fam I went to Italy to teach for a",
+      "start": 2258.7,
+      "duration": 8.639
+    },
+    {
+      "text": "couple of months Pisa my wife and I were",
+      "start": 2262.839,
+      "duration": 7.02
+    },
+    {
+      "text": "she was also a linguist",
+      "start": 2267.339,
+      "duration": 5.821
+    },
+    {
+      "text": "um late wife she we both wanted to learn",
+      "start": 2269.859,
+      "duration": 6.181
+    },
+    {
+      "text": "Italian so we were studying Italian",
+      "start": 2273.16,
+      "duration": 6.06
+    },
+    {
+      "text": "we had a 20 year old daughter with us",
+      "start": 2276.04,
+      "duration": 7.68
+    },
+    {
+      "text": "she was studying Italian uh we had a 10",
+      "start": 2279.22,
+      "duration": 7.26
+    },
+    {
+      "text": "year old son he didn't want to go to",
+      "start": 2283.72,
+      "duration": 5.639
+    },
+    {
+      "text": "Italy in the worst way he didn't want to",
+      "start": 2286.48,
+      "duration": 6.08
+    },
+    {
+      "text": "leave his friends his family his school",
+      "start": 2289.359,
+      "duration": 6.301
+    },
+    {
+      "text": "he said he swore to us he was not going",
+      "start": 2292.56,
+      "duration": 5.62
+    },
+    {
+      "text": "to learn Italian he didn't want to learn",
+      "start": 2295.66,
+      "duration": 6.959
+    },
+    {
+      "text": "it uh we put them in an Italian School",
+      "start": 2298.18,
+      "duration": 7.439
+    },
+    {
+      "text": "after about a month if the telephone",
+      "start": 2302.619,
+      "duration": 7.74
+    },
+    {
+      "text": "rang he had to answer it because you",
+      "start": 2305.619,
+      "duration": 7.681
+    },
+    {
+      "text": "know speaking fluent Italian we were",
+      "start": 2310.359,
+      "duration": 5.661
+    },
+    {
+      "text": "studying and we couldn't learn it he was",
+      "start": 2313.3,
+      "duration": 5.52
+    },
+    {
+      "text": "opposed to learning it totally but he",
+      "start": 2316.02,
+      "duration": 5.079
+    },
+    {
+      "text": "just couldn't help it in fact we'd go to",
+      "start": 2318.82,
+      "duration": 4.68
+    },
+    {
+      "text": "a restaurant and the waiter would look",
+      "start": 2321.099,
+      "duration": 4.321
+    },
+    {
+      "text": "at us and say how come you have an",
+      "start": 2323.5,
+      "duration": 5.18
+    },
+    {
+      "text": "Italian child you know because he said",
+      "start": 2325.42,
+      "duration": 6.6
+    },
+    {
+      "text": "she was so perfect you just can't help",
+      "start": 2328.68,
+      "duration": 6.7
+    },
+    {
+      "text": "it if you're it's a that special person",
+      "start": 2332.02,
+      "duration": 6.42
+    },
+    {
+      "text": "said it's it's just it's like opening",
+      "start": 2335.38,
+      "duration": 5.4
+    },
+    {
+      "text": "your eyes and seeing you can't help",
+      "start": 2338.44,
+      "duration": 5.76
+    },
+    {
+      "text": "doing it uh there are I'm sure ways of",
+      "start": 2340.78,
+      "duration": 5.88
+    },
+    {
+      "text": "training accidents but I don't know much",
+      "start": 2344.2,
+      "duration": 5.94
+    },
+    {
+      "text": "about it now now not many no you're",
+      "start": 2346.66,
+      "duration": 4.52
+    },
+    {
+      "text": "right",
+      "start": 2350.14,
+      "duration": 4.26
+    },
+    {
+      "text": "may I add one more sentence to all this",
+      "start": 2351.18,
+      "duration": 6.64
+    },
+    {
+      "text": "sure from all of us to Professor Chomsky",
+      "start": 2354.4,
+      "duration": 5.58
+    },
+    {
+      "text": "and I'll say this three times thank you",
+      "start": 2357.82,
+      "duration": 5.94
+    },
+    {
+      "text": "thank you thank you thank you",
+      "start": 2359.98,
+      "duration": 6.66
+    },
+    {
+      "text": "what a wonderful wonderful contributions",
+      "start": 2363.76,
+      "duration": 5.819
+    },
+    {
+      "text": "you've made changed my life very good to",
+      "start": 2366.64,
+      "duration": 5.16
+    },
+    {
+      "text": "be with you I have to go off to the next",
+      "start": 2369.579,
+      "duration": 5.641
+    },
+    {
+      "text": "one I know I know thank you so much",
+      "start": 2371.8,
+      "duration": 5.76
+    },
+    {
+      "text": "Professor for being with us taking the",
+      "start": 2375.22,
+      "duration": 5.58
+    },
+    {
+      "text": "time to be here with us uh thank you",
+      "start": 2377.56,
+      "duration": 6.539
+    },
+    {
+      "text": "thank you thanks a million for",
+      "start": 2380.8,
+      "duration": 5.039
+    },
+    {
+      "text": "everything if you have change as",
+      "start": 2384.099,
+      "duration": 4.441
+    },
+    {
+      "text": "Professor civil questions that our lives",
+      "start": 2385.839,
+      "duration": 6.74
+    },
+    {
+      "text": "and are working on your on your Works",
+      "start": 2388.54,
+      "duration": 8.52
+    },
+    {
+      "text": "books uh actually uh I think we we will",
+      "start": 2392.579,
+      "duration": 6.881
+    },
+    {
+      "text": "spend years reading books and will not",
+      "start": 2397.06,
+      "duration": 5.279
+    },
+    {
+      "text": "be it will not be enough for us thank",
+      "start": 2399.46,
+      "duration": 5.879
+    },
+    {
+      "text": "you for your contributions to humanity",
+      "start": 2402.339,
+      "duration": 5.701
+    },
+    {
+      "text": "thanks a lot yeah I really appreciate",
+      "start": 2405.339,
+      "duration": 5.0
+    },
+    {
+      "text": "that bye Wilson",
+      "start": 2408.04,
+      "duration": 4.559
+    },
+    {
+      "text": "thank you so much",
+      "start": 2410.339,
+      "duration": 4.981
+    },
+    {
+      "text": "thank you",
+      "start": 2412.599,
+      "duration": 2.721
+    },
+    {
+      "text": "yes Professor seventh question",
+      "start": 2415.72,
+      "duration": 4.22
+    },
+    {
+      "text": "happy again to meet you and uh so we are",
+      "start": 2420.119,
+      "duration": 7.24
+    },
+    {
+      "text": "running about like 40 minutes",
+      "start": 2425.2,
+      "duration": 4.44
+    },
+    {
+      "text": "discussion talked about artificial",
+      "start": 2427.359,
+      "duration": 3.961
+    },
+    {
+      "text": "intelligence computational linguistic",
+      "start": 2429.64,
+      "duration": 4.38
+    },
+    {
+      "text": "language acquisition and actions and",
+      "start": 2431.32,
+      "duration": 5.82
+    },
+    {
+      "text": "maybe if you have if you if you can",
+      "start": 2434.02,
+      "duration": 5.88
+    },
+    {
+      "text": "dwell would mean this webinar can",
+      "start": 2437.14,
+      "duration": 5.34
+    },
+    {
+      "text": "continue like you're talking about or it",
+      "start": 2439.9,
+      "duration": 5.04
+    },
+    {
+      "text": "may be receiving some questions from the",
+      "start": 2442.48,
+      "duration": 6.24
+    },
+    {
+      "text": "audience okay if you can answer some of",
+      "start": 2444.94,
+      "duration": 4.8
+    },
+    {
+      "text": "the questions",
+      "start": 2448.72,
+      "duration": 4.56
+    },
+    {
+      "text": "all right thank you so much and uh",
+      "start": 2449.74,
+      "duration": 5.879
+    },
+    {
+      "text": "maybe uh talking about the language",
+      "start": 2453.28,
+      "duration": 5.04
+    },
+    {
+      "text": "acquisition language learning native",
+      "start": 2455.619,
+      "duration": 5.581
+    },
+    {
+      "text": "like proficiency and you know the impact",
+      "start": 2458.32,
+      "duration": 4.68
+    },
+    {
+      "text": "nowadays of technology these",
+      "start": 2461.2,
+      "duration": 3.899
+    },
+    {
+      "text": "technological devices or technological",
+      "start": 2463.0,
+      "duration": 4.8
+    },
+    {
+      "text": "applications or artificial intelligence",
+      "start": 2465.099,
+      "duration": 7.141
+    },
+    {
+      "text": "in general we have uh some technological",
+      "start": 2467.8,
+      "duration": 6.6
+    },
+    {
+      "text": "applications which help let's say",
+      "start": 2472.24,
+      "duration": 6.54
+    },
+    {
+      "text": "students we can say to cheats or to",
+      "start": 2474.4,
+      "duration": 7.86
+    },
+    {
+      "text": "become lazy like paraphrasing like",
+      "start": 2478.78,
+      "duration": 6.68
+    },
+    {
+      "text": "generating texts like",
+      "start": 2482.26,
+      "duration": 6.0
+    },
+    {
+      "text": "maybe correcting mistakes",
+      "start": 2485.46,
+      "duration": 6.06
+    },
+    {
+      "text": "Etc so don't you think that this okay",
+      "start": 2488.26,
+      "duration": 6.18
+    },
+    {
+      "text": "application will affect in a negative",
+      "start": 2491.52,
+      "duration": 5.68
+    },
+    {
+      "text": "way okay the learner or the acquisition",
+      "start": 2494.44,
+      "duration": 5.94
+    },
+    {
+      "text": "process of every learner especially of",
+      "start": 2497.2,
+      "duration": 5.659
+    },
+    {
+      "text": "the second or foreign language",
+      "start": 2500.38,
+      "duration": 6.12
+    },
+    {
+      "text": "may I make one comment about that",
+      "start": 2502.859,
+      "duration": 5.381
+    },
+    {
+      "text": "okay",
+      "start": 2506.5,
+      "duration": 3.54
+    },
+    {
+      "text": "um the idea of using Bots for example",
+      "start": 2508.24,
+      "duration": 3.78
+    },
+    {
+      "text": "will it help writing I think there's a",
+      "start": 2510.04,
+      "duration": 3.42
+    },
+    {
+      "text": "serious problem there I think they're",
+      "start": 2512.02,
+      "duration": 2.88
+    },
+    {
+      "text": "fascinating I think they're interesting",
+      "start": 2513.46,
+      "duration": 3.36
+    },
+    {
+      "text": "they imitate writing very very well it's",
+      "start": 2514.9,
+      "duration": 3.959
+    },
+    {
+      "text": "incredible",
+      "start": 2516.82,
+      "duration": 3.84
+    },
+    {
+      "text": "but in terms of writing and writing",
+      "start": 2518.859,
+      "duration": 4.681
+    },
+    {
+      "text": "instruction the point of writing",
+      "start": 2520.66,
+      "duration": 5.939
+    },
+    {
+      "text": "is that writing makes you rethink revise",
+      "start": 2523.54,
+      "duration": 6.0
+    },
+    {
+      "text": "writing makes you smarter you have what",
+      "start": 2526.599,
+      "duration": 4.861
+    },
+    {
+      "text": "are called writer's blocks I have",
+      "start": 2529.54,
+      "duration": 3.6
+    },
+    {
+      "text": "writer's blocks every three or four",
+      "start": 2531.46,
+      "duration": 4.2
+    },
+    {
+      "text": "minutes constantly all day long",
+      "start": 2533.14,
+      "duration": 5.699
+    },
+    {
+      "text": "uh in fact let me quote uh my son and",
+      "start": 2535.66,
+      "duration": 5.699
+    },
+    {
+      "text": "daughter-in-law who",
+      "start": 2538.839,
+      "duration": 4.321
+    },
+    {
+      "text": "graduate school mathematics and they",
+      "start": 2541.359,
+      "duration": 3.961
+    },
+    {
+      "text": "quoted one of their professors students",
+      "start": 2543.16,
+      "duration": 3.36
+    },
+    {
+      "text": "when asked him",
+      "start": 2545.32,
+      "duration": 3.48
+    },
+    {
+      "text": "uh what's your work day like he says",
+      "start": 2546.52,
+      "duration": 4.02
+    },
+    {
+      "text": "well about 10 of the time I'm making",
+      "start": 2548.8,
+      "duration": 5.46
+    },
+    {
+      "text": "progress 40 I'm making mistakes and the",
+      "start": 2550.54,
+      "duration": 5.4
+    },
+    {
+      "text": "rest of the time ninety percent I'm",
+      "start": 2554.26,
+      "duration": 3.18
+    },
+    {
+      "text": "wondering how I could be so stupid",
+      "start": 2555.94,
+      "duration": 4.26
+    },
+    {
+      "text": "nearly all the time this is what writing",
+      "start": 2557.44,
+      "duration": 6.24
+    },
+    {
+      "text": "is it's constant writer's blocks for all",
+      "start": 2560.2,
+      "duration": 6.84
+    },
+    {
+      "text": "of us all the time you take a break",
+      "start": 2563.68,
+      "duration": 7.74
+    },
+    {
+      "text": "you incubate the solution comes point I",
+      "start": 2567.04,
+      "duration": 6.78
+    },
+    {
+      "text": "said that um mathematician that when he",
+      "start": 2571.42,
+      "duration": 4.26
+    },
+    {
+      "text": "had a problem in math he got up from the",
+      "start": 2573.82,
+      "duration": 5.22
+    },
+    {
+      "text": "table did something ordinary mindless uh",
+      "start": 2575.68,
+      "duration": 5.28
+    },
+    {
+      "text": "put some wood on the fires 100 years ago",
+      "start": 2579.04,
+      "duration": 4.68
+    },
+    {
+      "text": "came back the Log Jam started to break",
+      "start": 2580.96,
+      "duration": 6.119
+    },
+    {
+      "text": "up this is me all day long it's most of",
+      "start": 2583.72,
+      "duration": 6.72
+    },
+    {
+      "text": "us uh the writing Bots the electronic",
+      "start": 2587.079,
+      "duration": 5.28
+    },
+    {
+      "text": "ways of producing text that looks real",
+      "start": 2590.44,
+      "duration": 3.899
+    },
+    {
+      "text": "aren't helping us",
+      "start": 2592.359,
+      "duration": 4.141
+    },
+    {
+      "text": "the value of writing is not just to the",
+      "start": 2594.339,
+      "duration": 5.461
+    },
+    {
+      "text": "reader the values to the writing and the",
+      "start": 2596.5,
+      "duration": 6.78
+    },
+    {
+      "text": "secret is revision revision learn to",
+      "start": 2599.8,
+      "duration": 6.42
+    },
+    {
+      "text": "love it and welcome writer's blocks the",
+      "start": 2603.28,
+      "duration": 6.98
+    },
+    {
+      "text": "new technology is not going to help that",
+      "start": 2606.22,
+      "duration": 4.04
+    },
+    {
+      "text": "can I add when comment",
+      "start": 2610.72,
+      "duration": 4.879
+    },
+    {
+      "text": "sure",
+      "start": 2613.119,
+      "duration": 2.48
+    },
+    {
+      "text": "um I I believe that when it comes to",
+      "start": 2616.359,
+      "duration": 4.081
+    },
+    {
+      "text": "technology just like a lot of other",
+      "start": 2618.4,
+      "duration": 4.38
+    },
+    {
+      "text": "things in life there can be positive and",
+      "start": 2620.44,
+      "duration": 5.58
+    },
+    {
+      "text": "negative aspects to them I do think that",
+      "start": 2622.78,
+      "duration": 6.72
+    },
+    {
+      "text": "the over Reliance on them is an issue it",
+      "start": 2626.02,
+      "duration": 6.24
+    },
+    {
+      "text": "has has become an issue however I do",
+      "start": 2629.5,
+      "duration": 5.7
+    },
+    {
+      "text": "think that there can be positive effects",
+      "start": 2632.26,
+      "duration": 5.28
+    },
+    {
+      "text": "that they can have for instance let's",
+      "start": 2635.2,
+      "duration": 4.2
+    },
+    {
+      "text": "say what we were talking about in the",
+      "start": 2637.54,
+      "duration": 4.38
+    },
+    {
+      "text": "beginning or the middle of this um Talk",
+      "start": 2639.4,
+      "duration": 6.14
+    },
+    {
+      "text": "was that look up",
+      "start": 2641.92,
+      "duration": 7.199
+    },
+    {
+      "text": "concept of you know on the phone",
+      "start": 2645.54,
+      "duration": 6.279
+    },
+    {
+      "text": "um so we if we can use that positively",
+      "start": 2649.119,
+      "duration": 4.801
+    },
+    {
+      "text": "for language acquisition I think we",
+      "start": 2651.819,
+      "duration": 4.381
+    },
+    {
+      "text": "should pursue that aspect especially",
+      "start": 2653.92,
+      "duration": 3.78
+    },
+    {
+      "text": "because when we think about language",
+      "start": 2656.2,
+      "duration": 3.78
+    },
+    {
+      "text": "acquisition languages in general we've",
+      "start": 2657.7,
+      "duration": 4.56
+    },
+    {
+      "text": "been doing this for as long as Humanity",
+      "start": 2659.98,
+      "duration": 5.46
+    },
+    {
+      "text": "has existed however technology is pretty",
+      "start": 2662.26,
+      "duration": 7.079
+    },
+    {
+      "text": "new in this um Realm of the word it's",
+      "start": 2665.44,
+      "duration": 6.0
+    },
+    {
+      "text": "only a few decades maybe a couple of",
+      "start": 2669.339,
+      "duration": 5.461
+    },
+    {
+      "text": "decades at most that it has come in to",
+      "start": 2671.44,
+      "duration": 6.12
+    },
+    {
+      "text": "everyone's attention and I think because",
+      "start": 2674.8,
+      "duration": 5.94
+    },
+    {
+      "text": "we have that real state of time that",
+      "start": 2677.56,
+      "duration": 6.299
+    },
+    {
+      "text": "people are spending using technology I",
+      "start": 2680.74,
+      "duration": 5.64
+    },
+    {
+      "text": "think we can bring technology to",
+      "start": 2683.859,
+      "duration": 4.681
+    },
+    {
+      "text": "language acquisition and what are all",
+      "start": 2686.38,
+      "duration": 4.32
+    },
+    {
+      "text": "the skills that can be reading it can be",
+      "start": 2688.54,
+      "duration": 4.02
+    },
+    {
+      "text": "writing it can be speaking it can be",
+      "start": 2690.7,
+      "duration": 4.44
+    },
+    {
+      "text": "listening we can bring them into those",
+      "start": 2692.56,
+      "duration": 4.98
+    },
+    {
+      "text": "aspects of language acquisition in ways",
+      "start": 2695.14,
+      "duration": 5.64
+    },
+    {
+      "text": "that can be helpful but it is also true",
+      "start": 2697.54,
+      "duration": 5.16
+    },
+    {
+      "text": "that there are aspects of them that are",
+      "start": 2700.78,
+      "duration": 3.9
+    },
+    {
+      "text": "not helpful as you said Dr crash in",
+      "start": 2702.7,
+      "duration": 4.919
+    },
+    {
+      "text": "writing is a creative process that",
+      "start": 2704.68,
+      "duration": 5.639
+    },
+    {
+      "text": "includes a lot of revision it's not no",
+      "start": 2707.619,
+      "duration": 5.581
+    },
+    {
+      "text": "no first draft is ever good and it",
+      "start": 2710.319,
+      "duration": 4.981
+    },
+    {
+      "text": "always needs to be multiple drafts even",
+      "start": 2713.2,
+      "duration": 4.5
+    },
+    {
+      "text": "when it comes to human creativity and",
+      "start": 2715.3,
+      "duration": 4.38
+    },
+    {
+      "text": "that's not something that can be done as",
+      "start": 2717.7,
+      "duration": 4.74
+    },
+    {
+      "text": "easily as or as beautifully as humans do",
+      "start": 2719.68,
+      "duration": 5.399
+    },
+    {
+      "text": "it I definitely agree with that but I do",
+      "start": 2722.44,
+      "duration": 4.98
+    },
+    {
+      "text": "think that in terms of little things so",
+      "start": 2725.079,
+      "duration": 4.201
+    },
+    {
+      "text": "for instance let's say there's something",
+      "start": 2727.42,
+      "duration": 4.38
+    },
+    {
+      "text": "noted like grammarly that is being used",
+      "start": 2729.28,
+      "duration": 4.799
+    },
+    {
+      "text": "right now they go in and kind of for",
+      "start": 2731.8,
+      "duration": 3.9
+    },
+    {
+      "text": "example will give you some hints here",
+      "start": 2734.079,
+      "duration": 4.381
+    },
+    {
+      "text": "and there of what other options are as",
+      "start": 2735.7,
+      "duration": 4.8
+    },
+    {
+      "text": "you're writing or what other options are",
+      "start": 2738.46,
+      "duration": 5.34
+    },
+    {
+      "text": "as you're speaking that can be helpful",
+      "start": 2740.5,
+      "duration": 7.14
+    },
+    {
+      "text": "in the process of becoming proficient",
+      "start": 2743.8,
+      "duration": 7.14
+    },
+    {
+      "text": "and becoming good writers good speakers",
+      "start": 2747.64,
+      "duration": 5.939
+    },
+    {
+      "text": "good readers of the languages that we",
+      "start": 2750.94,
+      "duration": 5.52
+    },
+    {
+      "text": "want to improve in so I do believe that",
+      "start": 2753.579,
+      "duration": 4.321
+    },
+    {
+      "text": "there's two sides",
+      "start": 2756.46,
+      "duration": 3.42
+    },
+    {
+      "text": "um and I think that as the time goes by",
+      "start": 2757.9,
+      "duration": 3.6
+    },
+    {
+      "text": "we're becoming more and more the",
+      "start": 2759.88,
+      "duration": 4.459
+    },
+    {
+      "text": "technology is becoming more and more",
+      "start": 2761.5,
+      "duration": 5.76
+    },
+    {
+      "text": "advanced in ways that it can adapt more",
+      "start": 2764.339,
+      "duration": 6.28
+    },
+    {
+      "text": "to True language acquisition",
+      "start": 2767.26,
+      "duration": 6.78
+    },
+    {
+      "text": "I'd like to agree with that okay if you",
+      "start": 2770.619,
+      "duration": 8.041
+    },
+    {
+      "text": "don't mind uh I was only uh hesitant in",
+      "start": 2774.04,
+      "duration": 6.66
+    },
+    {
+      "text": "praising or criticizing not I was only",
+      "start": 2778.66,
+      "duration": 3.9
+    },
+    {
+      "text": "criticizing one use and that's the use",
+      "start": 2780.7,
+      "duration": 4.919
+    },
+    {
+      "text": "of these Bots to generize texts we also",
+      "start": 2782.56,
+      "duration": 4.92
+    },
+    {
+      "text": "have this wonderful thing called word",
+      "start": 2785.619,
+      "duration": 5.521
+    },
+    {
+      "text": "processing which is fabulous it makes",
+      "start": 2787.48,
+      "duration": 7.139
+    },
+    {
+      "text": "revision easy and we also have in favor",
+      "start": 2791.14,
+      "duration": 6.36
+    },
+    {
+      "text": "of the cell phone Etc the computer which",
+      "start": 2794.619,
+      "duration": 4.74
+    },
+    {
+      "text": "can give us texts",
+      "start": 2797.5,
+      "duration": 3.54
+    },
+    {
+      "text": "um Isaac Asimov and his foundation",
+      "start": 2799.359,
+      "duration": 3.541
+    },
+    {
+      "text": "Trilogy talked about the universal",
+      "start": 2801.04,
+      "duration": 4.38
+    },
+    {
+      "text": "encyclopedia all knowledge we've got it",
+      "start": 2802.9,
+      "duration": 5.34
+    },
+    {
+      "text": "folks it's Google it's all there we can",
+      "start": 2805.42,
+      "duration": 4.8
+    },
+    {
+      "text": "find knowledge anywhere we can get",
+      "start": 2808.24,
+      "duration": 4.379
+    },
+    {
+      "text": "Journal we can get information and that",
+      "start": 2810.22,
+      "duration": 5.639
+    },
+    {
+      "text": "is a wonderful wonderful breakthrough so",
+      "start": 2812.619,
+      "duration": 5.161
+    },
+    {
+      "text": "again not opposed to all technology",
+      "start": 2815.859,
+      "duration": 4.081
+    },
+    {
+      "text": "finally while I have the platform let me",
+      "start": 2817.78,
+      "duration": 5.4
+    },
+    {
+      "text": "talk about the decline of reading",
+      "start": 2819.94,
+      "duration": 5.879
+    },
+    {
+      "text": "um part of the reason for the decline of",
+      "start": 2823.18,
+      "duration": 5.04
+    },
+    {
+      "text": "reading I'm taking one part of it is",
+      "start": 2825.819,
+      "duration": 4.381
+    },
+    {
+      "text": "book Banning",
+      "start": 2828.22,
+      "duration": 4.92
+    },
+    {
+      "text": "who there is a huge movement now uh that",
+      "start": 2830.2,
+      "duration": 4.919
+    },
+    {
+      "text": "you get books you say they're no good a",
+      "start": 2833.14,
+      "duration": 3.42
+    },
+    {
+      "text": "couple of people protests you take them",
+      "start": 2835.119,
+      "duration": 3.96
+    },
+    {
+      "text": "off the shelf it's directed nearly",
+      "start": 2836.56,
+      "duration": 5.88
+    },
+    {
+      "text": "exclusively at libraries",
+      "start": 2839.079,
+      "duration": 4.74
+    },
+    {
+      "text": "it's not",
+      "start": 2842.44,
+      "duration": 4.26
+    },
+    {
+      "text": "directed at bookstores isn't that",
+      "start": 2843.819,
+      "duration": 5.101
+    },
+    {
+      "text": "interesting Mark Twain said he was",
+      "start": 2846.7,
+      "duration": 3.899
+    },
+    {
+      "text": "thrilled when Huckleberry Finn was",
+      "start": 2848.92,
+      "duration": 3.84
+    },
+    {
+      "text": "banned because he told his publisher",
+      "start": 2850.599,
+      "duration": 4.441
+    },
+    {
+      "text": "this is going to give us 25 000 extra",
+      "start": 2852.76,
+      "duration": 4.5
+    },
+    {
+      "text": "copies sold in the next week because",
+      "start": 2855.04,
+      "duration": 3.9
+    },
+    {
+      "text": "people will want the book it gives it",
+      "start": 2857.26,
+      "duration": 5.94
+    },
+    {
+      "text": "more publicity my speculation is that",
+      "start": 2858.94,
+      "duration": 6.3
+    },
+    {
+      "text": "some of book binding is an attack on",
+      "start": 2863.2,
+      "duration": 3.36
+    },
+    {
+      "text": "libraries",
+      "start": 2865.24,
+      "duration": 4.859
+    },
+    {
+      "text": "on free reading and a threat to the",
+      "start": 2866.56,
+      "duration": 6.72
+    },
+    {
+      "text": "publishing industry that's my hypothesis",
+      "start": 2870.099,
+      "duration": 5.22
+    },
+    {
+      "text": "I have no direct evidence that's true",
+      "start": 2873.28,
+      "duration": 4.079
+    },
+    {
+      "text": "but that's what I suspect might be going",
+      "start": 2875.319,
+      "duration": 4.621
+    },
+    {
+      "text": "on reading in some areas is still very",
+      "start": 2877.359,
+      "duration": 5.881
+    },
+    {
+      "text": "popular and the key word there is Harry",
+      "start": 2879.94,
+      "duration": 5.34
+    },
+    {
+      "text": "Harry Potter",
+      "start": 2883.24,
+      "duration": 4.5
+    },
+    {
+      "text": "which is still selling like mad and",
+      "start": 2885.28,
+      "duration": 5.16
+    },
+    {
+      "text": "Harry and Megan which is now the number",
+      "start": 2887.74,
+      "duration": 6.48
+    },
+    {
+      "text": "one best-selling book anywhere okay so",
+      "start": 2890.44,
+      "duration": 6.179
+    },
+    {
+      "text": "people are still reading they're reading",
+      "start": 2894.22,
+      "duration": 4.02
+    },
+    {
+      "text": "lots of fiction they're reading lots of",
+      "start": 2896.619,
+      "duration": 3.841
+    },
+    {
+      "text": "light literature and I've been very",
+      "start": 2898.24,
+      "duration": 4.2
+    },
+    {
+      "text": "interested in the research on this",
+      "start": 2900.46,
+      "duration": 4.08
+    },
+    {
+      "text": "a lot of good stuff happens with fiction",
+      "start": 2902.44,
+      "duration": 4.02
+    },
+    {
+      "text": "even when we consider to be a light",
+      "start": 2904.54,
+      "duration": 3.96
+    },
+    {
+      "text": "fiction bestsellers people get",
+      "start": 2906.46,
+      "duration": 6.18
+    },
+    {
+      "text": "vocabulary they get new ideas they get",
+      "start": 2908.5,
+      "duration": 6.119
+    },
+    {
+      "text": "all kinds of things from fiction that",
+      "start": 2912.64,
+      "duration": 4.26
+    },
+    {
+      "text": "have been on a knowledge of a whole",
+      "start": 2914.619,
+      "duration": 3.901
+    },
+    {
+      "text": "bunch of areas",
+      "start": 2916.9,
+      "duration": 5.58
+    },
+    {
+      "text": "Etc in fact Noam Chomsky said that we'll",
+      "start": 2918.52,
+      "duration": 5.4
+    },
+    {
+      "text": "someday discover that we're going to",
+      "start": 2922.48,
+      "duration": 3.72
+    },
+    {
+      "text": "learn more about human nature",
+      "start": 2923.92,
+      "duration": 5.28
+    },
+    {
+      "text": "by looking at novels then by looking at",
+      "start": 2926.2,
+      "duration": 6.119
+    },
+    {
+      "text": "scientific psychology studies Etc so I'm",
+      "start": 2929.2,
+      "duration": 5.399
+    },
+    {
+      "text": "still in favor of books I'm in favor of",
+      "start": 2932.319,
+      "duration": 6.061
+    },
+    {
+      "text": "libraries of course and bookstores as",
+      "start": 2934.599,
+      "duration": 7.681
+    },
+    {
+      "text": "well and at the uh the attack on book of",
+      "start": 2938.38,
+      "duration": 5.34
+    },
+    {
+      "text": "the book Banning attack I think is a",
+      "start": 2942.28,
+      "duration": 4.28
+    },
+    {
+      "text": "very dangerous one",
+      "start": 2943.72,
+      "duration": 2.84
+    },
+    {
+      "text": "interesting thank you very much the",
+      "start": 2950.74,
+      "duration": 3.96
+    },
+    {
+      "text": "Professor Stephen crush and motion",
+      "start": 2952.9,
+      "duration": 3.66
+    },
+    {
+      "text": "ashtario for this debate I would like",
+      "start": 2954.7,
+      "duration": 5.04
+    },
+    {
+      "text": "you to I would like to ask your comment",
+      "start": 2956.56,
+      "duration": 6.779
+    },
+    {
+      "text": "on this because I talked to uh one of my",
+      "start": 2959.74,
+      "duration": 5.879
+    },
+    {
+      "text": "students and I see that his English is",
+      "start": 2963.339,
+      "duration": 6.361
+    },
+    {
+      "text": "good and he uh when I asked him when or",
+      "start": 2965.619,
+      "duration": 6.841
+    },
+    {
+      "text": "how did you learn English and he said",
+      "start": 2969.7,
+      "duration": 5.1
+    },
+    {
+      "text": "um play in video games",
+      "start": 2972.46,
+      "duration": 5.34
+    },
+    {
+      "text": "so what do you think do you think that I",
+      "start": 2974.8,
+      "duration": 4.799
+    },
+    {
+      "text": "asked him how many books have you read",
+      "start": 2977.8,
+      "duration": 4.68
+    },
+    {
+      "text": "how many how many uh put custom view",
+      "start": 2979.599,
+      "duration": 5.22
+    },
+    {
+      "text": "lesson two how he said no I'm playing",
+      "start": 2982.48,
+      "duration": 4.619
+    },
+    {
+      "text": "video games and he said I want to become",
+      "start": 2984.819,
+      "duration": 4.561
+    },
+    {
+      "text": "a teacher and I asked him yes",
+      "start": 2987.099,
+      "duration": 3.901
+    },
+    {
+      "text": "interesting so you want to become a",
+      "start": 2989.38,
+      "duration": 3.84
+    },
+    {
+      "text": "teacher are you going to encourage your",
+      "start": 2991.0,
+      "duration": 4.099
+    },
+    {
+      "text": "student to read say no",
+      "start": 2993.22,
+      "duration": 6.0
+    },
+    {
+      "text": "so what's your comment on this",
+      "start": 2995.099,
+      "duration": 5.801
+    },
+    {
+      "text": "well I certainly have a couple of",
+      "start": 2999.22,
+      "duration": 4.74
+    },
+    {
+      "text": "comments on games in general I'm way",
+      "start": 3000.9,
+      "duration": 5.1
+    },
+    {
+      "text": "behind on games I'm from The Dungeons",
+      "start": 3003.96,
+      "duration": 4.619
+    },
+    {
+      "text": "and Dragons era where I used to",
+      "start": 3006.0,
+      "duration": 3.9
+    },
+    {
+      "text": "accompany my son going to the",
+      "start": 3008.579,
+      "duration": 4.02
+    },
+    {
+      "text": "tournaments Etc and I found a great deal",
+      "start": 3009.9,
+      "duration": 5.459
+    },
+    {
+      "text": "of positive things about games no",
+      "start": 3012.599,
+      "duration": 5.941
+    },
+    {
+      "text": "question uh it's a very variable uh",
+      "start": 3015.359,
+      "duration": 4.921
+    },
+    {
+      "text": "sometimes a valuable way of social",
+      "start": 3018.54,
+      "duration": 3.84
+    },
+    {
+      "text": "interaction being with people the games",
+      "start": 3020.28,
+      "duration": 4.38
+    },
+    {
+      "text": "are sometimes very subtle and we",
+      "start": 3022.38,
+      "duration": 5.64
+    },
+    {
+      "text": "subscribed to Dragon magazine which my",
+      "start": 3024.66,
+      "duration": 5.88
+    },
+    {
+      "text": "son got and I read issues of it about",
+      "start": 3028.02,
+      "duration": 4.2
+    },
+    {
+      "text": "the philosophy of Dungeons and Dragons",
+      "start": 3030.54,
+      "duration": 4.559
+    },
+    {
+      "text": "how to put together characters do you",
+      "start": 3032.22,
+      "duration": 4.56
+    },
+    {
+      "text": "want this Factor do you want that factor",
+      "start": 3035.099,
+      "duration": 3.541
+    },
+    {
+      "text": "and a lot of very interesting",
+      "start": 3036.78,
+      "duration": 4.319
+    },
+    {
+      "text": "discussions of human psychology",
+      "start": 3038.64,
+      "duration": 5.58
+    },
+    {
+      "text": "uh so I'm not anti-games at least in",
+      "start": 3041.099,
+      "duration": 4.561
+    },
+    {
+      "text": "those days I don't know what's happening",
+      "start": 3044.22,
+      "duration": 4.68
+    },
+    {
+      "text": "now uh but there's a potential I'm not",
+      "start": 3045.66,
+      "duration": 5.459
+    },
+    {
+      "text": "surprised that people can get a lot of",
+      "start": 3048.9,
+      "duration": 4.62
+    },
+    {
+      "text": "language and a lot of information the",
+      "start": 3051.119,
+      "duration": 4.98
+    },
+    {
+      "text": "research needs to be done on what's",
+      "start": 3053.52,
+      "duration": 4.559
+    },
+    {
+      "text": "going on in games today are they",
+      "start": 3056.099,
+      "duration": 3.48
+    },
+    {
+      "text": "acquiring language are they getting new",
+      "start": 3058.079,
+      "duration": 4.441
+    },
+    {
+      "text": "ideas are they discussing philosophy the",
+      "start": 3059.579,
+      "duration": 5.581
+    },
+    {
+      "text": "dun Dragon magazine there's full",
+      "start": 3062.52,
+      "duration": 5.22
+    },
+    {
+      "text": "discussion of philosophy and ethics do",
+      "start": 3065.16,
+      "duration": 4.62
+    },
+    {
+      "text": "you want a character to have fighting",
+      "start": 3067.74,
+      "duration": 3.54
+    },
+    {
+      "text": "Power do you want that to have",
+      "start": 3069.78,
+      "duration": 4.02
+    },
+    {
+      "text": "flexibility Mobility access to",
+      "start": 3071.28,
+      "duration": 5.22
+    },
+    {
+      "text": "information Etc so I found it quite",
+      "start": 3073.8,
+      "duration": 5.519
+    },
+    {
+      "text": "constructive and stimulating I'm not",
+      "start": 3076.5,
+      "duration": 6.059
+    },
+    {
+      "text": "about to condemn it that's for sure",
+      "start": 3079.319,
+      "duration": 6.661
+    },
+    {
+      "text": "and also to piggyback on that um I think",
+      "start": 3082.559,
+      "duration": 6.361
+    },
+    {
+      "text": "Dr crashing Brad about Dr um chubsky",
+      "start": 3085.98,
+      "duration": 5.52
+    },
+    {
+      "text": "brought it up that big interest is",
+      "start": 3088.92,
+      "duration": 4.32
+    },
+    {
+      "text": "extremely important I think we tend to",
+      "start": 3091.5,
+      "duration": 4.02
+    },
+    {
+      "text": "forget that in language acquisition in",
+      "start": 3093.24,
+      "duration": 4.56
+    },
+    {
+      "text": "that case of the person that who loves",
+      "start": 3095.52,
+      "duration": 4.86
+    },
+    {
+      "text": "gaming I believe that person is spending",
+      "start": 3097.8,
+      "duration": 5.1
+    },
+    {
+      "text": "a lot of times in games and they're",
+      "start": 3100.38,
+      "duration": 4.679
+    },
+    {
+      "text": "getting a lot of input in their second",
+      "start": 3102.9,
+      "duration": 4.26
+    },
+    {
+      "text": "language because of the interest that",
+      "start": 3105.059,
+      "duration": 4.441
+    },
+    {
+      "text": "they're so interested so in a state of",
+      "start": 3107.16,
+      "duration": 4.86
+    },
+    {
+      "text": "flow with the games that they're",
+      "start": 3109.5,
+      "duration": 4.14
+    },
+    {
+      "text": "acquiring all these they're getting all",
+      "start": 3112.02,
+      "duration": 3.68
+    },
+    {
+      "text": "this input that they find comprehensible",
+      "start": 3113.64,
+      "duration": 5.28
+    },
+    {
+      "text": "compelling rich and abundant which are",
+      "start": 3115.7,
+      "duration": 5.859
+    },
+    {
+      "text": "the criteria of optimal input so they're",
+      "start": 3118.92,
+      "duration": 5.52
+    },
+    {
+      "text": "getting their individual optimal input",
+      "start": 3121.559,
+      "duration": 5.941
+    },
+    {
+      "text": "in their target with that specific game",
+      "start": 3124.44,
+      "duration": 5.22
+    },
+    {
+      "text": "for me that might not work because I'm",
+      "start": 3127.5,
+      "duration": 5.28
+    },
+    {
+      "text": "not a gamer but for example reading for",
+      "start": 3129.66,
+      "duration": 5.399
+    },
+    {
+      "text": "me it works very well for someone as for",
+      "start": 3132.78,
+      "duration": 4.02
+    },
+    {
+      "text": "example the tour guide that you",
+      "start": 3135.059,
+      "duration": 3.121
+    },
+    {
+      "text": "mentioned because they love human",
+      "start": 3136.8,
+      "duration": 3.84
+    },
+    {
+      "text": "interaction and learning about cultures",
+      "start": 3138.18,
+      "duration": 5.399
+    },
+    {
+      "text": "so much that is optimal more input for",
+      "start": 3140.64,
+      "duration": 5.699
+    },
+    {
+      "text": "them so that optimal input might look",
+      "start": 3143.579,
+      "duration": 5.101
+    },
+    {
+      "text": "different for different people but at",
+      "start": 3146.339,
+      "duration": 3.361
+    },
+    {
+      "text": "the end of the day it's the",
+      "start": 3148.68,
+      "duration": 2.879
+    },
+    {
+      "text": "comprehensible compelling input that is",
+      "start": 3149.7,
+      "duration": 4.2
+    },
+    {
+      "text": "coming to them so that's helpful for",
+      "start": 3151.559,
+      "duration": 4.861
+    },
+    {
+      "text": "them I think it's definitely possible to",
+      "start": 3153.9,
+      "duration": 4.5
+    },
+    {
+      "text": "get that from different ways and",
+      "start": 3156.42,
+      "duration": 4.56
+    },
+    {
+      "text": "different methods",
+      "start": 3158.4,
+      "duration": 5.04
+    },
+    {
+      "text": "so so in general we can see that's a",
+      "start": 3160.98,
+      "duration": 4.8
+    },
+    {
+      "text": "mastering language in general so we",
+      "start": 3163.44,
+      "duration": 4.02
+    },
+    {
+      "text": "require different using different ways",
+      "start": 3165.78,
+      "duration": 3.66
+    },
+    {
+      "text": "not only one method that different that",
+      "start": 3167.46,
+      "duration": 3.899
+    },
+    {
+      "text": "depends on the learner depends on the",
+      "start": 3169.44,
+      "duration": 4.2
+    },
+    {
+      "text": "context depends on the outputs and the",
+      "start": 3171.359,
+      "duration": 5.341
+    },
+    {
+      "text": "inputs he or she has so in general we",
+      "start": 3173.64,
+      "duration": 5.459
+    },
+    {
+      "text": "can we say that's exposure to language",
+      "start": 3176.7,
+      "duration": 5.54
+    },
+    {
+      "text": "is necessary",
+      "start": 3179.099,
+      "duration": 3.141
+    },
+    {
+      "text": "using different ways exposure to",
+      "start": 3182.579,
+      "duration": 5.101
+    },
+    {
+      "text": "language maybe through video games maybe",
+      "start": 3185.099,
+      "duration": 5.641
+    },
+    {
+      "text": "through uh maybe uh reading books maybe",
+      "start": 3187.68,
+      "duration": 6.48
+    },
+    {
+      "text": "listening to music maybe cartoons so",
+      "start": 3190.74,
+      "duration": 5.579
+    },
+    {
+      "text": "what is interesting I think is the",
+      "start": 3194.16,
+      "duration": 4.02
+    },
+    {
+      "text": "compelling inputs and how the learner",
+      "start": 3196.319,
+      "duration": 4.141
+    },
+    {
+      "text": "can create that compelling inputs by",
+      "start": 3198.18,
+      "duration": 3.6
+    },
+    {
+      "text": "himself",
+      "start": 3200.46,
+      "duration": 4.08
+    },
+    {
+      "text": "thank you or by the help of others it",
+      "start": 3201.78,
+      "duration": 5.22
+    },
+    {
+      "text": "could go both ways and it's it's the",
+      "start": 3204.54,
+      "duration": 4.74
+    },
+    {
+      "text": "exposure as you mentioned but also I",
+      "start": 3207.0,
+      "duration": 4.68
+    },
+    {
+      "text": "plus one exposure so it's I don't think",
+      "start": 3209.28,
+      "duration": 4.38
+    },
+    {
+      "text": "for example when this person started",
+      "start": 3211.68,
+      "duration": 4.679
+    },
+    {
+      "text": "gaming they started with very like very",
+      "start": 3213.66,
+      "duration": 5.04
+    },
+    {
+      "text": "tough language of very continuous",
+      "start": 3216.359,
+      "duration": 4.2
+    },
+    {
+      "text": "language they started off with I'm gonna",
+      "start": 3218.7,
+      "duration": 4.08
+    },
+    {
+      "text": "be this character and then they they go",
+      "start": 3220.559,
+      "duration": 4.381
+    },
+    {
+      "text": "on and as they're progressing through",
+      "start": 3222.78,
+      "duration": 3.96
+    },
+    {
+      "text": "their experience the language becomes",
+      "start": 3224.94,
+      "duration": 3.6
+    },
+    {
+      "text": "more complex and the language becomes",
+      "start": 3226.74,
+      "duration": 4.68
+    },
+    {
+      "text": "more rich in that sense so definitely",
+      "start": 3228.54,
+      "duration": 5.34
+    },
+    {
+      "text": "it's exposure but also exposure is at",
+      "start": 3231.42,
+      "duration": 4.74
+    },
+    {
+      "text": "their level of proficiency and higher so",
+      "start": 3233.88,
+      "duration": 3.719
+    },
+    {
+      "text": "that they can understand it that they",
+      "start": 3236.16,
+      "duration": 3.12
+    },
+    {
+      "text": "can level up their our brains our",
+      "start": 3237.599,
+      "duration": 3.781
+    },
+    {
+      "text": "language acquisition device can get the",
+      "start": 3239.28,
+      "duration": 4.98
+    },
+    {
+      "text": "input and level up in the language",
+      "start": 3241.38,
+      "duration": 5.479
+    },
+    {
+      "text": "foreign",
+      "start": 3244.26,
+      "duration": 2.599
+    },
+    {
+      "text": "through the translation of uh to the",
+      "start": 3247.579,
+      "duration": 6.221
+    },
+    {
+      "text": "second uh language for example if you",
+      "start": 3251.04,
+      "duration": 5.64
+    },
+    {
+      "text": "want because the way maybe we acquire a",
+      "start": 3253.8,
+      "duration": 4.62
+    },
+    {
+      "text": "language is not the way maybe we learn",
+      "start": 3256.68,
+      "duration": 4.86
+    },
+    {
+      "text": "it because sometimes we we apply some",
+      "start": 3258.42,
+      "duration": 6.0
+    },
+    {
+      "text": "learning strategies because we want to",
+      "start": 3261.54,
+      "duration": 5.4
+    },
+    {
+      "text": "compare the second or the foreign",
+      "start": 3264.42,
+      "duration": 5.1
+    },
+    {
+      "text": "language with the first language so so",
+      "start": 3266.94,
+      "duration": 4.86
+    },
+    {
+      "text": "that's why sometimes and I did this with",
+      "start": 3269.52,
+      "duration": 7.4
+    },
+    {
+      "text": "some of uh my Learners I I I translate",
+      "start": 3271.8,
+      "duration": 8.819
+    },
+    {
+      "text": "uh okay for them it's like a way to",
+      "start": 3276.92,
+      "duration": 5.26
+    },
+    {
+      "text": "facilitate the learning process because",
+      "start": 3280.619,
+      "duration": 3.361
+    },
+    {
+      "text": "they don't understand the meaning of",
+      "start": 3282.18,
+      "duration": 3.24
+    },
+    {
+      "text": "something so you're not going to explain",
+      "start": 3283.98,
+      "duration": 4.74
+    },
+    {
+      "text": "okay using the native language and you",
+      "start": 3285.42,
+      "duration": 4.8
+    },
+    {
+      "text": "don't know those words especially for",
+      "start": 3288.72,
+      "duration": 4.639
+    },
+    {
+      "text": "beginners okay the first time okay maybe",
+      "start": 3290.22,
+      "duration": 6.24
+    },
+    {
+      "text": "uh exposed to language so to to help",
+      "start": 3293.359,
+      "duration": 7.061
+    },
+    {
+      "text": "them to go to to push them like love the",
+      "start": 3296.46,
+      "duration": 7.26
+    },
+    {
+      "text": "language so you facilitate the task for",
+      "start": 3300.42,
+      "duration": 5.639
+    },
+    {
+      "text": "them by translating and you instead for",
+      "start": 3303.72,
+      "duration": 5.339
+    },
+    {
+      "text": "example of describing a lion you don't",
+      "start": 3306.059,
+      "duration": 4.8
+    },
+    {
+      "text": "have a picture for example and you say a",
+      "start": 3309.059,
+      "duration": 5.461
+    },
+    {
+      "text": "line is an animal which can a roar so",
+      "start": 3310.859,
+      "duration": 5.821
+    },
+    {
+      "text": "all these working on and just you're not",
+      "start": 3314.52,
+      "duration": 4.559
+    },
+    {
+      "text": "going to say wow like this you're going",
+      "start": 3316.68,
+      "duration": 5.7
+    },
+    {
+      "text": "to imitate so you can say quickly lion",
+      "start": 3319.079,
+      "duration": 5.52
+    },
+    {
+      "text": "as for example Arabic let's say I said",
+      "start": 3322.38,
+      "duration": 4.62
+    },
+    {
+      "text": "so then we can continue and facilitate",
+      "start": 3324.599,
+      "duration": 5.041
+    },
+    {
+      "text": "the task for him or for her and he will",
+      "start": 3327.0,
+      "duration": 5.7
+    },
+    {
+      "text": "enjoy okay the learning process maybe",
+      "start": 3329.64,
+      "duration": 6.12
+    },
+    {
+      "text": "when with Advanced Learners you can use",
+      "start": 3332.7,
+      "duration": 6.48
+    },
+    {
+      "text": "okay maybe 100 percent the the target",
+      "start": 3335.76,
+      "duration": 5.12
+    },
+    {
+      "text": "language",
+      "start": 3339.18,
+      "duration": 3.6
+    },
+    {
+      "text": "interestingly you mentioned that",
+      "start": 3340.88,
+      "duration": 4.3
+    },
+    {
+      "text": "yesterday Dr crash and I were on another",
+      "start": 3342.78,
+      "duration": 4.86
+    },
+    {
+      "text": "panel for another conference and we were",
+      "start": 3345.18,
+      "duration": 3.96
+    },
+    {
+      "text": "talking about one of the things we were",
+      "start": 3347.64,
+      "duration": 4.86
+    },
+    {
+      "text": "talking about was the use of L1 in tl2",
+      "start": 3349.14,
+      "duration": 6.179
+    },
+    {
+      "text": "teaching and um I was telling this a",
+      "start": 3352.5,
+      "duration": 4.559
+    },
+    {
+      "text": "story that when I started teaching about",
+      "start": 3355.319,
+      "duration": 3.661
+    },
+    {
+      "text": "20 years ago the teacher training",
+      "start": 3357.059,
+      "duration": 3.721
+    },
+    {
+      "text": "program that I went through they had",
+      "start": 3358.98,
+      "duration": 4.56
+    },
+    {
+      "text": "like a full ban on L1 they said do not",
+      "start": 3360.78,
+      "duration": 5.039
+    },
+    {
+      "text": "use any kind of L1 do you like any",
+      "start": 3363.54,
+      "duration": 4.86
+    },
+    {
+      "text": "translations and then I followed that",
+      "start": 3365.819,
+      "duration": 4.321
+    },
+    {
+      "text": "because I thought that was what it was",
+      "start": 3368.4,
+      "duration": 3.24
+    },
+    {
+      "text": "supposed to do it was very based on",
+      "start": 3370.14,
+      "duration": 3.719
+    },
+    {
+      "text": "communicative language teaching and we",
+      "start": 3371.64,
+      "duration": 3.78
+    },
+    {
+      "text": "were supposed to not even let the",
+      "start": 3373.859,
+      "duration": 3.181
+    },
+    {
+      "text": "students write in their native language",
+      "start": 3375.42,
+      "duration": 3.84
+    },
+    {
+      "text": "in their notebooks it was it was no no",
+      "start": 3377.04,
+      "duration": 4.559
+    },
+    {
+      "text": "no and then as I read more about the",
+      "start": 3379.26,
+      "duration": 4.559
+    },
+    {
+      "text": "research and I became more experienced",
+      "start": 3381.599,
+      "duration": 4.081
+    },
+    {
+      "text": "in teaching as well I realized how",
+      "start": 3383.819,
+      "duration": 4.141
+    },
+    {
+      "text": "helpful it is to as you said for example",
+      "start": 3385.68,
+      "duration": 4.02
+    },
+    {
+      "text": "instead of having a paragraph about",
+      "start": 3387.96,
+      "duration": 4.2
+    },
+    {
+      "text": "lying and then confusing students even",
+      "start": 3389.7,
+      "duration": 4.619
+    },
+    {
+      "text": "more you can just use the word and move",
+      "start": 3392.16,
+      "duration": 4.08
+    },
+    {
+      "text": "on and get them the input that they",
+      "start": 3394.319,
+      "duration": 3.901
+    },
+    {
+      "text": "actually need in order to acquire the",
+      "start": 3396.24,
+      "duration": 4.379
+    },
+    {
+      "text": "language rather than spend so much time",
+      "start": 3398.22,
+      "duration": 4.859
+    },
+    {
+      "text": "confusing them with the language that",
+      "start": 3400.619,
+      "duration": 4.141
+    },
+    {
+      "text": "they might not even understand so it's",
+      "start": 3403.079,
+      "duration": 3.361
+    },
+    {
+      "text": "definitely there's definitely benefits",
+      "start": 3404.76,
+      "duration": 5.7
+    },
+    {
+      "text": "in using L1 in L2 and translations but",
+      "start": 3406.44,
+      "duration": 6.3
+    },
+    {
+      "text": "of course again as we said previously is",
+      "start": 3410.46,
+      "duration": 5.099
+    },
+    {
+      "text": "the over Reliance and overuse that that",
+      "start": 3412.74,
+      "duration": 5.339
+    },
+    {
+      "text": "might cause issues because then you're",
+      "start": 3415.559,
+      "duration": 5.461
+    },
+    {
+      "text": "not getting them enough L2 input so it's",
+      "start": 3418.079,
+      "duration": 4.98
+    },
+    {
+      "text": "a balancing actor we all need to be",
+      "start": 3421.02,
+      "duration": 3.18
+    },
+    {
+      "text": "aware of",
+      "start": 3423.059,
+      "duration": 3.06
+    },
+    {
+      "text": "interesting so what do you think is",
+      "start": 3424.2,
+      "duration": 3.359
+    },
+    {
+      "text": "different question about the use of",
+      "start": 3426.119,
+      "duration": 3.661
+    },
+    {
+      "text": "grammar so if you want to teach a second",
+      "start": 3427.559,
+      "duration": 5.161
+    },
+    {
+      "text": "language learner and we focus on grammar",
+      "start": 3429.78,
+      "duration": 5.279
+    },
+    {
+      "text": "than other things okay",
+      "start": 3432.72,
+      "duration": 4.26
+    },
+    {
+      "text": "now that I've been allowed the floor let",
+      "start": 3435.059,
+      "duration": 3.481
+    },
+    {
+      "text": "me say something else",
+      "start": 3436.98,
+      "duration": 4.74
+    },
+    {
+      "text": "um a word of mentioned about L1 uh the",
+      "start": 3438.54,
+      "duration": 4.68
+    },
+    {
+      "text": "person who gets the credit there is a",
+      "start": 3441.72,
+      "duration": 3.72
+    },
+    {
+      "text": "man named Jim Cummins for his work on",
+      "start": 3443.22,
+      "duration": 4.92
+    },
+    {
+      "text": "bilingual education if people read in",
+      "start": 3445.44,
+      "duration": 4.26
+    },
+    {
+      "text": "the first language they get background",
+      "start": 3448.14,
+      "duration": 3.66
+    },
+    {
+      "text": "knowledge they get instruction the first",
+      "start": 3449.7,
+      "duration": 3.659
+    },
+    {
+      "text": "language they get background knowledge",
+      "start": 3451.8,
+      "duration": 4.019
+    },
+    {
+      "text": "it makes the second language much much",
+      "start": 3453.359,
+      "duration": 5.101
+    },
+    {
+      "text": "more comprehensible grammar",
+      "start": 3455.819,
+      "duration": 5.52
+    },
+    {
+      "text": "I was so enchanted by grammar I was",
+      "start": 3458.46,
+      "duration": 4.92
+    },
+    {
+      "text": "enchanted by Professor Chomsky for my",
+      "start": 3461.339,
+      "duration": 4.801
+    },
+    {
+      "text": "work and my uh schooling and Linguistics",
+      "start": 3463.38,
+      "duration": 4.56
+    },
+    {
+      "text": "and aspects of the theory of syntax",
+      "start": 3466.14,
+      "duration": 4.38
+    },
+    {
+      "text": "which is a wonderful book",
+      "start": 3467.94,
+      "duration": 3.179
+    },
+    {
+      "text": "um",
+      "start": 3470.52,
+      "duration": 2.94
+    },
+    {
+      "text": "I went into language teaching because I",
+      "start": 3471.119,
+      "duration": 3.48
+    },
+    {
+      "text": "loved grammar",
+      "start": 3473.46,
+      "duration": 3.3
+    },
+    {
+      "text": "and I thought language teaching what we",
+      "start": 3474.599,
+      "duration": 4.801
+    },
+    {
+      "text": "did is we learned the latest of",
+      "start": 3476.76,
+      "duration": 4.98
+    },
+    {
+      "text": "grammatical analyzes I remember reading",
+      "start": 3479.4,
+      "duration": 4.8
+    },
+    {
+      "text": "Paul kaparsky's work on factives he said",
+      "start": 3481.74,
+      "duration": 5.04
+    },
+    {
+      "text": "yes we'll teach this in our ESL classes",
+      "start": 3484.2,
+      "duration": 5.82
+    },
+    {
+      "text": "uh no that's not the way it's done uh",
+      "start": 3486.78,
+      "duration": 5.819
+    },
+    {
+      "text": "grammar is intellectually fascinating",
+      "start": 3490.02,
+      "duration": 5.42
+    },
+    {
+      "text": "for a tiny percentage of the human race",
+      "start": 3492.599,
+      "duration": 6.061
+    },
+    {
+      "text": "and some of us are among that here and",
+      "start": 3495.44,
+      "duration": 5.32
+    },
+    {
+      "text": "there it's a little bit of a help but",
+      "start": 3498.66,
+      "duration": 5.159
+    },
+    {
+      "text": "it's not the core of language teaching",
+      "start": 3500.76,
+      "duration": 5.4
+    },
+    {
+      "text": "it's interesting as subject matter it's",
+      "start": 3503.819,
+      "duration": 4.681
+    },
+    {
+      "text": "interesting as occasionally making",
+      "start": 3506.16,
+      "duration": 4.5
+    },
+    {
+      "text": "things more comprehensible but it's",
+      "start": 3508.5,
+      "duration": 4.38
+    },
+    {
+      "text": "quite peripheral the core of language",
+      "start": 3510.66,
+      "duration": 5.36
+    },
+    {
+      "text": "teaching as Dr ashtari mentioned is",
+      "start": 3512.88,
+      "duration": 5.64
+    },
+    {
+      "text": "comprehensible input",
+      "start": 3516.02,
+      "duration": 3.819
+    },
+    {
+      "text": "that is",
+      "start": 3518.52,
+      "duration": 4.38
+    },
+    {
+      "text": "fascinating and interesting to you which",
+      "start": 3519.839,
+      "duration": 5.28
+    },
+    {
+      "text": "will vary from person to person we call",
+      "start": 3522.9,
+      "duration": 6.12
+    },
+    {
+      "text": "Optimal input grammar is peripheral not",
+      "start": 3525.119,
+      "duration": 6.18
+    },
+    {
+      "text": "forbidden but peripheral",
+      "start": 3529.02,
+      "duration": 4.44
+    },
+    {
+      "text": "I hate to say it because I love it so",
+      "start": 3531.299,
+      "duration": 3.8
+    },
+    {
+      "text": "much",
+      "start": 3533.46,
+      "duration": 3.899
+    },
+    {
+      "text": "because when we teach grammar the",
+      "start": 3535.099,
+      "duration": 4.121
+    },
+    {
+      "text": "students for example if he or she wants",
+      "start": 3537.359,
+      "duration": 4.801
+    },
+    {
+      "text": "to for example make a sentence so he's",
+      "start": 3539.22,
+      "duration": 4.859
+    },
+    {
+      "text": "going to think whether I'm going to use",
+      "start": 3542.16,
+      "duration": 5.459
+    },
+    {
+      "text": "doesn't don't with s with simple present",
+      "start": 3544.079,
+      "duration": 6.601
+    },
+    {
+      "text": "future so and it will be maybe accurate",
+      "start": 3547.619,
+      "duration": 5.641
+    },
+    {
+      "text": "but not fluent so and here we don't want",
+      "start": 3550.68,
+      "duration": 5.939
+    },
+    {
+      "text": "the learner to make an effort it's as a",
+      "start": 3553.26,
+      "duration": 6.059
+    },
+    {
+      "text": "namchomsky said okay the language should",
+      "start": 3556.619,
+      "duration": 6.18
+    },
+    {
+      "text": "not be learned it grows in the mind okay",
+      "start": 3559.319,
+      "duration": 6.78
+    },
+    {
+      "text": "it should be natural okay like acquiring",
+      "start": 3562.799,
+      "duration": 4.941
+    },
+    {
+      "text": "your first language you're not going to",
+      "start": 3566.099,
+      "duration": 4.321
+    },
+    {
+      "text": "push him to make an effort to learn",
+      "start": 3567.74,
+      "duration": 5.079
+    },
+    {
+      "text": "otherwise he will not enjoy the learning",
+      "start": 3570.42,
+      "duration": 6.659
+    },
+    {
+      "text": "process and maybe uh will not love okay",
+      "start": 3572.819,
+      "duration": 6.441
+    },
+    {
+      "text": "that language",
+      "start": 3577.079,
+      "duration": 4.921
+    },
+    {
+      "text": "in case people feel bad about mistakes",
+      "start": 3579.26,
+      "duration": 5.26
+    },
+    {
+      "text": "let me pass on the wonderful advice of",
+      "start": 3582.0,
+      "duration": 5.46
+    },
+    {
+      "text": "Steve Kaufman who is a polyglot who",
+      "start": 3584.52,
+      "duration": 4.92
+    },
+    {
+      "text": "knows about 20 languages",
+      "start": 3587.46,
+      "duration": 4.68
+    },
+    {
+      "text": "and this one sentence really helped me",
+      "start": 3589.44,
+      "duration": 6.419
+    },
+    {
+      "text": "he says don't worry about mistakes when",
+      "start": 3592.14,
+      "duration": 6.419
+    },
+    {
+      "text": "you're speaking a second language nobody",
+      "start": 3595.859,
+      "duration": 4.101
+    },
+    {
+      "text": "cares",
+      "start": 3598.559,
+      "duration": 3.841
+    },
+    {
+      "text": "isn't that wonderful they're more",
+      "start": 3599.96,
+      "duration": 5.68
+    },
+    {
+      "text": "interested in what you're saying rather",
+      "start": 3602.4,
+      "duration": 6.48
+    },
+    {
+      "text": "than this occasional mistake I read that",
+      "start": 3605.64,
+      "duration": 5.939
+    },
+    {
+      "text": "passage when I was in Mexico and I had a",
+      "start": 3608.88,
+      "duration": 5.04
+    },
+    {
+      "text": "week with uh in a Language Institute the",
+      "start": 3611.579,
+      "duration": 4.74
+    },
+    {
+      "text": "Phoenix Institute and I hung around I",
+      "start": 3613.92,
+      "duration": 4.379
+    },
+    {
+      "text": "hung out with language teachers Spanish",
+      "start": 3616.319,
+      "duration": 4.26
+    },
+    {
+      "text": "teachers we had lunch together with",
+      "start": 3618.299,
+      "duration": 3.601
+    },
+    {
+      "text": "dinner together",
+      "start": 3620.579,
+      "duration": 5.641
+    },
+    {
+      "text": "and I had just read Kaufman's advice I",
+      "start": 3621.9,
+      "duration": 6.12
+    },
+    {
+      "text": "said this is it the whole time I'm going",
+      "start": 3626.22,
+      "duration": 3.06
+    },
+    {
+      "text": "to be here I'm not going to think about",
+      "start": 3628.02,
+      "duration": 2.7
+    },
+    {
+      "text": "my mistakes",
+      "start": 3629.28,
+      "duration": 4.5
+    },
+    {
+      "text": "I had the best time ever",
+      "start": 3630.72,
+      "duration": 5.76
+    },
+    {
+      "text": "just chatting what we say chill out in",
+      "start": 3633.78,
+      "duration": 5.18
+    },
+    {
+      "text": "Spanish okay my Spanish improved",
+      "start": 3636.48,
+      "duration": 5.22
+    },
+    {
+      "text": "enormously during that time",
+      "start": 3638.96,
+      "duration": 5.52
+    },
+    {
+      "text": "get over it",
+      "start": 3641.7,
+      "duration": 2.78
+    },
+    {
+      "text": "so thank you very much maybe we are",
+      "start": 3648.599,
+      "duration": 6.72
+    },
+    {
+      "text": "running like one hour and or happy okay",
+      "start": 3650.88,
+      "duration": 8.1
+    },
+    {
+      "text": "to be with you again uh Stephen Prussian",
+      "start": 3655.319,
+      "duration": 6.48
+    },
+    {
+      "text": "national student of course Professor Nam",
+      "start": 3658.98,
+      "duration": 7.379
+    },
+    {
+      "text": "Chomsky so we hope maybe I hope okay one",
+      "start": 3661.799,
+      "duration": 7.741
+    },
+    {
+      "text": "day we receive you here in Morocco and",
+      "start": 3666.359,
+      "duration": 6.061
+    },
+    {
+      "text": "that was my request to my invitation to",
+      "start": 3669.54,
+      "duration": 4.799
+    },
+    {
+      "text": "Stephen crushing",
+      "start": 3672.42,
+      "duration": 3.659
+    },
+    {
+      "text": "uh",
+      "start": 3674.339,
+      "duration": 6.601
+    },
+    {
+      "text": "yes so I hope one day we see you here uh",
+      "start": 3676.079,
+      "duration": 7.821
+    },
+    {
+      "text": "in Morocco",
+      "start": 3680.94,
+      "duration": 2.96
+    },
+    {
+      "text": "let's say live or in face to face okay",
+      "start": 3684.38,
+      "duration": 7.6
+    },
+    {
+      "text": "interview with Moroccan students who are",
+      "start": 3688.559,
+      "duration": 7.74
+    },
+    {
+      "text": "eager to okay meet you because as I said",
+      "start": 3691.98,
+      "duration": 7.139
+    },
+    {
+      "text": "before we are interested in your",
+      "start": 3696.299,
+      "duration": 6.06
+    },
+    {
+      "text": "hypothesis your books your papers and",
+      "start": 3699.119,
+      "duration": 5.761
+    },
+    {
+      "text": "I've received okay",
+      "start": 3702.359,
+      "duration": 6.301
+    },
+    {
+      "text": "and they say a lot of uh emails okay",
+      "start": 3704.88,
+      "duration": 9.12
+    },
+    {
+      "text": "asking uh me about your hypotheses and",
+      "start": 3708.66,
+      "duration": 7.919
+    },
+    {
+      "text": "questions to you because they have that",
+      "start": 3714.0,
+      "duration": 5.339
+    },
+    {
+      "text": "in their master's degree they have uh",
+      "start": 3716.579,
+      "duration": 7.28
+    },
+    {
+      "text": "that in their let's say ba okay and",
+      "start": 3719.339,
+      "duration": 7.201
+    },
+    {
+      "text": "especially those students who belong to",
+      "start": 3723.859,
+      "duration": 4.841
+    },
+    {
+      "text": "Applied Linguistics Applied Linguistics",
+      "start": 3726.54,
+      "duration": 4.079
+    },
+    {
+      "text": "students more interested in how language",
+      "start": 3728.7,
+      "duration": 4.26
+    },
+    {
+      "text": "okay should be acquired should be",
+      "start": 3730.619,
+      "duration": 4.261
+    },
+    {
+      "text": "learned should be taught okay different",
+      "start": 3732.96,
+      "duration": 5.0
+    },
+    {
+      "text": "using different hypotheses and of course",
+      "start": 3734.88,
+      "duration": 7.739
+    },
+    {
+      "text": "uh your books your papers save them in",
+      "start": 3737.96,
+      "duration": 7.3
+    },
+    {
+      "text": "many times so thank you once again thank",
+      "start": 3742.619,
+      "duration": 5.041
+    },
+    {
+      "text": "you doctor",
+      "start": 3745.26,
+      "duration": 5.28
+    },
+    {
+      "text": "one more little sentence here let's talk",
+      "start": 3747.66,
+      "duration": 5.04
+    },
+    {
+      "text": "about money let me let's talk about",
+      "start": 3750.54,
+      "duration": 5.46
+    },
+    {
+      "text": "money okay uh",
+      "start": 3752.7,
+      "duration": 5.879
+    },
+    {
+      "text": "if you want to read my stuff it's all",
+      "start": 3756.0,
+      "duration": 5.339
+    },
+    {
+      "text": "available for free not all of it but a",
+      "start": 3758.579,
+      "duration": 4.821
+    },
+    {
+      "text": "lot of it uh",
+      "start": 3761.339,
+      "duration": 6.181
+    },
+    {
+      "text": "sdcrashion.com free download tell your",
+      "start": 3763.4,
+      "duration": 6.64
+    },
+    {
+      "text": "friends including several books I don't",
+      "start": 3767.52,
+      "duration": 5.099
+    },
+    {
+      "text": "do this because I'm generous I do this",
+      "start": 3770.04,
+      "duration": 6.299
+    },
+    {
+      "text": "because it's the only way books are far",
+      "start": 3772.619,
+      "duration": 5.581
+    },
+    {
+      "text": "too expensive I can't afford them I",
+      "start": 3776.339,
+      "duration": 4.201
+    },
+    {
+      "text": "don't know anyone who can uh journal's",
+      "start": 3778.2,
+      "duration": 4.74
+    },
+    {
+      "text": "incredibly expensive if you want a copy",
+      "start": 3780.54,
+      "duration": 4.44
+    },
+    {
+      "text": "of an article from a journal the journal",
+      "start": 3782.94,
+      "duration": 3.78
+    },
+    {
+      "text": "will cost you it'll cost you forty",
+      "start": 3784.98,
+      "duration": 4.139
+    },
+    {
+      "text": "dollars in America to get a copy the",
+      "start": 3786.72,
+      "duration": 5.22
+    },
+    {
+      "text": "only solution is to share things make",
+      "start": 3789.119,
+      "duration": 5.541
+    },
+    {
+      "text": "them online free download what we call",
+      "start": 3791.94,
+      "duration": 6.96
+    },
+    {
+      "text": "Open Access until they become so",
+      "start": 3794.66,
+      "duration": 6.699
+    },
+    {
+      "text": "inexpensive that we can all order them",
+      "start": 3798.9,
+      "duration": 4.199
+    },
+    {
+      "text": "and make people let people get their",
+      "start": 3801.359,
+      "duration": 4.621
+    },
+    {
+      "text": "honest profit so it's the only way out",
+      "start": 3803.099,
+      "duration": 5.301
+    },
+    {
+      "text": "right now",
+      "start": 3805.98,
+      "duration": 2.42
+    },
+    {
+      "text": "and maybe the same thing with uh",
+      "start": 3811.02,
+      "duration": 4.92
+    },
+    {
+      "text": "International journals should be up and",
+      "start": 3813.54,
+      "duration": 4.62
+    },
+    {
+      "text": "it should not pay okay if you want to",
+      "start": 3815.94,
+      "duration": 4.2
+    },
+    {
+      "text": "publish your papers",
+      "start": 3818.16,
+      "duration": 3.84
+    },
+    {
+      "text": "open access",
+      "start": 3820.14,
+      "duration": 5.28
+    },
+    {
+      "text": "I look for open access all the time",
+      "start": 3822.0,
+      "duration": 5.4
+    },
+    {
+      "text": "yeah something happened in mathematics",
+      "start": 3825.42,
+      "duration": 3.54
+    },
+    {
+      "text": "big revolution",
+      "start": 3827.4,
+      "duration": 5.3
+    },
+    {
+      "text": "people couldn't afford it open access",
+      "start": 3828.96,
+      "duration": 3.74
+    },
+    {
+      "text": "so thank you very much ladies and",
+      "start": 3833.46,
+      "duration": 3.78
+    },
+    {
+      "text": "gentlemen thank you for joining us thank",
+      "start": 3835.26,
+      "duration": 4.799
+    },
+    {
+      "text": "you Dr uh if you want to say okay word",
+      "start": 3837.24,
+      "duration": 6.839
+    },
+    {
+      "text": "before we let's say include this webinar",
+      "start": 3840.059,
+      "duration": 8.101
+    },
+    {
+      "text": "thank you so much I will support Open",
+      "start": 3844.079,
+      "duration": 7.98
+    },
+    {
+      "text": "Access as well writing for everyone I",
+      "start": 3848.16,
+      "duration": 5.04
+    },
+    {
+      "text": "and I think that was one of the",
+      "start": 3852.059,
+      "duration": 3.06
+    },
+    {
+      "text": "misconceptions that I had",
+      "start": 3853.2,
+      "duration": 4.2
+    },
+    {
+      "text": "um in Academia early on in my career as",
+      "start": 3855.119,
+      "duration": 4.021
+    },
+    {
+      "text": "well I thought if it's not like the top",
+      "start": 3857.4,
+      "duration": 4.56
+    },
+    {
+      "text": "Journal that I'm not making it it's not",
+      "start": 3859.14,
+      "duration": 6.419
+    },
+    {
+      "text": "going to be as impactful but the more I",
+      "start": 3861.96,
+      "duration": 6.18
+    },
+    {
+      "text": "write the more I do research the more I",
+      "start": 3865.559,
+      "duration": 5.52
+    },
+    {
+      "text": "understand the field in its true Essence",
+      "start": 3868.14,
+      "duration": 4.74
+    },
+    {
+      "text": "I understand that it's more about",
+      "start": 3871.079,
+      "duration": 4.5
+    },
+    {
+      "text": "sharing all the data that we're all",
+      "start": 3872.88,
+      "duration": 4.38
+    },
+    {
+      "text": "Gathering and all this research that",
+      "start": 3875.579,
+      "duration": 3.601
+    },
+    {
+      "text": "we're putting out in the word helping",
+      "start": 3877.26,
+      "duration": 4.079
+    },
+    {
+      "text": "each other out in terms of understanding",
+      "start": 3879.18,
+      "duration": 3.84
+    },
+    {
+      "text": "the language acquisition field and",
+      "start": 3881.339,
+      "duration": 3.421
+    },
+    {
+      "text": "Applied Linguistics and Linguistics feel",
+      "start": 3883.02,
+      "duration": 4.079
+    },
+    {
+      "text": "better so it still support that and",
+      "start": 3884.76,
+      "duration": 3.96
+    },
+    {
+      "text": "thank you so much for organizing",
+      "start": 3887.099,
+      "duration": 3.72
+    },
+    {
+      "text": "conferences like this because then we",
+      "start": 3888.72,
+      "duration": 4.2
+    },
+    {
+      "text": "get to share all of these things that",
+      "start": 3890.819,
+      "duration": 3.721
+    },
+    {
+      "text": "we're all learning and we're learning we",
+      "start": 3892.92,
+      "duration": 2.939
+    },
+    {
+      "text": "get to learn from each other so",
+      "start": 3894.54,
+      "duration": 4.2
+    },
+    {
+      "text": "appreciate all the work that you do my",
+      "start": 3895.859,
+      "duration": 4.74
+    },
+    {
+      "text": "pleasure my pleasure and I hope I",
+      "start": 3898.74,
+      "duration": 3.44
+    },
+    {
+      "text": "encourage why not researchers",
+      "start": 3900.599,
+      "duration": 4.861
+    },
+    {
+      "text": "experiences even you cannot for example",
+      "start": 3902.18,
+      "duration": 5.379
+    },
+    {
+      "text": "sometimes you cannot offer or provide",
+      "start": 3905.46,
+      "duration": 4.379
+    },
+    {
+      "text": "let's say a student with their papers",
+      "start": 3907.559,
+      "duration": 4.56
+    },
+    {
+      "text": "why not they create their own website",
+      "start": 3909.839,
+      "duration": 5.701
+    },
+    {
+      "text": "and upload all their papers like this",
+      "start": 3912.119,
+      "duration": 6.24
+    },
+    {
+      "text": "the seven questions websites and share",
+      "start": 3915.54,
+      "duration": 5.039
+    },
+    {
+      "text": "that with their students if if they have",
+      "start": 3918.359,
+      "duration": 4.74
+    },
+    {
+      "text": "sometimes they feel obliged to pay for",
+      "start": 3920.579,
+      "duration": 4.26
+    },
+    {
+      "text": "publishing a paper because what is",
+      "start": 3923.099,
+      "duration": 4.74
+    },
+    {
+      "text": "important for us in the information not",
+      "start": 3924.839,
+      "duration": 5.28
+    },
+    {
+      "text": "the way sometimes we don't care about",
+      "start": 3927.839,
+      "duration": 4.441
+    },
+    {
+      "text": "the way but for example this webinar",
+      "start": 3930.119,
+      "duration": 4.381
+    },
+    {
+      "text": "could not be published let's say in an",
+      "start": 3932.28,
+      "duration": 2.9
+    },
+    {
+      "text": "international",
+      "start": 3934.5,
+      "duration": 4.74
+    },
+    {
+      "text": "uh let's say uh Journal but people will",
+      "start": 3935.18,
+      "duration": 7.08
+    },
+    {
+      "text": "recite uh and maybe take information",
+      "start": 3939.24,
+      "duration": 6.48
+    },
+    {
+      "text": "from that and say uh as mentioned in",
+      "start": 3942.26,
+      "duration": 5.559
+    },
+    {
+      "text": "this webinar by Professor now chomsky's",
+      "start": 3945.72,
+      "duration": 5.22
+    },
+    {
+      "text": "democracy why not and they have received",
+      "start": 3947.819,
+      "duration": 4.861
+    },
+    {
+      "text": "that before at PhD students okay",
+      "start": 3950.94,
+      "duration": 5.3
+    },
+    {
+      "text": "contacted me and sent sent me later okay",
+      "start": 3952.68,
+      "duration": 6.98
+    },
+    {
+      "text": "uh the the reference",
+      "start": 3956.24,
+      "duration": 6.76
+    },
+    {
+      "text": "mentioned the webinar that's okay he",
+      "start": 3959.66,
+      "duration": 5.26
+    },
+    {
+      "text": "mentioned the talk of second question",
+      "start": 3963.0,
+      "duration": 3.24
+    },
+    {
+      "text": "and Nam Chomsky about language",
+      "start": 3964.92,
+      "duration": 4.56
+    },
+    {
+      "text": "acquisition so without even the webinar",
+      "start": 3966.24,
+      "duration": 5.28
+    },
+    {
+      "text": "even the webinar has not been published",
+      "start": 3969.48,
+      "duration": 4.26
+    },
+    {
+      "text": "elsewhere so it's not question of where",
+      "start": 3971.52,
+      "duration": 4.5
+    },
+    {
+      "text": "to publish but since you're a researcher",
+      "start": 3973.74,
+      "duration": 4.68
+    },
+    {
+      "text": "expert in the field publish share for",
+      "start": 3976.02,
+      "duration": 4.64
+    },
+    {
+      "text": "free",
+      "start": 3978.42,
+      "duration": 2.24
+    },
+    {
+      "text": "yes",
+      "start": 3984.42,
+      "duration": 2.6
+    },
+    {
+      "text": "so thank you very much thank you very",
+      "start": 3988.92,
+      "duration": 3.78
+    },
+    {
+      "text": "much for the time you have taken to be",
+      "start": 3991.02,
+      "duration": 3.72
+    },
+    {
+      "text": "here with us ladies and gentlemen thank",
+      "start": 3992.7,
+      "duration": 3.48
+    },
+    {
+      "text": "you for your questions thank you for",
+      "start": 3994.74,
+      "duration": 3.24
+    },
+    {
+      "text": "following us if you have any questions",
+      "start": 3996.18,
+      "duration": 4.74
+    },
+    {
+      "text": "you can okay send them me send them to",
+      "start": 3997.98,
+      "duration": 5.22
+    },
+    {
+      "text": "me uh they will give forward them to",
+      "start": 4000.92,
+      "duration": 4.02
+    },
+    {
+      "text": "Professor Nam Charles again Stephen",
+      "start": 4003.2,
+      "duration": 4.08
+    },
+    {
+      "text": "crushing they are eager and so helpful",
+      "start": 4004.94,
+      "duration": 4.5
+    },
+    {
+      "text": "to answer all of your questions thank",
+      "start": 4007.28,
+      "duration": 5.18
+    },
+    {
+      "text": "you so much thank you",
+      "start": 4009.44,
+      "duration": 6.02
+    },
+    {
+      "text": "thank you very much",
+      "start": 4012.46,
+      "duration": 5.76
+    },
+    {
+      "text": "yes",
+      "start": 4015.46,
+      "duration": 5.94
+    },
+    {
+      "text": "you're welcome",
+      "start": 4018.22,
+      "duration": 3.18
+    },
+    {
+      "text": "thank you",
+      "start": 4021.5,
+      "duration": 3.96
+    },
+    {
+      "text": "thank you so much",
+      "start": 4023.42,
+      "duration": 4.56
+    },
+    {
+      "text": "thank you yes you have also here has Dr",
+      "start": 4025.46,
+      "duration": 5.46
+    },
+    {
+      "text": "Hassan he's one of the coordinators of",
+      "start": 4027.98,
+      "duration": 5.639
+    },
+    {
+      "text": "this conference has been with us here",
+      "start": 4030.92,
+      "duration": 4.32
+    },
+    {
+      "text": "since the beginning of this conference",
+      "start": 4033.619,
+      "duration": 6.381
+    },
+    {
+      "text": "so we can say where did uh and okay",
+      "start": 4035.24,
+      "duration": 8.28
+    },
+    {
+      "text": "yes Dr Hassan are you with us",
+      "start": 4040.0,
+      "duration": 6.0
+    },
+    {
+      "text": "yes yes",
+      "start": 4043.52,
+      "duration": 2.48
+    },
+    {
+      "text": "thank you thank you thank you Mr uh",
+      "start": 4048.44,
+      "duration": 6.3
+    },
+    {
+      "text": "thank you",
+      "start": 4052.839,
+      "duration": 5.28
+    },
+    {
+      "text": "uh Mr",
+      "start": 4054.74,
+      "duration": 3.379
+    },
+    {
+      "text": "uh",
+      "start": 4059.299,
+      "duration": 2.06
+    },
+    {
+      "text": "thank you Mr",
+      "start": 4061.48,
+      "duration": 5.819
+    },
+    {
+      "text": "uh",
+      "start": 4065.0,
+      "duration": 2.299
+    },
+    {
+      "text": "thank you",
+      "start": 4067.7,
+      "duration": 3.96
+    },
+    {
+      "text": "thank you so much thank you very much",
+      "start": 4069.319,
+      "duration": 5.581
+    },
+    {
+      "text": "again thank you I am happy I'm so",
+      "start": 4071.66,
+      "duration": 6.78
+    },
+    {
+      "text": "honored so happy that I've booked a a",
+      "start": 4074.9,
+      "duration": 6.84
+    },
+    {
+      "text": "webinar for four times that a great",
+      "start": 4078.44,
+      "duration": 5.899
+    },
+    {
+      "text": "thing for me",
+      "start": 4081.74,
+      "duration": 2.599
+    },
+    {
+      "text": "thank you so much I hope to see you here",
+      "start": 4084.4,
+      "duration": 5.86
+    },
+    {
+      "text": "in Morocco I will insist till you come",
+      "start": 4086.96,
+      "duration": 5.899
+    },
+    {
+      "text": "to Morocco",
+      "start": 4090.26,
+      "duration": 2.599
+    },
+    {
+      "text": "we would love to be there",
+      "start": 4094.48,
+      "duration": 3.9
+    },
+    {
+      "text": "thank you so much again and I hope you",
+      "start": 4098.42,
+      "duration": 4.259
+    },
+    {
+      "text": "have a wonderful day and the rest of the",
+      "start": 4100.699,
+      "duration": 4.02
+    },
+    {
+      "text": "conference goes very smoothly and very",
+      "start": 4102.679,
+      "duration": 4.68
+    },
+    {
+      "text": "effective so much thank you thank you",
+      "start": 4104.719,
+      "duration": 5.181
+    },
+    {
+      "text": "bye",
+      "start": 4107.359,
+      "duration": 2.541
+    }
+  ]
+}

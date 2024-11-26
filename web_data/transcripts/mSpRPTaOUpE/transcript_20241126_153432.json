@@ -1,0 +1,2591 @@
+{
+  "video_id": "mSpRPTaOUpE",
+  "url": "https://www.youtube.com/watch?v=mSpRPTaOUpE",
+  "transcript": [
+    {
+      "text": "so next in trying to find",
+      "start": 3.919,
+      "duration": 2.721
+    },
+    {
+      "text": "what we should replace the ordinary",
+      "start": 5.279,
+      "duration": 3.28
+    },
+    {
+      "text": "notion of language with chomsky",
+      "start": 6.64,
+      "duration": 3.6
+    },
+    {
+      "text": "considers these two",
+      "start": 8.559,
+      "duration": 3.921
+    },
+    {
+      "text": "different conceptions one he calls e of",
+      "start": 10.24,
+      "duration": 3.92
+    },
+    {
+      "text": "e language and one he calls",
+      "start": 12.48,
+      "duration": 5.44
+    },
+    {
+      "text": "i language and roughly speaking e",
+      "start": 14.16,
+      "duration": 5.68
+    },
+    {
+      "text": "language is very like the concept of",
+      "start": 17.92,
+      "duration": 4.16
+    },
+    {
+      "text": "language that lewis used in the paper",
+      "start": 19.84,
+      "duration": 3.76
+    },
+    {
+      "text": "languages and language that we read last",
+      "start": 22.08,
+      "duration": 3.199
+    },
+    {
+      "text": "week so if we're thinking of a language",
+      "start": 23.6,
+      "duration": 3.28
+    },
+    {
+      "text": "as an e language",
+      "start": 25.279,
+      "duration": 2.961
+    },
+    {
+      "text": "then we're really just thinking of it as",
+      "start": 26.88,
+      "duration": 3.2
+    },
+    {
+      "text": "a list of all the grammatical",
+      "start": 28.24,
+      "duration": 4.319
+    },
+    {
+      "text": "sentences in the language plus the",
+      "start": 30.08,
+      "duration": 3.999
+    },
+    {
+      "text": "meanings of those sentences",
+      "start": 32.559,
+      "duration": 4.961
+    },
+    {
+      "text": "in the language so for example if we",
+      "start": 34.079,
+      "duration": 4.241
+    },
+    {
+      "text": "were to think about",
+      "start": 37.52,
+      "duration": 7.44
+    },
+    {
+      "text": "english as an e-language",
+      "start": 38.32,
+      "duration": 8.32
+    },
+    {
+      "text": "the things that might be on the list",
+      "start": 44.96,
+      "duration": 3.439
+    },
+    {
+      "text": "might be things like the cat is on the",
+      "start": 46.64,
+      "duration": 4.079
+    },
+    {
+      "text": "mat",
+      "start": 48.399,
+      "duration": 2.32
+    },
+    {
+      "text": "that sentence paired with its meaning",
+      "start": 50.879,
+      "duration": 8.801
+    },
+    {
+      "text": "however we want to represent that",
+      "start": 56.64,
+      "duration": 6.719
+    },
+    {
+      "text": "might have the sentence it's raining",
+      "start": 59.68,
+      "duration": 3.679
+    },
+    {
+      "text": "and whatever its meaning is and so on",
+      "start": 65.04,
+      "duration": 5.04
+    },
+    {
+      "text": "so we can just think of a language as a",
+      "start": 68.479,
+      "duration": 3.601
+    },
+    {
+      "text": "long list of all the sentences in the",
+      "start": 70.08,
+      "duration": 2.56
+    },
+    {
+      "text": "language",
+      "start": 72.08,
+      "duration": 2.64
+    },
+    {
+      "text": "plus what those sentences mean in the",
+      "start": 72.64,
+      "duration": 3.36
+    },
+    {
+      "text": "language",
+      "start": 74.72,
+      "duration": 3.039
+    },
+    {
+      "text": "and that because it might seem kind of",
+      "start": 76.0,
+      "duration": 3.68
+    },
+    {
+      "text": "strange thinking about a language as",
+      "start": 77.759,
+      "duration": 4.161
+    },
+    {
+      "text": "a list of sentences plus their meanings",
+      "start": 79.68,
+      "duration": 3.6
+    },
+    {
+      "text": "and what because one reaction you might",
+      "start": 81.92,
+      "duration": 2.0
+    },
+    {
+      "text": "have is",
+      "start": 83.28,
+      "duration": 2.0
+    },
+    {
+      "text": "well of course you could never write",
+      "start": 83.92,
+      "duration": 4.16
+    },
+    {
+      "text": "down that list and that's completely",
+      "start": 85.28,
+      "duration": 5.12
+    },
+    {
+      "text": "right the list of sentences in english",
+      "start": 88.08,
+      "duration": 4.24
+    },
+    {
+      "text": "is probably infinite so",
+      "start": 90.4,
+      "duration": 3.679
+    },
+    {
+      "text": "the way we would understand an",
+      "start": 92.32,
+      "duration": 3.28
+    },
+    {
+      "text": "e-language would not be by just trying",
+      "start": 94.079,
+      "duration": 3.281
+    },
+    {
+      "text": "to write down the contents of the list",
+      "start": 95.6,
+      "duration": 3.6
+    },
+    {
+      "text": "we would never just try to write down",
+      "start": 97.36,
+      "duration": 4.16
+    },
+    {
+      "text": "the list of grammatical sentences plus",
+      "start": 99.2,
+      "duration": 3.199
+    },
+    {
+      "text": "their meanings",
+      "start": 101.52,
+      "duration": 2.639
+    },
+    {
+      "text": "rather what we would try to do is we try",
+      "start": 102.399,
+      "duration": 4.08
+    },
+    {
+      "text": "to figure out some rules which determine",
+      "start": 104.159,
+      "duration": 4.881
+    },
+    {
+      "text": "what gets to be on the list or not so",
+      "start": 106.479,
+      "duration": 4.0
+    },
+    {
+      "text": "what people do in syntax",
+      "start": 109.04,
+      "duration": 3.2
+    },
+    {
+      "text": "is that they figure out the rules for",
+      "start": 110.479,
+      "duration": 5.121
+    },
+    {
+      "text": "what makes sentences grammatical or not",
+      "start": 112.24,
+      "duration": 5.44
+    },
+    {
+      "text": "and if we're thinking about language as",
+      "start": 115.6,
+      "duration": 3.199
+    },
+    {
+      "text": "an e language",
+      "start": 117.68,
+      "duration": 2.64
+    },
+    {
+      "text": "then how we would describe what they're",
+      "start": 118.799,
+      "duration": 2.881
+    },
+    {
+      "text": "doing is well they're trying to figure",
+      "start": 120.32,
+      "duration": 3.439
+    },
+    {
+      "text": "out some rules which tell us",
+      "start": 121.68,
+      "duration": 3.92
+    },
+    {
+      "text": "whether a sentence a particular sentence",
+      "start": 123.759,
+      "duration": 3.441
+    },
+    {
+      "text": "is ever going to figure somewhere on the",
+      "start": 125.6,
+      "duration": 3.439
+    },
+    {
+      "text": "list",
+      "start": 127.2,
+      "duration": 3.759
+    },
+    {
+      "text": "now we haven't been doing syntax we",
+      "start": 129.039,
+      "duration": 3.041
+    },
+    {
+      "text": "haven't been",
+      "start": 130.959,
+      "duration": 2.481
+    },
+    {
+      "text": "thinking about grammar in this class",
+      "start": 132.08,
+      "duration": 3.12
+    },
+    {
+      "text": "we've been mostly thinking about meaning",
+      "start": 133.44,
+      "duration": 3.12
+    },
+    {
+      "text": "we spent a long time thinking about the",
+      "start": 135.2,
+      "duration": 2.64
+    },
+    {
+      "text": "meanings of names",
+      "start": 136.56,
+      "duration": 2.88
+    },
+    {
+      "text": "and the question we've been asking as",
+      "start": 137.84,
+      "duration": 4.32
+    },
+    {
+      "text": "well has been could be put in terms of e",
+      "start": 139.44,
+      "duration": 4.08
+    },
+    {
+      "text": "language so",
+      "start": 142.16,
+      "duration": 3.04
+    },
+    {
+      "text": "we saw that some theories of names",
+      "start": 143.52,
+      "duration": 3.04
+    },
+    {
+      "text": "they're really descriptions other",
+      "start": 145.2,
+      "duration": 2.8
+    },
+    {
+      "text": "theories of names names referred",
+      "start": 146.56,
+      "duration": 2.319
+    },
+    {
+      "text": "directly",
+      "start": 148.0,
+      "duration": 2.48
+    },
+    {
+      "text": "that will make a difference to what as",
+      "start": 148.879,
+      "duration": 3.921
+    },
+    {
+      "text": "we saw to what the sentences containing",
+      "start": 150.48,
+      "duration": 2.8
+    },
+    {
+      "text": "names",
+      "start": 152.8,
+      "duration": 2.799
+    },
+    {
+      "text": "overall mean so put it in terms of e",
+      "start": 153.28,
+      "duration": 3.84
+    },
+    {
+      "text": "language is the way that",
+      "start": 155.599,
+      "duration": 2.801
+    },
+    {
+      "text": "the way to think about what we've been",
+      "start": 157.12,
+      "duration": 3.199
+    },
+    {
+      "text": "doing is well what is the meaning that",
+      "start": 158.4,
+      "duration": 3.76
+    },
+    {
+      "text": "gets paired with various sentences",
+      "start": 160.319,
+      "duration": 4.56
+    },
+    {
+      "text": "on the list if we have a sentence like",
+      "start": 162.16,
+      "duration": 4.56
+    },
+    {
+      "text": "aristotle was the teacher of alexander",
+      "start": 164.879,
+      "duration": 3.041
+    },
+    {
+      "text": "the great",
+      "start": 166.72,
+      "duration": 2.72
+    },
+    {
+      "text": "what kind of thing is the meaning that",
+      "start": 167.92,
+      "duration": 4.24
+    },
+    {
+      "text": "gets paired with that on the list",
+      "start": 169.44,
+      "duration": 5.2
+    },
+    {
+      "text": "and again we're not trying to write down",
+      "start": 172.16,
+      "duration": 3.28
+    },
+    {
+      "text": "up",
+      "start": 174.64,
+      "duration": 2.64
+    },
+    {
+      "text": "the list of sentences and write down the",
+      "start": 175.44,
+      "duration": 3.439
+    },
+    {
+      "text": "list of their meanings but rather we're",
+      "start": 177.28,
+      "duration": 2.8
+    },
+    {
+      "text": "trying to come up with some general",
+      "start": 178.879,
+      "duration": 2.161
+    },
+    {
+      "text": "principles",
+      "start": 180.08,
+      "duration": 2.879
+    },
+    {
+      "text": "which tell us well what are the kinds of",
+      "start": 181.04,
+      "duration": 3.839
+    },
+    {
+      "text": "things that would be on the list",
+      "start": 182.959,
+      "duration": 3.121
+    },
+    {
+      "text": "so if we're thinking about language as",
+      "start": 184.879,
+      "duration": 3.121
+    },
+    {
+      "text": "an e-language a language really is just",
+      "start": 186.08,
+      "duration": 4.0
+    },
+    {
+      "text": "a long list of grammatical sentences",
+      "start": 188.0,
+      "duration": 3.76
+    },
+    {
+      "text": "together with their meanings",
+      "start": 190.08,
+      "duration": 3.439
+    },
+    {
+      "text": "and the study of language is basically",
+      "start": 191.76,
+      "duration": 3.199
+    },
+    {
+      "text": "just trying to figure out",
+      "start": 193.519,
+      "duration": 3.681
+    },
+    {
+      "text": "the rules that determine what goes on",
+      "start": 194.959,
+      "duration": 3.521
+    },
+    {
+      "text": "the list syntax",
+      "start": 197.2,
+      "duration": 3.119
+    },
+    {
+      "text": "is figuring out the rules that determine",
+      "start": 198.48,
+      "duration": 4.64
+    },
+    {
+      "text": "whether a sentence is grammatical or not",
+      "start": 200.319,
+      "duration": 4.321
+    },
+    {
+      "text": "semantics which is the kind of thing",
+      "start": 203.12,
+      "duration": 3.199
+    },
+    {
+      "text": "we've been doing is trying to figure out",
+      "start": 204.64,
+      "duration": 3.12
+    },
+    {
+      "text": "well what kinds of things are the",
+      "start": 206.319,
+      "duration": 2.881
+    },
+    {
+      "text": "meanings that get associated with",
+      "start": 207.76,
+      "duration": 3.36
+    },
+    {
+      "text": "sentences what kinds of meanings appear",
+      "start": 209.2,
+      "duration": 4.0
+    },
+    {
+      "text": "in the list and again neither requires",
+      "start": 211.12,
+      "duration": 3.6
+    },
+    {
+      "text": "that you actually sit down and like",
+      "start": 213.2,
+      "duration": 2.88
+    },
+    {
+      "text": "write out a list of everything in the",
+      "start": 214.72,
+      "duration": 2.799
+    },
+    {
+      "text": "language because of course that would be",
+      "start": 216.08,
+      "duration": 2.079
+    },
+    {
+      "text": "absurd",
+      "start": 217.519,
+      "duration": 3.681
+    },
+    {
+      "text": "and impossible",
+      "start": 218.159,
+      "duration": 3.041
+    },
+    {
+      "text": "so while philosophers have tended to",
+      "start": 223.76,
+      "duration": 3.28
+    },
+    {
+      "text": "think about languages in this way",
+      "start": 225.36,
+      "duration": 3.68
+    },
+    {
+      "text": "johnson thinks that trying to study this",
+      "start": 227.04,
+      "duration": 3.199
+    },
+    {
+      "text": "concept of language or trying to",
+      "start": 229.04,
+      "duration": 2.4
+    },
+    {
+      "text": "understand what's going on with this",
+      "start": 230.239,
+      "duration": 2.321
+    },
+    {
+      "text": "concept language",
+      "start": 231.44,
+      "duration": 3.2
+    },
+    {
+      "text": "is just completely misguided why is that",
+      "start": 232.56,
+      "duration": 4.16
+    },
+    {
+      "text": "well he has two objections to focusing",
+      "start": 234.64,
+      "duration": 3.84
+    },
+    {
+      "text": "on e-languages",
+      "start": 236.72,
+      "duration": 3.519
+    },
+    {
+      "text": "one comes from what he calls",
+      "start": 238.48,
+      "duration": 3.44
+    },
+    {
+      "text": "semi-grammatical sentences",
+      "start": 240.239,
+      "duration": 2.961
+    },
+    {
+      "text": "so he observes that there are some",
+      "start": 241.92,
+      "duration": 3.12
+    },
+    {
+      "text": "sentences of english",
+      "start": 243.2,
+      "duration": 4.56
+    },
+    {
+      "text": "where it seems clear that they're not",
+      "start": 245.04,
+      "duration": 3.919
+    },
+    {
+      "text": "fully grammatical",
+      "start": 247.76,
+      "duration": 2.96
+    },
+    {
+      "text": "and yet there's no real difficulty in",
+      "start": 248.959,
+      "duration": 3.041
+    },
+    {
+      "text": "figuring out what they're supposed to",
+      "start": 250.72,
+      "duration": 1.84
+    },
+    {
+      "text": "mean",
+      "start": 252.0,
+      "duration": 2.799
+    },
+    {
+      "text": "so he gives the example of the child",
+      "start": 252.56,
+      "duration": 4.72
+    },
+    {
+      "text": "seems sleeping",
+      "start": 254.799,
+      "duration": 3.921
+    },
+    {
+      "text": "if somebody were to say that well you",
+      "start": 257.28,
+      "duration": 3.28
+    },
+    {
+      "text": "would recognize that it's not fully a",
+      "start": 258.72,
+      "duration": 3.44
+    },
+    {
+      "text": "grammatical sentence of english",
+      "start": 260.56,
+      "duration": 3.6
+    },
+    {
+      "text": "but you would immediately grasp what",
+      "start": 262.16,
+      "duration": 3.44
+    },
+    {
+      "text": "they were trying to tell you you would",
+      "start": 264.16,
+      "duration": 2.72
+    },
+    {
+      "text": "infer that they're trying to tell you",
+      "start": 265.6,
+      "duration": 1.84
+    },
+    {
+      "text": "that this",
+      "start": 266.88,
+      "duration": 4.16
+    },
+    {
+      "text": "the child seems to be sleeping",
+      "start": 267.44,
+      "duration": 4.96
+    },
+    {
+      "text": "and the important thing as well is that",
+      "start": 271.04,
+      "duration": 3.12
+    },
+    {
+      "text": "that is kind of always the way that you",
+      "start": 272.4,
+      "duration": 2.799
+    },
+    {
+      "text": "interpret it",
+      "start": 274.16,
+      "duration": 2.56
+    },
+    {
+      "text": "you would never interpret them as saying",
+      "start": 275.199,
+      "duration": 3.201
+    },
+    {
+      "text": "that the child is sleepy",
+      "start": 276.72,
+      "duration": 2.96
+    },
+    {
+      "text": "or something like that you would always",
+      "start": 278.4,
+      "duration": 3.28
+    },
+    {
+      "text": "interpret a scene you'll always",
+      "start": 279.68,
+      "duration": 3.84
+    },
+    {
+      "text": "interpret seems sleeping as",
+      "start": 281.68,
+      "duration": 4.079
+    },
+    {
+      "text": "seems to be sleeping rather than",
+      "start": 283.52,
+      "duration": 3.84
+    },
+    {
+      "text": "something else so chelsea wants to say",
+      "start": 285.759,
+      "duration": 3.041
+    },
+    {
+      "text": "with sentences like these",
+      "start": 287.36,
+      "duration": 3.119
+    },
+    {
+      "text": "they actually don't really neatly fall",
+      "start": 288.8,
+      "duration": 3.679
+    },
+    {
+      "text": "into the category of grammatical or",
+      "start": 290.479,
+      "duration": 4.0
+    },
+    {
+      "text": "ungrammatical now they're clearly not",
+      "start": 292.479,
+      "duration": 4.0
+    },
+    {
+      "text": "fully grammatical because",
+      "start": 294.479,
+      "duration": 4.16
+    },
+    {
+      "text": "no no fully competent english speaker",
+      "start": 296.479,
+      "duration": 3.44
+    },
+    {
+      "text": "would say them",
+      "start": 298.639,
+      "duration": 2.961
+    },
+    {
+      "text": "but they're not really ungrammatical",
+      "start": 299.919,
+      "duration": 3.361
+    },
+    {
+      "text": "either because there",
+      "start": 301.6,
+      "duration": 3.439
+    },
+    {
+      "text": "seems there does seem to be a right way",
+      "start": 303.28,
+      "duration": 3.759
+    },
+    {
+      "text": "to understand what that sentence is",
+      "start": 305.039,
+      "duration": 3.361
+    },
+    {
+      "text": "saying but this idea of a",
+      "start": 307.039,
+      "duration": 3.121
+    },
+    {
+      "text": "semi-grammatical sentence doesn't really",
+      "start": 308.4,
+      "duration": 2.32
+    },
+    {
+      "text": "fit in",
+      "start": 310.16,
+      "duration": 1.92
+    },
+    {
+      "text": "to this way of thinking about the e",
+      "start": 310.72,
+      "duration": 3.12
+    },
+    {
+      "text": "language because remember in e language",
+      "start": 312.08,
+      "duration": 2.399
+    },
+    {
+      "text": "it's a",
+      "start": 313.84,
+      "duration": 2.88
+    },
+    {
+      "text": "list of grammatical sentences among",
+      "start": 314.479,
+      "duration": 3.601
+    },
+    {
+      "text": "other things and then we pair those with",
+      "start": 316.72,
+      "duration": 2.319
+    },
+    {
+      "text": "their meanings",
+      "start": 318.08,
+      "duration": 3.44
+    },
+    {
+      "text": "how would we sort of fit in to that",
+      "start": 319.039,
+      "duration": 4.561
+    },
+    {
+      "text": "chomsky seems to be thinking",
+      "start": 321.52,
+      "duration": 4.239
+    },
+    {
+      "text": "where do the semi-grammatical sentences",
+      "start": 323.6,
+      "duration": 3.039
+    },
+    {
+      "text": "fit into that",
+      "start": 325.759,
+      "duration": 2.16
+    },
+    {
+      "text": "something that's worth saying about this",
+      "start": 326.639,
+      "duration": 3.361
+    },
+    {
+      "text": "as well is that chunky's idea is not",
+      "start": 327.919,
+      "duration": 2.881
+    },
+    {
+      "text": "that it's sort of",
+      "start": 330.0,
+      "duration": 3.52
+    },
+    {
+      "text": "vague whether this is grammatical so",
+      "start": 330.8,
+      "duration": 4.239
+    },
+    {
+      "text": "sometimes we talk about things being",
+      "start": 333.52,
+      "duration": 2.8
+    },
+    {
+      "text": "vague for instance think about the",
+      "start": 335.039,
+      "duration": 3.281
+    },
+    {
+      "text": "concept of being bald there are some",
+      "start": 336.32,
+      "duration": 3.92
+    },
+    {
+      "text": "people who are bald there's some people",
+      "start": 338.32,
+      "duration": 2.96
+    },
+    {
+      "text": "who are not bald",
+      "start": 340.24,
+      "duration": 2.32
+    },
+    {
+      "text": "and there are people in between where",
+      "start": 341.28,
+      "duration": 2.88
+    },
+    {
+      "text": "it's kind of hard to say whether whether",
+      "start": 342.56,
+      "duration": 3.68
+    },
+    {
+      "text": "or not they're bald",
+      "start": 344.16,
+      "duration": 5.039
+    },
+    {
+      "text": "those are cases of vagueness in cases",
+      "start": 346.24,
+      "duration": 4.64
+    },
+    {
+      "text": "where it's borderline whether somebody",
+      "start": 349.199,
+      "duration": 3.44
+    },
+    {
+      "text": "is bald or not",
+      "start": 350.88,
+      "duration": 3.759
+    },
+    {
+      "text": "but chomsky thinks that the idea of",
+      "start": 352.639,
+      "duration": 3.921
+    },
+    {
+      "text": "being something being vague or something",
+      "start": 354.639,
+      "duration": 3.68
+    },
+    {
+      "text": "borderline is very different from this",
+      "start": 356.56,
+      "duration": 3.68
+    },
+    {
+      "text": "idea of being semi-grammatical",
+      "start": 358.319,
+      "duration": 4.0
+    },
+    {
+      "text": "it's not vague whether the sentence the",
+      "start": 360.24,
+      "duration": 3.84
+    },
+    {
+      "text": "child seems sleeping is part of english",
+      "start": 362.319,
+      "duration": 2.481
+    },
+    {
+      "text": "or not",
+      "start": 364.08,
+      "duration": 4.16
+    },
+    {
+      "text": "it's perfectly determinate that it's not",
+      "start": 364.8,
+      "duration": 5.44
+    },
+    {
+      "text": "a fully grammatical sentence of english",
+      "start": 368.24,
+      "duration": 4.079
+    },
+    {
+      "text": "it's just it has this other status that",
+      "start": 370.24,
+      "duration": 4.32
+    },
+    {
+      "text": "is different from ungrammatical",
+      "start": 372.319,
+      "duration": 3.841
+    },
+    {
+      "text": "and he thinks that the e-language way of",
+      "start": 374.56,
+      "duration": 3.28
+    },
+    {
+      "text": "thinking about it just can't explain",
+      "start": 376.16,
+      "duration": 3.12
+    },
+    {
+      "text": "what this other state is",
+      "start": 377.84,
+      "duration": 3.919
+    },
+    {
+      "text": "of semi-grammaticality is the second",
+      "start": 379.28,
+      "duration": 3.84
+    },
+    {
+      "text": "kind of objection he gives",
+      "start": 381.759,
+      "duration": 2.56
+    },
+    {
+      "text": "relates to the thing we were talking",
+      "start": 383.12,
+      "duration": 3.68
+    },
+    {
+      "text": "about last time last week",
+      "start": 384.319,
+      "duration": 4.16
+    },
+    {
+      "text": "particularly when we talked about the",
+      "start": 386.8,
+      "duration": 4.48
+    },
+    {
+      "text": "case of irish and smirish",
+      "start": 388.479,
+      "duration": 6.321
+    },
+    {
+      "text": "so we said so one thing we saw is that",
+      "start": 391.28,
+      "duration": 5.6
+    },
+    {
+      "text": "pinning down the meanings of sentences",
+      "start": 394.8,
+      "duration": 3.6
+    },
+    {
+      "text": "does not necessarily pin down",
+      "start": 396.88,
+      "duration": 3.36
+    },
+    {
+      "text": "all the meanings of the words in the",
+      "start": 398.4,
+      "duration": 3.84
+    },
+    {
+      "text": "sentences",
+      "start": 400.24,
+      "duration": 3.36
+    },
+    {
+      "text": "so for instance on this way of thinking",
+      "start": 402.24,
+      "duration": 2.959
+    },
+    {
+      "text": "about an e-language is a long list of",
+      "start": 403.6,
+      "duration": 2.4
+    },
+    {
+      "text": "sentences",
+      "start": 405.199,
+      "duration": 3.201
+    },
+    {
+      "text": "paired with their meanings but suppose",
+      "start": 406.0,
+      "duration": 4.08
+    },
+    {
+      "text": "the sentence",
+      "start": 408.4,
+      "duration": 5.199
+    },
+    {
+      "text": "s suppose the sentence is the example we",
+      "start": 410.08,
+      "duration": 4.72
+    },
+    {
+      "text": "had last time",
+      "start": 413.599,
+      "duration": 9.201
+    },
+    {
+      "text": "david boylan is irish",
+      "start": 414.8,
+      "duration": 11.2
+    },
+    {
+      "text": "so we'll imagine that's the sentence s1",
+      "start": 422.8,
+      "duration": 5.04
+    },
+    {
+      "text": "the fact that we know that the sentence",
+      "start": 426.0,
+      "duration": 3.199
+    },
+    {
+      "text": "s1 is supposed to be",
+      "start": 427.84,
+      "duration": 4.32
+    },
+    {
+      "text": "m whatever m is doesn't tell us what the",
+      "start": 429.199,
+      "duration": 4.881
+    },
+    {
+      "text": "individual words in it mean",
+      "start": 432.16,
+      "duration": 4.479
+    },
+    {
+      "text": "because as we saw last week even if we",
+      "start": 434.08,
+      "duration": 4.88
+    },
+    {
+      "text": "know what a sentence means overall",
+      "start": 436.639,
+      "duration": 3.84
+    },
+    {
+      "text": "there's always going to be loads of",
+      "start": 438.96,
+      "duration": 3.28
+    },
+    {
+      "text": "different ways of assigning meanings to",
+      "start": 440.479,
+      "duration": 2.641
+    },
+    {
+      "text": "the words",
+      "start": 442.24,
+      "duration": 2.48
+    },
+    {
+      "text": "that make it come out having the same",
+      "start": 443.12,
+      "duration": 3.199
+    },
+    {
+      "text": "meaning so one thing that seems to be",
+      "start": 444.72,
+      "duration": 4.879
+    },
+    {
+      "text": "missing from the idea of an e language",
+      "start": 446.319,
+      "duration": 5.201
+    },
+    {
+      "text": "is any concept of word meaning but",
+      "start": 449.599,
+      "duration": 3.201
+    },
+    {
+      "text": "chomsky thinks that this is",
+      "start": 451.52,
+      "duration": 3.119
+    },
+    {
+      "text": "a really big problem so we saw last time",
+      "start": 452.8,
+      "duration": 3.679
+    },
+    {
+      "text": "that lewis was a bit blase about it he",
+      "start": 454.639,
+      "duration": 2.4
+    },
+    {
+      "text": "said well",
+      "start": 456.479,
+      "duration": 2.241
+    },
+    {
+      "text": "it's kind of tough maybe there's no fact",
+      "start": 457.039,
+      "duration": 4.321
+    },
+    {
+      "text": "of the matter what things words mean",
+      "start": 458.72,
+      "duration": 4.24
+    },
+    {
+      "text": "but chomsky wants to say no this is",
+      "start": 461.36,
+      "duration": 3.2
+    },
+    {
+      "text": "actually a huge problem for the notion",
+      "start": 462.96,
+      "duration": 2.639
+    },
+    {
+      "text": "of an e language",
+      "start": 464.56,
+      "duration": 2.639
+    },
+    {
+      "text": "because it just is a fact of the matter",
+      "start": 465.599,
+      "duration": 3.44
+    },
+    {
+      "text": "whether when english speakers",
+      "start": 467.199,
+      "duration": 4.241
+    },
+    {
+      "text": "use the word is irish whether in their",
+      "start": 469.039,
+      "duration": 3.921
+    },
+    {
+      "text": "brains their associating",
+      "start": 471.44,
+      "duration": 2.879
+    },
+    {
+      "text": "is irish with the property of being",
+      "start": 472.96,
+      "duration": 3.28
+    },
+    {
+      "text": "irish or with the property of being",
+      "start": 474.319,
+      "duration": 2.801
+    },
+    {
+      "text": "smirish",
+      "start": 476.24,
+      "duration": 2.56
+    },
+    {
+      "text": "there just is a fact of the matter about",
+      "start": 477.12,
+      "duration": 3.44
+    },
+    {
+      "text": "that",
+      "start": 478.8,
+      "duration": 4.0
+    },
+    {
+      "text": "but since that fact isn't reflected in",
+      "start": 480.56,
+      "duration": 4.88
+    },
+    {
+      "text": "the notion of an e-language",
+      "start": 482.8,
+      "duration": 4.799
+    },
+    {
+      "text": "saying like describing english as an",
+      "start": 485.44,
+      "duration": 3.92
+    },
+    {
+      "text": "e-language that doesn't tell you what",
+      "start": 487.599,
+      "duration": 3.28
+    },
+    {
+      "text": "the meanings of the words are",
+      "start": 489.36,
+      "duration": 2.88
+    },
+    {
+      "text": "for the reasons that we talked about",
+      "start": 490.879,
+      "duration": 3.121
+    },
+    {
+      "text": "last week that",
+      "start": 492.24,
+      "duration": 3.76
+    },
+    {
+      "text": "seems to mean that just focusing on",
+      "start": 494.0,
+      "duration": 3.52
+    },
+    {
+      "text": "e-languages is going to lead out",
+      "start": 496.0,
+      "duration": 2.879
+    },
+    {
+      "text": "something really important",
+      "start": 497.52,
+      "duration": 3.04
+    },
+    {
+      "text": "about what's going on in the brains of",
+      "start": 498.879,
+      "duration": 3.681
+    },
+    {
+      "text": "english speakers or japanese speakers or",
+      "start": 500.56,
+      "duration": 7.28
+    },
+    {
+      "text": "any language at all",
+      "start": 502.56,
+      "duration": 5.28
+    },
+    {
+      "text": "so what is the alternative you might ask",
+      "start": 508.4,
+      "duration": 2.88
+    },
+    {
+      "text": "so we've said something about",
+      "start": 510.16,
+      "duration": 2.64
+    },
+    {
+      "text": "e-languages and we saw",
+      "start": 511.28,
+      "duration": 3.36
+    },
+    {
+      "text": "said that well chomsky is pretty unhappy",
+      "start": 512.8,
+      "duration": 3.44
+    },
+    {
+      "text": "about thinking of language as",
+      "start": 514.64,
+      "duration": 3.68
+    },
+    {
+      "text": "an e-language but what might be the",
+      "start": 516.24,
+      "duration": 4.0
+    },
+    {
+      "text": "alternative and the alternative is this",
+      "start": 518.32,
+      "duration": 2.639
+    },
+    {
+      "text": "idea",
+      "start": 520.24,
+      "duration": 2.96
+    },
+    {
+      "text": "of what he calls an eye language and",
+      "start": 520.959,
+      "duration": 4.0
+    },
+    {
+      "text": "this is sort of cognitive in the way",
+      "start": 523.2,
+      "duration": 3.04
+    },
+    {
+      "text": "that we talked about before",
+      "start": 524.959,
+      "duration": 2.88
+    },
+    {
+      "text": "so chomsky says we can sort of thinking",
+      "start": 526.24,
+      "duration": 2.88
+    },
+    {
+      "text": "about think about the process of",
+      "start": 527.839,
+      "duration": 3.201
+    },
+    {
+      "text": "acquiring a language like this",
+      "start": 529.12,
+      "duration": 3.68
+    },
+    {
+      "text": "our brains sort of start out in an",
+      "start": 531.04,
+      "duration": 3.6
+    },
+    {
+      "text": "initial state",
+      "start": 532.8,
+      "duration": 7.039
+    },
+    {
+      "text": "he calls it something boring like s0",
+      "start": 534.64,
+      "duration": 8.0
+    },
+    {
+      "text": "and when our brains are exposed to a",
+      "start": 539.839,
+      "duration": 5.521
+    },
+    {
+      "text": "language so",
+      "start": 542.64,
+      "duration": 2.72
+    },
+    {
+      "text": "suppose you know you grow up in an",
+      "start": 546.399,
+      "duration": 3.12
+    },
+    {
+      "text": "english-speaking community you're",
+      "start": 548.16,
+      "duration": 2.88
+    },
+    {
+      "text": "exposed to english",
+      "start": 549.519,
+      "duration": 3.121
+    },
+    {
+      "text": "your brain ends up in some sort of new",
+      "start": 551.04,
+      "duration": 4.0
+    },
+    {
+      "text": "state",
+      "start": 552.64,
+      "duration": 2.4
+    },
+    {
+      "text": "spain maybe calling being an english",
+      "start": 556.32,
+      "duration": 4.4
+    },
+    {
+      "text": "speaker",
+      "start": 560.839,
+      "duration": 3.0
+    },
+    {
+      "text": "and i language is basically whatever",
+      "start": 565.92,
+      "duration": 3.599
+    },
+    {
+      "text": "state your brain is in",
+      "start": 567.839,
+      "duration": 4.801
+    },
+    {
+      "text": "once it's done learning a language that",
+      "start": 569.519,
+      "duration": 3.361
+    },
+    {
+      "text": "is",
+      "start": 572.64,
+      "duration": 2.319
+    },
+    {
+      "text": "that is an i language and an i language",
+      "start": 572.88,
+      "duration": 4.0
+    },
+    {
+      "text": "is basically a certain kind of",
+      "start": 574.959,
+      "duration": 4.32
+    },
+    {
+      "text": "brain state now again we mean brain",
+      "start": 576.88,
+      "duration": 5.68
+    },
+    {
+      "text": "state at a very high level",
+      "start": 579.279,
+      "duration": 3.281
+    },
+    {
+      "text": "talking about the kind of thing we're",
+      "start": 582.959,
+      "duration": 2.641
+    },
+    {
+      "text": "talking about when we're talking about a",
+      "start": 584.48,
+      "duration": 2.72
+    },
+    {
+      "text": "brain state or this kind of brain state",
+      "start": 585.6,
+      "duration": 2.96
+    },
+    {
+      "text": "it's like talking about a kind of",
+      "start": 587.2,
+      "duration": 2.319
+    },
+    {
+      "text": "program",
+      "start": 588.56,
+      "duration": 2.959
+    },
+    {
+      "text": "run by a computer but the idea is having",
+      "start": 589.519,
+      "duration": 3.44
+    },
+    {
+      "text": "an eye language well that's just",
+      "start": 591.519,
+      "duration": 2.161
+    },
+    {
+      "text": "whatever",
+      "start": 592.959,
+      "duration": 2.961
+    },
+    {
+      "text": "your brain is like at a very high level",
+      "start": 593.68,
+      "duration": 3.44
+    },
+    {
+      "text": "whenever it's done",
+      "start": 595.92,
+      "duration": 4.479
+    },
+    {
+      "text": "learning language and one way he puts it",
+      "start": 597.12,
+      "duration": 5.12
+    },
+    {
+      "text": "is that we kind of start out with what",
+      "start": 600.399,
+      "duration": 3.361
+    },
+    {
+      "text": "you might call a sort of",
+      "start": 602.24,
+      "duration": 3.92
+    },
+    {
+      "text": "language learning mechanism or language",
+      "start": 603.76,
+      "duration": 5.199
+    },
+    {
+      "text": "learning device",
+      "start": 606.16,
+      "duration": 2.799
+    },
+    {
+      "text": "and there's a hypothesis in linguist and",
+      "start": 612.56,
+      "duration": 3.92
+    },
+    {
+      "text": "it's a hypothesis in linguistics that",
+      "start": 614.8,
+      "duration": 2.24
+    },
+    {
+      "text": "there are just",
+      "start": 616.48,
+      "duration": 2.72
+    },
+    {
+      "text": "all sorts of constraints on the language",
+      "start": 617.04,
+      "duration": 3.84
+    },
+    {
+      "text": "learning device in your brain",
+      "start": 619.2,
+      "duration": 3.6
+    },
+    {
+      "text": "that tells you basically what language",
+      "start": 620.88,
+      "duration": 3.68
+    },
+    {
+      "text": "can or can't be like so we talked about",
+      "start": 622.8,
+      "duration": 3.599
+    },
+    {
+      "text": "this a few weeks ago when we",
+      "start": 624.56,
+      "duration": 4.0
+    },
+    {
+      "text": "talked about the idea of certain things",
+      "start": 626.399,
+      "duration": 4.401
+    },
+    {
+      "text": "in language being innate",
+      "start": 628.56,
+      "duration": 4.24
+    },
+    {
+      "text": "we said that well what we mean by saying",
+      "start": 630.8,
+      "duration": 3.52
+    },
+    {
+      "text": "certain things in language or innate is",
+      "start": 632.8,
+      "duration": 2.0
+    },
+    {
+      "text": "that",
+      "start": 634.32,
+      "duration": 3.92
+    },
+    {
+      "text": "you sort of come hardwired knowing that",
+      "start": 634.8,
+      "duration": 5.44
+    },
+    {
+      "text": "no no spoken languages are going to have",
+      "start": 638.24,
+      "duration": 3.52
+    },
+    {
+      "text": "certain features you all you've kind of",
+      "start": 640.24,
+      "duration": 2.4
+    },
+    {
+      "text": "ruled out",
+      "start": 641.76,
+      "duration": 4.639
+    },
+    {
+      "text": "potential languages from the get-go",
+      "start": 642.64,
+      "duration": 6.319
+    },
+    {
+      "text": "and this idea of figuring out what what",
+      "start": 646.399,
+      "duration": 4.56
+    },
+    {
+      "text": "sort of features are hardwired in",
+      "start": 648.959,
+      "duration": 3.681
+    },
+    {
+      "text": "or put it slightly differently what",
+      "start": 650.959,
+      "duration": 4.401
+    },
+    {
+      "text": "features you already know to ignore what",
+      "start": 652.64,
+      "duration": 4.96
+    },
+    {
+      "text": "hypotheses you know not to test",
+      "start": 655.36,
+      "duration": 3.599
+    },
+    {
+      "text": "this is all kind of stuff that's",
+      "start": 657.6,
+      "duration": 3.359
+    },
+    {
+      "text": "hardwired into the language learning",
+      "start": 658.959,
+      "duration": 2.641
+    },
+    {
+      "text": "device",
+      "start": 660.959,
+      "duration": 1.921
+    },
+    {
+      "text": "you might think of as being in your",
+      "start": 661.6,
+      "duration": 3.12
+    },
+    {
+      "text": "brain when you when you start off",
+      "start": 662.88,
+      "duration": 4.56
+    },
+    {
+      "text": "learning language",
+      "start": 664.72,
+      "duration": 4.48
+    },
+    {
+      "text": "and the reason why the concept of an eye",
+      "start": 667.44,
+      "duration": 3.6
+    },
+    {
+      "text": "language is important chomsky thinks is",
+      "start": 669.2,
+      "duration": 2.4
+    },
+    {
+      "text": "because",
+      "start": 671.04,
+      "duration": 2.4
+    },
+    {
+      "text": "well by studying particular eye",
+      "start": 671.6,
+      "duration": 3.84
+    },
+    {
+      "text": "languages so when we study when we do",
+      "start": 673.44,
+      "duration": 4.16
+    },
+    {
+      "text": "linguistics or we do semantics we study",
+      "start": 675.44,
+      "duration": 3.92
+    },
+    {
+      "text": "particular human languages we figure we",
+      "start": 677.6,
+      "duration": 4.08
+    },
+    {
+      "text": "find out what those languages are like",
+      "start": 679.36,
+      "duration": 3.76
+    },
+    {
+      "text": "but what we're really trying to do at",
+      "start": 681.68,
+      "duration": 3.279
+    },
+    {
+      "text": "the end of the day is say something",
+      "start": 683.12,
+      "duration": 3.52
+    },
+    {
+      "text": "about what the language learning device",
+      "start": 684.959,
+      "duration": 2.081
+    },
+    {
+      "text": "is",
+      "start": 686.64,
+      "duration": 2.0
+    },
+    {
+      "text": "because by studying all these to various",
+      "start": 687.04,
+      "duration": 3.2
+    },
+    {
+      "text": "different languages",
+      "start": 688.64,
+      "duration": 3.36
+    },
+    {
+      "text": "we get a sense of what the particular",
+      "start": 690.24,
+      "duration": 3.92
+    },
+    {
+      "text": "constraints are and what language could",
+      "start": 692.0,
+      "duration": 2.72
+    },
+    {
+      "text": "be like",
+      "start": 694.16,
+      "duration": 2.239
+    },
+    {
+      "text": "because all the kind of constraints on",
+      "start": 694.72,
+      "duration": 3.52
+    },
+    {
+      "text": "what kinds of languages we could end up",
+      "start": 696.399,
+      "duration": 3.201
+    },
+    {
+      "text": "speaking so obviously",
+      "start": 698.24,
+      "duration": 2.8
+    },
+    {
+      "text": "there are lots of different languages",
+      "start": 699.6,
+      "duration": 3.76
+    },
+    {
+      "text": "but linguists tend to think that they",
+      "start": 701.04,
+      "duration": 2.64
+    },
+    {
+      "text": "all",
+      "start": 703.36,
+      "duration": 3.28
+    },
+    {
+      "text": "at some deep level share some features",
+      "start": 703.68,
+      "duration": 4.399
+    },
+    {
+      "text": "what features they share",
+      "start": 706.64,
+      "duration": 3.199
+    },
+    {
+      "text": "are supposed to be sort of as chelmsy",
+      "start": 708.079,
+      "duration": 3.681
+    },
+    {
+      "text": "thinking about hardwired into this",
+      "start": 709.839,
+      "duration": 3.361
+    },
+    {
+      "text": "language learning device or",
+      "start": 711.76,
+      "duration": 3.92
+    },
+    {
+      "text": "language learning state that people that",
+      "start": 713.2,
+      "duration": 3.92
+    },
+    {
+      "text": "humans kind of come",
+      "start": 715.68,
+      "duration": 4.959
+    },
+    {
+      "text": "come equipped with when they're born",
+      "start": 717.12,
+      "duration": 3.519
+    },
+    {
+      "text": "so on that notion of language it is",
+      "start": 720.8,
+      "duration": 4.0
+    },
+    {
+      "text": "quite clear how it's supposed to be",
+      "start": 723.36,
+      "duration": 3.12
+    },
+    {
+      "text": "cognitive",
+      "start": 724.8,
+      "duration": 3.44
+    },
+    {
+      "text": "having an eye language well that's just",
+      "start": 726.48,
+      "duration": 3.12
+    },
+    {
+      "text": "for your brain to be in a particular",
+      "start": 728.24,
+      "duration": 2.64
+    },
+    {
+      "text": "kind of state",
+      "start": 729.6,
+      "duration": 4.799
+    },
+    {
+      "text": "characterized at a very high level",
+      "start": 730.88,
+      "duration": 5.92
+    },
+    {
+      "text": "and basically by thinking about the i",
+      "start": 734.399,
+      "duration": 4.24
+    },
+    {
+      "text": "all the various i languages that",
+      "start": 736.8,
+      "duration": 4.64
+    },
+    {
+      "text": "actually exist in the real world all the",
+      "start": 738.639,
+      "duration": 4.081
+    },
+    {
+      "text": "different kinds of languages people",
+      "start": 741.44,
+      "duration": 2.16
+    },
+    {
+      "text": "speak",
+      "start": 742.72,
+      "duration": 2.72
+    },
+    {
+      "text": "we learn more about what that initial",
+      "start": 743.6,
+      "duration": 4.08
+    },
+    {
+      "text": "state of the brain must be like",
+      "start": 745.44,
+      "duration": 3.76
+    },
+    {
+      "text": "by fight by figuring out what all",
+      "start": 747.68,
+      "duration": 3.839
+    },
+    {
+      "text": "languages have in common",
+      "start": 749.2,
+      "duration": 4.24
+    },
+    {
+      "text": "we get to we get a better picture of",
+      "start": 751.519,
+      "duration": 3.841
+    },
+    {
+      "text": "what's hardwired into the brain",
+      "start": 753.44,
+      "duration": 6.399
+    },
+    {
+      "text": "from the get-go",
+      "start": 755.36,
+      "duration": 4.479
+    },
+    {
+      "text": "before we wrap up i will say some quick",
+      "start": 760.16,
+      "duration": 3.359
+    },
+    {
+      "text": "things about the the two objections",
+      "start": 761.92,
+      "duration": 3.2
+    },
+    {
+      "text": "chomsky makes because i do think there",
+      "start": 763.519,
+      "duration": 3.041
+    },
+    {
+      "text": "are some things that",
+      "start": 765.12,
+      "duration": 3.68
+    },
+    {
+      "text": "people who you know defend the",
+      "start": 766.56,
+      "duration": 4.399
+    },
+    {
+      "text": "e-language approach that we've been",
+      "start": 768.8,
+      "duration": 4.159
+    },
+    {
+      "text": "basically working within probably for",
+      "start": 770.959,
+      "duration": 3.201
+    },
+    {
+      "text": "the whole semester",
+      "start": 772.959,
+      "duration": 4.161
+    },
+    {
+      "text": "can say in response so let's sort of go",
+      "start": 774.16,
+      "duration": 4.799
+    },
+    {
+      "text": "back to the e-language picture where",
+      "start": 777.12,
+      "duration": 3.6
+    },
+    {
+      "text": "a language is really just a sort of list",
+      "start": 778.959,
+      "duration": 4.401
+    },
+    {
+      "text": "of sentences with their meanings",
+      "start": 780.72,
+      "duration": 4.32
+    },
+    {
+      "text": "i think the e-language person might just",
+      "start": 783.36,
+      "duration": 3.44
+    },
+    {
+      "text": "say in response that well",
+      "start": 785.04,
+      "duration": 3.44
+    },
+    {
+      "text": "that was sort of an oversimplified way",
+      "start": 786.8,
+      "duration": 3.52
+    },
+    {
+      "text": "of thinking about language but",
+      "start": 788.48,
+      "duration": 3.68
+    },
+    {
+      "text": "still that when we complicate it in the",
+      "start": 790.32,
+      "duration": 3.44
+    },
+    {
+      "text": "right way it will still be sort of",
+      "start": 792.16,
+      "duration": 2.88
+    },
+    {
+      "text": "recognizably",
+      "start": 793.76,
+      "duration": 2.879
+    },
+    {
+      "text": "true to the original idea of an a",
+      "start": 795.04,
+      "duration": 3.68
+    },
+    {
+      "text": "language",
+      "start": 796.639,
+      "duration": 3.841
+    },
+    {
+      "text": "so let's take the first example of the",
+      "start": 798.72,
+      "duration": 3.2
+    },
+    {
+      "text": "semi-grammatical sentences",
+      "start": 800.48,
+      "duration": 2.479
+    },
+    {
+      "text": "well this way of thinking about an",
+      "start": 801.92,
+      "duration": 3.2
+    },
+    {
+      "text": "e-language the way we write down the way",
+      "start": 802.959,
+      "duration": 3.521
+    },
+    {
+      "text": "we represent which sentences are",
+      "start": 805.12,
+      "duration": 3.279
+    },
+    {
+      "text": "grammatical which sentences aren't is we",
+      "start": 806.48,
+      "duration": 3.52
+    },
+    {
+      "text": "just sort of we write down",
+      "start": 808.399,
+      "duration": 4.44
+    },
+    {
+      "text": "a list of the sentences that are",
+      "start": 810.0,
+      "duration": 4.24
+    },
+    {
+      "text": "grammatical",
+      "start": 812.839,
+      "duration": 2.841
+    },
+    {
+      "text": "but there's nothing really to stop us",
+      "start": 814.24,
+      "duration": 2.88
+    },
+    {
+      "text": "from saying that actually really there's",
+      "start": 815.68,
+      "duration": 2.959
+    },
+    {
+      "text": "two categories",
+      "start": 817.12,
+      "duration": 4.64
+    },
+    {
+      "text": "so we write down the grammatical",
+      "start": 818.639,
+      "duration": 3.76
+    },
+    {
+      "text": "sentences",
+      "start": 821.76,
+      "duration": 2.879
+    },
+    {
+      "text": "and then once we're done with that we",
+      "start": 822.399,
+      "duration": 3.44
+    },
+    {
+      "text": "sort of write down",
+      "start": 824.639,
+      "duration": 5.2
+    },
+    {
+      "text": "the semi-grammatical sentences",
+      "start": 825.839,
+      "duration": 4.0
+    },
+    {
+      "text": "and then we also say well what sentences",
+      "start": 837.12,
+      "duration": 4.0
+    },
+    {
+      "text": "what kind of meanings that they seem to",
+      "start": 839.44,
+      "duration": 2.56
+    },
+    {
+      "text": "have",
+      "start": 841.12,
+      "duration": 2.64
+    },
+    {
+      "text": "i should say when i say write down these",
+      "start": 842.0,
+      "duration": 3.199
+    },
+    {
+      "text": "things i don't obviously mean literally",
+      "start": 843.76,
+      "duration": 2.879
+    },
+    {
+      "text": "write them down but also",
+      "start": 845.199,
+      "duration": 3.281
+    },
+    {
+      "text": "we will also the way we sort of write",
+      "start": 846.639,
+      "duration": 3.281
+    },
+    {
+      "text": "them down is we figure out",
+      "start": 848.48,
+      "duration": 3.44
+    },
+    {
+      "text": "the rules which tell us which sentences",
+      "start": 849.92,
+      "duration": 3.279
+    },
+    {
+      "text": "are grammatical or not",
+      "start": 851.92,
+      "duration": 2.719
+    },
+    {
+      "text": "and likewise we figure out the rules",
+      "start": 853.199,
+      "duration": 5.44
+    },
+    {
+      "text": "which tell us what things words mean",
+      "start": 854.639,
+      "duration": 4.0
+    },
+    {
+      "text": "but it still seems like you know even if",
+      "start": 858.8,
+      "duration": 3.44
+    },
+    {
+      "text": "the way that we even",
+      "start": 860.72,
+      "duration": 3.6
+    },
+    {
+      "text": "the way we figure out what's on the list",
+      "start": 862.24,
+      "duration": 4.719
+    },
+    {
+      "text": "is by saying what the rules are",
+      "start": 864.32,
+      "duration": 4.56
+    },
+    {
+      "text": "it does i'm not totally sure why we",
+      "start": 866.959,
+      "duration": 3.44
+    },
+    {
+      "text": "couldn't just say well actually",
+      "start": 868.88,
+      "duration": 2.8
+    },
+    {
+      "text": "when we're thinking about in terms of",
+      "start": 870.399,
+      "duration": 2.961
+    },
+    {
+      "text": "lists there's a list of the grammatical",
+      "start": 871.68,
+      "duration": 3.12
+    },
+    {
+      "text": "stuff and there's also the list of the",
+      "start": 873.36,
+      "duration": 3.839
+    },
+    {
+      "text": "semi-grammatical stuff",
+      "start": 874.8,
+      "duration": 4.0
+    },
+    {
+      "text": "so that's why i think that the defender",
+      "start": 877.199,
+      "duration": 3.601
+    },
+    {
+      "text": "of the e-language could say to chomsky's",
+      "start": 878.8,
+      "duration": 3.68
+    },
+    {
+      "text": "first objection",
+      "start": 880.8,
+      "duration": 3.44
+    },
+    {
+      "text": "to the second objection that word",
+      "start": 882.48,
+      "duration": 3.2
+    },
+    {
+      "text": "meaning is not pinned down by sentence",
+      "start": 884.24,
+      "duration": 2.08
+    },
+    {
+      "text": "meaning",
+      "start": 885.68,
+      "duration": 2.399
+    },
+    {
+      "text": "i mean i i here i think we can just say",
+      "start": 886.32,
+      "duration": 3.36
+    },
+    {
+      "text": "something that lewis said",
+      "start": 888.079,
+      "duration": 3.44
+    },
+    {
+      "text": "which is that well again maybe we should",
+      "start": 889.68,
+      "duration": 3.36
+    },
+    {
+      "text": "just think there's more going on in the",
+      "start": 891.519,
+      "duration": 2.0
+    },
+    {
+      "text": "list",
+      "start": 893.04,
+      "duration": 2.32
+    },
+    {
+      "text": "so maybe in addition to thinking about",
+      "start": 893.519,
+      "duration": 3.68
+    },
+    {
+      "text": "the language as a list of sentences and",
+      "start": 895.36,
+      "duration": 3.52
+    },
+    {
+      "text": "their meanings we should also add to",
+      "start": 897.199,
+      "duration": 3.841
+    },
+    {
+      "text": "that a list of words and their meanings",
+      "start": 898.88,
+      "duration": 3.84
+    },
+    {
+      "text": "and then we up maybe you also have a",
+      "start": 901.04,
+      "duration": 3.919
+    },
+    {
+      "text": "list of rules about how we combine",
+      "start": 902.72,
+      "duration": 3.84
+    },
+    {
+      "text": "meanings of words to get sentence",
+      "start": 904.959,
+      "duration": 3.281
+    },
+    {
+      "text": "meanings so again just like in the other",
+      "start": 906.56,
+      "duration": 2.719
+    },
+    {
+      "text": "case",
+      "start": 908.24,
+      "duration": 2.8
+    },
+    {
+      "text": "it seems like what the defender of the",
+      "start": 909.279,
+      "duration": 3.441
+    },
+    {
+      "text": "e-language approach should say is like",
+      "start": 911.04,
+      "duration": 3.52
+    },
+    {
+      "text": "well we just make whatever our list is",
+      "start": 912.72,
+      "duration": 3.6
+    },
+    {
+      "text": "we just add more things to it we make a",
+      "start": 914.56,
+      "duration": 3.279
+    },
+    {
+      "text": "more sophisticated list",
+      "start": 916.32,
+      "duration": 3.519
+    },
+    {
+      "text": "than this original sort of crude one of",
+      "start": 917.839,
+      "duration": 3.601
+    },
+    {
+      "text": "just writing down sentences and their",
+      "start": 919.839,
+      "duration": 2.24
+    },
+    {
+      "text": "meanings",
+      "start": 921.44,
+      "duration": 2.48
+    },
+    {
+      "text": "so lewis didn't want to go this way he",
+      "start": 922.079,
+      "duration": 3.841
+    },
+    {
+      "text": "wanted to say well all there really is a",
+      "start": 923.92,
+      "duration": 2.88
+    },
+    {
+      "text": "sentence meaning",
+      "start": 925.92,
+      "duration": 3.12
+    },
+    {
+      "text": "word meaning just sort of is sort of",
+      "start": 926.8,
+      "duration": 4.64
+    },
+    {
+      "text": "derivative and indeterminate because",
+      "start": 929.04,
+      "duration": 3.919
+    },
+    {
+      "text": "sentence meaning doesn't pin down word",
+      "start": 931.44,
+      "duration": 3.28
+    },
+    {
+      "text": "meaning but it's not really obvious that",
+      "start": 932.959,
+      "duration": 3.12
+    },
+    {
+      "text": "we have to follow him on that",
+      "start": 934.72,
+      "duration": 2.88
+    },
+    {
+      "text": "we could still fundamentally think of",
+      "start": 936.079,
+      "duration": 3.041
+    },
+    {
+      "text": "language as just a list of",
+      "start": 937.6,
+      "duration": 3.28
+    },
+    {
+      "text": "the way expressions are paired with",
+      "start": 939.12,
+      "duration": 3.92
+    },
+    {
+      "text": "meanings and just say there's more on",
+      "start": 940.88,
+      "duration": 3.6
+    },
+    {
+      "text": "the list than sentences",
+      "start": 943.04,
+      "duration": 2.88
+    },
+    {
+      "text": "that being said it doesn't that doesn't",
+      "start": 944.48,
+      "duration": 3.44
+    },
+    {
+      "text": "necessarily saying that the concept of",
+      "start": 945.92,
+      "duration": 4.0
+    },
+    {
+      "text": "an e language has more going for it than",
+      "start": 947.92,
+      "duration": 2.88
+    },
+    {
+      "text": "chomsky says",
+      "start": 949.92,
+      "duration": 2.719
+    },
+    {
+      "text": "does not that's not by itself to say",
+      "start": 950.8,
+      "duration": 3.599
+    },
+    {
+      "text": "that an i language is uninteresting",
+      "start": 952.639,
+      "duration": 2.721
+    },
+    {
+      "text": "either",
+      "start": 954.399,
+      "duration": 2.721
+    },
+    {
+      "text": "the upshot maybe i'm suggesting is that",
+      "start": 955.36,
+      "duration": 3.12
+    },
+    {
+      "text": "i'm not really sure",
+      "start": 957.12,
+      "duration": 2.959
+    },
+    {
+      "text": "that chomsky is right that we have to",
+      "start": 958.48,
+      "duration": 3.2
+    },
+    {
+      "text": "choose between these two things that",
+      "start": 960.079,
+      "duration": 3.601
+    },
+    {
+      "text": "only one of them is interesting and that",
+      "start": 961.68,
+      "duration": 4.56
+    },
+    {
+      "text": "that the interesting one is eye language",
+      "start": 963.68,
+      "duration": 4.24
+    },
+    {
+      "text": "rather i think there's space here to say",
+      "start": 966.24,
+      "duration": 2.959
+    },
+    {
+      "text": "well both of these are important",
+      "start": 967.92,
+      "duration": 2.719
+    },
+    {
+      "text": "concepts and we should think about both",
+      "start": 969.199,
+      "duration": 2.481
+    },
+    {
+      "text": "of them when we do philosophy of",
+      "start": 970.639,
+      "duration": 5.361
+    },
+    {
+      "text": "language and linguistics",
+      "start": 971.68,
+      "duration": 4.32
+    }
+  ]
+}

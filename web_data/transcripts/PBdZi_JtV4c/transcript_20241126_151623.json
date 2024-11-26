@@ -1,0 +1,4006 @@
+{
+  "video_id": "PBdZi_JtV4c",
+  "url": "https://www.youtube.com/watch?v=PBdZi_JtV4c",
+  "transcript": [
+    {
+      "text": "[Music]",
+      "start": 0.18,
+      "duration": 5.82
+    },
+    {
+      "text": "foreign",
+      "start": 3.0,
+      "duration": 3.0
+    },
+    {
+      "text": "oh my word there's so many people in",
+      "start": 6.899,
+      "duration": 4.681
+    },
+    {
+      "text": "here for a final two acts in a moment",
+      "start": 9.059,
+      "duration": 7.501
+    },
+    {
+      "text": "I'll introduce Noam Chomsky and two",
+      "start": 11.58,
+      "duration": 6.18
+    },
+    {
+      "text": "amazing",
+      "start": 16.56,
+      "duration": 3.24
+    },
+    {
+      "text": "people to speak alongside him and then",
+      "start": 17.76,
+      "duration": 4.14
+    },
+    {
+      "text": "we're going to close out as is tradition",
+      "start": 19.8,
+      "duration": 5.7
+    },
+    {
+      "text": "with the pretty incredible president of",
+      "start": 21.9,
+      "duration": 5.699
+    },
+    {
+      "text": "Portugal it's been an incredible four",
+      "start": 25.5,
+      "duration": 4.26
+    },
+    {
+      "text": "days I hope everybody has had have you",
+      "start": 27.599,
+      "duration": 4.641
+    },
+    {
+      "text": "had a good time",
+      "start": 29.76,
+      "duration": 2.48
+    },
+    {
+      "text": "it's been remarkable the father of",
+      "start": 34.5,
+      "duration": 5.76
+    },
+    {
+      "text": "modern Linguistics Noam Chomsky joins",
+      "start": 37.32,
+      "duration": 5.94
+    },
+    {
+      "text": "scientist author and entrepreneur Gary",
+      "start": 40.26,
+      "duration": 5.52
+    },
+    {
+      "text": "Marcus for a wide-ranging discussion on",
+      "start": 43.26,
+      "duration": 4.86
+    },
+    {
+      "text": "why the myths surrounding artificial",
+      "start": 45.78,
+      "duration": 4.98
+    },
+    {
+      "text": "intelligence are so dangerous and why we",
+      "start": 48.12,
+      "duration": 6.119
+    },
+    {
+      "text": "should not rely on AI to save us all",
+      "start": 50.76,
+      "duration": 6.479
+    },
+    {
+      "text": "please welcome to the stage Noam Chomsky",
+      "start": 54.239,
+      "duration": 6.0
+    },
+    {
+      "text": "and Gary Marcus of robust.ai in",
+      "start": 57.239,
+      "duration": 5.401
+    },
+    {
+      "text": "conversation with Jeremy Khan from",
+      "start": 60.239,
+      "duration": 4.941
+    },
+    {
+      "text": "Fortune",
+      "start": 62.64,
+      "duration": 2.54
+    },
+    {
+      "text": "thank you",
+      "start": 71.299,
+      "duration": 3.0
+    },
+    {
+      "text": "[Music]",
+      "start": 75.23,
+      "duration": 6.25
+    },
+    {
+      "text": "he's here oh",
+      "start": 82.74,
+      "duration": 5.46
+    },
+    {
+      "text": "hi gnome thanks for joining us and Gary",
+      "start": 85.439,
+      "duration": 4.441
+    },
+    {
+      "text": "thanks for joining us",
+      "start": 88.2,
+      "duration": 3.779
+    },
+    {
+      "text": "a lot of people think we're living in",
+      "start": 89.88,
+      "duration": 4.559
+    },
+    {
+      "text": "the Golden Age of AI there's a lot of",
+      "start": 91.979,
+      "duration": 5.041
+    },
+    {
+      "text": "type around generative AI these systems",
+      "start": 94.439,
+      "duration": 4.621
+    },
+    {
+      "text": "like Dolly and stable diffusion that can",
+      "start": 97.02,
+      "duration": 4.08
+    },
+    {
+      "text": "create amazing images just from text",
+      "start": 99.06,
+      "duration": 4.379
+    },
+    {
+      "text": "prompts there's also a lot of discussion",
+      "start": 101.1,
+      "duration": 4.92
+    },
+    {
+      "text": "about gpt3 a System created by openai",
+      "start": 103.439,
+      "duration": 5.22
+    },
+    {
+      "text": "that can create long passages of",
+      "start": 106.02,
+      "duration": 4.68
+    },
+    {
+      "text": "coherent text again just from a small",
+      "start": 108.659,
+      "duration": 4.381
+    },
+    {
+      "text": "human written prompt a lot of you are",
+      "start": 110.7,
+      "duration": 3.66
+    },
+    {
+      "text": "very excited about where this technology",
+      "start": 113.04,
+      "duration": 4.02
+    },
+    {
+      "text": "is going but no my understanding is that",
+      "start": 114.36,
+      "duration": 3.84
+    },
+    {
+      "text": "you are not that you're actually",
+      "start": 117.06,
+      "duration": 3.18
+    },
+    {
+      "text": "disappointed in where we are with this",
+      "start": 118.2,
+      "duration": 5.419
+    },
+    {
+      "text": "technology why is that",
+      "start": 120.24,
+      "duration": 3.379
+    },
+    {
+      "text": "oh he's I don't know if he can hear us",
+      "start": 125.04,
+      "duration": 4.88
+    },
+    {
+      "text": "there we go",
+      "start": 127.14,
+      "duration": 2.78
+    },
+    {
+      "text": "yeah I am indeed yes",
+      "start": 132.12,
+      "duration": 3.68
+    },
+    {
+      "text": "be",
+      "start": 153.84,
+      "duration": 2.72
+    },
+    {
+      "text": "efficient",
+      "start": 155.16,
+      "duration": 6.0
+    },
+    {
+      "text": "one way is it's not strong enough fails",
+      "start": 156.56,
+      "duration": 6.52
+    },
+    {
+      "text": "to do certain things",
+      "start": 161.16,
+      "duration": 5.34
+    },
+    {
+      "text": "the other way is it's too strong",
+      "start": 163.08,
+      "duration": 6.299
+    },
+    {
+      "text": "it does what it shouldn't do",
+      "start": 166.5,
+      "duration": 6.0
+    },
+    {
+      "text": "well my own interests happen to be",
+      "start": 169.379,
+      "duration": 5.521
+    },
+    {
+      "text": "language and cognition language",
+      "start": 172.5,
+      "duration": 6.5
+    },
+    {
+      "text": "specifically so take GPT",
+      "start": 174.9,
+      "duration": 6.619
+    },
+    {
+      "text": "it there's",
+      "start": 179.0,
+      "duration": 8.14
+    },
+    {
+      "text": "uh Gary Marcus others have found lots of",
+      "start": 181.519,
+      "duration": 8.8
+    },
+    {
+      "text": "ways in which the system's deficient",
+      "start": 187.14,
+      "duration": 6.0
+    },
+    {
+      "text": "this system and others doesn't do",
+      "start": 190.319,
+      "duration": 6.56
+    },
+    {
+      "text": "certain things that there's a the other",
+      "start": 193.14,
+      "duration": 5.519
+    },
+    {
+      "text": "that can",
+      "start": 196.879,
+      "duration": 5.5
+    },
+    {
+      "text": "in principle at least be fixed you add",
+      "start": 198.659,
+      "duration": 6.181
+    },
+    {
+      "text": "another trillion parameters double the",
+      "start": 202.379,
+      "duration": 6.181
+    },
+    {
+      "text": "number of terabytes and maybe do better",
+      "start": 204.84,
+      "duration": 6.6
+    },
+    {
+      "text": "when a system is too strong it's",
+      "start": 208.56,
+      "duration": 6.36
+    },
+    {
+      "text": "unfixable typically and that's the",
+      "start": 211.44,
+      "duration": 4.799
+    },
+    {
+      "text": "problem with",
+      "start": 214.92,
+      "duration": 4.86
+    },
+    {
+      "text": "GPT and the other systems",
+      "start": 216.239,
+      "duration": 9.78
+    },
+    {
+      "text": "so if you give a database to the GPT",
+      "start": 219.78,
+      "duration": 9.239
+    },
+    {
+      "text": "system which happens to be from an",
+      "start": 226.019,
+      "duration": 4.981
+    },
+    {
+      "text": "impossible language",
+      "start": 229.019,
+      "duration": 5.181
+    },
+    {
+      "text": "one that violates the rules of language",
+      "start": 231.0,
+      "duration": 5.819
+    },
+    {
+      "text": "they'll do just as well",
+      "start": 234.2,
+      "duration": 5.319
+    },
+    {
+      "text": "often better because the rules can be",
+      "start": 236.819,
+      "duration": 4.14
+    },
+    {
+      "text": "simpler",
+      "start": 239.519,
+      "duration": 4.021
+    },
+    {
+      "text": "for example one of the",
+      "start": 240.959,
+      "duration": 5.541
+    },
+    {
+      "text": "fundamental properties of the",
+      "start": 243.54,
+      "duration": 5.759
+    },
+    {
+      "text": "the way language works there's good",
+      "start": 246.5,
+      "duration": 4.18
+    },
+    {
+      "text": "reasons for it",
+      "start": 249.299,
+      "duration": 3.0
+    },
+    {
+      "text": "is that",
+      "start": 250.68,
+      "duration": 7.5
+    },
+    {
+      "text": "the rules the the core rules do not",
+      "start": 252.299,
+      "duration": 9.241
+    },
+    {
+      "text": "ignore linear order of words",
+      "start": 258.18,
+      "duration": 5.72
+    },
+    {
+      "text": "they're ignore everything that you hear",
+      "start": 261.54,
+      "duration": 6.659
+    },
+    {
+      "text": "they uh attend only to abstract",
+      "start": 263.9,
+      "duration": 7.18
+    },
+    {
+      "text": "structures that the mind creates",
+      "start": 268.199,
+      "duration": 6.0
+    },
+    {
+      "text": "so it's very easy to construct",
+      "start": 271.08,
+      "duration": 5.339
+    },
+    {
+      "text": "impossible languages",
+      "start": 274.199,
+      "duration": 6.261
+    },
+    {
+      "text": "which use very simple procedures",
+      "start": 276.419,
+      "duration": 7.321
+    },
+    {
+      "text": "involving linear order of words",
+      "start": 280.46,
+      "duration": 6.34
+    },
+    {
+      "text": "trouble is that's not language but jpt",
+      "start": 283.74,
+      "duration": 5.34
+    },
+    {
+      "text": "will do just fine with them",
+      "start": 286.8,
+      "duration": 5.339
+    },
+    {
+      "text": "so it's kind of as if",
+      "start": 289.08,
+      "duration": 6.42
+    },
+    {
+      "text": "somebody were to propose uh say a",
+      "start": 292.139,
+      "duration": 6.801
+    },
+    {
+      "text": "revised version of the",
+      "start": 295.5,
+      "duration": 6.84
+    },
+    {
+      "text": "of the periodic table",
+      "start": 298.94,
+      "duration": 6.94
+    },
+    {
+      "text": "which included all the elements all the",
+      "start": 302.34,
+      "duration": 6.18
+    },
+    {
+      "text": "possible elements and all the impossible",
+      "start": 305.88,
+      "duration": 5.22
+    },
+    {
+      "text": "elements and didn't make any distinction",
+      "start": 308.52,
+      "duration": 3.899
+    },
+    {
+      "text": "between them",
+      "start": 311.1,
+      "duration": 3.06
+    },
+    {
+      "text": "that wouldn't tell us anything about",
+      "start": 312.419,
+      "duration": 3.0
+    },
+    {
+      "text": "elements",
+      "start": 314.16,
+      "duration": 6.14
+    },
+    {
+      "text": "and if a system works just as well for",
+      "start": 315.419,
+      "duration": 7.441
+    },
+    {
+      "text": "impossible languages as for possible",
+      "start": 320.3,
+      "duration": 3.64
+    },
+    {
+      "text": "ones",
+      "start": 322.86,
+      "duration": 3.3
+    },
+    {
+      "text": "by definition not telling us anything",
+      "start": 323.94,
+      "duration": 3.9
+    },
+    {
+      "text": "about language",
+      "start": 326.16,
+      "duration": 4.62
+    },
+    {
+      "text": "and that's the way these systems work it",
+      "start": 327.84,
+      "duration": 5.699
+    },
+    {
+      "text": "generalizes the other systems too",
+      "start": 330.78,
+      "duration": 5.46
+    },
+    {
+      "text": "so the problem is the Deep problem that",
+      "start": 333.539,
+      "duration": 6.241
+    },
+    {
+      "text": "concerns me is too much strength I don't",
+      "start": 336.24,
+      "duration": 6.36
+    },
+    {
+      "text": "see any conceivable way to remedy that",
+      "start": 339.78,
+      "duration": 4.919
+    },
+    {
+      "text": "interesting Gary you've you've examined",
+      "start": 342.6,
+      "duration": 3.84
+    },
+    {
+      "text": "how some of these systems fail can you",
+      "start": 344.699,
+      "duration": 3.181
+    },
+    {
+      "text": "talk a little bit about what those sort",
+      "start": 346.44,
+      "duration": 3.06
+    },
+    {
+      "text": "of modes of failure are that you've",
+      "start": 347.88,
+      "duration": 4.68
+    },
+    {
+      "text": "discovered sure and usually also gnome",
+      "start": 349.5,
+      "duration": 4.62
+    },
+    {
+      "text": "and I have had this interchange over the",
+      "start": 352.56,
+      "duration": 3.18
+    },
+    {
+      "text": "last few months where he tells me that",
+      "start": 354.12,
+      "duration": 4.079
+    },
+    {
+      "text": "I'm too nice when I'm negative about AI",
+      "start": 355.74,
+      "duration": 4.26
+    },
+    {
+      "text": "in this case there's a certain way in",
+      "start": 358.199,
+      "duration": 3.241
+    },
+    {
+      "text": "which I thought he was too nice so he",
+      "start": 360.0,
+      "duration": 3.9
+    },
+    {
+      "text": "said that in the ways in which these",
+      "start": 361.44,
+      "duration": 4.02
+    },
+    {
+      "text": "systems are too weak just adding more",
+      "start": 363.9,
+      "duration": 3.72
+    },
+    {
+      "text": "parameters maybe that will help and",
+      "start": 365.46,
+      "duration": 3.48
+    },
+    {
+      "text": "there I actually take a darker view",
+      "start": 367.62,
+      "duration": 4.2
+    },
+    {
+      "text": "maybe than gnome does some examples of",
+      "start": 368.94,
+      "duration": 4.38
+    },
+    {
+      "text": "the kinds of problems these systems have",
+      "start": 371.82,
+      "duration": 4.26
+    },
+    {
+      "text": "are Dolly if you tell it to draw a blue",
+      "start": 373.32,
+      "duration": 4.92
+    },
+    {
+      "text": "cube on top of a Red Cube it might just",
+      "start": 376.08,
+      "duration": 3.72
+    },
+    {
+      "text": "give you a Red Cube on top of a blue",
+      "start": 378.24,
+      "duration": 3.42
+    },
+    {
+      "text": "cube so one of the most basic things",
+      "start": 379.8,
+      "duration": 3.72
+    },
+    {
+      "text": "about language is that we put together",
+      "start": 381.66,
+      "duration": 4.74
+    },
+    {
+      "text": "meanings from the orders of words this",
+      "start": 383.52,
+      "duration": 4.86
+    },
+    {
+      "text": "is an idea that goes back to Fraga and",
+      "start": 386.4,
+      "duration": 4.32
+    },
+    {
+      "text": "even even further these systems don't",
+      "start": 388.38,
+      "duration": 4.02
+    },
+    {
+      "text": "understand the relation between the",
+      "start": 390.72,
+      "duration": 3.3
+    },
+    {
+      "text": "orders of words and their underlying",
+      "start": 392.4,
+      "duration": 2.88
+    },
+    {
+      "text": "meanings",
+      "start": 394.02,
+      "duration": 2.36
+    },
+    {
+      "text": "um another",
+      "start": 395.28,
+      "duration": 3.419
+    },
+    {
+      "text": "version of this system you say something",
+      "start": 396.38,
+      "duration": 5.2
+    },
+    {
+      "text": "like draw a picture of a man chasing a",
+      "start": 398.699,
+      "duration": 4.321
+    },
+    {
+      "text": "woman or draw a picture of a a woman",
+      "start": 401.58,
+      "duration": 3.179
+    },
+    {
+      "text": "chasing a man and the system is",
+      "start": 403.02,
+      "duration": 3.36
+    },
+    {
+      "text": "basically a chance it really can't tell",
+      "start": 404.759,
+      "duration": 3.78
+    },
+    {
+      "text": "the difference and it's not clear that",
+      "start": 406.38,
+      "duration": 4.319
+    },
+    {
+      "text": "just adding in more of the same what",
+      "start": 408.539,
+      "duration": 4.38
+    },
+    {
+      "text": "people call scaling today is actually",
+      "start": 410.699,
+      "duration": 3.481
+    },
+    {
+      "text": "going to help I think that there's",
+      "start": 412.919,
+      "duration": 3.301
+    },
+    {
+      "text": "something fundamental missing from the",
+      "start": 414.18,
+      "duration": 4.26
+    },
+    {
+      "text": "systems which is a understanding of the",
+      "start": 416.22,
+      "duration": 4.68
+    },
+    {
+      "text": "world how objects work what objects it's",
+      "start": 418.44,
+      "duration": 4.86
+    },
+    {
+      "text": "describing it was another article that",
+      "start": 420.9,
+      "duration": 4.68
+    },
+    {
+      "text": "just came out on theory of mind and",
+      "start": 423.3,
+      "duration": 4.019
+    },
+    {
+      "text": "whether these systems can understand",
+      "start": 425.58,
+      "duration": 4.1
+    },
+    {
+      "text": "what you believe about other people",
+      "start": 427.319,
+      "duration": 4.801
+    },
+    {
+      "text": "and there was failure on those kinds of",
+      "start": 429.68,
+      "duration": 4.66
+    },
+    {
+      "text": "things there's failure on a system to",
+      "start": 432.12,
+      "duration": 5.28
+    },
+    {
+      "text": "understand something like if I want some",
+      "start": 434.34,
+      "duration": 5.52
+    },
+    {
+      "text": "grapes or sorry I ask you if you have",
+      "start": 437.4,
+      "duration": 5.76
+    },
+    {
+      "text": "something did you touch this glass I",
+      "start": 439.86,
+      "duration": 5.339
+    },
+    {
+      "text": "can't remember the exact example and you",
+      "start": 443.16,
+      "duration": 3.96
+    },
+    {
+      "text": "say well I had gloves on so my finger",
+      "start": 445.199,
+      "duration": 3.661
+    },
+    {
+      "text": "implying your fingerprints aren't there",
+      "start": 447.12,
+      "duration": 3.12
+    },
+    {
+      "text": "right and the system doesn't understand",
+      "start": 448.86,
+      "duration": 3.3
+    },
+    {
+      "text": "it that was another Benchmark that came",
+      "start": 450.24,
+      "duration": 5.579
+    },
+    {
+      "text": "out this week so when Dolly came out Sam",
+      "start": 452.16,
+      "duration": 6.18
+    },
+    {
+      "text": "Altman of open AI said AGI is going to",
+      "start": 455.819,
+      "duration": 4.44
+    },
+    {
+      "text": "be wild artificial general intelligence",
+      "start": 458.34,
+      "duration": 3.84
+    },
+    {
+      "text": "is going to be here and implied that the",
+      "start": 460.259,
+      "duration": 3.481
+    },
+    {
+      "text": "system are closed artificial",
+      "start": 462.18,
+      "duration": 4.32
+    },
+    {
+      "text": "intelligence and scientists like me",
+      "start": 463.74,
+      "duration": 4.38
+    },
+    {
+      "text": "weren't given access and in the last",
+      "start": 466.5,
+      "duration": 3.0
+    },
+    {
+      "text": "couple of months we've been given access",
+      "start": 468.12,
+      "duration": 3.479
+    },
+    {
+      "text": "and These Things Fall Apart left and",
+      "start": 469.5,
+      "duration": 3.36
+    },
+    {
+      "text": "right so yes they can draw pretty",
+      "start": 471.599,
+      "duration": 3.361
+    },
+    {
+      "text": "pictures but no they really have a very",
+      "start": 472.86,
+      "duration": 4.08
+    },
+    {
+      "text": "shallow understanding of language and",
+      "start": 474.96,
+      "duration": 3.9
+    },
+    {
+      "text": "then to gnome's point if they have a",
+      "start": 476.94,
+      "duration": 2.879
+    },
+    {
+      "text": "shallow understanding of language",
+      "start": 478.86,
+      "duration": 2.22
+    },
+    {
+      "text": "they're not really helping with the",
+      "start": 479.819,
+      "duration": 3.0
+    },
+    {
+      "text": "question that gnome has worked on all",
+      "start": 481.08,
+      "duration": 3.48
+    },
+    {
+      "text": "his career which is why is human",
+      "start": 482.819,
+      "duration": 3.961
+    },
+    {
+      "text": "language the way that it is and what is",
+      "start": 484.56,
+      "duration": 3.78
+    },
+    {
+      "text": "he's saying is these systems could learn",
+      "start": 486.78,
+      "duration": 3.72
+    },
+    {
+      "text": "computer languages or languages that",
+      "start": 488.34,
+      "duration": 3.78
+    },
+    {
+      "text": "aren't like humans they could learn",
+      "start": 490.5,
+      "duration": 3.3
+    },
+    {
+      "text": "anything they don't do any of it",
+      "start": 492.12,
+      "duration": 2.94
+    },
+    {
+      "text": "perfectly and they don't really tell",
+      "start": 493.8,
+      "duration": 3.119
+    },
+    {
+      "text": "much about why we're the special",
+      "start": 495.06,
+      "duration": 4.68
+    },
+    {
+      "text": "creatures that we are interesting uh no",
+      "start": 496.919,
+      "duration": 4.381
+    },
+    {
+      "text": "I know you you've sort of said that",
+      "start": 499.74,
+      "duration": 4.139
+    },
+    {
+      "text": "these systems are maybe good engineering",
+      "start": 501.3,
+      "duration": 4.739
+    },
+    {
+      "text": "but not very good science at all can you",
+      "start": 503.879,
+      "duration": 4.5
+    },
+    {
+      "text": "explain what you meant by that and why",
+      "start": 506.039,
+      "duration": 3.961
+    },
+    {
+      "text": "you think you know the science here",
+      "start": 508.379,
+      "duration": 5.121
+    },
+    {
+      "text": "isn't isn't really valid",
+      "start": 510.0,
+      "duration": 3.5
+    },
+    {
+      "text": "well let's take",
+      "start": 514.02,
+      "duration": 3.62
+    },
+    {
+      "text": "engineering achievements so I happen to",
+      "start": 518.12,
+      "duration": 7.24
+    },
+    {
+      "text": "be hard of hearing so I can't hear most",
+      "start": 521.7,
+      "duration": 6.96
+    },
+    {
+      "text": "of what you're saying I'm reading life",
+      "start": 525.36,
+      "duration": 5.76
+    },
+    {
+      "text": "transcription captions",
+      "start": 528.66,
+      "duration": 4.26
+    },
+    {
+      "text": "it's pretty helpful",
+      "start": 531.12,
+      "duration": 5.159
+    },
+    {
+      "text": "I'm all in favor of it it's achieved by",
+      "start": 532.92,
+      "duration": 6.96
+    },
+    {
+      "text": "a Brute Force no scientific interest but",
+      "start": 536.279,
+      "duration": 7.68
+    },
+    {
+      "text": "it's fine I I'm happy with it I'm happy",
+      "start": 539.88,
+      "duration": 5.459
+    },
+    {
+      "text": "with the",
+      "start": 543.959,
+      "duration": 4.38
+    },
+    {
+      "text": "a snow plow that clears the streets so",
+      "start": 545.339,
+      "duration": 5.041
+    },
+    {
+      "text": "you don't have to do it by hand",
+      "start": 548.339,
+      "duration": 4.321
+    },
+    {
+      "text": "I don't see anything I have no criticism",
+      "start": 550.38,
+      "duration": 5.16
+    },
+    {
+      "text": "with that I think it's great uh",
+      "start": 552.66,
+      "duration": 6.119
+    },
+    {
+      "text": "sometimes the engineering achievements",
+      "start": 555.54,
+      "duration": 5.94
+    },
+    {
+      "text": "can contribute to science",
+      "start": 558.779,
+      "duration": 5.941
+    },
+    {
+      "text": "so a telescope for example uh made",
+      "start": 561.48,
+      "duration": 5.58
+    },
+    {
+      "text": "together they allowed Galileo to",
+      "start": 564.72,
+      "duration": 3.84
+    },
+    {
+      "text": "discover things he couldn't have",
+      "start": 567.06,
+      "duration": 6.48
+    },
+    {
+      "text": "discovered without it well that's fine",
+      "start": 568.56,
+      "duration": 8.339
+    },
+    {
+      "text": "there are apparently some engineering",
+      "start": 573.54,
+      "duration": 6.299
+    },
+    {
+      "text": "achievements in with the Deep learning",
+      "start": 576.899,
+      "duration": 5.221
+    },
+    {
+      "text": "approaches that have been like a",
+      "start": 579.839,
+      "duration": 3.481
+    },
+    {
+      "text": "telescope",
+      "start": 582.12,
+      "duration": 4.94
+    },
+    {
+      "text": "so they've apparently produced some",
+      "start": 583.32,
+      "duration": 6.48
+    },
+    {
+      "text": "helpful results with regard to protein",
+      "start": 587.06,
+      "duration": 6.1
+    },
+    {
+      "text": "folding look massive computation Beyond",
+      "start": 589.8,
+      "duration": 6.3
+    },
+    {
+      "text": "and computation",
+      "start": 593.16,
+      "duration": 6.239
+    },
+    {
+      "text": "so that's that's good but science is a",
+      "start": 596.1,
+      "duration": 5.76
+    },
+    {
+      "text": "different is a different concern you're",
+      "start": 599.399,
+      "duration": 4.921
+    },
+    {
+      "text": "trying to understand what the world is",
+      "start": 601.86,
+      "duration": 3.3
+    },
+    {
+      "text": "like",
+      "start": 604.32,
+      "duration": 5.1
+    },
+    {
+      "text": "not how can I make something useful",
+      "start": 605.16,
+      "duration": 6.44
+    },
+    {
+      "text": "nothing wrong with making useful things",
+      "start": 609.42,
+      "duration": 4.74
+    },
+    {
+      "text": "but the project of trying to understand",
+      "start": 611.6,
+      "duration": 4.54
+    },
+    {
+      "text": "what the world is like",
+      "start": 614.16,
+      "duration": 3.72
+    },
+    {
+      "text": "is different",
+      "start": 616.14,
+      "duration": 5.94
+    },
+    {
+      "text": "so turning to Gary's point I'm perfectly",
+      "start": 617.88,
+      "duration": 6.42
+    },
+    {
+      "text": "willing to concede that I've been too",
+      "start": 622.08,
+      "duration": 5.28
+    },
+    {
+      "text": "nice and thinking that if you had a",
+      "start": 624.3,
+      "duration": 4.74
+    },
+    {
+      "text": "thousand parameters maybe you'll get",
+      "start": 627.36,
+      "duration": 4.38
+    },
+    {
+      "text": "somewhere maybe you won't but my other",
+      "start": 629.04,
+      "duration": 5.04
+    },
+    {
+      "text": "my concern is different",
+      "start": 631.74,
+      "duration": 6.18
+    },
+    {
+      "text": "if the system doesn't distinguish",
+      "start": 634.08,
+      "duration": 5.22
+    },
+    {
+      "text": "what's",
+      "start": 637.92,
+      "duration": 5.82
+    },
+    {
+      "text": "the actual World from non-actual world",
+      "start": 639.3,
+      "duration": 6.9
+    },
+    {
+      "text": "it's not telling us any",
+      "start": 643.74,
+      "duration": 5.7
+    },
+    {
+      "text": "just as in the case of the souped-up",
+      "start": 646.2,
+      "duration": 5.18
+    },
+    {
+      "text": "periodic table",
+      "start": 649.44,
+      "duration": 6.839
+    },
+    {
+      "text": "the egpt systems and others like them",
+      "start": 651.38,
+      "duration": 7.62
+    },
+    {
+      "text": "can find",
+      "start": 656.279,
+      "duration": 6.421
+    },
+    {
+      "text": "superficial regularities in astronomical",
+      "start": 659.0,
+      "duration": 6.64
+    },
+    {
+      "text": "amounts of data and produce something",
+      "start": 662.7,
+      "duration": 6.0
+    },
+    {
+      "text": "that looks more or less like what their",
+      "start": 665.64,
+      "duration": 4.199
+    },
+    {
+      "text": "data was",
+      "start": 668.7,
+      "duration": 3.44
+    },
+    {
+      "text": "but it can do exactly the same thing",
+      "start": 669.839,
+      "duration": 5.581
+    },
+    {
+      "text": "even better often with data that",
+      "start": 672.14,
+      "duration": 5.439
+    },
+    {
+      "text": "violates all the principles of language",
+      "start": 675.42,
+      "duration": 3.84
+    },
+    {
+      "text": "and cognition",
+      "start": 677.579,
+      "duration": 3.301
+    },
+    {
+      "text": "so they're first telling us nothing",
+      "start": 679.26,
+      "duration": 3.18
+    },
+    {
+      "text": "about them",
+      "start": 680.88,
+      "duration": 4.26
+    },
+    {
+      "text": "you might ask whether it's making an",
+      "start": 682.44,
+      "duration": 5.04
+    },
+    {
+      "text": "engineering contribution actually in",
+      "start": 685.14,
+      "duration": 4.92
+    },
+    {
+      "text": "this case I don't really see any I don't",
+      "start": 687.48,
+      "duration": 5.06
+    },
+    {
+      "text": "see what point there is to",
+      "start": 690.06,
+      "duration": 6.12
+    },
+    {
+      "text": "GPT except maybe helping some student",
+      "start": 692.54,
+      "duration": 7.96
+    },
+    {
+      "text": "fake an exam or something but so it",
+      "start": 696.18,
+      "duration": 6.0
+    },
+    {
+      "text": "doesn't seem it has no scientific",
+      "start": 700.5,
+      "duration": 3.12
+    },
+    {
+      "text": "contribution",
+      "start": 702.18,
+      "duration": 3.48
+    },
+    {
+      "text": "doesn't seem to have any engineering",
+      "start": 703.62,
+      "duration": 3.42
+    },
+    {
+      "text": "contribution",
+      "start": 705.66,
+      "duration": 4.32
+    },
+    {
+      "text": "so as far as I can see it's basically a",
+      "start": 707.04,
+      "duration": 4.02
+    },
+    {
+      "text": "way of",
+      "start": 709.98,
+      "duration": 3.24
+    },
+    {
+      "text": "wasting a lot of the energy in",
+      "start": 711.06,
+      "duration": 5.6
+    },
+    {
+      "text": "California right and uh",
+      "start": 713.22,
+      "duration": 8.54
+    },
+    {
+      "text": "inspiring yeah that's a good point",
+      "start": 716.66,
+      "duration": 7.78
+    },
+    {
+      "text": "yeah what what do you think the dangers",
+      "start": 721.76,
+      "duration": 5.079
+    },
+    {
+      "text": "are here I mean if if it's you know",
+      "start": 724.44,
+      "duration": 4.019
+    },
+    {
+      "text": "these are tools that are in some ways",
+      "start": 726.839,
+      "duration": 4.5
+    },
+    {
+      "text": "useful is there a danger though in in",
+      "start": 728.459,
+      "duration": 4.62
+    },
+    {
+      "text": "thinking that they're more capable than",
+      "start": 731.339,
+      "duration": 3.661
+    },
+    {
+      "text": "they are is there a danger in the hype",
+      "start": 733.079,
+      "duration": 3.541
+    },
+    {
+      "text": "Gary what do you have to say about that",
+      "start": 735.0,
+      "duration": 4.32
+    },
+    {
+      "text": "I think there's two kinds of dangers one",
+      "start": 736.62,
+      "duration": 4.86
+    },
+    {
+      "text": "kind of danger here is that I think",
+      "start": 739.32,
+      "duration": 5.4
+    },
+    {
+      "text": "we're following the wrong path in Ai and",
+      "start": 741.48,
+      "duration": 5.52
+    },
+    {
+      "text": "the right path to AI I think is going to",
+      "start": 744.72,
+      "duration": 4.679
+    },
+    {
+      "text": "involve looking more at humans and doing",
+      "start": 747.0,
+      "duration": 4.079
+    },
+    {
+      "text": "the science that gnome is talking about",
+      "start": 749.399,
+      "duration": 4.201
+    },
+    {
+      "text": "and so we're in this moment where we're",
+      "start": 751.079,
+      "duration": 3.961
+    },
+    {
+      "text": "at a local maximum we have something",
+      "start": 753.6,
+      "duration": 3.9
+    },
+    {
+      "text": "that looks good but isn't really as deep",
+      "start": 755.04,
+      "duration": 4.38
+    },
+    {
+      "text": "as we need it and it's sucking the",
+      "start": 757.5,
+      "duration": 4.2
+    },
+    {
+      "text": "oxygen away from the field of cognitive",
+      "start": 759.42,
+      "duration": 3.96
+    },
+    {
+      "text": "science looking at how humans understand",
+      "start": 761.7,
+      "duration": 4.319
+    },
+    {
+      "text": "language how humans understand the world",
+      "start": 763.38,
+      "duration": 4.62
+    },
+    {
+      "text": "because it's so much fun to play with",
+      "start": 766.019,
+      "duration": 3.541
+    },
+    {
+      "text": "these toys and it's fine for people to",
+      "start": 768.0,
+      "duration": 3.72
+    },
+    {
+      "text": "play with the toys but it takes a away a",
+      "start": 769.56,
+      "duration": 3.66
+    },
+    {
+      "text": "lot of the energy your young graduate",
+      "start": 771.72,
+      "duration": 3.059
+    },
+    {
+      "text": "students if they have a choice between",
+      "start": 773.22,
+      "duration": 4.02
+    },
+    {
+      "text": "going into Linguistics or a choice",
+      "start": 774.779,
+      "duration": 4.5
+    },
+    {
+      "text": "between working on gpt3 and getting paid",
+      "start": 777.24,
+      "duration": 3.3
+    },
+    {
+      "text": "a lot of money they're probably going to",
+      "start": 779.279,
+      "duration": 3.24
+    },
+    {
+      "text": "work on gpt3 but I think it's",
+      "start": 780.54,
+      "duration": 4.5
+    },
+    {
+      "text": "short-sighted that we wind up with a",
+      "start": 782.519,
+      "duration": 4.44
+    },
+    {
+      "text": "technology that actually has a kind of",
+      "start": 785.04,
+      "duration": 4.2
+    },
+    {
+      "text": "short road ahead isn't going to last as",
+      "start": 786.959,
+      "duration": 4.261
+    },
+    {
+      "text": "long as people think and you look at the",
+      "start": 789.24,
+      "duration": 3.779
+    },
+    {
+      "text": "history of AI there have been fads over",
+      "start": 791.22,
+      "duration": 3.78
+    },
+    {
+      "text": "and over again expert systems and",
+      "start": 793.019,
+      "duration": 3.721
+    },
+    {
+      "text": "support Vector machines the people in",
+      "start": 795.0,
+      "duration": 3.06
+    },
+    {
+      "text": "this crowd probably have never heard of",
+      "start": 796.74,
+      "duration": 4.32
+    },
+    {
+      "text": "that we're super popular for a while and",
+      "start": 798.06,
+      "duration": 4.74
+    },
+    {
+      "text": "we need to have something that's more",
+      "start": 801.06,
+      "duration": 3.24
+    },
+    {
+      "text": "stable and one more Fat's probably not",
+      "start": 802.8,
+      "duration": 3.18
+    },
+    {
+      "text": "helping us then there's another kind of",
+      "start": 804.3,
+      "duration": 3.36
+    },
+    {
+      "text": "danger which is the systems we have now",
+      "start": 805.98,
+      "duration": 3.9
+    },
+    {
+      "text": "what they do is they perpetuate past",
+      "start": 807.66,
+      "duration": 4.38
+    },
+    {
+      "text": "data they don't really understand the",
+      "start": 809.88,
+      "duration": 3.959
+    },
+    {
+      "text": "world so for example that means that",
+      "start": 812.04,
+      "duration": 3.239
+    },
+    {
+      "text": "they're sexist and they're racist",
+      "start": 813.839,
+      "duration": 3.721
+    },
+    {
+      "text": "they're not built to be that way but",
+      "start": 815.279,
+      "duration": 4.021
+    },
+    {
+      "text": "because they just copy the data that's",
+      "start": 817.56,
+      "duration": 3.66
+    },
+    {
+      "text": "there and don't have values about",
+      "start": 819.3,
+      "duration": 4.2
+    },
+    {
+      "text": "equality for example they perpetuate",
+      "start": 821.22,
+      "duration": 4.26
+    },
+    {
+      "text": "past bias another example is because",
+      "start": 823.5,
+      "duration": 4.079
+    },
+    {
+      "text": "they don't have models of the world they",
+      "start": 825.48,
+      "duration": 4.32
+    },
+    {
+      "text": "kind of lie indiscriminately now they",
+      "start": 827.579,
+      "duration": 3.361
+    },
+    {
+      "text": "don't do that literally because they",
+      "start": 829.8,
+      "duration": 3.719
+    },
+    {
+      "text": "have no intention There's No Malice but",
+      "start": 830.94,
+      "duration": 4.74
+    },
+    {
+      "text": "they produce misinformation and it's",
+      "start": 833.519,
+      "duration": 3.841
+    },
+    {
+      "text": "going to completely change the world in",
+      "start": 835.68,
+      "duration": 3.24
+    },
+    {
+      "text": "the next couple of years the amount of",
+      "start": 837.36,
+      "duration": 3.779
+    },
+    {
+      "text": "misinformation the troll Farms are going",
+      "start": 838.92,
+      "duration": 3.719
+    },
+    {
+      "text": "to be able to produce and the cost of",
+      "start": 841.139,
+      "duration": 3.061
+    },
+    {
+      "text": "that is really I think going to be",
+      "start": 842.639,
+      "duration": 3.621
+    },
+    {
+      "text": "devastating to the Democratic process",
+      "start": 844.2,
+      "duration": 4.5
+    },
+    {
+      "text": "and so the fact that you have a system",
+      "start": 846.26,
+      "duration": 4.66
+    },
+    {
+      "text": "that kind of looks good can make",
+      "start": 848.7,
+      "duration": 4.319
+    },
+    {
+      "text": "sentences that are grammatical but make",
+      "start": 850.92,
+      "duration": 3.96
+    },
+    {
+      "text": "up stuff like why is it good to eat",
+      "start": 853.019,
+      "duration": 4.5
+    },
+    {
+      "text": "socks after meditating and then say some",
+      "start": 854.88,
+      "duration": 4.259
+    },
+    {
+      "text": "experts believe that it's good to eat",
+      "start": 857.519,
+      "duration": 3.12
+    },
+    {
+      "text": "socks after meditating because such and",
+      "start": 859.139,
+      "duration": 3.601
+    },
+    {
+      "text": "such it all sounds plausible you read it",
+      "start": 860.639,
+      "duration": 3.841
+    },
+    {
+      "text": "on a website when you're like falling",
+      "start": 862.74,
+      "duration": 3.599
+    },
+    {
+      "text": "asleep and you believe it well now you",
+      "start": 864.48,
+      "duration": 3.359
+    },
+    {
+      "text": "can do this at scale you can get your",
+      "start": 866.339,
+      "duration": 4.321
+    },
+    {
+      "text": "own custom version of gpt3 for less than",
+      "start": 867.839,
+      "duration": 4.321
+    },
+    {
+      "text": "half a million dollars so if you're a",
+      "start": 870.66,
+      "duration": 3.84
+    },
+    {
+      "text": "troll Farm that's a great investment but",
+      "start": 872.16,
+      "duration": 4.02
+    },
+    {
+      "text": "it's terrible for society so there's",
+      "start": 874.5,
+      "duration": 4.2
+    },
+    {
+      "text": "some specific dangers around it then",
+      "start": 876.18,
+      "duration": 4.68
+    },
+    {
+      "text": "there are lesser dangers like a lot of",
+      "start": 878.7,
+      "duration": 3.9
+    },
+    {
+      "text": "people spent a lot of money on",
+      "start": 880.86,
+      "duration": 3.12
+    },
+    {
+      "text": "driverless cars and it doesn't really",
+      "start": 882.6,
+      "duration": 3.239
+    },
+    {
+      "text": "look like it's working out like maybe",
+      "start": 883.98,
+      "duration": 3.599
+    },
+    {
+      "text": "it'll happen in 20 years but we're not",
+      "start": 885.839,
+      "duration": 5.041
+    },
+    {
+      "text": "going to have routine level five self",
+      "start": 887.579,
+      "duration": 4.741
+    },
+    {
+      "text": "driving where you can type in a",
+      "start": 890.88,
+      "duration": 4.199
+    },
+    {
+      "text": "destination and go anywhere the way musk",
+      "start": 892.32,
+      "duration": 4.199
+    },
+    {
+      "text": "has been promising it for six or seven",
+      "start": 895.079,
+      "duration": 2.82
+    },
+    {
+      "text": "years that's just not going to happen",
+      "start": 896.519,
+      "duration": 2.701
+    },
+    {
+      "text": "there's been a hundred billion dollars",
+      "start": 897.899,
+      "duration": 3.421
+    },
+    {
+      "text": "put into that industry and the money is",
+      "start": 899.22,
+      "duration": 4.08
+    },
+    {
+      "text": "wasted I'm more concerned by the threat",
+      "start": 901.32,
+      "duration": 3.66
+    },
+    {
+      "text": "to the Democracy than investors wasting",
+      "start": 903.3,
+      "duration": 3.36
+    },
+    {
+      "text": "their money but it is another kind of",
+      "start": 904.98,
+      "duration": 3.9
+    },
+    {
+      "text": "side product of all of this is there a",
+      "start": 906.66,
+      "duration": 3.84
+    },
+    {
+      "text": "danger also in sort of not understanding",
+      "start": 908.88,
+      "duration": 3.06
+    },
+    {
+      "text": "modes of failure I mean some of those",
+      "start": 910.5,
+      "duration": 3.06
+    },
+    {
+      "text": "things you've discovered recently when",
+      "start": 911.94,
+      "duration": 3.899
+    },
+    {
+      "text": "you have had access these systems about",
+      "start": 913.56,
+      "duration": 3.839
+    },
+    {
+      "text": "the way in which they do not understand",
+      "start": 915.839,
+      "duration": 4.261
+    },
+    {
+      "text": "language is there a danger in in sort of",
+      "start": 917.399,
+      "duration": 4.081
+    },
+    {
+      "text": "believing the hype and thinking these",
+      "start": 920.1,
+      "duration": 2.58
+    },
+    {
+      "text": "things are more capable than they",
+      "start": 921.48,
+      "duration": 2.88
+    },
+    {
+      "text": "actually are well I actually have a",
+      "start": 922.68,
+      "duration": 2.88
+    },
+    {
+      "text": "prediction I think it comes out tomorrow",
+      "start": 924.36,
+      "duration": 4.86
+    },
+    {
+      "text": "in wired for the year 2023 I predict",
+      "start": 925.56,
+      "duration": 5.339
+    },
+    {
+      "text": "that it's going to be the first year in",
+      "start": 929.22,
+      "duration": 3.239
+    },
+    {
+      "text": "which there's a death attributable to",
+      "start": 930.899,
+      "duration": 3.541
+    },
+    {
+      "text": "one of these systems either because it",
+      "start": 932.459,
+      "duration": 4.021
+    },
+    {
+      "text": "tells somebody to commit suicide or",
+      "start": 934.44,
+      "duration": 3.6
+    },
+    {
+      "text": "somebody falls in love with one of these",
+      "start": 936.48,
+      "duration": 2.88
+    },
+    {
+      "text": "systems but the system doesn't actually",
+      "start": 938.04,
+      "duration": 3.239
+    },
+    {
+      "text": "love them back and they've added it or",
+      "start": 939.36,
+      "duration": 3.719
+    },
+    {
+      "text": "because it tells them to you know mix",
+      "start": 941.279,
+      "duration": 5.041
+    },
+    {
+      "text": "Clorox with Drano and they drink it all",
+      "start": 943.079,
+      "duration": 6.781
+    },
+    {
+      "text": "so people trust these things because",
+      "start": 946.32,
+      "duration": 5.819
+    },
+    {
+      "text": "they appear plausible but it's kind of",
+      "start": 949.86,
+      "duration": 4.08
+    },
+    {
+      "text": "like a magic trick what they're really",
+      "start": 952.139,
+      "duration": 3.481
+    },
+    {
+      "text": "doing we haven't said this is basically",
+      "start": 953.94,
+      "duration": 3.6
+    },
+    {
+      "text": "a version of autocomplete like in your",
+      "start": 955.62,
+      "duration": 4.26
+    },
+    {
+      "text": "phone you predict the next word GPT is",
+      "start": 957.54,
+      "duration": 4.799
+    },
+    {
+      "text": "really just autocomplete on steroids but",
+      "start": 959.88,
+      "duration": 4.68
+    },
+    {
+      "text": "it gives this illusion that it's more",
+      "start": 962.339,
+      "duration": 3.901
+    },
+    {
+      "text": "than that and if people get sucked in",
+      "start": 964.56,
+      "duration": 4.139
+    },
+    {
+      "text": "then they can take bad advice from these",
+      "start": 966.24,
+      "duration": 4.44
+    },
+    {
+      "text": "systems and I think we will see a lot of",
+      "start": 968.699,
+      "duration": 4.38
+    },
+    {
+      "text": "that next year as these things become",
+      "start": 970.68,
+      "duration": 4.74
+    },
+    {
+      "text": "widely distributed and cheap interesting",
+      "start": 973.079,
+      "duration": 4.921
+    },
+    {
+      "text": "no I I know you said you know you don't",
+      "start": 975.42,
+      "duration": 3.719
+    },
+    {
+      "text": "think there's been much contribution",
+      "start": 978.0,
+      "duration": 2.459
+    },
+    {
+      "text": "here do you think there's been sort of",
+      "start": 979.139,
+      "duration": 2.82
+    },
+    {
+      "text": "any contribution from these large",
+      "start": 980.459,
+      "duration": 2.761
+    },
+    {
+      "text": "language models to the actual",
+      "start": 981.959,
+      "duration": 3.361
+    },
+    {
+      "text": "understanding of linguistics which is",
+      "start": 983.22,
+      "duration": 4.08
+    },
+    {
+      "text": "you know what you've devoted your career",
+      "start": 985.32,
+      "duration": 4.1
+    },
+    {
+      "text": "to",
+      "start": 987.3,
+      "duration": 2.12
+    },
+    {
+      "text": "I can't think of one single thing",
+      "start": 990.54,
+      "duration": 6.659
+    },
+    {
+      "text": "I mean I can give you an example of the",
+      "start": 994.019,
+      "duration": 5.521
+    },
+    {
+      "text": "kind of stuff that comes out just",
+      "start": 997.199,
+      "duration": 4.801
+    },
+    {
+      "text": "a couple of days ago I don't call the",
+      "start": 999.54,
+      "duration": 4.44
+    },
+    {
+      "text": "literature on this closely I'm not like",
+      "start": 1002.0,
+      "duration": 5.579
+    },
+    {
+      "text": "Gary but somebody sent me a friend sent",
+      "start": 1003.98,
+      "duration": 6.24
+    },
+    {
+      "text": "me an article from",
+      "start": 1007.579,
+      "duration": 5.7
+    },
+    {
+      "text": "something called I think the Federation",
+      "start": 1010.22,
+      "duration": 5.419
+    },
+    {
+      "text": "of associations of",
+      "start": 1013.279,
+      "duration": 6.42
+    },
+    {
+      "text": "behavioral and computers science or",
+      "start": 1015.639,
+      "duration": 5.741
+    },
+    {
+      "text": "something like that",
+      "start": 1019.699,
+      "duration": 5.281
+    },
+    {
+      "text": "it was a study a massive study in which",
+      "start": 1021.38,
+      "duration": 5.939
+    },
+    {
+      "text": "the guy had was published in their",
+      "start": 1024.98,
+      "duration": 6.359
+    },
+    {
+      "text": "Journal it had he had all of Reddit",
+      "start": 1027.319,
+      "duration": 6.061
+    },
+    {
+      "text": "and a ton of other things in his",
+      "start": 1031.339,
+      "duration": 5.401
+    },
+    {
+      "text": "database all kind of super computers and",
+      "start": 1033.38,
+      "duration": 5.76
+    },
+    {
+      "text": "studying what you can learn about",
+      "start": 1036.74,
+      "duration": 5.04
+    },
+    {
+      "text": "frequently of works",
+      "start": 1039.14,
+      "duration": 5.039
+    },
+    {
+      "text": "and how important this would be for",
+      "start": 1041.78,
+      "duration": 5.58
+    },
+    {
+      "text": "language understanding and they gave one",
+      "start": 1044.179,
+      "duration": 5.761
+    },
+    {
+      "text": "example that was really the chief",
+      "start": 1047.36,
+      "duration": 5.22
+    },
+    {
+      "text": "achievement that discovered that the",
+      "start": 1049.94,
+      "duration": 6.0
+    },
+    {
+      "text": "word occasion is used much more",
+      "start": 1052.58,
+      "duration": 6.54
+    },
+    {
+      "text": "frequently than the word molecule",
+      "start": 1055.94,
+      "duration": 5.34
+    },
+    {
+      "text": "and the reason they explained it was",
+      "start": 1059.12,
+      "duration": 4.46
+    },
+    {
+      "text": "because it's used in many domains",
+      "start": 1061.28,
+      "duration": 7.259
+    },
+    {
+      "text": "whereas molecules only in a few domains",
+      "start": 1063.58,
+      "duration": 7.14
+    },
+    {
+      "text": "who would have guessed it",
+      "start": 1068.539,
+      "duration": 5.341
+    },
+    {
+      "text": "that kind of contribution that comes out",
+      "start": 1070.72,
+      "duration": 5.76
+    },
+    {
+      "text": "if there's anything else I've missed it",
+      "start": 1073.88,
+      "duration": 6.6
+    },
+    {
+      "text": "I mean these things can be useful",
+      "start": 1076.48,
+      "duration": 6.819
+    },
+    {
+      "text": "like I say and basically what lies",
+      "start": 1080.48,
+      "duration": 5.28
+    },
+    {
+      "text": "behind the life transcription that I'm",
+      "start": 1083.299,
+      "duration": 3.361
+    },
+    {
+      "text": "using",
+      "start": 1085.76,
+      "duration": 3.419
+    },
+    {
+      "text": "so again I don't have anything against",
+      "start": 1086.66,
+      "duration": 4.86
+    },
+    {
+      "text": "snowplows",
+      "start": 1089.179,
+      "duration": 4.261
+    },
+    {
+      "text": "happy to have them around",
+      "start": 1091.52,
+      "duration": 4.34
+    },
+    {
+      "text": "but they shouldn't mislead people",
+      "start": 1093.44,
+      "duration": 5.64
+    },
+    {
+      "text": "indicating it if we're Gary's reasons",
+      "start": 1095.86,
+      "duration": 5.92
+    },
+    {
+      "text": "and others that they're making some kind",
+      "start": 1099.08,
+      "duration": 5.099
+    },
+    {
+      "text": "of contribution to science they're not",
+      "start": 1101.78,
+      "duration": 5.279
+    },
+    {
+      "text": "they're not helping us understand the",
+      "start": 1104.179,
+      "duration": 4.801
+    },
+    {
+      "text": "world and they can't",
+      "start": 1107.059,
+      "duration": 5.101
+    },
+    {
+      "text": "in principle because they're too strong",
+      "start": 1108.98,
+      "duration": 6.0
+    },
+    {
+      "text": "irremediately",
+      "start": 1112.16,
+      "duration": 6.3
+    },
+    {
+      "text": "interesting and no I I think you know",
+      "start": 1114.98,
+      "duration": 5.76
+    },
+    {
+      "text": "you've said uh when we were speaking uh",
+      "start": 1118.46,
+      "duration": 4.86
+    },
+    {
+      "text": "before this that you know looking back",
+      "start": 1120.74,
+      "duration": 5.1
+    },
+    {
+      "text": "at the history of AI that the purpose of",
+      "start": 1123.32,
+      "duration": 4.14
+    },
+    {
+      "text": "the field was not simply to make better",
+      "start": 1125.84,
+      "duration": 4.26
+    },
+    {
+      "text": "snowplows that there was this idea of",
+      "start": 1127.46,
+      "duration": 4.74
+    },
+    {
+      "text": "trying to actually understand human",
+      "start": 1130.1,
+      "duration": 4.319
+    },
+    {
+      "text": "intelligence and then to to build on",
+      "start": 1132.2,
+      "duration": 4.08
+    },
+    {
+      "text": "that um can you talk a little bit about",
+      "start": 1134.419,
+      "duration": 3.181
+    },
+    {
+      "text": "you know do you feel like the whole",
+      "start": 1136.28,
+      "duration": 3.42
+    },
+    {
+      "text": "Field's kind of gone awry here in in",
+      "start": 1137.6,
+      "duration": 5.22
+    },
+    {
+      "text": "focusing so much on uh these deep",
+      "start": 1139.7,
+      "duration": 5.94
+    },
+    {
+      "text": "learning systems",
+      "start": 1142.82,
+      "duration": 7.92
+    },
+    {
+      "text": "well I I was around when AI was being",
+      "start": 1145.64,
+      "duration": 7.88
+    },
+    {
+      "text": "developed and knew many of the people",
+      "start": 1150.74,
+      "duration": 7.559
+    },
+    {
+      "text": "the original goal was to use the",
+      "start": 1153.52,
+      "duration": 7.42
+    },
+    {
+      "text": "capacities that had been developed in",
+      "start": 1158.299,
+      "duration": 5.721
+    },
+    {
+      "text": "computer science both Technical and",
+      "start": 1160.94,
+      "duration": 5.16
+    },
+    {
+      "text": "intellectual because it was a major",
+      "start": 1164.02,
+      "duration": 5.5
+    },
+    {
+      "text": "intellectual breakthrough the theory of",
+      "start": 1166.1,
+      "duration": 5.66
+    },
+    {
+      "text": "computation developed by",
+      "start": 1169.52,
+      "duration": 6.539
+    },
+    {
+      "text": "touring and others the original idea was",
+      "start": 1171.76,
+      "duration": 8.02
+    },
+    {
+      "text": "let's use this technical intellectual",
+      "start": 1176.059,
+      "duration": 5.701
+    },
+    {
+      "text": "contribution to see if we can understand",
+      "start": 1179.78,
+      "duration": 6.66
+    },
+    {
+      "text": "something about how humans think",
+      "start": 1181.76,
+      "duration": 8.159
+    },
+    {
+      "text": "you go back to the paper that initiated",
+      "start": 1186.44,
+      "duration": 4.56
+    },
+    {
+      "text": "the field",
+      "start": 1189.919,
+      "duration": 4.981
+    },
+    {
+      "text": "touring Ellen turing's famous paper on a",
+      "start": 1191.0,
+      "duration": 9.08
+    },
+    {
+      "text": "1950 paper on on cold can machines thing",
+      "start": 1194.9,
+      "duration": 8.46
+    },
+    {
+      "text": "machine of course means program not the",
+      "start": 1200.08,
+      "duration": 7.12
+    },
+    {
+      "text": "object uh well he was interested in",
+      "start": 1203.36,
+      "duration": 6.12
+    },
+    {
+      "text": "seeing if we can understand what",
+      "start": 1207.2,
+      "duration": 3.66
+    },
+    {
+      "text": "thinking is",
+      "start": 1209.48,
+      "duration": 3.66
+    },
+    {
+      "text": "you go to early",
+      "start": 1210.86,
+      "duration": 4.559
+    },
+    {
+      "text": "Pioneers in the field",
+      "start": 1213.14,
+      "duration": 6.659
+    },
+    {
+      "text": "for Simon marvinsky others that was",
+      "start": 1215.419,
+      "duration": 6.661
+    },
+    {
+      "text": "their goal as well can we learn",
+      "start": 1219.799,
+      "duration": 3.901
+    },
+    {
+      "text": "something about",
+      "start": 1222.08,
+      "duration": 6.839
+    },
+    {
+      "text": "cognition thinking well that's why now",
+      "start": 1223.7,
+      "duration": 7.74
+    },
+    {
+      "text": "considered old-fashioned Ai and there's",
+      "start": 1228.919,
+      "duration": 6.0
+    },
+    {
+      "text": "various disparity",
+      "start": 1231.44,
+      "duration": 3.479
+    },
+    {
+      "text": "and it was gradually replaced over the",
+      "start": 1235.48,
+      "duration": 6.1
+    },
+    {
+      "text": "years right what Gary was just",
+      "start": 1239.0,
+      "duration": 4.02
+    },
+    {
+      "text": "describing",
+      "start": 1241.58,
+      "duration": 4.5
+    },
+    {
+      "text": "playing with fancy quarries that is",
+      "start": 1243.02,
+      "duration": 6.12
+    },
+    {
+      "text": "understandable I mean I've spent most of",
+      "start": 1246.08,
+      "duration": 5.04
+    },
+    {
+      "text": "my life at Mi",
+      "start": 1249.14,
+      "duration": 5.22
+    },
+    {
+      "text": "I'm gonna take good teenage kids and",
+      "start": 1251.12,
+      "duration": 5.419
+    },
+    {
+      "text": "smart teenage kids",
+      "start": 1254.36,
+      "duration": 6.12
+    },
+    {
+      "text": "hand them fancy computers it can do all",
+      "start": 1256.539,
+      "duration": 6.401
+    },
+    {
+      "text": "sorts of things massive programming",
+      "start": 1260.48,
+      "duration": 3.9
+    },
+    {
+      "text": "systems",
+      "start": 1262.94,
+      "duration": 3.359
+    },
+    {
+      "text": "it's going to be a lot of fun",
+      "start": 1264.38,
+      "duration": 5.28
+    },
+    {
+      "text": "when I got to MIT in the 50s",
+      "start": 1266.299,
+      "duration": 6.601
+    },
+    {
+      "text": "one of the ways that students used to",
+      "start": 1269.66,
+      "duration": 6.18
+    },
+    {
+      "text": "have fun was by playing with a very",
+      "start": 1272.9,
+      "duration": 4.519
+    },
+    {
+      "text": "elaborate",
+      "start": 1275.84,
+      "duration": 5.1
+    },
+    {
+      "text": "electric Railways which you could do all",
+      "start": 1277.419,
+      "duration": 5.861
+    },
+    {
+      "text": "kind of complicated things one",
+      "start": 1280.94,
+      "duration": 3.479
+    },
+    {
+      "text": "well",
+      "start": 1283.28,
+      "duration": 3.66
+    },
+    {
+      "text": "10 years later in the 60s when they",
+      "start": 1284.419,
+      "duration": 5.161
+    },
+    {
+      "text": "started having these toys no more",
+      "start": 1286.94,
+      "duration": 4.739
+    },
+    {
+      "text": "electric Railways this was a lot more",
+      "start": 1289.58,
+      "duration": 4.92
+    },
+    {
+      "text": "fun you could do all sorts of things",
+      "start": 1291.679,
+      "duration": 4.801
+    },
+    {
+      "text": "figure out a way to make the elevator",
+      "start": 1294.5,
+      "duration": 5.28
+    },
+    {
+      "text": "run when nobody was running it but",
+      "start": 1296.48,
+      "duration": 5.699
+    },
+    {
+      "text": "it's running a program and you can",
+      "start": 1299.78,
+      "duration": 5.04
+    },
+    {
+      "text": "imagine what it's like so it's exciting",
+      "start": 1302.179,
+      "duration": 5.101
+    },
+    {
+      "text": "to play with the toys you can do a lot",
+      "start": 1304.82,
+      "duration": 4.92
+    },
+    {
+      "text": "of complicated things it does get",
+      "start": 1307.28,
+      "duration": 4.56
+    },
+    {
+      "text": "intellectually interesting when you work",
+      "start": 1309.74,
+      "duration": 5.16
+    },
+    {
+      "text": "into how the programming works so the",
+      "start": 1311.84,
+      "duration": 6.18
+    },
+    {
+      "text": "statistical analysis works and so on",
+      "start": 1314.9,
+      "duration": 6.32
+    },
+    {
+      "text": "it's just not going anywhere",
+      "start": 1318.02,
+      "duration": 6.18
+    },
+    {
+      "text": "it may produce",
+      "start": 1321.22,
+      "duration": 6.22
+    },
+    {
+      "text": "useful things like life transcription",
+      "start": 1324.2,
+      "duration": 6.18
+    },
+    {
+      "text": "but that's not very exciting I mean it's",
+      "start": 1327.44,
+      "duration": 6.44
+    },
+    {
+      "text": "helpful but not a real contradiction",
+      "start": 1330.38,
+      "duration": 6.799
+    },
+    {
+      "text": "understanding the world as far as",
+      "start": 1333.88,
+      "duration": 5.799
+    },
+    {
+      "text": "understanding the nature of language or",
+      "start": 1337.179,
+      "duration": 5.86
+    },
+    {
+      "text": "any other cognitive process I literally",
+      "start": 1339.679,
+      "duration": 5.161
+    },
+    {
+      "text": "can't think of anything that's been",
+      "start": 1343.039,
+      "duration": 3.0
+    },
+    {
+      "text": "contributed",
+      "start": 1344.84,
+      "duration": 3.6
+    },
+    {
+      "text": "and Gary I know you've thought that",
+      "start": 1346.039,
+      "duration": 3.961
+    },
+    {
+      "text": "there's a lot of things we do know about",
+      "start": 1348.44,
+      "duration": 3.42
+    },
+    {
+      "text": "cognitive science that is being ignored",
+      "start": 1350.0,
+      "duration": 4.26
+    },
+    {
+      "text": "sort of by the current uh you know",
+      "start": 1351.86,
+      "duration": 4.679
+    },
+    {
+      "text": "enthusiasm for deep learning and ever",
+      "start": 1354.26,
+      "duration": 5.039
+    },
+    {
+      "text": "larger deep Learning Systems yeah I I",
+      "start": 1356.539,
+      "duration": 4.981
+    },
+    {
+      "text": "look at what people are doing now and I",
+      "start": 1359.299,
+      "duration": 4.141
+    },
+    {
+      "text": "think have they ever taken a class in",
+      "start": 1361.52,
+      "duration": 5.34
+    },
+    {
+      "text": "linguistics so in linguistics you learn",
+      "start": 1363.44,
+      "duration": 5.28
+    },
+    {
+      "text": "about the relationship between syntax",
+      "start": 1366.86,
+      "duration": 4.08
+    },
+    {
+      "text": "and semantics for example in between",
+      "start": 1368.72,
+      "duration": 6.6
+    },
+    {
+      "text": "those in pragmatics and if you build a",
+      "start": 1370.94,
+      "duration": 6.42
+    },
+    {
+      "text": "language production system for example",
+      "start": 1375.32,
+      "duration": 4.26
+    },
+    {
+      "text": "in the classic way you start with a",
+      "start": 1377.36,
+      "duration": 4.38
+    },
+    {
+      "text": "meaning that you want to express and you",
+      "start": 1379.58,
+      "duration": 4.74
+    },
+    {
+      "text": "translate that into words or in language",
+      "start": 1381.74,
+      "duration": 4.439
+    },
+    {
+      "text": "comprehension you start with a sentence",
+      "start": 1384.32,
+      "duration": 3.96
+    },
+    {
+      "text": "that you want to understand and you",
+      "start": 1386.179,
+      "duration": 4.561
+    },
+    {
+      "text": "translate that into a meaning well gpt3",
+      "start": 1388.28,
+      "duration": 4.019
+    },
+    {
+      "text": "doesn't do that and people don't even",
+      "start": 1390.74,
+      "duration": 4.26
+    },
+    {
+      "text": "notice that it doesn't do that what gpt3",
+      "start": 1392.299,
+      "duration": 4.321
+    },
+    {
+      "text": "does is it here's a sequence of words",
+      "start": 1395.0,
+      "duration": 3.96
+    },
+    {
+      "text": "and it predicts the next word but let's",
+      "start": 1396.62,
+      "duration": 4.08
+    },
+    {
+      "text": "say you want to talk to a user you know",
+      "start": 1398.96,
+      "duration": 4.86
+    },
+    {
+      "text": "what you want to say well GPT is like a",
+      "start": 1400.7,
+      "duration": 5.219
+    },
+    {
+      "text": "wild bucking bronco it's very powerful",
+      "start": 1403.82,
+      "duration": 3.66
+    },
+    {
+      "text": "people it might produce something",
+      "start": 1405.919,
+      "duration": 3.181
+    },
+    {
+      "text": "grammatically interesting but whether it",
+      "start": 1407.48,
+      "duration": 4.439
+    },
+    {
+      "text": "winds up giving you what you want is an",
+      "start": 1409.1,
+      "duration": 4.559
+    },
+    {
+      "text": "entirely different matter and if you",
+      "start": 1411.919,
+      "duration": 3.841
+    },
+    {
+      "text": "want to extract from it a model of the",
+      "start": 1413.659,
+      "duration": 3.9
+    },
+    {
+      "text": "world it doesn't really do that so",
+      "start": 1415.76,
+      "duration": 4.799
+    },
+    {
+      "text": "there's this paper called Palm seiken I",
+      "start": 1417.559,
+      "duration": 6.181
+    },
+    {
+      "text": "think by Google where they put gpt3 in a",
+      "start": 1420.559,
+      "duration": 5.041
+    },
+    {
+      "text": "robot and it works like three quarters",
+      "start": 1423.74,
+      "duration": 3.78
+    },
+    {
+      "text": "of the time and it's amazing but a",
+      "start": 1425.6,
+      "duration": 3.48
+    },
+    {
+      "text": "quarter of the time it doesn't work now",
+      "start": 1427.52,
+      "duration": 3.84
+    },
+    {
+      "text": "imagine that you want to put your",
+      "start": 1429.08,
+      "duration": 4.02
+    },
+    {
+      "text": "grandpa in bed and you want to tell the",
+      "start": 1431.36,
+      "duration": 3.66
+    },
+    {
+      "text": "robot to do that and three quarters of",
+      "start": 1433.1,
+      "duration": 3.42
+    },
+    {
+      "text": "the time it does that and one quarter",
+      "start": 1435.02,
+      "duration": 3.6
+    },
+    {
+      "text": "time it drops your grandpa like this is",
+      "start": 1436.52,
+      "duration": 4.5
+    },
+    {
+      "text": "not good yeah we don't want any drop",
+      "start": 1438.62,
+      "duration": 4.62
+    },
+    {
+      "text": "grandpas around so you know cognitive",
+      "start": 1441.02,
+      "duration": 4.32
+    },
+    {
+      "text": "science tells us that we want for",
+      "start": 1443.24,
+      "duration": 3.84
+    },
+    {
+      "text": "example it's just a basic thing but you",
+      "start": 1445.34,
+      "duration": 4.26
+    },
+    {
+      "text": "want to map a meaning onto a sentence or",
+      "start": 1447.08,
+      "duration": 4.62
+    },
+    {
+      "text": "the other way around and people are like",
+      "start": 1449.6,
+      "duration": 3.54
+    },
+    {
+      "text": "I've got all this data I don't need to",
+      "start": 1451.7,
+      "duration": 3.359
+    },
+    {
+      "text": "do that well no you really do still need",
+      "start": 1453.14,
+      "duration": 4.5
+    },
+    {
+      "text": "to do that another example is we have",
+      "start": 1455.059,
+      "duration": 4.261
+    },
+    {
+      "text": "lots of knowledge you know you go to",
+      "start": 1457.64,
+      "duration": 3.3
+    },
+    {
+      "text": "college and read books or when you're",
+      "start": 1459.32,
+      "duration": 3.96
+    },
+    {
+      "text": "five you read books you absorb verbal",
+      "start": 1460.94,
+      "duration": 4.5
+    },
+    {
+      "text": "symbolic Knowledge from the world and",
+      "start": 1463.28,
+      "duration": 3.6
+    },
+    {
+      "text": "there's this funny any politics that",
+      "start": 1465.44,
+      "duration": 3.78
+    },
+    {
+      "text": "goes back 50 years about using neural",
+      "start": 1466.88,
+      "duration": 4.14
+    },
+    {
+      "text": "networks versus a knowledge based",
+      "start": 1469.22,
+      "duration": 3.14
+    },
+    {
+      "text": "approach it turns out the",
+      "start": 1471.02,
+      "duration": 3.3
+    },
+    {
+      "text": "knowledge-based approach has some value",
+      "start": 1472.36,
+      "duration": 4.059
+    },
+    {
+      "text": "but it had some trouble you know 30",
+      "start": 1474.32,
+      "duration": 4.02
+    },
+    {
+      "text": "years ago so now we're doing all this",
+      "start": 1476.419,
+      "duration": 3.361
+    },
+    {
+      "text": "stuff without knowledge which means like",
+      "start": 1478.34,
+      "duration": 3.48
+    },
+    {
+      "text": "you have all the knowledge in Wikipedia",
+      "start": 1479.78,
+      "duration": 3.84
+    },
+    {
+      "text": "and nobody really knows how to put it",
+      "start": 1481.82,
+      "duration": 4.2
+    },
+    {
+      "text": "into these systems and because they're",
+      "start": 1483.62,
+      "duration": 4.26
+    },
+    {
+      "text": "statistical mimics you ask a question",
+      "start": 1486.02,
+      "duration": 3.42
+    },
+    {
+      "text": "like who's the president of the United",
+      "start": 1487.88,
+      "duration": 3.24
+    },
+    {
+      "text": "States and they might say Donald Trump",
+      "start": 1489.44,
+      "duration": 4.2
+    },
+    {
+      "text": "because in their data set there are more",
+      "start": 1491.12,
+      "duration": 4.559
+    },
+    {
+      "text": "examples of Donald Trump than Joe Biden",
+      "start": 1493.64,
+      "duration": 3.539
+    },
+    {
+      "text": "where if you want to be able to reason",
+      "start": 1495.679,
+      "duration": 3.48
+    },
+    {
+      "text": "and say well Biden is now the president",
+      "start": 1497.179,
+      "duration": 4.021
+    },
+    {
+      "text": "Trump was the president before you want",
+      "start": 1499.159,
+      "duration": 3.721
+    },
+    {
+      "text": "to use your understanding of sequences",
+      "start": 1501.2,
+      "duration": 3.959
+    },
+    {
+      "text": "of events and time cognitive scientists",
+      "start": 1502.88,
+      "duration": 3.779
+    },
+    {
+      "text": "think about this stuff they talk about",
+      "start": 1505.159,
+      "duration": 3.721
+    },
+    {
+      "text": "things like discourse models putting",
+      "start": 1506.659,
+      "duration": 3.541
+    },
+    {
+      "text": "together what it is that we're talking",
+      "start": 1508.88,
+      "duration": 3.179
+    },
+    {
+      "text": "about how we're talking about it there",
+      "start": 1510.2,
+      "duration": 3.359
+    },
+    {
+      "text": "are lots of ideas another one that we",
+      "start": 1512.059,
+      "duration": 3.0
+    },
+    {
+      "text": "didn't talk about yet but which I",
+      "start": 1513.559,
+      "duration": 2.941
+    },
+    {
+      "text": "learned from gnome and which is really",
+      "start": 1515.059,
+      "duration": 2.821
+    },
+    {
+      "text": "foundational I know he learned it from",
+      "start": 1516.5,
+      "duration": 4.14
+    },
+    {
+      "text": "Plato is innateness the idea that",
+      "start": 1517.88,
+      "duration": 5.22
+    },
+    {
+      "text": "something is built into the mind there's",
+      "start": 1520.64,
+      "duration": 4.74
+    },
+    {
+      "text": "lots of reason to think that when we",
+      "start": 1523.1,
+      "duration": 4.38
+    },
+    {
+      "text": "learn language we're not starting from a",
+      "start": 1525.38,
+      "duration": 3.96
+    },
+    {
+      "text": "blank slate gnome has made this argument",
+      "start": 1527.48,
+      "duration": 3.24
+    },
+    {
+      "text": "for years and years I think it's still",
+      "start": 1529.34,
+      "duration": 3.839
+    },
+    {
+      "text": "true and the failures that we're seeing",
+      "start": 1530.72,
+      "duration": 4.02
+    },
+    {
+      "text": "for example with Dolly and I'll tell you",
+      "start": 1533.179,
+      "duration": 3.901
+    },
+    {
+      "text": "about one another are showing you that",
+      "start": 1534.74,
+      "duration": 4.02
+    },
+    {
+      "text": "if you start with a blank slate that",
+      "start": 1537.08,
+      "duration": 3.54
+    },
+    {
+      "text": "just accumulates statistics you don't",
+      "start": 1538.76,
+      "duration": 3.96
+    },
+    {
+      "text": "really understand language the paper I",
+      "start": 1540.62,
+      "duration": 3.6
+    },
+    {
+      "text": "have yesterday which I sent to both of",
+      "start": 1542.72,
+      "duration": 3.9
+    },
+    {
+      "text": "you guys shows the same thing in Vision",
+      "start": 1544.22,
+      "duration": 4.319
+    },
+    {
+      "text": "so there's some models that label",
+      "start": 1546.62,
+      "duration": 3.96
+    },
+    {
+      "text": "activities so it can say you're nodding",
+      "start": 1548.539,
+      "duration": 3.961
+    },
+    {
+      "text": "your head those people are sitting out",
+      "start": 1550.58,
+      "duration": 4.199
+    },
+    {
+      "text": "there you can do some visual labeling",
+      "start": 1552.5,
+      "duration": 4.2
+    },
+    {
+      "text": "and the myth is always the right things",
+      "start": 1554.779,
+      "duration": 4.801
+    },
+    {
+      "text": "will emerge which is kind of magic it's",
+      "start": 1556.7,
+      "duration": 5.219
+    },
+    {
+      "text": "like a latinate word for magic it will",
+      "start": 1559.58,
+      "duration": 4.02
+    },
+    {
+      "text": "emerge when you give enough data to",
+      "start": 1561.919,
+      "duration": 3.301
+    },
+    {
+      "text": "these systems that they will understand",
+      "start": 1563.6,
+      "duration": 4.26
+    },
+    {
+      "text": "the world so we built a benchmark based",
+      "start": 1565.22,
+      "duration": 5.22
+    },
+    {
+      "text": "on what 10 month olds do in the lab or",
+      "start": 1567.86,
+      "duration": 3.96
+    },
+    {
+      "text": "four months old for some of the",
+      "start": 1570.44,
+      "duration": 3.42
+    },
+    {
+      "text": "experiments understanding basic physics",
+      "start": 1571.82,
+      "duration": 4.5
+    },
+    {
+      "text": "like things drop or if they hidden you",
+      "start": 1573.86,
+      "duration": 4.199
+    },
+    {
+      "text": "can still you know find them eventually",
+      "start": 1576.32,
+      "duration": 3.78
+    },
+    {
+      "text": "and these systems don't understand at",
+      "start": 1578.059,
+      "duration": 4.141
+    },
+    {
+      "text": "all the Allen AI Institute and some",
+      "start": 1580.1,
+      "duration": 3.24
+    },
+    {
+      "text": "developmental psychologists from",
+      "start": 1582.2,
+      "duration": 2.82
+    },
+    {
+      "text": "Illinois and I published this paper",
+      "start": 1583.34,
+      "duration": 3.719
+    },
+    {
+      "text": "yesterday it's a comp complete failure",
+      "start": 1585.02,
+      "duration": 4.44
+    },
+    {
+      "text": "of the empiricist hypothesis that if we",
+      "start": 1587.059,
+      "duration": 4.561
+    },
+    {
+      "text": "just give a lot of data that cognition",
+      "start": 1589.46,
+      "duration": 3.9
+    },
+    {
+      "text": "will emerge and developmental",
+      "start": 1591.62,
+      "duration": 3.419
+    },
+    {
+      "text": "psychologists have done lots of work Liz",
+      "start": 1593.36,
+      "duration": 3.179
+    },
+    {
+      "text": "felke in particular but many people",
+      "start": 1595.039,
+      "duration": 3.301
+    },
+    {
+      "text": "Renee Byers on one of our collaborators",
+      "start": 1596.539,
+      "duration": 3.661
+    },
+    {
+      "text": "on this paper have done lots of work",
+      "start": 1598.34,
+      "duration": 3.3
+    },
+    {
+      "text": "showing that children seem to have",
+      "start": 1600.2,
+      "duration": 3.719
+    },
+    {
+      "text": "probably an innate sense of how objects",
+      "start": 1601.64,
+      "duration": 4.139
+    },
+    {
+      "text": "exist in the world like we don't start",
+      "start": 1603.919,
+      "duration": 3.901
+    },
+    {
+      "text": "with nothing Kant said we start with",
+      "start": 1605.779,
+      "duration": 4.321
+    },
+    {
+      "text": "time and space and causality he's",
+      "start": 1607.82,
+      "duration": 3.959
+    },
+    {
+      "text": "probably right we probably start with",
+      "start": 1610.1,
+      "duration": 3.54
+    },
+    {
+      "text": "those things and over and over people",
+      "start": 1611.779,
+      "duration": 3.541
+    },
+    {
+      "text": "keep pursuing this hypothesis that",
+      "start": 1613.64,
+      "duration": 3.3
+    },
+    {
+      "text": "ignores the cognitive science around",
+      "start": 1615.32,
+      "duration": 3.78
+    },
+    {
+      "text": "that and says we'll just use all the",
+      "start": 1616.94,
+      "duration": 4.14
+    },
+    {
+      "text": "data and because it works like 75",
+      "start": 1619.1,
+      "duration": 3.3
+    },
+    {
+      "text": "percent of the time they think they're",
+      "start": 1621.08,
+      "duration": 3.12
+    },
+    {
+      "text": "making progress sometimes you make",
+      "start": 1622.4,
+      "duration": 3.6
+    },
+    {
+      "text": "progress 75 percent of the way it's not",
+      "start": 1624.2,
+      "duration": 3.78
+    },
+    {
+      "text": "enough we saw that in the driverless car",
+      "start": 1626.0,
+      "duration": 3.84
+    },
+    {
+      "text": "industry right you know getting close",
+      "start": 1627.98,
+      "duration": 3.48
+    },
+    {
+      "text": "doesn't really seem to solve that",
+      "start": 1629.84,
+      "duration": 2.699
+    },
+    {
+      "text": "problem and that's what we're seeing",
+      "start": 1631.46,
+      "duration": 3.48
+    },
+    {
+      "text": "here right and Gary I know you have some",
+      "start": 1632.539,
+      "duration": 4.921
+    },
+    {
+      "text": "ideas about how you would go forward",
+      "start": 1634.94,
+      "duration": 5.04
+    },
+    {
+      "text": "um you know if if today's AI despite all",
+      "start": 1637.46,
+      "duration": 4.319
+    },
+    {
+      "text": "the hype around it is not delivering",
+      "start": 1639.98,
+      "duration": 3.42
+    },
+    {
+      "text": "what we want you know what would what",
+      "start": 1641.779,
+      "duration": 3.541
+    },
+    {
+      "text": "would be a path forward so I have an",
+      "start": 1643.4,
+      "duration": 3.96
+    },
+    {
+      "text": "article called next decade in AI which",
+      "start": 1645.32,
+      "duration": 4.14
+    },
+    {
+      "text": "people can read later in archive but it",
+      "start": 1647.36,
+      "duration": 4.74
+    },
+    {
+      "text": "points to four things one is what we",
+      "start": 1649.46,
+      "duration": 4.92
+    },
+    {
+      "text": "call neurosymbolic AI which is putting",
+      "start": 1652.1,
+      "duration": 3.66
+    },
+    {
+      "text": "together this tradition of neural",
+      "start": 1654.38,
+      "duration": 3.179
+    },
+    {
+      "text": "networks that's popular now with the",
+      "start": 1655.76,
+      "duration": 4.08
+    },
+    {
+      "text": "old-fashioned AI trying to find some",
+      "start": 1657.559,
+      "duration": 3.72
+    },
+    {
+      "text": "kind of synthesis between the two",
+      "start": 1659.84,
+      "duration": 3.24
+    },
+    {
+      "text": "because they each have some value the",
+      "start": 1661.279,
+      "duration": 3.121
+    },
+    {
+      "text": "neural networks are good at learning",
+      "start": 1663.08,
+      "duration": 3.3
+    },
+    {
+      "text": "from data but they're not very good at",
+      "start": 1664.4,
+      "duration": 4.98
+    },
+    {
+      "text": "abstract knowledge and the old symbolic",
+      "start": 1666.38,
+      "duration": 4.32
+    },
+    {
+      "text": "stuff is good with abstract knowledge",
+      "start": 1669.38,
+      "duration": 2.82
+    },
+    {
+      "text": "but not learning from data so that's",
+      "start": 1670.7,
+      "duration": 5.099
+    },
+    {
+      "text": "step one step two is we need to have a",
+      "start": 1672.2,
+      "duration": 5.88
+    },
+    {
+      "text": "large database of machine interpretable",
+      "start": 1675.799,
+      "duration": 4.801
+    },
+    {
+      "text": "knowledge so all of these things kind of",
+      "start": 1678.08,
+      "duration": 3.839
+    },
+    {
+      "text": "fake their way through but knowledge is",
+      "start": 1680.6,
+      "duration": 3.42
+    },
+    {
+      "text": "never Rich enough and Abstract enough so",
+      "start": 1681.919,
+      "duration": 3.481
+    },
+    {
+      "text": "like you know that if I have a bottle",
+      "start": 1684.02,
+      "duration": 3.18
+    },
+    {
+      "text": "you can't see it but if you saw me bring",
+      "start": 1685.4,
+      "duration": 3.12
+    },
+    {
+      "text": "it up if I knock it over there's",
+      "start": 1687.2,
+      "duration": 2.64
+    },
+    {
+      "text": "probably going to be water on this stage",
+      "start": 1688.52,
+      "duration": 3.24
+    },
+    {
+      "text": "right even if you haven't seen this",
+      "start": 1689.84,
+      "duration": 3.36
+    },
+    {
+      "text": "particular bottle in this configuration",
+      "start": 1691.76,
+      "duration": 3.84
+    },
+    {
+      "text": "a very general abstract knowledge and",
+      "start": 1693.2,
+      "duration": 4.5
+    },
+    {
+      "text": "that's crucial I think to any real",
+      "start": 1695.6,
+      "duration": 4.199
+    },
+    {
+      "text": "general intelligence then we can reason",
+      "start": 1697.7,
+      "duration": 3.839
+    },
+    {
+      "text": "about things we can make inferences",
+      "start": 1699.799,
+      "duration": 3.721
+    },
+    {
+      "text": "about them and we have cognitive models",
+      "start": 1701.539,
+      "duration": 4.081
+    },
+    {
+      "text": "of the world so you know right now that",
+      "start": 1703.52,
+      "duration": 3.72
+    },
+    {
+      "text": "mentioned it that this bottle is here",
+      "start": 1705.62,
+      "duration": 4.14
+    },
+    {
+      "text": "even if you can't see it and so you're",
+      "start": 1707.24,
+      "duration": 5.4
+    },
+    {
+      "text": "maintaining a internal representation of",
+      "start": 1709.76,
+      "duration": 4.56
+    },
+    {
+      "text": "the stuff that's out there it might be",
+      "start": 1712.64,
+      "duration": 3.48
+    },
+    {
+      "text": "imperfect but you have a representation",
+      "start": 1714.32,
+      "duration": 4.32
+    },
+    {
+      "text": "in your head of the things out there in",
+      "start": 1716.12,
+      "duration": 4.559
+    },
+    {
+      "text": "the world and you reason over these are",
+      "start": 1718.64,
+      "duration": 3.779
+    },
+    {
+      "text": "foundational ideas in cognitive science",
+      "start": 1720.679,
+      "duration": 3.421
+    },
+    {
+      "text": "and they're not represented in current",
+      "start": 1722.419,
+      "duration": 3.541
+    },
+    {
+      "text": "Ai and we're seeing the cost of that",
+      "start": 1724.1,
+      "duration": 4.079
+    },
+    {
+      "text": "interesting gnome do you think that what",
+      "start": 1725.96,
+      "duration": 3.42
+    },
+    {
+      "text": "Gary's saying is probably the way",
+      "start": 1728.179,
+      "duration": 3.0
+    },
+    {
+      "text": "forward some of these ideas about",
+      "start": 1729.38,
+      "duration": 4.02
+    },
+    {
+      "text": "innateness should be incorporated into",
+      "start": 1731.179,
+      "duration": 6.74
+    },
+    {
+      "text": "the way we think about AI systems",
+      "start": 1733.4,
+      "duration": 4.519
+    },
+    {
+      "text": "I think those are good ways to proceed",
+      "start": 1738.679,
+      "duration": 7.86
+    },
+    {
+      "text": "but I also think that if AI wants to",
+      "start": 1742.039,
+      "duration": 8.041
+    },
+    {
+      "text": "proceed it should take into account",
+      "start": 1746.539,
+      "duration": 7.14
+    },
+    {
+      "text": "what has come to be understood about the",
+      "start": 1750.08,
+      "duration": 7.8
+    },
+    {
+      "text": "basis for acquiring our cognitive",
+      "start": 1753.679,
+      "duration": 7.561
+    },
+    {
+      "text": "capacities which of course are do",
+      "start": 1757.88,
+      "duration": 4.86
+    },
+    {
+      "text": "involve",
+      "start": 1761.24,
+      "duration": 5.76
+    },
+    {
+      "text": "D fundamental built-in innate properties",
+      "start": 1762.74,
+      "duration": 7.319
+    },
+    {
+      "text": "we know have some understanding of them",
+      "start": 1767.0,
+      "duration": 5.22
+    },
+    {
+      "text": "and even some understanding of whether",
+      "start": 1770.059,
+      "duration": 5.941
+    },
+    {
+      "text": "the kind that Evolution would provide",
+      "start": 1772.22,
+      "duration": 6.24
+    },
+    {
+      "text": "uh we should recall that back in the",
+      "start": 1776.0,
+      "duration": 4.399
+    },
+    {
+      "text": "early days",
+      "start": 1778.46,
+      "duration": 6.599
+    },
+    {
+      "text": "the days that I happened to favor myself",
+      "start": 1780.399,
+      "duration": 8.561
+    },
+    {
+      "text": "uh AI was basically not distinct from",
+      "start": 1785.059,
+      "duration": 7.321
+    },
+    {
+      "text": "cognitive science it was just one of the",
+      "start": 1788.96,
+      "duration": 5.579
+    },
+    {
+      "text": "ways of approaching the problems of",
+      "start": 1792.38,
+      "duration": 5.519
+    },
+    {
+      "text": "cognitive science using achievements",
+      "start": 1794.539,
+      "duration": 5.821
+    },
+    {
+      "text": "great achievements that had been made",
+      "start": 1797.899,
+      "duration": 5.481
+    },
+    {
+      "text": "both intellectually and",
+      "start": 1800.36,
+      "duration": 6.0
+    },
+    {
+      "text": "technologically with the development of",
+      "start": 1803.38,
+      "duration": 7.179
+    },
+    {
+      "text": "the theory of computability and its the",
+      "start": 1806.36,
+      "duration": 6.6
+    },
+    {
+      "text": "physical devices that were able to",
+      "start": 1810.559,
+      "duration": 5.461
+    },
+    {
+      "text": "implement it this was a great way to",
+      "start": 1812.96,
+      "duration": 6.5
+    },
+    {
+      "text": "advance cognitive science",
+      "start": 1816.02,
+      "duration": 3.44
+    },
+    {
+      "text": "as long as you were part of part of",
+      "start": 1819.679,
+      "duration": 3.961
+    },
+    {
+      "text": "science not when you're playing with",
+      "start": 1821.84,
+      "duration": 4.92
+    },
+    {
+      "text": "toys we're trying to impress uh science",
+      "start": 1823.64,
+      "duration": 5.7
+    },
+    {
+      "text": "reporters and journals but when you're",
+      "start": 1826.76,
+      "duration": 5.34
+    },
+    {
+      "text": "pursuing the message of Science in the",
+      "start": 1829.34,
+      "duration": 5.4
+    },
+    {
+      "text": "cases that Gary was discussing",
+      "start": 1832.1,
+      "duration": 4.799
+    },
+    {
+      "text": "taking into account the kind of",
+      "start": 1834.74,
+      "duration": 4.14
+    },
+    {
+      "text": "discoveries of",
+      "start": 1836.899,
+      "duration": 4.741
+    },
+    {
+      "text": "the spielky grenade buyers on them and",
+      "start": 1838.88,
+      "duration": 6.72
+    },
+    {
+      "text": "others about the innate basis for our",
+      "start": 1841.64,
+      "duration": 6.259
+    },
+    {
+      "text": "ability to",
+      "start": 1845.6,
+      "duration": 4.86
+    },
+    {
+      "text": "maneuver in the world",
+      "start": 1847.899,
+      "duration": 5.621
+    },
+    {
+      "text": "if you're working on language the and",
+      "start": 1850.46,
+      "duration": 4.38
+    },
+    {
+      "text": "thought which are virtually",
+      "start": 1853.52,
+      "duration": 5.159
+    },
+    {
+      "text": "indistinguishable then you look at what",
+      "start": 1854.84,
+      "duration": 5.699
+    },
+    {
+      "text": "has been discovered about the innate",
+      "start": 1858.679,
+      "duration": 4.38
+    },
+    {
+      "text": "basis for the",
+      "start": 1860.539,
+      "duration": 5.52
+    },
+    {
+      "text": "acquisition of language on the basis of",
+      "start": 1863.059,
+      "duration": 5.821
+    },
+    {
+      "text": "virtually no evidence that has been",
+      "start": 1866.059,
+      "duration": 7.141
+    },
+    {
+      "text": "shown by now been experimental work a",
+      "start": 1868.88,
+      "duration": 6.6
+    },
+    {
+      "text": "lot of it by the late by the claytman",
+      "start": 1873.2,
+      "duration": 6.599
+    },
+    {
+      "text": "others that would show that a child just",
+      "start": 1875.48,
+      "duration": 6.6
+    },
+    {
+      "text": "acquires language the way it",
+      "start": 1879.799,
+      "duration": 6.181
+    },
+    {
+      "text": "it walks you know it it's just sitting",
+      "start": 1882.08,
+      "duration": 6.719
+    },
+    {
+      "text": "there waiting to be triggered by some",
+      "start": 1885.98,
+      "duration": 5.46
+    },
+    {
+      "text": "stimulation then it all comes out well",
+      "start": 1888.799,
+      "duration": 7.341
+    },
+    {
+      "text": "you want to study uh the uh",
+      "start": 1891.44,
+      "duration": 9.0
+    },
+    {
+      "text": "introducing such understanding into the",
+      "start": 1896.14,
+      "duration": 8.44
+    },
+    {
+      "text": "methods of AI could lead to carrying",
+      "start": 1900.44,
+      "duration": 7.619
+    },
+    {
+      "text": "forward the earlier programs which I",
+      "start": 1904.58,
+      "duration": 6.86
+    },
+    {
+      "text": "thought were on the right track of using",
+      "start": 1908.059,
+      "duration": 6.12
+    },
+    {
+      "text": "the achievements of",
+      "start": 1911.44,
+      "duration": 4.9
+    },
+    {
+      "text": "uh intellectual achievements",
+      "start": 1914.179,
+      "duration": 4.441
+    },
+    {
+      "text": "technological achievements as a way of",
+      "start": 1916.34,
+      "duration": 5.64
+    },
+    {
+      "text": "carrying cognitive science forward in",
+      "start": 1918.62,
+      "duration": 6.12
+    },
+    {
+      "text": "its effort to understand what the world",
+      "start": 1921.98,
+      "duration": 5.1
+    },
+    {
+      "text": "is like in this case what our minds are",
+      "start": 1924.74,
+      "duration": 5.7
+    },
+    {
+      "text": "like great well we're out of time but I",
+      "start": 1927.08,
+      "duration": 4.68
+    },
+    {
+      "text": "want to thank gnome Chomsky and Gary",
+      "start": 1930.44,
+      "duration": 3.0
+    },
+    {
+      "text": "Marquez for coming here and and",
+      "start": 1931.76,
+      "duration": 3.0
+    },
+    {
+      "text": "debunking a bit of the hype around",
+      "start": 1933.44,
+      "duration": 3.839
+    },
+    {
+      "text": "today's Ai and also pointing forward to",
+      "start": 1934.76,
+      "duration": 4.26
+    },
+    {
+      "text": "some some ways we might be able to take",
+      "start": 1937.279,
+      "duration": 3.12
+    },
+    {
+      "text": "the technology forward thank you very",
+      "start": 1939.02,
+      "duration": 4.46
+    },
+    {
+      "text": "much and thank you for listening",
+      "start": 1940.399,
+      "duration": 3.081
+    }
+  ]
+}

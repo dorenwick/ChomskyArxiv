@@ -1,0 +1,601 @@
+{
+  "video_id": "_04Eus6sjV4",
+  "url": "https://www.youtube.com/watch?v=_04Eus6sjV4",
+  "transcript": [
+    {
+      "text": "Professor moving on to an article you",
+      "start": 0.24,
+      "duration": 5.579
+    },
+    {
+      "text": "wrote on artificial intelligence you",
+      "start": 3.48,
+      "duration": 4.86
+    },
+    {
+      "text": "wrote it last the last couple of weeks",
+      "start": 5.819,
+      "duration": 3.961
+    },
+    {
+      "text": "and",
+      "start": 8.34,
+      "duration": 4.799
+    },
+    {
+      "text": "it got me thinking on your thoughts on",
+      "start": 9.78,
+      "duration": 5.399
+    },
+    {
+      "text": "of course you you write them thoroughly",
+      "start": 13.139,
+      "duration": 5.341
+    },
+    {
+      "text": "in that article but in the future and",
+      "start": 15.179,
+      "duration": 5.881
+    },
+    {
+      "text": "which is moving very rapidly for many of",
+      "start": 18.48,
+      "duration": 5.82
+    },
+    {
+      "text": "us including my generation who has to",
+      "start": 21.06,
+      "duration": 6.6
+    },
+    {
+      "text": "transition and adapt to a world where AI",
+      "start": 24.3,
+      "duration": 6.84
+    },
+    {
+      "text": "can come to get all of our jobs so what",
+      "start": 27.66,
+      "duration": 5.28
+    },
+    {
+      "text": "are your thoughts for our listeners who",
+      "start": 31.14,
+      "duration": 6.06
+    },
+    {
+      "text": "haven't read your article on chat GPT on",
+      "start": 32.94,
+      "duration": 7.2
+    },
+    {
+      "text": "Artificial Intelligence on its dangers",
+      "start": 37.2,
+      "duration": 5.1
+    },
+    {
+      "text": "in terms of not only",
+      "start": 40.14,
+      "duration": 5.46
+    },
+    {
+      "text": "taking jobs but also building a more",
+      "start": 42.3,
+      "duration": 6.12
+    },
+    {
+      "text": "dangerous world for all of us and its",
+      "start": 45.6,
+      "duration": 5.22
+    },
+    {
+      "text": "potential threats",
+      "start": 48.42,
+      "duration": 4.819
+    },
+    {
+      "text": "well we should first",
+      "start": 50.82,
+      "duration": 4.739
+    },
+    {
+      "text": "recognize that",
+      "start": 53.239,
+      "duration": 6.401
+    },
+    {
+      "text": "a huge amount of discussion about Chad",
+      "start": 55.559,
+      "duration": 8.701
+    },
+    {
+      "text": "Pat and other devices is a totally",
+      "start": 59.64,
+      "duration": 6.06
+    },
+    {
+      "text": "groundless",
+      "start": 64.26,
+      "duration": 4.679
+    },
+    {
+      "text": "these have nothing to do they tell us",
+      "start": 65.7,
+      "duration": 5.88
+    },
+    {
+      "text": "these systems are designed in such a way",
+      "start": 68.939,
+      "duration": 5.881
+    },
+    {
+      "text": "that in principle they can tell us",
+      "start": 71.58,
+      "duration": 6.92
+    },
+    {
+      "text": "nothing about language about learning",
+      "start": 74.82,
+      "duration": 7.619
+    },
+    {
+      "text": "about intelligence about thought",
+      "start": 78.5,
+      "duration": 6.4
+    },
+    {
+      "text": "nothing they do some very sophistic",
+      "start": 82.439,
+      "duration": 3.781
+    },
+    {
+      "text": "there's a lot of sophisticated",
+      "start": 84.9,
+      "duration": 4.38
+    },
+    {
+      "text": "programming but basically what it comes",
+      "start": 86.22,
+      "duration": 4.7
+    },
+    {
+      "text": "down to is",
+      "start": 89.28,
+      "duration": 4.68
+    },
+    {
+      "text": "sophisticated high-tech plagiarism",
+      "start": 90.92,
+      "duration": 5.98
+    },
+    {
+      "text": "that's uh in a certain way I mean you",
+      "start": 93.96,
+      "duration": 5.4
+    },
+    {
+      "text": "have a computer when you're typing a",
+      "start": 96.9,
+      "duration": 4.98
+    },
+    {
+      "text": "letter you get hints about what the next",
+      "start": 99.36,
+      "duration": 4.86
+    },
+    {
+      "text": "word would be in autofill",
+      "start": 101.88,
+      "duration": 5.76
+    },
+    {
+      "text": "well this is glorified autofilm it's",
+      "start": 104.22,
+      "duration": 5.7
+    },
+    {
+      "text": "ways of making a",
+      "start": 107.64,
+      "duration": 4.74
+    },
+    {
+      "text": "good guess about what your next word",
+      "start": 109.92,
+      "duration": 5.339
+    },
+    {
+      "text": "ought to be in a sequence of words if",
+      "start": 112.38,
+      "duration": 4.86
+    },
+    {
+      "text": "you do this with an astronomical",
+      "start": 115.259,
+      "duration": 4.581
+    },
+    {
+      "text": "database extraordinary database",
+      "start": 117.24,
+      "duration": 5.22
+    },
+    {
+      "text": "supercomputers and a couple of billion",
+      "start": 119.84,
+      "duration": 5.739
+    },
+    {
+      "text": "parameters string it together you get",
+      "start": 122.46,
+      "duration": 6.2
+    },
+    {
+      "text": "something that looks pretty much like",
+      "start": 125.579,
+      "duration": 6.481
+    },
+    {
+      "text": "a normal language use",
+      "start": 128.66,
+      "duration": 5.98
+    },
+    {
+      "text": "the program is quite sophisticated so",
+      "start": 132.06,
+      "duration": 5.819
+    },
+    {
+      "text": "you know you don't choose the most",
+      "start": 134.64,
+      "duration": 5.819
+    },
+    {
+      "text": "probable next word because if you did",
+      "start": 137.879,
+      "duration": 5.401
+    },
+    {
+      "text": "that it would look kind of bland and not",
+      "start": 140.459,
+      "duration": 4.081
+    },
+    {
+      "text": "very interesting",
+      "start": 143.28,
+      "duration": 4.56
+    },
+    {
+      "text": "so you pick a lower probability word so",
+      "start": 144.54,
+      "duration": 5.1
+    },
+    {
+      "text": "it's a little bit surprising that makes",
+      "start": 147.84,
+      "duration": 4.08
+    },
+    {
+      "text": "it gives the false impression that",
+      "start": 149.64,
+      "duration": 5.88
+    },
+    {
+      "text": "something's happening but uh and other",
+      "start": 151.92,
+      "duration": 6.959
+    },
+    {
+      "text": "there's as far I mean conceivably",
+      "start": 155.52,
+      "duration": 4.859
+    },
+    {
+      "text": "somebody will come up with a",
+      "start": 158.879,
+      "duration": 3.961
+    },
+    {
+      "text": "constructive purpose so far there's none",
+      "start": 160.379,
+      "duration": 6.301
+    },
+    {
+      "text": "but it's very dangerous in many ways",
+      "start": 162.84,
+      "duration": 7.8
+    },
+    {
+      "text": "and not so much taking jobs and maybe in",
+      "start": 166.68,
+      "duration": 6.12
+    },
+    {
+      "text": "the long term but I don't think that's a",
+      "start": 170.64,
+      "duration": 5.22
+    },
+    {
+      "text": "major thing it's dangerous in other ways",
+      "start": 172.8,
+      "duration": 6.0
+    },
+    {
+      "text": "for one thing people take it seriously",
+      "start": 175.86,
+      "duration": 6.0
+    },
+    {
+      "text": "there are cases people think they're",
+      "start": 178.8,
+      "duration": 5.88
+    },
+    {
+      "text": "talking they ask it's like asking",
+      "start": 181.86,
+      "duration": 4.58
+    },
+    {
+      "text": "questions of",
+      "start": 184.68,
+      "duration": 4.699
+    },
+    {
+      "text": "these devices that the",
+      "start": 186.44,
+      "duration": 7.24
+    },
+    {
+      "text": "what do they call them Alexa Alexa you",
+      "start": 189.379,
+      "duration": 8.381
+    },
+    {
+      "text": "ask Alexa should I you know should I",
+      "start": 193.68,
+      "duration": 6.96
+    },
+    {
+      "text": "leave my wife or something not Lexus",
+      "start": 197.76,
+      "duration": 5.22
+    },
+    {
+      "text": "isn't something or other well that's",
+      "start": 200.64,
+      "duration": 4.26
+    },
+    {
+      "text": "Alexa you don't pay that much attention",
+      "start": 202.98,
+      "duration": 4.64
+    },
+    {
+      "text": "if it's a chat but you do pay attention",
+      "start": 204.9,
+      "duration": 6.419
+    },
+    {
+      "text": "and there are already documented cases",
+      "start": 207.62,
+      "duration": 7.0
+    },
+    {
+      "text": "of people getting deluded into believing",
+      "start": 211.319,
+      "duration": 5.881
+    },
+    {
+      "text": "these things are real",
+      "start": 214.62,
+      "duration": 5.1
+    },
+    {
+      "text": "um Thomas Friedman had an article in the",
+      "start": 217.2,
+      "duration": 4.98
+    },
+    {
+      "text": "New York Times about it in which he",
+      "start": 219.72,
+      "duration": 4.439
+    },
+    {
+      "text": "wasn't criticizing it he was accepting",
+      "start": 222.18,
+      "duration": 4.26
+    },
+    {
+      "text": "it he was saying oh my God it's",
+      "start": 224.159,
+      "duration": 5.701
+    },
+    {
+      "text": "Promethean the greatest Advance ever uh",
+      "start": 226.44,
+      "duration": 5.939
+    },
+    {
+      "text": "well people fall forward cause them a",
+      "start": 229.86,
+      "duration": 4.379
+    },
+    {
+      "text": "lot of problems",
+      "start": 232.379,
+      "duration": 4.94
+    },
+    {
+      "text": "um the uh it's a terrific technique of",
+      "start": 234.239,
+      "duration": 6.601
+    },
+    {
+      "text": "defamation and disinformation and that's",
+      "start": 237.319,
+      "duration": 5.081
+    },
+    {
+      "text": "already being used",
+      "start": 240.84,
+      "duration": 4.039
+    },
+    {
+      "text": "especially when you combine it with the",
+      "start": 242.4,
+      "duration": 5.16
+    },
+    {
+      "text": "artificial image creation which is not",
+      "start": 244.879,
+      "duration": 3.761
+    },
+    {
+      "text": "very hard",
+      "start": 247.56,
+      "duration": 3.78
+    },
+    {
+      "text": "you get things you can put somebody's",
+      "start": 248.64,
+      "duration": 5.76
+    },
+    {
+      "text": "name under it definitely fantastic",
+      "start": 251.34,
+      "duration": 4.5
+    },
+    {
+      "text": "defamation",
+      "start": 254.4,
+      "duration": 4.86
+    },
+    {
+      "text": "massive ways of the disinformation",
+      "start": 255.84,
+      "duration": 6.84
+    },
+    {
+      "text": "as soon as it gets with Bots and",
+      "start": 259.26,
+      "duration": 6.24
+    },
+    {
+      "text": "organized societies behind it it'll be a",
+      "start": 262.68,
+      "duration": 5.7
+    },
+    {
+      "text": "flood all of this can be extremely",
+      "start": 265.5,
+      "duration": 4.979
+    },
+    {
+      "text": "dangerous uh",
+      "start": 268.38,
+      "duration": 5.039
+    },
+    {
+      "text": "no scientific interest no intellectual",
+      "start": 270.479,
+      "duration": 7.261
+    },
+    {
+      "text": "interest but it does have",
+      "start": 273.419,
+      "duration": 7.381
+    },
+    {
+      "text": "could have major effects it's",
+      "start": 277.74,
+      "duration": 6.0
+    },
+    {
+      "text": "conceivable that it might replace some",
+      "start": 280.8,
+      "duration": 6.36
+    },
+    {
+      "text": "work like maybe routine coding or",
+      "start": 283.74,
+      "duration": 7.44
+    },
+    {
+      "text": "something like that but uh it's it's a",
+      "start": 287.16,
+      "duration": 7.979
+    },
+    {
+      "text": "very threatening dangerous development",
+      "start": 291.18,
+      "duration": 7.019
+    },
+    {
+      "text": "Professor yeah it's a it's a counter",
+      "start": 295.139,
+      "duration": 6.241
+    },
+    {
+      "text": "idea counter argument to all of the hype",
+      "start": 298.199,
+      "duration": 6.361
+    },
+    {
+      "text": "that we're seeing in terms of charge EPT",
+      "start": 301.38,
+      "duration": 4.92
+    },
+    {
+      "text": "and artificial intelligence it's also a",
+      "start": 304.56,
+      "duration": 4.079
+    },
+    {
+      "text": "stumbling thought that without checks",
+      "start": 306.3,
+      "duration": 4.44
+    },
+    {
+      "text": "and balances these Technologies can pose",
+      "start": 308.639,
+      "duration": 4.741
+    },
+    {
+      "text": "threats that we can't even imagine with",
+      "start": 310.74,
+      "duration": 5.82
+    },
+    {
+      "text": "hiding this information and the effects",
+      "start": 313.38,
+      "duration": 7.08
+    },
+    {
+      "text": "of of fake images constructed in many",
+      "start": 316.56,
+      "duration": 6.84
+    },
+    {
+      "text": "more many more dangers and it's",
+      "start": 320.46,
+      "duration": 4.56
+    },
+    {
+      "text": "important to have these conversations to",
+      "start": 323.4,
+      "duration": 3.6
+    },
+    {
+      "text": "have them in mind",
+      "start": 325.02,
+      "duration": 4.82
+    },
+    {
+      "text": "I mean",
+      "start": 327.0,
+      "duration": 2.84
+    },
+    {
+      "text": "[Music]",
+      "start": 331.34,
+      "duration": 7.97
+    }
+  ]
+}
