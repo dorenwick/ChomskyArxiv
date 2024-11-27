@@ -56,7 +56,7 @@ class TranscriptProcessor:
                     tokens = self.tokenizer.encode(potential_text)
 
                     # Check if adding would exceed token limit or if current segment ends with period
-                    if len(tokens) > 384 or current_segment["text"].strip().endswith('.'):
+                    if len(tokens) > 384 or current_segment["text"].strip().endswith('.') and len(tokens) > 256:
                         current_segment["end"] = segment["start"]
                         combined_segments.append(current_segment)
                         print(f"Segment complete: {len(tokens)} tokens, "

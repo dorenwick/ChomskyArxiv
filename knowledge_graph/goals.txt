@@ -1,0 +1,80 @@
+our goals here shall be to construct the knowledge graph of ChomskyArxiv.
+
+Here, we plan the following schema:
+
+first,
+
+paragraph_int_id: (integer, automatically should increment)
+type: (book, youtube, article, interview, debate, talk,...)
+source: (name of book title, youtube video title, article title, interview, debate, talk, ect )
+url: (chomsky.info link, youtube url, book url if theres an open url).
+timestamp: (only applies if its a video)
+location: (either a page number, or % of the way through the article, youtube video, book, ect.)
+text: (the actual text of the paragraph)
+keyphrases: [] (list of keyphrases we have)
+keynames:  [] (list of people associated or talked about)
+questions: [] (list of questions appearing in the article text).
+answers: [] (list of answers appearing in the article text. we may have a question_id and answer_id to say which questions are being answered.)
+topic: (topic that chomsky is talking about. we may use something like BERTopic to create our own topics, and topic classifier here).
+
+is the current schema that we have.
+
+We want to redo some of this as the paragraphs are too short.
+
+We will want collections for the following:
+
+1 Works:
+we include here, the full work, and all:
+paragraph_int_ids, the source, the url, the keyphrases, the keynames, the questions, the topics, included
+in the the whole work.
+
+The schema will be:
+
+all_paragraph_init_ids, (list of integers (pargraph int id))
+source: str
+url:
+all_keyphrases: list of str
+all_keynames: list of str
+all_questions: list of str
+all_topics: list of str
+
+2 Paragraphs:
+
+we include here as documents
+
+paragraph_int_id: (integer, automatically should increment)
+type: (book, youtube, article, interview, debate, talk,...)
+source: (name of book title, youtube video title, article title, interview, debate, talk, ect )
+url: (chomsky.info link, youtube url, book url if theres an open url).
+timestamp: (only applies if its a video)
+location: (either a page number, or % of the way through the article, youtube video, book, ect.)
+text: (the actual text of the paragraph)
+keyphrases: [] (list of keyphrases we have)
+keynames:  [] (list of people associated or talked about)
+questions: [] (list of questions appearing in the article text).
+answers: [] (list of answers appearing in the article text. we may have a question_id and answer_id to say which questions are being answered.)
+topic: (topic that chomsky is talking about. we may use something like BERTopic to create our own topics, and topic classifier here).
+
+Keyphrases:
+
+The schema will be:
+
+keyphrase: str
+all_paragraph_init_ids: list of int
+
+
+Keyname:
+
+The schema will be:
+
+keyname: str
+all_paragraph_init_ids: list of int
+
+Questions:
+
+The schema will be:
+
+question: str
+all_paragraph_init_ids: list of int
+
+
