@@ -1,0 +1,46 @@
+
+
+We will want one more thing:
+
+A keyphrase_int_id,
+and
+A keyname_int_id,
+and
+A question_int_id,
+
+Please go through those three relevant questions and pick up on them,
+give them all ids in their field.
+
+Then, we shall make the Works collection:
+
+1 Works:
+we include here, the full work, and all:
+paragraph_int_ids, the source, the url, the keyphrases, the keynames, the questions, the topics, included
+in the the whole work.
+
+The schema will be:
+
+work_int_id: int
+all_paragraph_init_ids, (list of integers (pargraph int id))
+source: str
+url:
+all_keyphrases: list items of str, int
+all_keynames: list items of str, int
+all_questions: list items of str, int
+all_topics: list items of str, int
+
+where list items of str, int is the actual string, and the int_id that is mapped to.
+
+
+
+Afterwards, I want you to give me a summary report on how many works we have
+of each type.
+
+How many works we have in total.
+How many questions we have in total.
+How many keynames we have in total.
+How many keyphrases we have in total.
+How many paragraphs we have in total.
+
+
+

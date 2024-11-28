@@ -30,7 +30,6 @@ class TranscriptProcessor:
             print(f"Traceback: {traceback.format_exc()}")
             raise
 
-
     def _combine_transcript_segments(self, segments: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """Combine transcript segments into paragraphs within token limit."""
         try:
@@ -41,6 +40,9 @@ class TranscriptProcessor:
                 "start": None,
                 "end": None
             }
+
+            # Define sentence ending punctuation
+            sentence_endings = {'.', '?', '!'}
 
             for i, segment in enumerate(segments):
                 try:
@@ -55,8 +57,12 @@ class TranscriptProcessor:
                     potential_text = f"{current_segment['text']} {segment['text']}"
                     tokens = self.tokenizer.encode(potential_text)
 
-                    # Check if adding would exceed token limit or if current segment ends with period
-                    if len(tokens) > 384 or current_segment["text"].strip().endswith('.') and len(tokens) > 256:
+                    # Check if current segment ends with any sentence-ending punctuation
+                    ends_with_sentence = any(current_segment["text"].strip().endswith(end)
+                                             for end in sentence_endings)
+
+                    # Check if adding would exceed token limit or if current segment ends with sentence
+                    if len(tokens) > 448 or (ends_with_sentence and len(tokens) > 320):
                         current_segment["end"] = segment["start"]
                         combined_segments.append(current_segment)
                         print(f"Segment complete: {len(tokens)} tokens, "

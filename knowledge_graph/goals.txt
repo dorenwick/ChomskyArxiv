@@ -30,6 +30,7 @@ in the the whole work.
 
 The schema will be:
 
+work_int_id: int
 all_paragraph_init_ids, (list of integers (pargraph int id))
 source: str
 url:
@@ -43,6 +44,7 @@ all_topics: list of str
 we include here as documents
 
 paragraph_int_id: (integer, automatically should increment)
+
 type: (book, youtube, article, interview, debate, talk,...)
 source: (name of book title, youtube video title, article title, interview, debate, talk, ect )
 url: (chomsky.info link, youtube url, book url if theres an open url).
@@ -54,27 +56,445 @@ keynames:  [] (list of people associated or talked about)
 questions: [] (list of questions appearing in the article text).
 answers: [] (list of answers appearing in the article text. we may have a question_id and answer_id to say which questions are being answered.)
 topic: (topic that chomsky is talking about. we may use something like BERTopic to create our own topics, and topic classifier here).
+work_int_id: int
 
 Keyphrases:
 
 The schema will be:
 
 keyphrase: str
+label: str
+score: float
 all_paragraph_init_ids: list of int
+all_work_int_ids: list of int
 
-
-Keyname:
+Keynames:
 
 The schema will be:
 
 keyname: str
+label: str
+score: float
 all_paragraph_init_ids: list of int
+all_work_int_ids: list of int
 
 Questions:
 
 The schema will be:
 
 question: str
-all_paragraph_init_ids: list of int
+score: float
+paragraph_init_id: int
+work_int_id: int
+
+Now, we will want to set up a script that builds the knowledge graph in the following way:
+
+First off, we have got the paragraphs collection already, but none of the others.
+We do not have work_int_id in the paragraphs' collection.
+We will start by adding the work_int_id. We make a unique work_int_id for every
+unique title.
+
+Now, we will use the following model, to get the Questions:
+
+we use the question detection model from the following class:
+
+QuestionDetection()
+
+note that the code below is just to tell you the name of the model, and how to disambiguate sentences.
+Run the model over the sentences in all paragraphs, and if question_threshold is over 0.5 (score over 0.5),
+I want you to add it to the question to the Questions collection, along with the paragraph int id, and work int id
+and score.
 
 
+For keyphrase and keyname we will use the following model:
+
+from span_marker import SpanMarkerModel
+
+model = SpanMarkerModel.from_pretrained("tomaarsen/span-marker-mbert-base-fewnerd-fine-super")
+
+id2label": {
+      "0": "O",
+      "1": "art-broadcastprogram",
+      "2": "art-film",
+      "3": "art-music",
+      "4": "art-other",
+      "5": "art-painting",
+      "6": "art-writtenart",
+      "7": "building-airport",
+      "8": "building-hospital",
+      "9": "building-hotel",
+      "10": "building-library",
+      "11": "building-other",
+      "12": "building-restaurant",
+      "13": "building-sportsfacility",
+      "14": "building-theater",
+      "15": "event-attack/battle/war/militaryconflict",
+      "16": "event-disaster",
+      "17": "event-election",
+      "18": "event-other",
+      "19": "event-protest",
+      "20": "event-sportsevent",
+      "21": "location-GPE",
+      "22": "location-bodiesofwater",
+      "23": "location-island",
+      "24": "location-mountain",
+      "25": "location-other",
+      "26": "location-park",
+      "27": "location-road/railway/highway/transit",
+      "28": "organization-company",
+      "29": "organization-education",
+      "30": "organization-government/governmentagency",
+      "31": "organization-media/newspaper",
+      "32": "organization-other",
+      "33": "organization-politicalparty",
+      "34": "organization-religion",
+      "35": "organization-showorganization",
+      "36": "organization-sportsleague",
+      "37": "organization-sportsteam",
+      "38": "other-astronomything",
+      "39": "other-award",
+      "40": "other-biologything",
+      "41": "other-chemicalthing",
+      "42": "other-currency",
+      "43": "other-disease",
+      "44": "other-educationaldegree",
+      "45": "other-god",
+      "46": "other-language",
+      "47": "other-law",
+      "48": "other-livingthing",
+      "49": "other-medical",
+      "50": "person-actor",
+      "51": "person-artist/author",
+      "52": "person-athlete",
+      "53": "person-director",
+      "54": "person-other",
+      "55": "person-politician",
+      "56": "person-scholar",
+      "57": "person-soldier",
+      "58": "product-airplane",
+      "59": "product-car",
+      "60": "product-food",
+      "61": "product-game",
+      "62": "product-other",
+      "63": "product-ship",
+      "64": "product-software",
+      "65": "product-train",
+      "66": "product-weapon"
+    },
+
+Those are the labels.
+
+entities = ner_model.predict(paragraph_text)
+print("entities", entities)
+
+# Insert the extracted entities into the paragraph_entities table
+for entity in entities:
+    entity_label = entity['label']
+    entity_text = entity['span']
+    start_index = entity['char_start_index']
+    end_index = entity['char_end_index']
+    entity_score = entity['score']
+
+extract entity_label and put into label, extract entity_score and put into score and extract entity_text and put into keyphrase or keyname.
+
+if its label 50 to 57 (people), then it goes into keyname, otherwise it goes into keyphrase.
+
+So, we will load that model up using the span marker library to do that.
+from span_marker import SpanMarkerModel
+        self.ner_model = SpanMarkerModel.from_pretrained(ner_model_id).cuda() if ner_model_id else None
+
+
+After we have created all of those collections, it will be straight forward to create the Works collection.
+But first, lets create these ones. I've given you all the information that we need to write a full script to create the knowledge graph and collections,
+except for (Works).
+We will leave topics blank for now.
+
+import os
+import re
+import logging
+import torch
+from datetime import datetime
+from typing import List, Tuple
+from tqdm import tqdm
+from pymongo import MongoClient, UpdateOne
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+
+
+class QuestionDetection:
+    def __init__(
+            self,
+            mongo_url: str = "mongodb://localhost:27017/",
+            db_name: str = "OpenAlex",
+            batch_size: int = 1000,
+            question_threshold: float = 0.5,
+            log_dir: str = "logs",
+            model_path: str = r"huaen/question_detection",
+            base_model: str = r"bert-base-cased",
+    ):
+        # model_path: str = r"C:\Users\doren\PycharmProjects\DataWareHouse\bertweet_question_classifier\best_model",
+        # base_model: str = r"vinai/bertweet-base",
+
+        self.mongo_url = mongo_url
+        self.db_name = db_name
+        self.batch_size = batch_size
+        self.question_threshold = question_threshold
+        self.model_path = model_path
+        self.base_model = base_model
+        self.last_processed_id = 0
+
+        self.client = None
+        self.db = None
+        self.logger = self._setup_logger(log_dir)
+
+        # Initialize model and tokenizer
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.logger.info(f"Using device: {self.device}")
+
+        try:
+            self.logger.info(f"Loading tokenizer from base model: {base_model}")
+            self.tokenizer = AutoTokenizer.from_pretrained(base_model)
+
+            self.logger.info(f"Loading fine-tuned model from: {model_path}")
+            self.model = AutoModelForSequenceClassification.from_pretrained(model_path)
+            self.model.to(self.device)
+            self.model.eval()
+            self.logger.info("Model loaded successfully")
+        except Exception as e:
+            self.logger.error(f"Error loading model: {e}")
+            raise
+
+    def _setup_logger(self, log_dir: str) -> logging.Logger:
+        """Setup logging configuration"""
+        os.makedirs(log_dir, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        log_file = os.path.join(log_dir, f"question_detection_{timestamp}.log")
+
+        logger = logging.getLogger("QuestionDetection")
+        logger.setLevel(logging.INFO)
+
+        file_handler = logging.FileHandler(log_file)
+        console_handler = logging.StreamHandler()
+        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+
+        file_handler.setFormatter(formatter)
+        console_handler.setFormatter(formatter)
+
+        logger.addHandler(file_handler)
+        logger.addHandler(console_handler)
+
+        return logger
+
+    def connect(self):
+        """Establish MongoDB connection"""
+        try:
+            self.client = MongoClient(self.mongo_url)
+            self.db = self.client[self.db_name]
+            self.logger.info("Successfully connected to MongoDB")
+        except Exception as e:
+            self.logger.error(f"Failed to connect to MongoDB: {e}")
+            raise
+
+    def close(self):
+        """Close MongoDB connection"""
+        if self.client:
+            self.client.close()
+            self.logger.info("MongoDB connection closed")
+
+    def get_latest_processed_id(self) -> int:
+        """Get the highest work_int_id from AbstractQuestions collection"""
+        try:
+            latest_doc = self.db.AbstractQuestions.find_one(
+                sort=[("work_int_id", -1)],
+                projection={"work_int_id": 1}
+            )
+            return latest_doc["work_int_id"] if latest_doc else 0
+        except Exception as e:
+            self.logger.error(f"Error getting latest processed ID: {e}")
+            return 0
+
+    def split_into_sentences(self, text: str) -> List[str]:
+        """Split text into sentences using regex"""
+        # Handle common abbreviations and special cases
+        text = re.sub(r'([A-Z]\.) ', r'\1<TEMP>', text)  # Protect initials
+        text = re.sub(r'(Dr\.) ', r'\1<TEMP>', text)  # Protect Dr.
+        text = re.sub(r'(Prof\.) ', r'\1<TEMP>', text)  # Protect Prof.
+        text = re.sub(r'(et al\.) ', r'\1<TEMP>', text)  # Protect et al.
+        text = re.sub(r'(i\.e\.) ', r'\1<TEMP>', text)  # Protect i.e.
+        text = re.sub(r'(e\.g\.) ', r'\1<TEMP>', text)  # Protect e.g.
+
+        # Split on sentence endings followed by space and capital letter
+        sentences = re.split(r'(?<=[.!?])\s+(?=[A-Z])', text)
+
+        # Clean up temporary markers and extra whitespace
+        sentences = [re.sub(r'<TEMP>', ' ', s).strip() for s in sentences]
+        return [s for s in sentences if s]  # Remove empty strings
+
+
+
+    def detect_questions(self, sentences: List[str], work_id: str) -> List[Tuple[str, float]]:
+        """Detect questions in a list of sentences using the model"""
+        questions = []
+        seen_questions = set()  # Track unique questions within this document
+
+        with torch.no_grad():
+            for sentence in sentences:
+                # Skip if we've already seen this exact sentence in this document
+                if sentence in seen_questions:
+                    continue
+
+                inputs = self.tokenizer(
+                    sentence,
+                    padding=True,
+                    truncation=True,
+                    max_length=512,
+                    return_tensors="pt"
+                ).to(self.device)
+
+                outputs = self.model(**inputs)
+                probs = torch.softmax(outputs.logits, dim=1)
+                question_score = probs[0][1].item()
+
+                if question_score >= self.question_threshold:
+                    questions.append((sentence, question_score))
+                    seen_questions.add(sentence)  # Add to seen questions
+                    print(f"\nDetected Question in {work_id} (Score: {question_score:.3f}):")
+                    print(f"'{sentence}'")
+
+        return questions
+
+    def process_abstracts(self, start_id: int = None):
+        """Process abstracts and detect questions"""
+        try:
+            self.connect()
+            self.create_collection()
+
+            if start_id is None:
+                start_id = self.get_latest_processed_id()
+            self.last_processed_id = start_id
+            self.logger.info(f"Starting from work_int_id: {start_id}")
+
+            # Track global duplicates across all documents
+            global_questions = {}  # Dictionary to track frequency of each question
+
+            processed = 0
+            questions_found = 0
+            start_time = datetime.now()
+
+            while True:
+                cursor = self.db.WorksTransform.find(
+                    {
+                        "work_int_id": {"$gt": self.last_processed_id},
+                        "abstract_string": {"$exists": True, "$ne": ""}
+                    },
+                    {
+                        "work_id": 1,
+                        "work_int_id": 1,
+                        "abstract_string": 1
+                    }
+                ).sort("work_int_id", 1).limit(self.batch_size)
+
+                batch = list(cursor)
+                if not batch:
+                    break
+
+                updates = []
+
+                for doc in batch:
+                    processed += 1
+                    self.last_processed_id = doc["work_int_id"]
+
+
+                    sentences = self.split_into_sentences(doc["abstract_string"])
+                    sentences = [sentence for sentence in sentences if len(sentence) >= 64]
+                    detected_questions = self.detect_questions(sentences, doc['work_id'])
+
+                    if detected_questions:
+
+                        print(f"\nProcessing abstract {doc['work_id']} (ID: {doc['work_int_id']})")
+                        questions_found += len(detected_questions)
+
+                        # Track global duplicates
+                        for q, score in detected_questions:
+                            if q in global_questions:
+                                global_questions[q].append(doc['work_id'])
+                            else:
+                                global_questions[q] = [doc['work_id']]
+
+                        updates.append(UpdateOne(
+                            {"work_id": doc["work_id"]},
+                            {
+                                "$set": {
+                                    "work_id": doc["work_id"],
+                                    "work_int_id": doc["work_int_id"],
+                                    "abstract_string": doc["abstract_string"],
+                                    "questions": [
+                                        {
+                                            "question_string": q[0],
+                                            "question_score": q[1]
+                                        }
+                                        for q in detected_questions
+                                    ]
+                                }
+                            },
+                            upsert=True
+                        ))
+
+                if updates:
+                    self.db.AbstractQuestions.bulk_write(updates, ordered=False)
+
+                if processed % 10000 == 0:
+                    elapsed = datetime.now() - start_time
+                    rate = processed / elapsed.total_seconds()
+                    self.logger.info(
+                        f"Processed {processed:,} abstracts ({rate:.2f}/sec), "
+                        f"Last ID: {self.last_processed_id}, "
+                        f"Found {questions_found:,} questions total"
+                    )
+
+            # Print duplicate statistics at the end
+            print("\nDuplicate Question Analysis:")
+            for question, work_ids in global_questions.items():
+                if len(work_ids) > 1:
+                    print(f"\nQuestion appeared {len(work_ids)} times:")
+                    print(f"'{question}'")
+                    print(f"Work IDs: {', '.join(work_ids[:5])}{'...' if len(work_ids) > 5 else ''}")
+
+            # Log final statistics
+            elapsed = datetime.now() - start_time
+            self.logger.info("\nProcessing Complete:")
+            self.logger.info(f"Total abstracts processed: {processed:,}")
+            self.logger.info(f"Final work_int_id: {self.last_processed_id}")
+            self.logger.info(f"Total questions found: {questions_found:,}")
+            self.logger.info(f"Unique questions found: {len(global_questions)}")
+            self.logger.info(f"Processing time: {elapsed}")
+            self.logger.info(f"Average rate: {processed / elapsed.total_seconds():.2f} abstracts/sec")
+
+        except Exception as e:
+            self.logger.error(f"Error processing abstracts: {e}")
+            raise
+        finally:
+            self.close()
+
+    def create_collection(self):
+        """Create and setup the AbstractQuestions collection"""
+        try:
+            if "AbstractQuestions" not in self.db.list_collection_names():
+                self.db.create_collection("AbstractQuestions")
+
+            self.db.AbstractQuestions.create_index("work_id", unique=True)
+            self.db.AbstractQuestions.create_index("work_int_id")
+            self.db.AbstractQuestions.create_index("question_score")
+
+            self.logger.info("AbstractQuestions collection and indexes created")
+        except Exception as e:
+            self.logger.error(f"Error creating collection: {e}")
+            raise
+
+
+def main():
+    detector = QuestionDetection()
+    detector.process_abstracts()
+
+
+if __name__ == "__main__":
+    main()
